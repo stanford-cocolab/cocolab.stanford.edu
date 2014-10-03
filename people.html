@@ -1,0 +1,30 @@
+---
+layout: default
+title: People
+---
+
+{% for role in site.data.cocolab %}
+    <h1>{{role.role}}</h1>
+    {% for person in role.people %}
+        <div class="member">
+            {% if person.img %}
+                <img src="/images/members/{{person.img}}" alt="{{person.name}}"></img>
+            {% endif %}
+            <div class="text">
+                <h3>{{person.name}}</h3>
+                {% if person.was %}
+                    <p class="was">Was: {{person.was}}</p>
+                {% endif %}
+                {% if person.now %}
+                    <p class="now">{{person.now}}</a>
+                {% endif %}
+                {% if person.webpage %}
+                    <p><a href="{{person.webpage}}">Personal webpage</a></p>
+                {% endif %}
+                {% for paragraph in person.bio %}
+                    <p>{{paragraph}}</p>
+                {% endfor %}
+            </div>
+        </div>
+    {% endfor %}
+{% endfor %}
