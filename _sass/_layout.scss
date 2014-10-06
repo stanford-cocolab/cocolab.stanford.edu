@@ -2,12 +2,12 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    background-color: $navbar-color;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
 }
 
 .site-title {
@@ -23,21 +23,33 @@
     }
 }
 
+.header-logo {
+    width: $logo-width;
+    padding: 5px;
+}
+
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: $logo-height;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $text-color;
+        color: #ffffff;
+        font-size: 16;
+        font-weight: 400;
+        text-decoration: none;
         line-height: $base-line-height;
+
+        &:hover {
+            text-decoration: underline;
+        }
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
+            margin-left: $spacing-unit * 2;
         }
     }
 
