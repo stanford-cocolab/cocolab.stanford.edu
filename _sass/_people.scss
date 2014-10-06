@@ -1,0 +1,17 @@
+$image-width:	200px;
+
+.member {
+	width: 100%;
+	overflow: auto;
+	padding: $spacing-unit;
+	display: inline-block;
+}
+
+.member img {
+	width: $image-width;
+	float: left;
+}
+
+.member .text {
+	margin-left: $image-width + $spacing-unit;
+}

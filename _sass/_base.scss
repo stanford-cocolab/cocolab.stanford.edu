@@ -15,14 +15,13 @@ dl, dd, ol, ul, figure {
  */
 body {
     font-family: $base-font-family;
+    font-weight: $base-font-weight;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
-
 
 
 /**
@@ -79,8 +78,15 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+
+h1 {
+    color: #474747;
+    font-weight: 800;
+}
+
+h2, h3, h4, h5, h6 {
+    color: #575757;
+    font-weight: 700;
 }
 
 
@@ -89,16 +95,16 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
-    text-decoration: none;
+    color: $link-color;
+    text-decoration: underline;
 
-    &:visited {
+    /*&:visited {
         color: darken($brand-color, 15%);
-    }
+    }*/
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: $active-link-color;
+        text-decoration: none;
     }
 }
 
@@ -154,8 +160,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(#{$fill-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$fill-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
