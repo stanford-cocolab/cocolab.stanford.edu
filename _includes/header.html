@@ -18,7 +18,7 @@
         {% for eachPage in site.pages %}
           {% if eachPage.title %}
           <div class="page-link-wrapper{% if page.title == eachPage.title %} active{% endif %}">
-            <a class="page-link" href="{{ eachPage.url | prepend: site.baseurl }}">{{ eachPage.title }}</a>
+            <a class="page-link" href="{{ eachPage.url | prepend: site.baseurl | prepend: site.url }}">{{ eachPage.title }}</a>
           </div>
           {% endif %}
         {% endfor %}

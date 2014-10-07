@@ -9,7 +9,7 @@ permalink: people.html
     {% for person in role.people %}
         <div class="member">
             {% if person.img %}
-                <img src="/images/members/{{person.img}}" alt="{{person.name}}"></img>
+                <img src="{{site.url}}{{site.baseurl}}/images/members/{{person.img}}" alt="{{person.name}}"></img>
             {% endif %}
             <div class="text">
                 <h2>{{person.name}}</h2>
