@@ -45,8 +45,8 @@
 
         .page-link {
             color: #ffffff;
-            font-size: 16;
-            font-weight: 400;
+            font-size: 22;
+            font-weight: 600;
             text-decoration: none;
             line-height: $base-line-height;
 
@@ -56,8 +56,8 @@
 
             /*// Gaps between nav items, but not on the first one
             &:not(:first-child) {*/
-                padding-left: $spacing-unit / 2;
-                padding-right: $spacing-unit / 2;
+                padding-left: $spacing-unit;
+                padding-right: $spacing-unit;
             /*}*/
 
         }
