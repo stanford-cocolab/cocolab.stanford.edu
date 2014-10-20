@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+  {% include home_head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+
+        <div class="main_carousel">
+          {% for image in site.data.carousel %}
+          <div class="carousel_element">
+            <img src="images/{{image.image}}" alt="{% if image.alt %}{{image.alt}}{% else %}{{image.label}}{% endif %}"/>
+            <p>{{image.label}}</p>
+          </div>
+          {% endfor %}
+        </div>
+
+        <br>
+
+        {{ content }}
+
+      </div>
+    </div>
+
+    <script>
+      $(".main_carousel").slick({
+        dots: true,
+        speed: 1000,
+        autoplay: true,
+        slidesToShow: 1,
+        autoplaySpeed: 5000,
+        //fade: true,
+        responsive: [
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+      });
+    </script>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

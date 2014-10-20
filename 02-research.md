@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Research
-permalink: Research.html
+permalink: research.html
 ---

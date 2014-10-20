@@ -1,14 +1,35 @@
 # Site settings
 title: Stanford CoCoLab
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email: erindb@stanford.edu
+description: >
+  Stanford Computation and Cognition Lab
+  (affectionately called CoCoLab)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: ""#"http://web.stanford.edu/~erindb/cocowebsite/cocolab.stanford.edu/_site" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  StanfordCoCoLab
+
+gems: ['jekyll/scholar']
 
 # Build settings
 markdown: kramdown
+
+# for BibTeXh
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"

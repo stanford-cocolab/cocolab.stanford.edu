@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Resources
+permalink: resources.html
 ---
 
 ## Software
 
 * CoCoLab Experiments (to appear)
 * CoCoLab GitHub page (to appear)
-* tools for running Amazon Mechanical Turk experiments
+* [tools for running Amazon Mechanical Turk experiments]({{site.url}}{{site.baseurl}}/mturk-tools.html)
 
 ## Tutorials
 

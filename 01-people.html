@@ -12,7 +12,7 @@ permalink: people.html
                 <img src="{{site.url}}{{site.baseurl}}/images/members/{{person.img}}" alt="{{person.name}}"></img>
             {% endif %}
             <div class="text">
-                <h2>{{person.name}}</h2>
+                <h2><a class="subtle_link" name="{{person.name}}">{{person.name}}</a></h2>
                 {% if person.was %}
                     <p class="was">Was: {{person.was}}</p>
                 {% endif %}

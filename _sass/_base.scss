@@ -66,13 +66,13 @@ ul, ol {
     margin-left: $spacing-unit;
 }
 
-li {
+/*li {
     > ul,
     > ol {
          margin-bottom: 0;
     }
 }
-
+*/
 
 
 /**
@@ -89,22 +89,29 @@ h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
+h3 {
+    font-size: $base-font-size * 1.5;
+}
+
 
 
 /**
  * Links
  */
 a {
-    color: $link-color;
-    text-decoration: underline;
 
-    /*&:visited {
-        color: darken($brand-color, 15%);
-    }*/
+    &:not(.subtle_link) {
+        color: $link-color;
+        text-decoration: underline;
 
-    &:hover {
-        color: $active-link-color;
-        text-decoration: none;
+        /*&:visited {
+            color: darken($brand-color, 15%);
+        }*/
+
+        &:hover {
+            color: $active-link-color;
+            text-decoration: none;
+        }
     }
 }
 

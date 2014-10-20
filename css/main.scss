@@ -58,3 +58,37 @@ $logo-width:		130px;;
 	padding-right: $spacing-unit;
 	width: 40%;
 }
+
+p code {
+    color: #D14;
+    background-color: inherit;
+    font-size: 12px;
+    border: none;
+}
+li code {
+    color: #D14;
+    background-color: inherit;
+    font-size: 12px;
+    border: none;
+}
+
+.main_carousel {
+    width: 70%;
+    margin: auto auto;
+
+    button {
+        width: 60px;
+        height: 60px;
+    }
+
+    img, p {
+        width: 90%;
+        text-align: center;
+        margin: auto auto;
+    }
+
+    .slick-prev:before, .slick-next:before {
+        color: $navbar-color;
+        font-size: 48px;
+    }
+}
