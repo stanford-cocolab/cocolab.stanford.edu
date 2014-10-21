@@ -1,0 +1,23 @@
+---
+---
+
+{% if entry.website %}
+	<a href="{{entry.website}}">{{entry.title}}</a>.
+{% else %}
+	{{entry.title}}.
+{% endif %}
+
+{{reference}}. <!-- this is actually just the authors -->
+
+({{entry.year}}).
+
+{% if entry.journal %}
+	In <span class="journal">{{entry.journal}}</span>.
+{% endif %}
+{% if entry.booktitle %}
+	In <span class="journal">{{entry.booktitle}}</span>
+	{% if entry.editor %}
+	by {{entry.editor}}
+	{% endif %}
+	.
+{% endif %}

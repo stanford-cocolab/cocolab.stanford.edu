@@ -5,9 +5,9 @@
 
 // Our variables
 $base-font-family: Lato, Helvetica, Arial, sans-serif;
-$base-font-size:   14px;
+$base-font-size:   16px;
 $base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size:  $base-font-size * 1;//0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
@@ -91,4 +91,24 @@ li code {
         color: $navbar-color;
         font-size: 48px;
     }
+}
+
+.journal {
+    font-style: italic;
+}
+
+.bibliography li {
+    margin-bottom: $spacing-unit/3;
+}
+
+.left {
+    float: left;
+    margin-right: $spacing-unit;
+    margin-bottom: $spacing-unit;
+}
+
+.right {
+    float: right;
+    margin-left: $spacing-unit;
+    margin-bottom: $spacing-unit;
 }

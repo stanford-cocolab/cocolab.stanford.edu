@@ -4,26 +4,28 @@ email: erindb@stanford.edu
 description: >
   Stanford Computation and Cognition Lab
   (affectionately called CoCoLab)
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: ""#"http://web.stanford.edu/~erindb/cocowebsite/cocolab.stanford.edu/_site" # the base hostname & protocol for your site
+baseurl: ""#"/home/feste/everything-cocolab/cocolab.stanford.edu/_site" # the subpath of your site, e.g. /blog/
+url: "http://web.stanford.edu/~erindb/cocowebsite/cocolab.stanford.edu/_site" #"file://"#"http://web.stanford.edu/~erindb/cocowebsite/cocolab.stanford.edu/_site" # the base hostname & protocol for your site
 github_username:  StanfordCoCoLab
 
 gems: ['jekyll/scholar']
 
+max_year: 2014 #the most recent year with papers published
+
 # Build settings
 markdown: kramdown
 
-# for BibTeXh
+# for BibTeX
 scholar:
-  style: apa
+  style: _bibliography/cocolab.csl
   locale: en
 
-  sort_by: none
-  order: ascending
+  sort_by: year
+  order: descending
 
   source: ./_bibliography
-  bibliography: references.bib
-  bibliography_template: "{{reference}}"
+  bibliography: cocolab
+  bibliography_template: bibtemplate
 
   replace_strings: true
   join_strings:    true
