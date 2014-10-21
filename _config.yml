@@ -13,7 +13,7 @@ gems: ['jekyll/scholar']
 max_year: 2014 #the most recent year with papers published
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 
 # for BibTeX
 scholar:
