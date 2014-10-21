@@ -13,7 +13,7 @@
         <div class="main_carousel">
           {% for image in site.data.carousel %}
           <div class="carousel_element">
-            <img src="images/{{image.image}}" alt="{% if image.alt %}{{image.alt}}{% else %}{{image.label}}{% endif %}"/>
+            <img src="images/carousel/{{image.image}}" alt="{% if image.alt %}{{image.alt}}{% else %}{{image.label}}{% endif %}"/>
             <p>{{image.label}}</p>
           </div>
           {% endfor %}
