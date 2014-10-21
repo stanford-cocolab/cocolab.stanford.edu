@@ -4,8 +4,10 @@ email: erindb@stanford.edu
 description: >
   Stanford Computation and Cognition Lab
   (affectionately called CoCoLab)
-baseurl: ""#"/home/feste/everything-cocolab/cocolab.stanford.edu/_site" # the subpath of your site, e.g. /blog/
-url: "http://web.stanford.edu/~erindb/cocowebsite/cocolab.stanford.edu/_site" #"file://"#"http://web.stanford.edu/~erindb/cocowebsite/cocolab.stanford.edu/_site" # the base hostname & protocol for your site
+#baseurl: "/home/feste/everything-cocolab/cocolab.stanford.edu/_site" # the subpath of your site, e.g. /blog/
+baseurl: ""
+#url: "file://" # the base hostname & protocol for your site
+url: "http://web.stanford.edu/~erindb/cocowebsite/cocolab.stanford.edu/_site"
 github_username:  StanfordCoCoLab
 
 gems: ['jekyll/scholar']

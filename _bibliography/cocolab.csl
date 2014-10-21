@@ -48,7 +48,7 @@
   <macro name="container-contributors">
     <choose>
       <if type="chapter paper-conference entry-dictionary entry-encyclopedia" match="any">
-        <names variable="editor translator container-author" delimiter=", " suffix=", ">
+        <names variable="editor translator container-author" delimiter=", ">
           <name and="symbol" initialize-with=". " delimiter=", "/>
           <label form="short" prefix=" (" text-case="title" suffix=")"/>
         </names>
@@ -313,7 +313,7 @@
     <choose>
       <if variable="issued">
         <date variable="issued">
-          <date-part name="year"/>
+          <date-part name="year" prefix="(" suffix=")."/>
         </date>
         <text variable="year-suffix"/>
       </if>
@@ -399,15 +399,15 @@
   <macro name="container">
     <choose>
       <if type="post-weblog webpage" match="none">
-        <group>
+        <group delimiter=" " suffix=".">
           <choose>
             <if type="chapter paper-conference entry-encyclopedia" match="any">
               <text term="in" text-case="capitalize-first" suffix=" "/>
             </if>
           </choose>
-          <text macro="container-contributors"/>
-          <text macro="secondary-contributors"/>
           <text macro="container-title"/>
+          <text macro="container-contributors" prefix=", "/>
+          <text macro="secondary-contributors"/>
         </group>
       </if>
     </choose>
@@ -477,7 +477,12 @@
       <key macro="title"/>
     </sort>
     <layout>
-      <group suffix=".">
+      <group delimiter=" ">
+        <text macro="author"/>
+        <text macro="issued-year"/>
+        <text macro="container"/>
+      </group>
+      <!-- <group suffix=".">
         <group delimiter=". ">
           <text macro="author"/>
           <text macro="issued"/>
@@ -490,7 +495,7 @@
           <text macro="event"/>
           <text macro="publisher"/>
         </group>
-      </group>
+      </group> -->
       <text macro="access" prefix=" "/>
     </layout>
   </bibliography>
