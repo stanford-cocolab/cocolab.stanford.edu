@@ -7,7 +7,7 @@ permalink: mturk-tools.html
 
 We write our experiments as webpages, and participants see this as a frame within the Mechanical Turk window. We have some tools that make using Amazon's Command Line Tools a bit easier.
 
-**NOTE:** Chrome, Firefox, and IE block mixed content, so you might have some issues with Turkers seeing a blank window instead of your experiment. This is easy to fix by making all of your links begin with `https:\\` or just `\\`. Many Turkers will [know about this issue](//mturkforum.com/showthread.php?10046-problem-with-hits) and be able to see your HIT anyway, but it's nicer to make it easily visible.
+**NOTE:** Chrome, Firefox, and IE block mixed content, so you might have some issues with Turkers seeing a blank window instead of your experiment. This is easy to fix by making all of your links begin with `https://` or just //`. Many Turkers will [know about this issue](//mturkforum.com/showthread.php?10046-problem-with-hits) and be able to see your HIT anyway, but it's nicer to make it easily visible.
 
 ## Preparation
 
@@ -16,10 +16,9 @@ We write our experiments as webpages, and participants see this as a frame withi
     Open the file GetStarted.html included in the download. Follow the instructions to create a mTurk requester account, sign up for Amazon Web Services, and install the Command Line Tools.
 
     Troubleshooting notes for this step:
-
-    * follow steps 2-3 on this page *before* testing that CLT is working.
-    * If you have Java-related trouble with this step, read the * at the bottom of this page.
-    * If you have already made an account on sandbox but when you try to post a HIT there, you get `error #1 go to sandbox and complete registration`, log out and then log back in, and then it will ask you additional registration questions.)
+	* follow steps 2-3 on this page *before* testing that CLT is working.
+	* If you have Java-related trouble with this step, read the * at the bottom of this page.
+	* If you have already made an account on sandbox but when you try to post a HIT there, you get `error #1 go to sandbox and complete registration`, log out and then log back in, and then it will ask you additional registration questions.)
 
 2. The identifiers that you are instructed to insert in the file mturk.properties in the `/bin` folder of your CLT installation are part of your MTurk requester information. To get them, go to the AWS identifier page after you've created a Requester account.
 
@@ -50,6 +49,6 @@ If the submiterator tools work on your computer, you can use the included `getre
 
 2. Check out this link if you want to find out where your java home is. Then you can edit the file `~/.bash` (or other terminal preferences file, like `~/.bashrc` or `~/.bash_profile`) and add the line:
 
-    `export JAVA_HOME=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home`
+    	export JAVA_HOME=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
 
 3. The script at `/bin/invoke.sh` in the folder where you are keeping CLT assumes that your version of Java is in a folder called `/bin/` that is one level deeper than your `JAVA_HOME` path. If this isn't right for you, you will need to modify the last line of `invoke.sh` in tandem with setting the `JAVA_HOME` path in your `.profile` (or whatever file your preferences are in) to reflect the correct location.
