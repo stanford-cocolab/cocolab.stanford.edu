@@ -4,11 +4,11 @@ title: Home
 permalink: index.html
 ---
 
-# Welcome to the website of the Computation & Cognition Lab, in the Department of Psychology at Stanford.
+## Welcome to the website of the Computation & Cognition Lab, in the Department of Psychology at Stanford.
 
 Please use the links at the top to navigate.
 
-## News
+### News
 
 * Welcome to our new members [Greg Scontras]({{site.url}}{{site.baseurl}}/people.html#Greg Scontras) and [Robert X.D. Hawkins]({{site.url}}{{site.baseurl}}/people.html#Robert X.D. Hawkins)!
 
