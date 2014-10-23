@@ -32,6 +32,7 @@
 }
 
 .site-nav {
+
     line-height: $logo-height;
 
     .menu-icon {
@@ -102,6 +103,8 @@
             }
 
             .trigger {
+                position: relative;
+                z-index: 100;
                 clear: both;
                 display: none;
             }
@@ -113,11 +116,15 @@
             }
 
             .page-link-wrapper {
+                position: relative;
+                z-index: 100;
                 background-color: $navbar-color;
                 display: block;
                 line-height: $base-line-height;
                 padding: 5px 10px;
                 .page-link {
+                    position: relative;
+                    z-index: 100;
                     padding: 0px;
                     color: #ffffff;
                 }
