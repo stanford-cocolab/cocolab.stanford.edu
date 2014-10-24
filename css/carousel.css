@@ -1,0 +1,18 @@
+.carousel_element.slick-slide p {
+	position: absolute;
+	bottom: 20px;
+	width: 100%;
+	color: #fff;
+	background-color:  rgba(0,0,0,0.5);
+}
+
+.main_carousel button {
+	width: 60px;
+	height: 100%;
+	.slick-next {
+		background-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.25) 100%);
+		&:hover {
+			background-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.5) 100%);
+		}
+	}
+}

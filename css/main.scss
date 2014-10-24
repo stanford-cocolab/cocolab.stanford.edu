@@ -72,27 +72,6 @@ $logo-width:		130px;;
     border: none;
 }*/
 
-.main_carousel {
-    width: 70%;
-    margin: auto auto;
-
-    button {
-        width: 60px;
-        height: 60px;
-    }
-
-    img, p {
-        width: 90%;
-        text-align: center;
-        margin: auto auto;
-    }
-
-    .slick-prev:before, .slick-next:before {
-        color: $navbar-color;
-        font-size: 48px;
-    }
-}
-
 .journal {
     font-style: italic;
 }
@@ -115,4 +94,51 @@ $logo-width:		130px;;
 
 .slick-dots {
     margin-left: 0px;
+}
+
+.main_carousel {
+    width: 70%;
+    @media screen and (min-width: 972px) {
+        width: 972px;
+    }
+    margin: auto auto;
+
+    img, p {
+        margin: auto auto;
+    }
+
+    p {
+        margin: auto auto;
+        text-align: center;
+        position: absolute;
+        bottom: 20px;
+        color: #fff;
+        background-color:  rgba(0,0,0,0.75);
+        z-index: 10;
+    }
+
+    button {
+        width: 60px;
+        height: 100%;
+        top: 10px;
+        bottom: 0px;
+        color: #fff;
+        opacity: 100%;
+        &.slick-next {
+            right: 0px;
+            left: auto;
+            background-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.5) 100%);
+            &:hover {
+                background-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.75) 100%);
+            }
+        }
+        &.slick-prev {
+            left: 0px;
+            right: auto;
+            background-image: linear-gradient(to left, transparent 0%, rgba(0, 0, 0, 0.5) 100%);
+            &:hover {
+                background-image: linear-gradient(to left, transparent 0%, rgba(0, 0, 0, 0.75) 100%);
+            }
+        }
+    }
 }

@@ -63,7 +63,6 @@ If the website does not update within a minute or so of making these changes, th
 
 	source /afs/ir.stanford.edu/group/cocolab/.bash_profile
 	jekyll build
-	rsync -r -a -v --delete files ../WWW/files
 	rsync -r -a -v _site/* ../WWW/
 
 in a terminal on the Stanford server in the `/afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu` directory.
