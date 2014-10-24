@@ -1,6 +1,6 @@
 [submodule "lib/slick"]
 	path = lib/slick
 	url = https://github.com/kenwheeler/slick.git
-[submodule "experiments/explanations"]
-	path = experiments/explanations
+[submodule "files/experiments/explanations"]
+	path = files/experiments/explanations
 	url = https://github.com/djthorne/explanation.git
