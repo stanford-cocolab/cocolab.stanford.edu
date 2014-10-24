@@ -101,6 +101,9 @@ $logo-width:		130px;;
     @media screen and (min-width: 1263px) {
         width: 972px;
     }
+    @media screen and (max-width: 469px) {
+        width: 244px;
+    }
     margin: auto auto;
 
     img, p {
@@ -115,7 +118,7 @@ $logo-width:		130px;;
         color: #fff;
         background-color:  rgba(0,0,0,0.75);
         z-index: 10;
-	opacity: 100%;
+	   opacity: 100%;
     }
 
     button {
@@ -144,6 +147,12 @@ $logo-width:		130px;;
     }
 }
 
+/*.slick-dots {
+    @media screen and (max-width: 469px) {
+        position: relative !important;
+        bottom: 0px !important;
+    }
+}*/
      
     
 button::-moz-focus-inner { outline: 0; border: 0; zoom: normal; }
