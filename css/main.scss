@@ -98,7 +98,7 @@ $logo-width:		130px;;
 
 .main_carousel {
     width: 70%;
-    @media screen and (min-width: 972px) {
+    @media screen and (min-width: 1263px) {
         width: 972px;
     }
     margin: auto auto;
@@ -115,6 +115,7 @@ $logo-width:		130px;;
         color: #fff;
         background-color:  rgba(0,0,0,0.75);
         z-index: 10;
+	opacity: 100%;
     }
 
     button {
