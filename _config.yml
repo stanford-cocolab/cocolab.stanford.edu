@@ -7,7 +7,7 @@ description: >
 #baseurl: "/home/feste/everything-cocolab/cocolab.stanford.edu/_site" # the subpath of your site, e.g. /blog/
 #baseurl: "/home/feste/everything-cocolab/WWW/_site_demo"
 baseurl: ""
-url: "web.stanford.edu/~erindb/cocowebsite/WWW"
+url: "https://web.stanford.edu/~erindb/cocowebsite/WWW"
 destination: "_site"
 #url: "file://" # the base hostname & protocol for your site
 #url: "http://cocolab.stanford.edu/"

@@ -59,9 +59,11 @@ Here's how to edit this website!
 
 ## Troubleshooting
 
-If the website does not update after you make these changes, this might be because the build script has stopped working. You can talk to Erin about this, or run
+If the website does not update within a minute or so of making these changes, this might be because the build script has stopped working. You can talk to Erin about this, or run
 
 	source /afs/ir.stanford.edu/group/cocolab/.bash_profile
-	jekyll build --watch --force_polling
+	jekyll build
+	rsync -r -a -v --delete files ../WWW/files
+	rsync -r -a -v _site/* ../WWW/
 
-in a terminal on the Stanford server in the `cocolab.stanford.edu` directory.
+in a terminal on the Stanford server in the `/afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu` directory.
