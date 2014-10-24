@@ -5,9 +5,10 @@ description: >
   Stanford Computation and Cognition Lab
   (affectionately called CoCoLab)
 #baseurl: "/home/feste/everything-cocolab/cocolab.stanford.edu/_site" # the subpath of your site, e.g. /blog/
-baseurl: ""
+baseurl: "_site_demo"
+destination: "../WWW/_site_demo/"
 #url: "file://" # the base hostname & protocol for your site
-url: "http://web.stanford.edu/~erindb/cocowebsite/cocolab.stanford.edu/_site"
+url: "http://cocolab.stanford.edu/"
 github_username:  StanfordCoCoLab
 
 gems: ['jekyll/scholar']
@@ -37,3 +38,4 @@ scholar:
   details_link:   Details
 
   query: "@*"
+
