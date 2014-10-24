@@ -1,6 +1,3 @@
 [submodule "lib/slick"]
 	path = lib/slick
 	url = https://github.com/kenwheeler/slick.git
-[submodule "experiments/explanations"]
-	path = experiments/explanations
-	url = https://github.com/djthorne/explanation.git
