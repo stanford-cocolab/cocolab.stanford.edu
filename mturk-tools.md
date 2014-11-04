@@ -26,7 +26,7 @@ We write our experiments as webpages, and participants see this as a frame withi
 
 ## Writing Your Experiment Webpage
 
-You'll want to write your experiment using HTML/JS/CSS and put it online somewhere. We have a template experiment you can to work off of. You can get it from [this github page](//github.com/feste/experiment_template) or you can download the [zipped file](//cocolab.stanford.edu/cgi-bin/mturk-tools.php). See the `readme.md` included in the folder for instructions.
+You'll want to write your experiment using HTML/JS/CSS and put it online somewhere. We have a template experiment you can to work off of. You can get it from [this github page](//github.com/feste/experiment_template) or you can download the [zipped file](//github.com/feste/experiment_template/archive/master.zip). See the `readme.md` included in the folder for instructions.
 
 ## Running Your Experiment
 
