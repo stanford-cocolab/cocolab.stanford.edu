@@ -4,7 +4,19 @@ layout: default
 
 Here's how to edit this website!
 
-## How to add a new page to the website
+## overview
+
+1. checkout [this repo](//github.com/erindb/cocolab.stanford.edu) on github
+2. make changes (see specific kinds of changes you can make below) and push to github
+3. go to `/afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu` and pull your changes
+
+		ssh [SUNetID]@cardinal.stanford.edu
+		cd /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu
+		git pull
+
+## specific kinds of changes
+
+### How to add a new page to the website
 
 1. make a markdown file, e.g. `new-file.md` in the top of the `cocolab.stanford.edu` directory
 
@@ -23,7 +35,7 @@ Here's how to edit this website!
 
 4. visit `cocolab.stanford.edu/new-page.html`.
 
-## How to add a person to the website
+### How to add a person to the website
 
 1. go to the file `_data/cocolab.yml`
 
@@ -42,11 +54,11 @@ Here's how to edit this website!
 		          Another paragraph of this person's bio.
 		    - [OTHER PEOPLE]
 
-## How to add a publication to the website
+### How to add a publication to the website
 
 1. go to the file `_bibliography/cocolab.bib` and add the publication.
 
-## How to add an image to the front page carousel
+### How to add an image to the front page carousel
 
 1. got to the file `_data/carousel.yml`
 
