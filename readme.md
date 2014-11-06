@@ -4,7 +4,7 @@ layout: default
 
 Here's how to edit this website!
 
-## overview
+## Overview
 
 1. checkout [this repo](//github.com/erindb/cocolab.stanford.edu) on github
 2. make changes (see specific kinds of changes you can make below) and push to github
@@ -14,7 +14,7 @@ Here's how to edit this website!
 		cd /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu
 		git pull
 
-## specific kinds of changes
+## Specific kinds of changes
 
 ### How to add a new page to the website
 
