@@ -1,9 +1,15 @@
 ---
 ---
 
-{{reference}} 
+{% if entry.website %}
+	<a href="{{entry.website}}">{{entry.title}}</a>
+{% else %}
+	{{entry.title}}
+{% endif %}
 
-<!-- [Abstract] -->
+{{reference}} <!-- this is just author information -->
+
+<span class="minilinks">
 {% if entry.abstract %}
 	<a onclick="toggle('{{entry.key}}_abstract')">[Abstract]</a>
 {% endif %}
@@ -13,6 +19,7 @@
 {% endif %}
 
 <a onclick="toggle('{{entry.key}}_bibtex')">[BibTeX]</a>
+</span>
 
 {% if entry.abstract %}
 	<p class="abstract" id="{{entry.key}}_abstract"> <b>Abstract:</b> {{ entry.abstract }}</p>

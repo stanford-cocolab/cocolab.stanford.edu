@@ -169,3 +169,11 @@ button::-moz-focus-inner { outline: 0; border: 0; zoom: normal; }
     display: none;
     font-size: $small-font-size;
 }
+
+.minilinks {
+    font-size: $base-font-size * 0.7;
+
+    a {
+        background-color: #eee;
+    }
+}

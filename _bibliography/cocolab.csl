@@ -463,7 +463,7 @@
     </sort>
     <layout>
       <group delimiter=" ">
-        <text macro="title"/>
+        <!-- <text macro="title"/> --> <!-- this gets added in liquid tags in _layouts/bibtemplate.html so that we can include the website link on the title -->
         <text macro="author"/>
         <text macro="issued-year"/>
         <text macro="container"/>
