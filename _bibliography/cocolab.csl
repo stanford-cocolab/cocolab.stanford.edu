@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- this file is adapted slightly from the original version. -->
+<!-- this file is adapted from the original version. -->
 
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never">
   <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
@@ -160,22 +160,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <choose>
-      <if type="report thesis book graphic motion_picture report song manuscript speech" match="any">
-        <choose>
-          <if variable="version">
-            <!---This is a hack until we have a computer program type -->
-            <text variable="title"/>
-          </if>
-          <else>
-            <text variable="title" font-style="italic"/>
-          </else>
-        </choose>
-      </if>
-      <else>
-        <text variable="title"/>
-      </else>
-    </choose>
+    <text variable="title" font-style="italic" suffix="."/>
   </macro>
   <macro name="title-plus-extra">
     <text macro="title"/>
@@ -478,6 +463,7 @@
     </sort>
     <layout>
       <group delimiter=" ">
+        <text macro="title"/>
         <text macro="author"/>
         <text macro="issued-year"/>
         <text macro="container"/>

@@ -1,23 +1,31 @@
 ---
 ---
 
+{{reference}} 
+
+<!-- [Abstract] -->
+{% if entry.abstract %}
+	<a onclick="toggle('{{entry.key}}_abstract')">[Abstract]</a>
+{% endif %}
+
 {% if entry.website %}
-	<a href="{{entry.website}}">{{entry.title}}</a>.
-{% else %}
-	{{entry.title}}.
+	<a href="{{entry.website}}">[PDF]</a>
 {% endif %}
 
-{{reference}} <!-- this is actually just the authors -->
+<a onclick="toggle('{{entry.key}}_bibtex')">[BibTeX]</a>
 
-<!-- ({{entry.year}}).
-
-{% if entry.journal %}
-	In <span class="journal">{{entry.journal}}</span>.
+{% if entry.abstract %}
+	<p class="abstract" id="{{entry.key}}_abstract"> <b>Abstract:</b> {{ entry.abstract }}</p>
 {% endif %}
-{% if entry.booktitle %}
-	In <span class="journal">{{entry.booktitle}}</span>
-	{% if entry.editor %}
-	by {{entry.editor}}
-	{% endif %}
-	.
-{% endif %} -->
+	<p class="bibtex" id="{{entry.key}}_bibtex"> <b>BibTeX:</b> {{ entry.bibtex }}</p>
+
+<script>
+function toggle(key) {
+	var element = document.getElementById(key)
+	if (element.style.display == 'block') {
+		element.style.display = 'none'
+	} else {
+		element.style.display = 'block'
+	}
+}
+</script>
