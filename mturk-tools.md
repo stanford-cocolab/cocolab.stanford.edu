@@ -11,6 +11,8 @@ We write our experiments as webpages, and participants see this as a frame withi
 
 ## Preparation
 
+**Note: read all of the instructions here!! (Amazon's instructions are not very good.)**
+
 1.  Download Amazon's [Command Line Tools](//aws.amazon.com/developertools/Amazon-Mechanical-Turk/694)
 
     Open the file GetStarted.html included in the download. Follow the instructions to create a mTurk requester account, sign up for Amazon Web Services, and install the Command Line Tools.
