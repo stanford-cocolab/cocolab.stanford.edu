@@ -97,12 +97,12 @@ $logo-width:		130px;;
 }
 
 .main_carousel {
-    width: 70%;
-    @media screen and (min-width: 1263px) {
-        width: 972px;
+    width: 60%;
+    @include media-query($on-palm) {
+        width: 80%;
     }
-    @media screen and (max-width: 469px) {
-        width: 244px;
+    @media screen and (min-width: 1905px) {
+        width: 972px;
     }
     margin: auto auto;
 
