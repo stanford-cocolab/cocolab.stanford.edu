@@ -98,6 +98,6 @@ schedule link).
 
 <a id="moreteaching" onclick="$('#otherteaching').show(); $('#moreteaching').html('');">More teaching...</a>
 
-
+<script type="text/javascript">$('#otherteaching').hide();</script>
 
 
