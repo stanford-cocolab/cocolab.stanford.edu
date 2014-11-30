@@ -94,3 +94,10 @@ schedule link).
 <a >Psych 204</a>
 <p>
 </div>
+
+
+<a id="moreteaching" onclick="$('#otherteaching').show(); $('#moreteaching').html('');">More teaching...</a>
+
+
+
+
