@@ -13,29 +13,25 @@ Director of the [Computation and Cognition Lab](http://cocolab.stanford.edu).
 
 [Curriculum Vitae](ndg-cv.pdf)
 
+
 ## Contact
 
 Email: ngoodman at stanford dot edu
 
 Office: 356 Jordan Hall
 
+
 ## Research Interests
 
-<ul>
-<li>Computational models of cognition, integrating logic and
-probability.</li>
-<li>Probabilistic programming languages.</li>
-<li>Concepts, categorization, and intuitive
-theories.</li>
-<li>Natural language semantics and pragmatics.</li>
-<li>Social cognition: reasoning about others' goals, beliefs, and actions.</li>
-<li>Causal learning and reasoning.</li>
-<li>Cognitive development, especially the acquisition of
-abstract knowledge.</li>
-</ul>
+* Computational models of cognition.
+* Probabilistic programming languages.
+* Natural language semantics and pragmatics.
+* Concepts, categorization, and intuitive theories.
+* Social cognition: reasoning about others' traits, states, and actions.
+* Cognitive development, especially the acquisition of abstract knowledge.
+
 
 ## Teaching
-
 
 ### Spring 2014
 Seminar: <a href="http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=PSYCH%2024
@@ -95,9 +91,5 @@ schedule link).
 <p>
 </div>
 
-
-<a id="moreteaching" onclick="$('#otherteaching').show(); $('#moreteaching').html('');">More teaching...</a>
-
-<script type="text/javascript">$("#otherteaching").hide();</script>
 
 
