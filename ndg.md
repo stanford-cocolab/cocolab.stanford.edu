@@ -9,16 +9,11 @@ layout: default
 
 Assistant Professor of [Psychology](https://www.stanford.edu/dept/psychology/), [Computer Science](http://www-cs.stanford.edu/) (by courtesy), and [Linguistics](http://linguistics.stanford.edu/) (by courtesy), at [Stanford University](http://stanford.edu).
 
-Director of the [Computation and Cognition Lab](http://cocolab.stanford.edu).
-
 [Curriculum Vitae](ndg-cv.pdf)
-
-
-## Contact
 
 Email: ngoodman at stanford dot edu
 
-Office: 356 Jordan Hall
+Office: 356 Jordan Hall, Stanford.
 
 
 ## Research Interests
@@ -57,8 +52,6 @@ Spring 2013: [Representations of Meaning](http://www.stanford.edu/class/linguist
 
 Spring 2011: [Formal and Computational Approaches in Psychology and Cognitive Science](http://www.stanford.edu/~ngoodman/Psych239.html) (co-taught with Jay McClelland).
 
-
-## Summer Schools and Tutorials
 
 ### ESLLI 2014
 [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org)
