@@ -2,13 +2,13 @@
   people:
     - name: Noah Goodman
       img: noah.jpg
-      webpage: //www.stanford.edu/~ngoodman
+      webpage: ndg.html
 - role: Post-Doctoral Scholars
   people:
     - name: Judith Degen
       img: judith.jpg
       webpage: //www.stanford.edu/people/jdegen
-      bio: 
+      bio:
         - >
           A remarkable feature of human language is that listeners typically
           have little difficulty inferring what a speaker intends to convey
@@ -41,7 +41,7 @@
           I received my BASc in Engineering Science from the University of
           Toronto in 2008, my MASc in Computer Engineering from the University
           of Toronto in 2009, and my PhD in Mechanical Engineering from Cornell
-          University in 2013. 
+          University in 2013.
     - name: Siddharth Narayanaswamy
       img: sid.jpg
       webpage: //www.iffsid.com/
@@ -88,7 +88,7 @@
           I do research on human learning with the ultimate goal of helping
           improve education. Using behavioral experiments and computational
           models, I investigate how people learn and generalize concepts and
-          skills. 
+          skills.
     - name: Daniel Hawthorne
       img: danH.jpg
       bio:
@@ -108,7 +108,7 @@
           processing and understanding of non-literal language such as metaphor,
           hyperbole, and word play. In particular, I aim to use behavioral
           experiments and computational models to examine how people infer rich
-          meanings from sparse and often ambiguous linguistic input. 
+          meanings from sparse and often ambiguous linguistic input.
     - name: Desmond Ong
       img: desmond.jpg
       webpage: //web.stanford.edu/~dco
@@ -121,7 +121,7 @@
         - >
           I'm also interested in prosociality, social cognition and theory of
           mind; behavioral and neuro-economics, game theory; artificial
-          intelligence. 
+          intelligence.
     - name: Michael Henry Tessler
       img: henry.jpg
       bio:
@@ -132,7 +132,7 @@
         - >
           I'm interested in this interplay between natural and formal language,
           between the fuzzy and the sharp. I use computational models and
-          behavioral experiments to explore how logic and language interact. 
+          behavioral experiments to explore how logic and language interact.
     - name: Robert X.D. Hawkins
       img: robert.jpg
       webpage: //rxdhawkins.wordpress.com/
@@ -181,7 +181,7 @@
           I've worked in particular on epistemic and deontic modality,
           vagueness and gradability, reasoning with modals and degree
           expressions, and presupposition, and am currently pursuing projects
-          on probabilistic quantification and reasoning with generics. 
+          on probabilistic quantification and reasoning with generics.
       was: Post-doc in the lab
       now: Now an Assistant Professor of Linguistics at Stanford
     - name: Joseph Austerweil
