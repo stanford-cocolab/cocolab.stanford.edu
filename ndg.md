@@ -6,6 +6,7 @@ layout: default
 # Noah D. Goodman
 
 ![picture of Noah](/images/members/noah.jpg)
+
 Assistant Professor of [Psychology](https://www.stanford.edu/dept/psychology/), [Computer Science](http://www-cs.stanford.edu/) (by courtesy), and [Linguistics](http://linguistics.stanford.edu/) (by courtesy), at [Stanford University](http://stanford.edu).
 
 Director of the [Computation and Cognition Lab](http://cocolab.stanford.edu).
@@ -32,63 +33,38 @@ Office: 356 Jordan Hall
 
 ## Teaching
 
-### Spring 2014
-Seminar: <a href="http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=PSYCH%2024
-1:%20Probabilistic%20Models%20of%20Social%20Behavior%20and%20Affect&academicYear=20132014">Psych 241: Probabilistic Models of Social Be
-havior and Affect</a> (co-taught with Mike Frank and Jamil Zaki).
+### This year
+
+I'll be teaching Psych 204 and Psych 205 in Spring 2015.
 
 
-### Winter 2014
-<a href="http://symsys100.stanford.edu">Introduction to Cognitive Science (Psych 035, SymSys 100, Ling 144, Phil 19
-0)</a>
+### Computation and Cognition: the Probabilistic Approach (Psych 204)
+
+Taught: Fall 2013, Fall 2012, Winter 2012, Spring 2011.
+[Website](http://www.stanford.edu/~ngoodman/psych204/)
 
 
-### Fall 2013
-<a href="psych204/">Psych 204</a>
+### Introduction to Cognitive Science (Psych 035, SymSys 100, Ling 144, Phil 190)
+
+Taught: Winter 2014, Winter 2013, Spring 2012.
+
+### Seminars
+
+Spring 2014: [Probabilistic Models of Social Behavior and Affect](http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=PSYCH%20241:%20Probabilistic%20Models%20of%20Social%20Behavior%20and%20Affect&academicYear=20132014) (co-taught with Mike Frank and Jamil Zaki).
+
+Spring 2013: [Representations of Meaning](http://www.stanford.edu/class/linguist236/index.html) (co-taught with Chris Potts).
 
 
+Spring 2011: [Formal and Computational Approaches in Psychology and Cognitive Science](http://www.stanford.edu/~ngoodman/Psych239.html) (co-taught with Jay McClelland).
 
-<div class="contentbox" id="otherteaching">
 
-<h3>Spring 2013</h3>
-Seminar: <a href="http://www.stanford.edu/class/linguist236/index.html">Representations of Meaning</a> (co-taught w
-ith Chris Potts).
-<p>
+## Summer Schools and Tutorials
 
-<h3>Winter 2013</h3>
-<a href="http://symsys100.stanford.edu">Introduction to Cognitive Science (Psych 035, SymSys 100, Ling 144, Phil 19
-0)</a>
-<p>
+### ESLLI 2014
+[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org)
 
-<h3>Fall 2012</h3>
-<a href="psych204/psych204-Autumn2012/">Psych 204</a>
-<p>
-
-<h3>Spring 2012</h3>
-Introduction to Cognitive Science (Psych
-132, SymSys 100, Ling 144, Phil 190)
-<p>
-
-<h3>Winter 2012</h3>
-<a href="psych204/psych204-Winter2012/">Psych 204</a>
-<p>
-
-<h3>IPAM GSS 2011</h3>
-I co-organized the 2011 IPAM <a href="http://www.ipam.ucla.edu/programs/gss2011/">Graduate Summer School on Probabi
-listic Models
-of Cognition</a><br>
-(slides and videos of the lectures under the
-schedule link).
-</p>
-
-<h3>Spring 2011</h3>
-<a href="Psych239.html">Psych 239</a>
-<p>
-
-<h3>Winter 2011</h3>
-<a >Psych 204</a>
-<p>
-</div>
+### IPAM GSS 2011
+I co-organized the 2011 IPAM [Graduate Summer School on Probabilistic Models of Cognition](http://www.ipam.ucla.edu/programs/gss2011/).
 
 
 
