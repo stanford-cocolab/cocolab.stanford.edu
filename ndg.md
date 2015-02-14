@@ -10,6 +10,7 @@ layout: default
 Assistant Professor of [Psychology](https://www.stanford.edu/dept/psychology/), [Computer Science](http://www-cs.stanford.edu/) (by courtesy), and [Linguistics](http://linguistics.stanford.edu/) (by courtesy), at [Stanford University](http://stanford.edu).
 
 [Curriculum Vitae](ndg-cv.pdf)
+[Scholar metrics](https://scholar.google.com/citations?user=OUpIbcQAAAAJ)
 
 Email: ngoodman at stanford dot edu
 
