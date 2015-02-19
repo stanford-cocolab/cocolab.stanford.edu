@@ -11,6 +11,8 @@ Assistant Professor of [Psychology](https://www.stanford.edu/dept/psychology/), 
 
 [Curriculum Vitae](ndg-cv.pdf)
 
+[Scholar metrics](https://scholar.google.com/citations?user=OUpIbcQAAAAJ)
+
 Email: ngoodman at stanford dot edu
 
 Office: 356 Jordan Hall, Stanford.
