@@ -8,25 +8,23 @@ layout: default
 
 This course will introduce the probabilistic approach to cognitive science, in which learning and reasoning are understood as inference in complex probabilistic models. Examples will be drawn from areas including concept learning, causal reasoning, social cognition, and language understanding. Formal modeling ideas and techniques will be discussed in concert with relevant empirical phenomena.
 
-Instructor: Noah Goodman (ngoodman at stanford dot edu)
-TAs: Desmond Ong and Henry Tessler
-Meeting time: Tue, Thu 3:15 - 4:30
-Meeting place: Littlefield 103
-
-Office hours:
-TAs will hold office hours XXX. 
-Instructor will meet with students after class or by appointment.
+Instructor: Noah Goodman (ngoodman at stanford dot edu)  
+TAs: Desmond Ong (dco at stanford dot edu) and Henry Tessler (mtessler at stanford dot edu)  
+Meeting time: Tue, Thu 3:15 - 4:30  
+Meeting place: Littlefield 103  
+Office hours: TAs will hold office hours XXX. Instructor will meet with students after class or by appointment.
 
 ##Assignments and grading
 Students (both registered and auditing) will be expected to do assigned readings before class.
 Registered students will be graded based on:
-30% Class participation.
-35% Homework.
-35% Final project.
+
+* 20% Class participation.
+* 30% Homework.
+* 50% Final project (including proposal, update, presentation, and paper).
 
 
 ##Readings
-Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the web-book Probabilistic Models of Cognition and selected research papers.
+Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the webbook [Probabilistic Models of Cognition](http://probmods.org/) and selected research papers.
 
 ##Pre-requisites
 There are no formal pre-requisites for this class. However, this is a graduate-level course, which will move relatively quickly and have technical content. Students should be already familiar with the basics of probability and programming (or be willing to learn this background on their own).
@@ -129,6 +127,8 @@ Readings:
 
 ## Week of May 12
 Hierarchical models. Mixture models. Occam's razor.
+
+Project update (preliminary paper) due on Friday at midnight!
 
 Readings:
 
@@ -248,28 +248,21 @@ background, interests and strengths. You do not have to work on a
 project that relates directly to the topics covered in the classes and readings: other topics
 that pursue the general idea of probabilistic models of cognition are fine, and you should try
 to work on a project that captures your interests within that fairly broad scope. Working
-on existing research projects is okay, if they relate to the themes of
-the class.
+on existing research projects is okay, if you bring the techniques and ideas of
+the class to bear.
 
 You are encouraged (but not required) to do projects in small groups of two or three people.
 
-Your project may be original research, or a replication of an existing paper.
+Projects will generally contain both a probabilistic model of some aspect of human cognition and a behavioral expriment testing the model. Some ways you can go:
 
-Possible types of projects:
+* Directly replicate the experiment and model in an existing paper. This is the most concrete way to go if you are new to both experiments and models. 
+* Replicate an existing experiment (or possibly use existing data) that has not been modeled and consider different probabilistic models for the data.
+* Extend the experiment and model in an existing paper in a new direction.
+* Something brand new: choose an interesting phenomenon in human cognition; do an experiment and model it!
 
-* Behavioral: Form a hypothesis inspired by a probabilistic
-model and test this hypothesis using one or two small experiments.
-* Computational: Make a computational model of some aspect of
-human cognition, either significantly extending a model we've
-learned about in class, or modeling something new.
-* AI: use an idea we've discussed in class to implement an
-interesting new AI system.
-* Inference and infrastructure: Extend Church inference with a
-better algorithm, implement a useful automatic analysis of programs,
-or do another infrastucture project.
-* The best projects will do a combination of these things,
-especially combining behavioral experiments with a computational
-model.
+In all cases, you are encouraged to consider multiple models (for example, several variants of your theory) and pay careful attention to data analysis (for example, by doing bayesian model selection).
+
+With approval of the instructor, a project could focus on AI rather than human behavior: use an idea we've discussed in class to implement an interesting new AI system. Similarly projects could focus on inference and infrastructure in PPLs by building a better algorithm, implementing a useful automatic analysis of programs, etc.
 
 
 ## Project proposal
@@ -280,12 +273,17 @@ methods of your project. The *background* should include the topic and
 the context of your project, including other research in this area. 
 The specific *question* you are planning to ask through your
 project should be clearly stated. You should briefly describe the
-*methods* you plan to use, depending on your project this might include: an overview of your experimental
-design, your modeling approach, your data analysis, or your
-algorithm.
+*methods* you plan to use (your experimental
+design, your modeling approach, your data analysis, and so on).
 
-Email your proposal to the instructor as a PDF file by midnight on XXX.
+Email your proposal to the instructor as a PDF file by midnight on 5/1/15.
 
+
+## Project update
+
+Two weeks before your project presentation you should turn in a preliminary version of your paper. This should be a complete outline for all sections. It should have a full draft of your *introduction* and *background and related work* sections. In addition, it should have preliminary results from your modeling and/or experiments. Alltogether, these will probably take about 3 pages.
+
+Email your preliminary report to the instructor as a PDF file by midnight on 5/15/15.
 
 
 ## Project presentation
@@ -303,8 +301,8 @@ Cognitive Science Society conference: [see the section "Submission formats" on t
 In particular, your paper should be no more than six pages long.
 Your paper should cover the background behind your
 project, the questions you are asking, your methods and results, and
-your interpretation of these results. <br>
-Email your paper to the instructor as a
-PDF file by midnight on XXX.</p>
+your interpretation of these results.
+
+Email your paper to the instructor as a PDF file by midnight on 6/5/15.
 
 
