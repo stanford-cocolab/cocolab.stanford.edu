@@ -8,21 +8,19 @@ layout: default
 
 This course will introduce the probabilistic approach to cognitive science, in which learning and reasoning are understood as inference in complex probabilistic models. Examples will be drawn from areas including concept learning, causal reasoning, social cognition, and language understanding. Formal modeling ideas and techniques will be discussed in concert with relevant empirical phenomena.
 
-Instructor: Noah Goodman (ngoodman at stanford dot edu)
-TAs: Desmond Ong and Henry Tessler
-Meeting time: Tue, Thu 3:15 - 4:30
-Meeting place: Littlefield 103
-
-Office hours:
-TAs will hold office hours XXX. 
-Instructor will meet with students after class or by appointment.
+Instructor: Noah Goodman (ngoodman at stanford dot edu)  
+TAs: Desmond Ong and Henry Tessler  
+Meeting time: Tue, Thu 3:15 - 4:30  
+Meeting place: Littlefield 103  
+Office hours: TAs will hold office hours XXX. Instructor will meet with students after class or by appointment.
 
 ##Assignments and grading
 Students (both registered and auditing) will be expected to do assigned readings before class.
 Registered students will be graded based on:
-30% Class participation.
-35% Homework.
-35% Final project.
+
+* 30% Class participation.
+* 35% Homework.
+* 35% Final project.
 
 
 ##Readings
