@@ -11,7 +11,7 @@ Assistant Professor of [Psychology](https://www.stanford.edu/dept/psychology/), 
 
 [Curriculum Vitae](ndg-cv.pdf)
 
-[Scholar metrics](https://scholar.google.com/citations?user=OUpIbcQAAAAJ)
+[Scholar metrics and bibliography](https://scholar.google.com/citations?user=OUpIbcQAAAAJ)
 
 Email: ngoodman at stanford dot edu
 
@@ -32,13 +32,14 @@ Office: 356 Jordan Hall, Stanford.
 
 ### This year
 
-I'll be teaching Psych 204 and Psych 205 in Spring 2015.
+I'll be teaching [Psych 204](psych204.html) and Psych 205 in Spring 2015.
 
 
 ### Computation and Cognition: the Probabilistic Approach (Psych 204)
 
-Taught: Fall 2013, Fall 2012, Winter 2012, Spring 2011.
-[Website](http://www.stanford.edu/~ngoodman/psych204/)
+Taught: Fall 2013, Fall 2012, Winter 2012, Spring 2011.  
+[Website](psych204.html) 
+(and [Old Website](http://www.stanford.edu/~ngoodman/psych204/)).
 
 
 ### Introduction to Cognitive Science (Psych 035, SymSys 100, Ling 144, Phil 190)
