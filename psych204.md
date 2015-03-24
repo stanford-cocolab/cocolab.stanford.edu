@@ -12,16 +12,21 @@ Instructor: Noah Goodman (ngoodman at stanford dot edu)
 TAs: Desmond Ong (dco at stanford dot edu) and Henry Tessler (mtessler at stanford dot edu)  
 Meeting time: Tue, Thu 3:15 - 4:30  
 Meeting place: Littlefield 103  
-Office hours: TAs will hold office hours XXX. Instructor will meet with students after class or by appointment.
+Office hours: 
+* Desmond: Thursdays 11-12pm, Jordan Hall Room 330
+* Henry: XXX
+* Instructor will meet with students after class or by appointment.
+Link to Piazza signup: piazza.com/stanford/spring2015/psych204
 
 ##Assignments and grading
 Students (both registered and auditing) will be expected to do assigned readings before class.
 Registered students will be graded based on:
 
-* 20% Class participation.
+* 20% Class participation and Piazza participation.
 * 30% Homework.
 * 50% Final project (including proposal, update, presentation, and paper).
 
+Send all assignment submissions and correspondences to psych204-spr1415-staff at lists dot stanford dot edu
 
 ##Readings
 Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the webbook [Probabilistic Models of Cognition](http://probmods.org/) and selected research papers.
