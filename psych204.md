@@ -13,9 +13,11 @@ TAs: Desmond Ong (dco at stanford dot edu) and Henry Tessler (mtessler at stanfo
 Meeting time: Tue, Thu 3:15 - 4:30  
 Meeting place: Littlefield 103  
 Office hours: 
+
 * Desmond: Thursdays 11-12pm, Jordan Hall Room 330
 * Henry: XXX
 * Instructor will meet with students after class or by appointment.
+
 Link to Piazza signup: piazza.com/stanford/spring2015/psych204
 
 ##Assignments and grading
