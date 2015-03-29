@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Noah D. Goodman
-
 [PDF version](ndg-cv.pdf)
+
+# Noah D. Goodman
 
 Stanford University <br/>
 Department of Psychology <br/>
@@ -91,29 +91,29 @@ Cognitive development.
 
 ### Peer-reviewed Journal Articles
 
-{% bibliography --template {{ reference }} --query @article %}
+{% bibliography --template bibtemplate-nolink --query @article %}
 
 ### Peer-reviewed Conference Proceedings
 
-{% bibliography --template {{ reference }} --query @inproceedings %}
+{% bibliography --template bibtemplate-nolink --query @inproceedings %}
 
 ### Chapters
 
-{% bibliography --template {{ reference }} --query @inbook %}
+{% bibliography --template bibtemplate-nolink --query @inbook %}
 
 ### Books (print and web)
 
-{% bibliography --template {{ reference }} --query @electronic %}
-{% bibliography --template {{ reference }} --query @book %}
+{% bibliography --template bibtemplate-nolink --query @electronic %}
+{% bibliography --template bibtemplate-nolink --query @book %}
 
 ### Technical Reports
 
-{% bibliography --template {{ reference }} --query @techreport %}
+{% bibliography --template bibtemplate-nolink --query @techreport %}
 
 ### Other
 
-{% bibliography --template {{ reference }} --query @unpublished %}
-{% bibliography --template {{ reference }} --query @misc %}
+{% bibliography --template bibtemplate-nolink --query @unpublished %}
+{% bibliography --template bibtemplate-nolink --query @misc %}
 
 ## Software
 
@@ -379,7 +379,7 @@ Visiting Lecturer (2006, 2008, 2010, 2011, 2014), Canada/USA Mathcamp.
 
 ### Summer Schools and Tutorials
 
-"Probabilistic programming languages." European Summer School of Logic Language and Information. Tübingen, August 2014.
+* "Probabilistic programming languages." European Summer School of Logic Language and Information. Tübingen, August 2014.
 
 * "Probability in semantics and pragmatics" (with D. Lassiter). European Summer School of Logic Language and Information. Dusseldorf, August 2013.
 
@@ -431,7 +431,7 @@ Visiting Lecturer (2006, 2008, 2010, 2011, 2014), Canada/USA Mathcamp.
 
 * Leon Bergen (MIT, BCS)
 
-Long Ouyang (Stanford, Psychology)
+* Long Ouyang (Stanford, Psychology)
 
 * Justine Kao (Stanford, Psychology)
 
