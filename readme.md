@@ -76,7 +76,7 @@ Here's how to edit this website!
 
 1. make changes to ndg-cv.md
 
-2. have `jekyll` and `jekyll-scholar` installed
+2. have `jekyll`, `jekyll-scholar`, and `pandoc` installed
 
 3. run `sh ./make-cv.bash`
 
