@@ -9,16 +9,18 @@ layout: default
 This course will introduce the probabilistic approach to cognitive science, in which learning and reasoning are understood as inference in complex probabilistic models. Examples will be drawn from areas including concept learning, causal reasoning, social cognition, and language understanding. Formal modeling ideas and techniques will be discussed in concert with relevant empirical phenomena.
 
 Instructor: Noah Goodman (ngoodman at stanford dot edu)  
-TAs: Desmond Ong (dco at stanford dot edu) and Henry Tessler (mtessler at stanford dot edu)  
+TAs: Desmond Ong (dco at stanford dot edu) and Michael Tessler (mtessler at stanford dot edu)  
 Meeting time: Tue, Thu 3:15 - 4:30  
 Meeting place: Littlefield 103  
 Office hours: 
 
 * Desmond: Thursdays 11-12pm, Jordan Hall Room 330
-* Henry: XXX
+* Michael: Mondays 3-4pm, Jordan Hall Room 316
 * Instructor will meet with students after class or by appointment.
 
 Link to Piazza signup: piazza.com/stanford/spring2015/psych204
+
+We encourage students to use Piazza for questions that are readily articulable. Piazza is a forum for questions & answers, and answers may be posed by both students and TAs. We strongly encourage students to answer questions, and TAs will verify the solutions.
 
 ##Assignments and grading
 Students (both registered and auditing) will be expected to do assigned readings before class.
@@ -29,6 +31,18 @@ Registered students will be graded based on:
 * 50% Final project (including proposal, update, presentation, and paper).
 
 Send all assignment submissions and correspondences to psych204-spr1415-staff at lists dot stanford dot edu
+
+Assignments will be graded using the following scheme:
+
+After the first attempt of the problem set:
+
++ Full credit: Assignment is complete and solutions are correct
++ Half credit: Assignment was attempted, with incorrect solutions
++ No credit: Assignment was not attempted
+
+You will receive feedback on your work. If you receive *half credit*, you will have the opportunity for revision:
+
++ Full credit (revised attempt): Assignment is complete, solutions are correct, and explanations for why original solution was incorrect are provided
 
 ##Readings
 Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the webbook [Probabilistic Models of Cognition](http://probmods.org/) and selected research papers.
