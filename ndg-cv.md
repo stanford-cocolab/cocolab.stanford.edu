@@ -94,29 +94,33 @@ Cognitive development.
 
 ### Peer-reviewed Journal Articles
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @article %}
+{% bibliography --query @article %}
+
+* Giroux, E. & Goodman, N. D. (2006). On the stable equivalence of open books in three-manifolds. *Geometry & Topology*.
+
+* Goodman, N. D. (2005). Overtwisted open books from sobering arcs. *Algebraic and Geometric Topology*.
 
 ### Peer-reviewed Conference Proceedings
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @inproceedings %}
+{% bibliography --query @inproceedings %}
 
 ### Chapters
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @inbook %}
+{% bibliography --query @inbook %}
 
 ### Books (print and web)
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @electronic %}
-{% bibliography --template <p>{{reference}}</p> --style apa --query @book %}
+{% bibliography --query @electronic %}
+{% bibliography --query @book %}
 
 ### Technical Reports
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @techreport %}
+{% bibliography --query @techreport %}
 
 ### Other
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @unpublished %}
-{% bibliography --template <p>{{reference}}</p> --style apa --query @misc %}
+{% bibliography --query @unpublished %}
+{% bibliography --query @misc %}
 
 ## Software
 
