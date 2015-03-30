@@ -6,17 +6,17 @@ permalink: publications.html
 
 ## Manuscripts
 
-{% bibliography --query @*[year=Manuscript] %}
+{% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year=Manuscript] %}
 
 ## To appear
 
-{% bibliography --query @*[year=To appear] %}
+{% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year=To appear] %}
 
 {% for year in (2006..{{site.max_year}}) reversed %}
 
 <a class="subtle_link" name="{{year}}"></a>
 ## {{year}}
 
-{% bibliography --query @*[year={{year}}] %}
+{% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year={{year}}] %}
 
 {% endfor %}
