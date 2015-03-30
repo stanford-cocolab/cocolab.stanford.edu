@@ -104,6 +104,10 @@ Cognitive development.
 
 {% bibliography --query @inproceedings %}
 
+* Goodman, N. D., Griffiths, T. L, Feldman, J., and Tenenbaum, J. B. (2007). A rational analysis of rule-based concept learning. In *Proceedings of the Twenty-Ninth Annual Conference of the Cognitive Science Society*.
+
+* Henderson, L., Goodman, N. D., Tenenbaum, J. B., and Woodward, J. (2007). Frameworks in science: a Bayesian approach. *LSE-Pitt Conference Confirmation, Induction and Science*.
+
 ### Chapters
 
 {% bibliography --query @inbook %}
