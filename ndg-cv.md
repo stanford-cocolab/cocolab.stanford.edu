@@ -2,19 +2,19 @@
 layout: default
 ---
 
-# Noah D. Goodman
-
 [PDF version](ndg-cv.pdf)
+
+# Noah D. Goodman
 
 Stanford University <br/>
 Department of Psychology <br/>
-Jordan Hall, Building 01 <br/>
+Jordan Hall, Building 01-420 <br/>
 450 Serra Mall <br/>
 Stanford, CA 94305
 
 Phone: 650-725-2445 <br/>
-Email: ngoodman@stanford.edu <br/>
-Homepage: [http://stanford.edu/~ngoodman](http://stanford.edu/~ngoodman)
+Email: `ngoodman@stanford.edu` <br/>
+Homepage: [`http://stanford.edu/~ngoodman`](http://stanford.edu/~ngoodman)
 
 ## Research Interests
 
@@ -27,13 +27,14 @@ Cognitive development.
 
 ## Professional Positions
 
-* Assistant Professor of Cognitive Psychology, Stanford University, 2010 -. (By courtesy, Assistant Professor of Linguistics and of Computer Science.)
+* Assistant Professor of Cognitive Psychology, Stanford University, 2010 -.<br/>
+  (By courtesy, Assistant Professor of Linguistics and of Computer Science.)
 
-* Research Scientist, Massachusetts Institute of Technology, 2008 - 2010.
+* Research Scientist, Massachusetts Institute of Technology, 2008-2010.
 
-* Post-Doctoral Associate, Massachusetts Institute of Technology, 2005 - 2008.
+* Post-Doctoral Associate, Massachusetts Institute of Technology, 2005-2008.
 
-* Lecturer, St. Edwards University, 2004 - 2005.
+* Lecturer, St. Edwards University, 2004-2005.
 
 ## Education
 
@@ -47,73 +48,75 @@ Cognitive development.
 
 ### Grants
 
-* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 – Jul 2017, $ 3, 300,000 (approx.).
+* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017, $3,300,000 (approx.).
 
-* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 – Sep 2016, $ 500,000 (approx.).
+* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016, $500,000 (approx.).
 
-* *Development of probmods.org web-book*, Stanford VPOL, 2013, $ 25,000.
+* *Development of probmods.org web-book*, Stanford VPOL, 2013, $25,000.
 
-* *A Center for Brains, Minds and Machines: The Science and the Technology of Intelligence*, NSF, Sep 2013 – Sep 2017 (Sub-award from MIT, PI: Poggio), $ 475,000.
+* *A Center for Brains, Minds and Machines: The Science and the Technology of Intelligence*, NSF, Sep 2013 - Sep 2017 (Sub-award from MIT, PI: Poggio), $475,000.
 
-* *Grounded language understanding as social cognition*, ONR, Jan 2013 – Jan 2016 (PI: Potts). Noah D. Goodman 2
+* *Grounded language understanding as social cognition*, ONR, Jan 2013 - Jan 2016 (PI: Potts).
 
-* *Embedded Humans: Provably Correct Decision Making for Networks of Humans and Unmanned Systems*, ONR, Feb 2013 – Dec 2017 (Sub-award from Berkeley, PI: Sastry; Stanford PI: Guibas).
+* *Embedded Humans: Provably Correct Decision Making for Networks of Humans and Unmanned Systems*, ONR, Feb 2013 - Dec 2017 (Sub-award from Berkeley, PI: Sastry; Stanford PI: Guibas).
 
-* J. S. McDonnell Foundation Scholar Award, Oct 2010 – Oct 2016, $ 600,000.
+* J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016, $600,000.
 
-* *A Framework for Core Cognition*, ONR, Jul 2009 – Dec 2012 (PI: Tenenbaum).
+* *A Framework for Core Cognition*, ONR, Jul 2009 - Dec 2012 (PI: Tenenbaum).
 
 ### Honors
 
 * 2014 Cognitive Science Society paper prize for computational modeling of language.
 
-* Roger N. Shepard Distinguished Visiting Scholar, 2013 - 14, University of Arizona.
+* Roger N. Shepard Distinguished Visiting Scholar, 2013-14, University of Arizona.
 
-* John Philip Coghlan Fellow, 2013 - 14 and 2014 - 15.
+* John Philip Coghlan Fellow, 2013-14 and 2014-15.
 
 * 2012 Cognitive Science Society paper prize for computational modeling of language.
 
-* 2011 International Joint Conference on Artificial Intelligence best poster prize. 2011 Cognitive Science Society paper prize for computational modeling of language.
+* 2011 International Joint Conference on Artificial Intelligence best poster prize.
+
+* 2011 Cognitive Science Society paper prize for computational modeling of language.
 
 * 2007 Cognitive Science Society paper prize for computational modeling of higher-level cognition.
 
 * 2007 Cognitive Science Society paper prize for computational modeling of perception and action.
 
-* NSF VIGRE Fellowship, 2001 - 2002.
+* NSF VIGRE Fellowship, 2001-2002.
 
-* University of Texas Continuing Graduate Study Fellowship, 2001 - 2002.
+* University of Texas Continuing Graduate Study Fellowship, 2001-2002.
 
 * Bruton Graduate Fellowship, 2000.
 
-* National Merit Scholarship, 1994 - 1997.
+* National Merit Scholarship, 1994-1997.
 
 ## Publications
 
 ### Peer-reviewed Journal Articles
 
-{% bibliography --template {{ reference }} --query @article %}
+{% bibliography --template <p>{{reference}}</p> --style apa --query @article %}
 
 ### Peer-reviewed Conference Proceedings
 
-{% bibliography --template {{ reference }} --query @inproceedings %}
+{% bibliography --template <p>{{reference}}</p> --style apa --query @inproceedings %}
 
 ### Chapters
 
-{% bibliography --template {{ reference }} --query @inbook %}
+{% bibliography --template <p>{{reference}}</p> --style apa --query @inbook %}
 
 ### Books (print and web)
 
-{% bibliography --template {{ reference }} --query @electronic %}
-{% bibliography --template {{ reference }} --query @book %}
+{% bibliography --template <p>{{reference}}</p> --style apa --query @electronic %}
+{% bibliography --template <p>{{reference}}</p> --style apa --query @book %}
 
 ### Technical Reports
 
-{% bibliography --template {{ reference }} --query @techreport %}
+{% bibliography --template <p>{{reference}}</p> --style apa --query @techreport %}
 
 ### Other
 
-{% bibliography --template {{ reference }} --query @unpublished %}
-{% bibliography --template {{ reference }} --query @misc %}
+{% bibliography --template <p>{{reference}}</p> --style apa --query @unpublished %}
+{% bibliography --template <p>{{reference}}</p> --style apa --query @misc %}
 
 ## Software
 
@@ -363,7 +366,7 @@ A javascript-based probabilistic programming language.
 
 * Co-Organizer: Eastern Psychology Association, workshop "Social routes to causal knowledge: action, imitation, and pedagogy". Boston, MA, March 2008.
 
-* Co-Organizer: McDonnell Foundation workshop "Explanation and prior knowledge". Cambridge, MA, November 2006. Mentor ( 1999 - 2001 ), Canada/USA Mathcamp.
+* Co-Organizer: McDonnell Foundation workshop "Explanation and prior knowledge". Cambridge, MA, November 2006. Mentor ( 1999-2001 ), Canada/USA Mathcamp.
 
 * Co-Organizer and Coordinator of Hiring, Canada/USA Mathcamp 2000, 2001.
 
@@ -379,7 +382,7 @@ Visiting Lecturer (2006, 2008, 2010, 2011, 2014), Canada/USA Mathcamp.
 
 ### Summer Schools and Tutorials
 
-"Probabilistic programming languages." European Summer School of Logic Language and Information. Tübingen, August 2014.
+* "Probabilistic programming languages." European Summer School of Logic Language and Information. Tübingen, August 2014.
 
 * "Probability in semantics and pragmatics" (with D. Lassiter). European Summer School of Logic Language and Information. Dusseldorf, August 2013.
 
@@ -407,7 +410,7 @@ Visiting Lecturer (2006, 2008, 2010, 2011, 2014), Canada/USA Mathcamp.
 
 * Co-taught (with L. Schulz and C. Moore): "Perception, Conception, and Action: Grounding Thoughts in Experience (and Vice Versa)", MIT, Spring 2008.
 
-* Extensive experience teaching mathematics at all levels, 1997 - 2005. (Details by request.)
+* Extensive experience teaching mathematics at all levels, 1997-2005. (Details by request.)
 
 ## Advising
 
@@ -431,7 +434,7 @@ Visiting Lecturer (2006, 2008, 2010, 2011, 2014), Canada/USA Mathcamp.
 
 * Leon Bergen (MIT, BCS)
 
-Long Ouyang (Stanford, Psychology)
+* Long Ouyang (Stanford, Psychology)
 
 * Justine Kao (Stanford, Psychology)
 
@@ -469,33 +472,33 @@ Long Ouyang (Stanford, Psychology)
 
 ## University Committees
 
-* Psychology Department, Colloquium Committee, 2014 - 2015.
+* Psychology Department, Colloquium Committee, 2014-2015.
 
-* Psychology Department, Cognitive Search Committee, 2014 - 2015.
+* Psychology Department, Cognitive Search Committee, 2014-2015.
 
-* Psychology Department, Curriculum Committee, 2014 - 2015.
+* Psychology Department, Curriculum Committee, 2014-2015.
 
-* Psychology Department, Colloquium Committee, 2013 - 2014.
+* Psychology Department, Colloquium Committee, 2013-2014.
 
-* Human Subjects Research IRB, 2013 - 2014.
+* Human Subjects Research IRB, 2013-2014.
 
-* Psychology Department, Colloquium Committee, 2012 - 2013.
+* Psychology Department, Colloquium Committee, 2012-2013.
 
-* Psychology Department, Graduate Admissions Committee, 2012 - 2013.
+* Psychology Department, Graduate Admissions Committee, 2012-2013.
 
-* Psychology Department, Cognitive Search Committee, 2012 - 2013.
+* Psychology Department, Cognitive Search Committee, 2012-2013.
 
-* Psychology Department, Computer Committee, 2012 - 2013.
+* Psychology Department, Computer Committee, 2012-2013.
 
-* Psychology Department, Graduate Program Committee, 2011 - 2012.
+* Psychology Department, Graduate Program Committee, 2011-2012.
 
-* Psychology Department, Graduate Admissions Committee, 2011 - 2012.
+* Psychology Department, Graduate Admissions Committee, 2011-2012.
 
-* Psychology Department, Cognitive Search Committee, 2011 - 2012.
+* Psychology Department, Cognitive Search Committee, 2011-2012.
 
-* Psychology Department, Computer Committee, 2011 - 2012.
+* Psychology Department, Computer Committee, 2011-2012.
 
-* Psychology Department, Cognitive Search Committee, 2010 - 2011.
+* Psychology Department, Cognitive Search Committee, 2010-2011.
 
 ## Miscellaneous:
 

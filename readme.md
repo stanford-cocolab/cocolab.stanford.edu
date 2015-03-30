@@ -71,6 +71,17 @@ Here's how to edit this website!
 		  label: "A description of my new image"
 		  alt: "if you want, you can add a line of alt text. otherwise, the label will be the alt text."
 
+### How to update Noah's CV
+(for now...)
+
+1. make changes to ndg-cv.md
+
+2. have `jekyll`, `jekyll-scholar`, and `pandoc` installed
+
+3. run `sh ./make-cv.bash`
+
+4. `git add ndg-cv.md ndg-cv.pdf`
+
 ## Troubleshooting
 
 If the website does not update within a minute or so of making these changes, this might be because the build script has stopped working. You can talk to Erin about this, or run
