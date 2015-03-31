@@ -32,7 +32,7 @@ Registered students will be graded based on:
 
 Send all assignment submissions and correspondences to psych204-spr1415-staff at lists dot stanford dot edu
 
-Assignments will be graded using the following scheme:
+Assignments should be in .pdf form; fixed-width font appreciated. Assignments will be graded using the following scheme:
 
 After the first attempt of the problem set:
 
