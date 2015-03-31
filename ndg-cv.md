@@ -4,7 +4,7 @@ layout: default
 
 [PDF version](ndg-cv.pdf)
 
-# Noah D. Goodman
+# Curriculum Vitae of Noah D. Goodman
 
 Stanford University <br/>
 Department of Psychology <br/>
@@ -14,20 +14,20 @@ Stanford, CA 94305
 
 Phone: 650-725-2445 <br/>
 Email: `ngoodman@stanford.edu` <br/>
-Homepage: [`http://stanford.edu/~ngoodman`](http://stanford.edu/~ngoodman)
+Homepage: [`noahgoodman.net`](http://noahgoodman.net)
 
 ## Research Interests
 
-Computational models of cognition. <br/>
-Probabilistic programming languages. <br/>
-Natural language semantics and pragmatics. <br/>
-Representation, acquisition, and use of concepts and intuitive theories. <br/>
-Social and affective cognition. <br/>
+Computational models of cognition.  
+Probabilistic programming languages.  
+Natural language semantics and pragmatics.  
+Representation, acquisition, and use of concepts and intuitive theories.  
+Social and affective cognition.  
 Cognitive development.
 
 ## Professional Positions
 
-* Assistant Professor of Cognitive Psychology, Stanford University, 2010 -.<br/>
+* Assistant Professor of Cognitive Psychology, Stanford University, 2010 -.  
   (By courtesy, Assistant Professor of Linguistics and of Computer Science.)
 
 * Research Scientist, Massachusetts Institute of Technology, 2008-2010.
@@ -44,9 +44,8 @@ Cognitive development.
 
 * B.A. Mathematics, Cum Laude, University of Arizona, 1997.
 
-## Grants and Honors
 
-### Grants
+## Grants
 
 * *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017, $$3,311,403 (approx.).
 
@@ -64,7 +63,7 @@ Cognitive development.
 
 * *A Framework for Core Cognition*, ONR, Jul 2009 - Dec 2012 (PI: Tenenbaum).
 
-### Honors
+## Honors
 
 * 2014 Cognitive Science Society paper prize for computational modeling of language.
 
@@ -129,7 +128,7 @@ Cognitive development.
 * Webchurch, MIT-Church, Bher, Cosh.
 Implementations of the Church probabilistic programming language.
 
-* WebPPL.
+* [WebPPL](http://webppl.org).
 A javascript-based probabilistic programming language.
 
 ## Popular Press (selected articles)
@@ -334,7 +333,7 @@ A javascript-based probabilistic programming language.
 
 * Conference Proceedings Reviewer: Cognitive Science. Neural Information Processing Systems. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence. TARK.
 
-* Ad-hoc grant reviewer: NSF.
+* Grant reviewer: NSF (ad-hoc and panelist).
 
 * Co-Organizer: European Summer School of Logic Language and Information, workshop "Formal and Experimental Pragmatics". Tübingen, August 2014.
 
@@ -370,6 +369,8 @@ A javascript-based probabilistic programming language.
 
 ## Outreach
 
+* Guest lecturer, [SAILORS](http://ai.stanford.edu/sailors/) program, Stanford, 2015.
+
 * Studium Generale, Groningen, Netherlands, February 2014.
 
 * Visiting Lecturer (2006, 2008, 2010, 2011, 2014), Canada/USA Mathcamp.
@@ -392,9 +393,11 @@ A javascript-based probabilistic programming language.
 
 ### University Courses
 
+* "Foundations of Cognition" (Psych 205). Stanford. Spring 2015.
+
 * "Probabilistic Models of Social Behavior and Affect" (Psych 241). Stanford. Spring 2014. (Co-taught with J. Zaki, M. Frank.)
 
-* "Computation and Cognition: the Probabilistic Approach" (Psych 204). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013.
+* "Computation and Cognition: the Probabilistic Approach" (Psych 204). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015.
 
 * "Representations of Meaning" (Psych 236 c, Linguist 236). Stanford. Spring 2013.(Co-taught with C. Potts.) 
 
@@ -496,6 +499,6 @@ A javascript-based probabilistic programming language.
 
 ## Miscellaneous:
 
-Citizen of the USA. <br/>
-Member Cognitive Science Society. <br/>
+Citizen of the USA.  
+Member Cognitive Science Society.  
 Member Psychonomic Society.
