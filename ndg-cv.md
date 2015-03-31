@@ -47,19 +47,19 @@ Cognitive development.
 
 ## Grants
 
-* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017, $$3,311,403 (approx.).
+* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017, $3,311,403.
 
-* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016, $3,311,403.
+* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016, $508,640.
 
 * *Development of probmods.org web-book*, Stanford VPOL, 2013, $25,000.
 
-* *A Center for Brains, Minds and Machines: The Science and the Technology of Intelligence*, NSF, Sep 2013 - Sep 2017 (Sub-award from MIT, PI: Poggio), $475,000.
+* *A Center for Brains, Minds and Machines: The Science and the Technology of Intelligence*, NSF, Sep 2013 - Sep 2017 (Sub-award from MIT, PI: Poggio).
 
 * *Grounded language understanding as social cognition*, ONR, Jan 2013 - Jan 2016 (PI: Potts).
 
 * *Embedded Humans: Provably Correct Decision Making for Networks of Humans and Unmanned Systems*, ONR, Feb 2013 - Dec 2017 (Sub-award from Berkeley, PI: Sastry; Stanford PI: Guibas).
 
-* J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016, $$601,367.
+* J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016, $601,367.
 
 * *A Framework for Core Cognition*, ONR, Jul 2009 - Dec 2012 (PI: Tenenbaum).
 
