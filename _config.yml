@@ -26,9 +26,11 @@ scholar:
   sort_by: year
   order: descending
 
+  bibliography_list_tag: ul
+
   source: ./_bibliography
   bibliography: cocolab
-  bibliography_template: <p>{{reference}}</p>
+  bibliography_template: <p>{{reference}} {{entry.annote}}</p>
 
   replace_strings: true
   join_strings:    true

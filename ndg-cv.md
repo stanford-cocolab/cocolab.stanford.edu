@@ -94,29 +94,35 @@ Cognitive development.
 
 ### Peer-reviewed Journal Articles
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @article %}
+{% bibliography --query @article %}
+
+* Giroux, E. & Goodman, N. D. (2006). On the stable equivalence of open books in three-manifolds. *Geometry & Topology*.
+
+* Goodman, N. D. (2005). Overtwisted open books from sobering arcs. *Algebraic and Geometric Topology*.
 
 ### Peer-reviewed Conference Proceedings
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @inproceedings %}
+{% bibliography --query @inproceedings %}
+
+* Goodman, N. D., Griffiths, T. L, Feldman, J., and Tenenbaum, J. B. (2007). A rational analysis of rule-based concept learning. In *Proceedings of the Twenty-Ninth Annual Conference of the Cognitive Science Society*.
+
+* Henderson, L., Goodman, N. D., Tenenbaum, J. B., and Woodward, J. (2007). Frameworks in science: a Bayesian approach. *LSE-Pitt Conference Confirmation, Induction and Science*.
 
 ### Chapters
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @inbook %}
+{% bibliography --query @inbook %}
 
 ### Books (print and web)
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @electronic %}
-{% bibliography --template <p>{{reference}}</p> --style apa --query @book %}
+{% bibliography --query @electronic @book %}
 
 ### Technical Reports
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @techreport %}
+{% bibliography --query @techreport %}
 
 ### Other
 
-{% bibliography --template <p>{{reference}}</p> --style apa --query @unpublished %}
-{% bibliography --template <p>{{reference}}</p> --style apa --query @misc %}
+{% bibliography --query @unpublished @misc %}
 
 ## Software
 
@@ -142,7 +148,7 @@ A javascript-based probabilistic programming language.
 
 * "Solve For Standing Ovation: Should AI Researchers Bother Building A TED-Bot?" Popular Science, March 28, 2014.
 
-* "This Computer Knows When "Literally" Isn’t Literal." Discover, August 5, 2014. 
+* "This Computer Knows When 'Literally' Isn't Literal." Discover, August 5, 2014. 
 
 ## Invited Presentations
 
@@ -188,39 +194,7 @@ A javascript-based probabilistic programming language.
 
 * Linguistics Colloquium, Tübingen, Germany, January 2013.
 
-* Invited Symposium, Budapest CEU Conference on Cognitive Development, Budapest, Hungary, Jan- uary 2013.
-
-* Indiana Cognitive Science Colloquium, Bloomington, IN, November 2012.
-
-* IIIS Machine Learning Seminar, Tsinghua University, Beijing, China, October 2013.
-
-* "Logic across the university" workshop, Tsinghua University, Beijing, China, October 2013.
-
-* Intelligence Initiative Seminar, MIT, Cambridge, MA, September 2013.
-
-* Laboratory for Developmental Science Seminar, Harvard, Cambridge, MA, September 2013.
-
-* CogSci workshop "Producing Referring Expressions", Berlin, Germany, August 2013.
-
-* CogSci workshop "Motivations and Goals in Developing Integrative Models of Human Cognition", Berlin, Germany, August 2013.
-
-* "Rational Choice Workshop", Dept. of Economics, University of Chicago, Chicago, IL, May 2013.
-
-* UT-Austin Linguistics Colloquium, Austin, TX, April 2013.
-
-* UT-Austin Cognitive Systems Forum, Austin, TX, April, 2013.
-
-* Google, Mountain View, CA, April 2013.
-
-* Intel, Sunnyvale, CA, April 2013.
-
-* IMBS workshop "Quantum thinking", Irvine, CA, February 2013.
-
-* Keynote, Principles of Programming Languages (POPL 13 ), Rome, Italy, January 2013.
-
-* Linguistics Colloquium, Tübingen, Germany, January 2013.
-
-* Invited Symposium, Budapest CEU Conference on Cognitive Development, Budapest, Hungary, Jan- uary 2013.
+* Invited Symposium, Budapest CEU Conference on Cognitive Development, Budapest, Hungary, January 2013.
 
 * Indiana Cognitive Science Colloquium, Bloomington, IN, November 2012.
 
@@ -228,7 +202,7 @@ A javascript-based probabilistic programming language.
 
 * Early Career Keynote Speaker, International Conference on Thinking, symposium on Causal Learning & Reasoning, London 2012.
 
-* Early Career Keynote Speaker, International Conference on Thinking, symposium on Inductive Rea- soning, London 2012.
+* Early Career Keynote Speaker, International Conference on Thinking, symposium on Inductive Reasoning, London 2012.
 
 * Reasoning and Interaction workshop, UT-Austin, Austin, TX, June 2012.
 
@@ -284,7 +258,7 @@ A javascript-based probabilistic programming language.
 
 * MIT, Brain and Cognitive Sciences special seminar. Boston, MA, March 2009.
 
-* Neural Information Processing Systems workshop "Probabilistic programming", Whistler, BC, Decem- ber 2008.
+* Neural Information Processing Systems workshop "Probabilistic programming", Whistler, BC, December 2008.
 
 * Neural Information Processing Systems workshop "Human learning meets machine learning". Whistler, BC, December 2008.
 
@@ -296,7 +270,7 @@ A javascript-based probabilistic programming language.
 
 * Center for Advanced Study in the Behavioral Sciences workshop "Early mechanisms of understanding social causation" (Festschrift for John S. Watson). Stanford, CA, April 2008.
 
-* International Conference on Infant Studies invited symposium "From statistical regularities to concep- tual inference". Vancouver, BC, March 2008.
+* International Conference on Infant Studies invited symposium "From statistical regularities to conceptual inference". Vancouver, BC, March 2008.
 
 * ONR Workshop on Computational Social Cognition. MIT, Cambridge, MA, March 2008.
 
@@ -306,9 +280,9 @@ A javascript-based probabilistic programming language.
 
 * AAAI Fall Symposia workshop "Representation Change". Washington, DC, November 2007.
 
-* Society for Philosophy and Psychology. Toronto, ON, June 2007.
+* Society for Philosophy and Psychology. Toronto, ON, June 2007. (Invited commentary on D. Lyons, "Covert Rationality: Overimitation and the Structure of Children’s Causal Learning".)
 
-* (Invited commentary on D. Lyons, "Covert Rationality: Overimitation and the Structure of Children’s Causal Learning".) McDonnell Foundation Workshop on Moral Cognition. Pasadena, CA, May 2007.
+* McDonnell Foundation Workshop on Moral Cognition. Pasadena, CA, May 2007.
 
 * University of Salzburg, Institute fur Psychologie colloquium. Salzburg, AU, April 2007.
 
@@ -316,7 +290,7 @@ A javascript-based probabilistic programming language.
 
 * Rutgers University, Center for Cognitive Science seminar. Piscataway, NJ, March 2007.
 
-* Society for Philosophy and Psychology, Invited symposium on Causality. St. Luis, MO, June 2006.
+* Society for Philosophy and Psychology, Invited symposium on Causality. St. Louis, MO, June 2006.
 
 * University of California, Berkeley, Cognitive Development seminar. Berkeley, CA, 2006.
 
@@ -350,7 +324,9 @@ A javascript-based probabilistic programming language.
 
 * Organizer: Stanford Pragmatics and Social Cognition Workshop, March 2013.
 
-* Co-Organizer: NIPS workshop on Probabilistic Programming, December 2012. Area chair: NIPS 2011. Granada, Spain, December 2011.
+* Co-Organizer: NIPS workshop on Probabilistic Programming, December 2012.
+
+* Area chair: NIPS 2011. Granada, Spain, December 2011.
 
 * Co-Organizer: IPAM summer school "Probabilistic Models of Cognition". Los Angeles, CA, July 2011.
 
@@ -366,7 +342,9 @@ A javascript-based probabilistic programming language.
 
 * Co-Organizer: Eastern Psychology Association, workshop "Social routes to causal knowledge: action, imitation, and pedagogy". Boston, MA, March 2008.
 
-* Co-Organizer: McDonnell Foundation workshop "Explanation and prior knowledge". Cambridge, MA, November 2006. Mentor ( 1999-2001 ), Canada/USA Mathcamp.
+* Co-Organizer: McDonnell Foundation workshop "Explanation and prior knowledge". Cambridge, MA, November 2006.
+
+* Mentor (1999-2001), Canada/USA Mathcamp.
 
 * Co-Organizer and Coordinator of Hiring, Canada/USA Mathcamp 2000, 2001.
 
@@ -374,9 +352,9 @@ A javascript-based probabilistic programming language.
 
 ## Outreach
 
-Studium Generale, Groningen, Netherlands, February 2014.
+* Studium Generale, Groningen, Netherlands, February 2014.
 
-Visiting Lecturer (2006, 2008, 2010, 2011, 2014), Canada/USA Mathcamp.
+* Visiting Lecturer (2006, 2008, 2010, 2011, 2014), Canada/USA Mathcamp.
 
 ## Teaching
 
@@ -386,9 +364,7 @@ Visiting Lecturer (2006, 2008, 2010, 2011, 2014), Canada/USA Mathcamp.
 
 * "Probability in semantics and pragmatics" (with D. Lassiter). European Summer School of Logic Language and Information. Dusseldorf, August 2013.
 
-* "Stochastic lambda calculus and its applications in cognitive science." (Invited course.)
-
-* North-American Summer School of Logic, Language, and Information. Austin, TX, June 2012.
+* "Stochastic lambda calculus and its applications in cognitive science." (Invited course.) North-American Summer School of Logic, Language, and Information. Austin, TX, June 2012.
 
 * "Computational Cognitive Science: Probability, Programs, and the Mind." European Summer School of Logic Language and Information. Copenhagen, August 2010.
 
