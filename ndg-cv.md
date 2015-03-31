@@ -48,9 +48,9 @@ Cognitive development.
 
 ### Grants
 
-* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017, $3,300,000 (approx.).
+* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017, $$3,311,403 (approx.).
 
-* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016, $500,000 (approx.).
+* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016, $3,311,403.
 
 * *Development of probmods.org web-book*, Stanford VPOL, 2013, $25,000.
 
@@ -60,7 +60,7 @@ Cognitive development.
 
 * *Embedded Humans: Provably Correct Decision Making for Networks of Humans and Unmanned Systems*, ONR, Feb 2013 - Dec 2017 (Sub-award from Berkeley, PI: Sastry; Stanford PI: Guibas).
 
-* J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016, $600,000.
+* J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016, $$601,367.
 
 * *A Framework for Core Cognition*, ONR, Jul 2009 - Dec 2012 (PI: Tenenbaum).
 
@@ -148,9 +148,27 @@ A javascript-based probabilistic programming language.
 
 * "Solve For Standing Ovation: Should AI Researchers Bother Building A TED-Bot?" Popular Science, March 28, 2014.
 
-* "This Computer Knows When 'Literally' Isn't Literal." Discover, August 5, 2014. 
+* "This Computer Knows When 'Literally' Isn't Literal." Discover, August 5, 2014.
+
+* "Why Can't Robots Understand Sarcasm?" The Atlantic, January 22, 2015.
 
 ## Invited Presentations
+
+* XPRAG 7, Plenary Speaker, Chicago, IL, July 2015.
+
+* Microsoft Faculty Summit, Seattle, WA, July 2015.
+
+* AAAI symposium on Knowledge Representation and Reasoning, Stanford, CA, March 2015.
+
+* UCSD seminar on Computational and Experimental Pragmatics, San Diego, CA, February 2015.
+
+* Princeton Cognitive Science Colloquium, Princeton, NJ, January 2015.
+
+* University of Maryland Cognitive Science Colloquium, College Park, MD, January 2015.
+
+* University of Maryland NLP Seminar, College Park, MD, January 2015.
+
+* Northwestern University Linguistics Colloquium, Evanston, IL, January 2015.
 
 * Cognitive Science Society invited symposium "Foundations of Social Cognition", Quebec City, Canada, July 2014.
 
@@ -158,7 +176,7 @@ A javascript-based probabilistic programming language.
 
 * DE Shaw Tech Talk, New York, April 2014.
 
-* Cognitive Science Colloquium, University of Arizona, Tucson, Arizona, February 2014.
+* University of Arizona Cognitive Science Colloquium, Tucson, AZ, February 2014.
 
 * AI Colloquium, Groningen, Netherlands, February 2014.
 
@@ -312,7 +330,7 @@ A javascript-based probabilistic programming language.
 
 ## Professional Services
 
-* Journal Reviewer: Science. Cognition. Child Development. Trends in Cognitive Science. Cognitive Science. Memory and Cognition. Cognitive Psychology. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex.
+* Journal Reviewer: Science. Nature. Cognition. Child Development. Trends in Cognitive Science. Cognitive Science. Memory and Cognition. Cognitive Psychology. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex. Decision.
 
 * Conference Proceedings Reviewer: Cognitive Science. Neural Information Processing Systems. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence. TARK.
 
@@ -426,11 +444,11 @@ A javascript-based probabilistic programming language.
 
 * Ian Ballard (Stanford, Neuroscience)
 
-* Eric Miller (Stanford, Psychology)
-
 * Molly Lewis (Stanford, Psychology)
 
-* Tomer Ulman (MIT, BCS)
+* Eric Miller (Stanford, Psychology), completed 2015
+
+* Tomer Ulman (MIT, BCS), completed 2014
 
 * Yi-Ting Yeh (Stanford, Computer Science), completed 2013
 
