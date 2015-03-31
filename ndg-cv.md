@@ -444,11 +444,11 @@ A javascript-based probabilistic programming language.
 
 * Ian Ballard (Stanford, Neuroscience)
 
-* Eric Miller (Stanford, Psychology)
-
 * Molly Lewis (Stanford, Psychology)
 
-* Tomer Ulman (MIT, BCS)
+* Eric Miller (Stanford, Psychology), completed 2015
+
+* Tomer Ulman (MIT, BCS), completed 2014
 
 * Yi-Ting Yeh (Stanford, Computer Science), completed 2013
 
