@@ -164,7 +164,7 @@ Readings:
 
 
 
-## Week of May 26
+## Week of May 19
 Inference algorithms and resource-rational process models.
 
 Readings:
@@ -178,7 +178,7 @@ Readings:
 * Optional: <a href="http://cocosci.berkeley.edu/tom/papers/mechanism.pdf">Exemplar models as a mechanism for performing Bayesian inference.</a> Shi, Griffiths, Feldman, Sanborn (2010).
 
 
-## Week of May 19
+## Week of May 26
 Catch up, non-parametric models, other topics.
 
 <!--
