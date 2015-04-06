@@ -1,2 +1,31 @@
  \usepackage{setspace}
- \usepackage[vmargin=0.5in,hmargin=0.5in]{geometry}
+ \usepackage{geometry}
+ 
+ \geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{Noah D. Goodman}
+\thispagestyle{empty}
+
+%% Custom section fonts
+%\usepackage{sectsty}
+%\sectionfont{\rmfamily\mdseries\Large}
+%\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+ 
+ % Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
