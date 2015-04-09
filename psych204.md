@@ -101,7 +101,7 @@ Readings:
 * [Models for sequences of observations](http://probmods.org/observing-sequences.html)
 * [Bayesian data analysis]()
 * [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
-* Optional: [Chapter 1 of  "Vision."](restrictedpapers/MarrCh1.pdf) Marr (1982).
+* Optional: [Chapter 1 of  "Vision."](http://ling.umd.edu/~idsardi/728/Marr/Marr%20%27Vision%27%20Ch%201.pdf) Marr (1982).
 * Optional: [Ten Years of Rational Analysis.](restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
 * Optional: [The Knowledge Level.](restrictedpapers/Newell1982.pdf) Newell (1982).
 
