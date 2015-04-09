@@ -100,7 +100,7 @@ Readings:
 
 * [Models for sequences of observations](http://probmods.org/observing-sequences.html)
 * [Bayesian data analysis]()
-* [Chapter 1 of "The adaptive character of thought."](restrictedpapers/Anderson90.pdf) Anderson (1990).
+* [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
 * Optional: [Chapter 1 of  "Vision."](restrictedpapers/MarrCh1.pdf) Marr (1982).
 * Optional: [Ten Years of Rational Analysis.](restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
 * Optional: [The Knowledge Level.](restrictedpapers/Newell1982.pdf) Newell (1982).
@@ -164,7 +164,7 @@ Readings:
 
 
 
-## Week of May 26
+## Week of May 19
 Inference algorithms and resource-rational process models.
 
 Readings:
@@ -178,7 +178,7 @@ Readings:
 * Optional: <a href="http://cocosci.berkeley.edu/tom/papers/mechanism.pdf">Exemplar models as a mechanism for performing Bayesian inference.</a> Shi, Griffiths, Feldman, Sanborn (2010).
 
 
-## Week of May 19
+## Week of May 26
 Catch up, non-parametric models, other topics.
 
 <!--

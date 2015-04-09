@@ -9,7 +9,7 @@ layout: default
 
 Assistant Professor of [Psychology](https://www.stanford.edu/dept/psychology/), [Computer Science](http://www-cs.stanford.edu/) (by courtesy), and [Linguistics](http://linguistics.stanford.edu/) (by courtesy), at [Stanford University](http://stanford.edu).
 
-[Curriculum Vitae](ndg-cv.pdf)
+[Curriculum Vitae](ndg-cv.html)
 
 [Scholar metrics and bibliography](https://scholar.google.com/citations?user=OUpIbcQAAAAJ)
 
@@ -32,12 +32,12 @@ Office: 356 Jordan Hall, Stanford.
 
 ### This year
 
-I'll be teaching [Psych 204](psych204.html) and Psych 205 in Spring 2015.
+I'll be teaching [Psych 204](psych204.html) and [Psych 205](https://docs.google.com/document/d/1KV4VaA_ixBJO6JtNe5yt9ckKpyzA_Vhme84SCxYUaNE/edit?usp=sharing) in Spring 2015.
 
 
 ### Computation and Cognition: the Probabilistic Approach (Psych 204)
 
-Taught: Fall 2013, Fall 2012, Winter 2012, Spring 2011.  
+Taught: Spring 2015, Fall 2013, Fall 2012, Winter 2012, Spring 2011.  
 [Website](psych204.html) 
 (and [Old Website](http://www.stanford.edu/~ngoodman/psych204/)).
 
