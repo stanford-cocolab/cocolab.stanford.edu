@@ -84,7 +84,7 @@ Readings:
 * [Patterns of Inference](http://probmods.org/patterns-of-inference.html)
 * [Predicting the future.](http://cocosci.berkeley.edu/tom/papers/predictions.pdf) Griffiths and Tenenbaum (2006).
 * Optional: [Causal Reasoning Through Intervention.](http://www.ucl.ac.uk/lagnado-lab/publications/lagnado/intervention%20hagmayer%20et%20al.pdf) Hagmayer, Sloman, Lagnado, and Waldmann (2006).
-* Optional: [Children's causal inferences from indirect evidence: Backwards blocking and Bayesian reasoning in preschoolers.](restrictedpapers/Sobel2004.pdf) Sobel, Tenenbaum, Gopnik (2004).
+* Optional: [Children's causal inferences from indirect evidence: Backwards blocking and Bayesian reasoning in preschoolers.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Sobel2004.pdf) Sobel, Tenenbaum, Gopnik (2004).
 * Optional: [Bayesian models of object perception.](http://vision.psych.umn.edu/users/kersten/kersten-lab/papers/KerstenYuilleApr2003.pdf) Kersten and Yuille (2003).
 
 
@@ -102,8 +102,8 @@ Readings:
 * [Bayesian data analysis]()
 * [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
 * Optional: [Chapter 1 of  "Vision."](http://ling.umd.edu/~idsardi/728/Marr/Marr%20%27Vision%27%20Ch%201.pdf) Marr (1982).
-* Optional: [Ten Years of Rational Analysis.](restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
-* Optional: [The Knowledge Level.](restrictedpapers/Newell1982.pdf) Newell (1982).
+* Optional: [Ten Years of Rational Analysis.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
+* Optional: [The Knowledge Level.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Newell1982.pdf) Newell (1982).
 
 
 
@@ -213,7 +213,7 @@ Each project team will present a short summary. We'll go in reverse-alphabetical
  <ul>
  <li> ProbMods wiki: <a href="http://projects.csail.mit.edu/church/wiki/Hierarchical_Models"> Hierarchical Models</a>
  <li> ProbMods wiki: <a href="http://projects.csail.mit.edu/church/wiki/Mixture_Models"> Mixture Models</a>
- <li> ProbMods book: <a href="restrictedpapers/ch9-main.pdf">Hierarchical Bayes</a> (<a href="restrictedpapers/probmodscomments.html">feedback</a>)
+ <li> ProbMods book: <a href="https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/ch9-main.pdf">Hierarchical Bayes</a> (<a href="restrictedpapers/probmodscomments.html">feedback</a>)
  <li> <a href="http://www.psy.cmu.edu/~ckemp/papers/KempPT06.pdf">Learning overhypotheses.</a> Kemp, Perfors, and Tenenbaum (2006).
  <li> Optional: <a>Object name learning provides on-the-job training for attention.</a> Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
  </ul>
