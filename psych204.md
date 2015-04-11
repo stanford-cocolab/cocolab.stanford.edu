@@ -99,7 +99,7 @@ Homework: Excercises on Bayesian data analysis.
 Readings:
 
 * [Models for sequences of observations](http://probmods.org/observing-sequences.html)
-* [Bayesian data analysis]()
+* [Bayesian data analysis](http://forestdb.org/models/bayesian-data-analysis.html)
 * [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
 * Optional: [Chapter 1 of  "Vision."](http://ling.umd.edu/~idsardi/728/Marr/Marr%20%27Vision%27%20Ch%201.pdf) Marr (1982).
 * Optional: [Ten Years of Rational Analysis.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
