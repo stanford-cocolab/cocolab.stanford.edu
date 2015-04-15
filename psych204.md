@@ -58,7 +58,7 @@ There are no formal pre-requisites for this class. However, this is a graduate-l
 ##Week of March 31
 Introduction. Simulation, computation, and generative models. Probability and belief.
 
-Homework: Excercises on Scheme Basics and Generative Models.
+Homework: Exercises on Scheme Basics and Generative Models.
 
 Readings:
 
@@ -76,7 +76,7 @@ Readings:
 ##Week of April 7
 Conditioning and inference. Causal vs. statistical dependency. Patterns of inference. 
 
-Homework: Excercises on Conditioning and Patterns of Inference.
+Homework: Exercises on Conditioning and Patterns of Inference.
 
 Readings:
 
@@ -92,7 +92,7 @@ Readings:
 ## Week of April 14
 Sequences of observations. Bayesian data analysis. Discussion on levels of analysis.
 
-Homework: Excercises on Bayesian data analysis.
+Homework: Exercises on Bayesian data analysis.
 
 <!--[Mini-project](https://probmods.org/mini-projects.html#explaining-away) -->
 
@@ -110,7 +110,7 @@ Readings:
 ## Week of April 21
 Social cognition.
 
-Homework: Excercises on Inference about Inference, also work on [project proposals]().
+Homework: Exercises on Inference about Inference, also work on project proposals (see below).
 
 Readings:
 
@@ -122,8 +122,7 @@ Readings:
 
 
 ## Week of April 28
-Natural language pragmatics and semantics.
-<p><a href="projects.html">Project proposals</a> due Friday!</p>
+Natural language pragmatics and semantics. Project proposals due on Friday!
 
 Readings:
 
@@ -131,7 +130,7 @@ Readings:
 * [Quantifying pragmatic inference in language games.](http://stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf) Frank and Goodman (2012).
 * Something on noisy chanels.
 * Optional: [Teaching games: statistical sampling assumptions for learning in pedagogical situations.](http://stanford.edu/~ngoodman/papers/pedagogicalSampling.pdf) Shafto and Goodman (2008).
-* Optional: <a href="http://stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf">Knowledge and implicature: Modeling language understanding as social cognition.</a> Goodman and Stuhlmueller (2013).
+* Optional: [Knowledge and implicature: Modeling language understanding as social cognition.](http://stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) Goodman and Stuhlmueller (2013).
 
 
 
@@ -149,7 +148,7 @@ Readings:
 ## Week of May 12
 Hierarchical models. Mixture models. Occam's razor.
 
-Project update (preliminary paper) due on Friday at midnight!
+Project update (preliminary paper) due on Friday!
 
 Readings:
 
