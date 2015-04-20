@@ -119,6 +119,8 @@ Readings:
 * Optional: [Cause and intent: Social reasoning in causal learning.](http://stanford.edu/~ngoodman/papers/SocCause_v1.pdf) Goodman, Baker, Tenenbaum (2009).
 * Optional: [Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs.](http://stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf) Stuhlmueller and Goodman (2013).
 * Optional: [Young children use statistical sampling to infer the preferences of other people.](https://courses.cit.cornell.edu/tk397/ECCL/Publications_files/Psychological%20Science-2010-Kushnir-0956797610376652.pdf) Kushnir, Xu, and Wellman (2010).
+* Optional: [Teaching games: statistical sampling assumptions for learning in pedagogical situations.](http://stanford.edu/~ngoodman/papers/pedagogicalSampling.pdf) Shafto and Goodman (2008).
+* Optional: [A rational account of pedagogical reasoning: Teaching by, and learning from, examples.](http://www.stanford.edu/~ngoodman/papers/shaftogg14.pdf) Shafto, Goodman, and Griffiths (2014).
 
 
 ## Week of April 28
@@ -128,9 +130,9 @@ Readings:
 
 * [Probabilistic Semantics and Pragmatics: Uncertainty in Language and Thought](http://www.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) Goodman and Lassiter (2015).
 * [Quantifying pragmatic inference in language games.](http://stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf) Frank and Goodman (2012).
-* Something on noisy chanels.
-* Optional: [Teaching games: statistical sampling assumptions for learning in pedagogical situations.](http://stanford.edu/~ngoodman/papers/pedagogicalSampling.pdf) Shafto and Goodman (2008).
 * Optional: [Knowledge and implicature: Modeling language understanding as social cognition.](http://stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) Goodman and Stuhlmueller (2013).
+* Optional: [Nonliteral understanding of number words.](http://cocolab.stanford.edu/papers/PNAS-2014-KaoEtAl.pdf) Kao, Wu, Bergen, Goodman (2014). (See also [the model on Forest](http://forestdb.org/models/hyperbole.html).)
+* Optional: [The strategic use of noise in pragmatic reasoning.](http://cocolab.stanford.edu/papers/PragmaticProsody.pdf) Bergen and Goodman (to appear).
 
 
 
