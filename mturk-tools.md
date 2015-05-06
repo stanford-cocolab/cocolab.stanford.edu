@@ -13,9 +13,9 @@ We write our experiments as webpages, and participants see this as a frame withi
 
 **Note: read all of the instructions here!! (Amazon's instructions are not very good.)**
 
-1.  Download Amazon's [Command Line Tools](//aws.amazon.com/developertools/Amazon-Mechanical-Turk/694)
+1.  Download Amazon's [Command Line Tools](//requester.mturk.com/developer/tools/clt)
 
-    Open the file GetStarted.html included in the download. Follow the instructions to create a mTurk requester account, sign up for Amazon Web Services, and install the Command Line Tools.
+    Follow the "Steps to Getting Started" instructions to create a mTurk requester account, sign up for Amazon Web Services, and install the Command Line Tools.
 
     Troubleshooting notes for this step:
 	* follow steps 2-3 on this page *before* testing that CLT is working.
