@@ -166,32 +166,36 @@ Readings:
 
 
 ## Week of May 19
-Inference algorithms and resource-rational process models.
+Inference algorithms, PPL implementation
 
 Readings:
 
+* [DIPPL: Exploring the executions of a random computation](http://dippl.org/chapters/03-enumeration.html)
 * [Algorithms for Inference](http://probmods.org/inference-process.html)
+* [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
+
+
+## Week of May 26
+Resource-rational process models. Other topics.
+
 * [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
-* <a href="http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf">Burn-in, bias, and the rationality of anchoring.</a> Lieder, Griffiths, and Goodman (2012).
+* [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
 * Optional: <a href="http://www.princeton.edu/~sjgershm/GershmanVulTenenbaum09.pdf">Perceptual multistability as Markov chain Monte Carlo inference.</a> Gershman, Vul, Tenenbaum (2009).
 * Optional: <a href="http://cocosci.berkeley.edu/tom/papers/rational1.pdf">A more rational model of categorization.</a> Sanborn, Griffiths,  Navarro (2006).
 * Optional: <a href="http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf">Theory acquisition as stochastic search.</a> Ullman, Goodman, and Tenenbaum (2010).
 * Optional: <a href="http://cocosci.berkeley.edu/tom/papers/mechanism.pdf">Exemplar models as a mechanism for performing Bayesian inference.</a> Shi, Griffiths, Feldman, Sanborn (2010).
-
-
-## Week of May 26
-Catch up, non-parametric models, other topics.
-
-<!--
-<li> <a href="http://www.psy.cmu.edu/~ckemp/papers/KempTGYU06.pdf">Learning systems of concepts with an infinite relational model.</a> Kemp, C., Tenenbaum, J. B., Griffiths, T. L., Yamada, T., Ueda, N. (2006).
-<li> Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/kempgt10_learningtolearncausalmodels.pdf">Learning to learn causal models.</a> Kemp, C., Goodman, N., Tenenbaum, J. (2010).
--->
 
 ## June 2
 Project presentations!
 
 Each project team will present a short summary. We'll go in reverse-alphabetical order.
 
+
+
+<!--
+<li> <a href="http://www.psy.cmu.edu/~ckemp/papers/KempTGYU06.pdf">Learning systems of concepts with an infinite relational model.</a> Kemp, C., Tenenbaum, J. B., Griffiths, T. L., Yamada, T., Ueda, N. (2006).
+<li> Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/kempgt10_learningtolearncausalmodels.pdf">Learning to learn causal models.</a> Kemp, C., Goodman, N., Tenenbaum, J. (2010).
+-->
 
 <!--
  
