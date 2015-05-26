@@ -188,6 +188,10 @@ Resource-rational process models. Other topics.
 ## June 2
 Project presentations!
 
+## June 4
+Project presentations (continued)!
+
+
 Each project team will present a short summary. We'll go in reverse-alphabetical order.
 
 
@@ -314,9 +318,19 @@ Email your preliminary report to the instructor as a PDF file by midnight on 5/1
 
 ## Project presentation
 
-Each person or team will have 10 minutes to present their project. We will go in
-reverse-alphabetical order. The presentations should describe your question,
+Each person or team will have **5** minutes to present their project. We will go in
+reverse-alphabetical order (last name). The presentations should describe your question,
 methods, and results at a high level.
+
+Presentations should be in Google Drive Presentation format.
+
+Students should upload their presentation (in google presentations format) [here](https://drive.google.com/folderview?id=0BxDiKG5ZeJxeflE5V09OV1RZWVE2WngybERoODBMV2duNWIzcnZhWFdFMVFCSmRHWHZ4SDQ&usp=sharing)
+
+For students who don’t like working in Google Presentations, you can do your presentation in powerpoint and convert it. Google drive can upload (and convert) slides from the following formats:
+
+.ppt (if newer than Microsoft® Office 95), .pptx, .pptm, .pps, .ppsx, .ppsm, .pot, .potx, .potm, .odp
+
+Students should check their conversion once they’ve uploaded it for errors. Presumably, one could also do the slides in Keynote, convert to PPT, and then convert to Google Slides, but we suspect the errors would compound.
 
 
 ## Project writeup
