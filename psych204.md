@@ -166,32 +166,40 @@ Readings:
 
 
 ## Week of May 19
-Inference algorithms and resource-rational process models.
+Inference algorithms, PPL implementation
 
 Readings:
 
+* [DIPPL: Exploring the executions of a random computation](http://dippl.org/chapters/03-enumeration.html)
 * [Algorithms for Inference](http://probmods.org/inference-process.html)
+* [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
+
+
+## Week of May 26
+Resource-rational process models. Other topics.
+
 * [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
-* <a href="http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf">Burn-in, bias, and the rationality of anchoring.</a> Lieder, Griffiths, and Goodman (2012).
+* [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
 * Optional: <a href="http://www.princeton.edu/~sjgershm/GershmanVulTenenbaum09.pdf">Perceptual multistability as Markov chain Monte Carlo inference.</a> Gershman, Vul, Tenenbaum (2009).
 * Optional: <a href="http://cocosci.berkeley.edu/tom/papers/rational1.pdf">A more rational model of categorization.</a> Sanborn, Griffiths,  Navarro (2006).
 * Optional: <a href="http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf">Theory acquisition as stochastic search.</a> Ullman, Goodman, and Tenenbaum (2010).
 * Optional: <a href="http://cocosci.berkeley.edu/tom/papers/mechanism.pdf">Exemplar models as a mechanism for performing Bayesian inference.</a> Shi, Griffiths, Feldman, Sanborn (2010).
 
+## June 2
+Project presentations!
 
-## Week of May 26
-Catch up, non-parametric models, other topics.
+## June 4
+Project presentations (continued)!
+
+
+Each project team will present a short summary. We'll go in reverse-alphabetical order.
+
+
 
 <!--
 <li> <a href="http://www.psy.cmu.edu/~ckemp/papers/KempTGYU06.pdf">Learning systems of concepts with an infinite relational model.</a> Kemp, C., Tenenbaum, J. B., Griffiths, T. L., Yamada, T., Ueda, N. (2006).
 <li> Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/kempgt10_learningtolearncausalmodels.pdf">Learning to learn causal models.</a> Kemp, C., Goodman, N., Tenenbaum, J. (2010).
 -->
-
-## June 2
-Project presentations!
-
-Each project team will present a short summary. We'll go in reverse-alphabetical order.
-
 
 <!--
  
@@ -310,9 +318,19 @@ Email your preliminary report to the instructor as a PDF file by midnight on 5/1
 
 ## Project presentation
 
-Each person or team will have 10 minutes to present their project. We will go in
-reverse-alphabetical order. The presentations should describe your question,
+Each person or team will have **5** minutes to present their project. We will go in
+reverse-alphabetical order (last name). The presentations should describe your question,
 methods, and results at a high level.
+
+Presentations should be in Google Drive Presentation format.
+
+Students should upload their presentation (in google presentations format) [here](https://drive.google.com/folderview?id=0BxDiKG5ZeJxeflE5V09OV1RZWVE2WngybERoODBMV2duNWIzcnZhWFdFMVFCSmRHWHZ4SDQ&usp=sharing)
+
+For students who don’t like working in Google Presentations, you can do your presentation in powerpoint and convert it. Google drive can upload (and convert) slides from the following formats:
+
+.ppt (if newer than Microsoft® Office 95), .pptx, .pptm, .pps, .ppsx, .ppsm, .pot, .potx, .potm, .odp
+
+Students should check their conversion once they’ve uploaded it for errors. Presumably, one could also do the slides in Keynote, convert to PPT, and then convert to Google Slides, but we suspect the errors would compound.
 
 
 ## Project writeup
