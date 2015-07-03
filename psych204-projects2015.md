@@ -27,6 +27,9 @@ layout: default
 | <a href="./class/psych204/spring2015/Simon_Hickcox_Weilder_Report.pdf"> Anchoring on Extreme Values </a> | Harry Simon, Jocelyn Hickcox, Gideon Weilder |
 | <a href="./class/psych204/spring2015/Velez_Report.pdf"> Learning What Others Like: Preference Learning as a Mixed Multinomial Logit Model </a> | Natalia Velez |
 | <a href="./class/psych204/spring2015/Wertheimer_Report.pdf"> Bayesian Analysis for Probability-Matching </a> | Davis Wertheimer | 
+| <a href="./class/psych204/spring2015/Yoon_Report.pdf"> Understanding of linguistic politeness </a> | Erica Yoon | 
+| <a href="./class/psych204/spring2015/Yorke_Sierra_Sekhri_Report.pdf"> "The Dress" – Inferring Visual Perception Using Church </a> | Alex Yorke, Lily Sierra, Aaron Sekhri | 
+| <a href="./class/psych204/spring2015/Yuan_Report.pdf"> Generating Random Sequences For You: Modeling Subjective Randomness in Competitive Games </a> | Arianna Yuan | 
  -->
 
 <table>
@@ -109,9 +112,17 @@ layout: default
 <td align="left"><a href="./class/psych204/spring2015/Wertheimer_Report.pdf"> Bayesian Analysis for Probability-Matching </a></td>
 <td align="left">Davis Wertheimer</td>
 </tr>
+<tr class="odd">
+<td align="left"><a href="./class/psych204/spring2015/Yoon_Report.pdf"> Understanding of linguistic politeness </a></td>
+<td align="left">Erica Yoon</td>
+</tr>
+<tr class="even">
+<td align="left"><a href="./class/psych204/spring2015/Yorke_Sierra_Sekhri_Report.pdf"> "The Dress" – Inferring Visual Perception Using Church </a></td>
+<td align="left">Alex Yorke, Lily Sierra, Aaron Sekhri</td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="./class/psych204/spring2015/Yuan_Report.pdf"> Generating Random Sequences For You: Modeling Subjective Randomness in Competitive Games </a></td>
+<td align="left">Arianna Yuan</td>
+</tr>
 </tbody>
 </table>
-
-
-
-
