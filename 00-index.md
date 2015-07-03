@@ -10,6 +10,12 @@ Please use the links at the top to navigate.
 
 ### News
 
+* We held a CoCoLab hackathon! Here are the [results]({{site.url}}{{site.baseurl}}/hackathon.html).
+
+* Welcome to our new(ish) post-docs [Andreas Stuhlmüller]({{site.url}}{{site.baseurl}}/people.html#Andreas Stuhlmüller) and [Long Ouyang]({{site.url}}{{site.baseurl}}/people.html#Long Ouyang) and new(ish) grad student [Erin Bennett]({{site.url}}{{site.baseurl}}/people.html#Erin Bennett). 
+
+* Congratulations to [Long Ouyang]({{site.url}}{{site.baseurl}}/people.html#Long Ouyang) on his defense!
+
 * Welcome to our new members [Greg Scontras]({{site.url}}{{site.baseurl}}/people.html#Greg Scontras) and [Robert X.D. Hawkins]({{site.url}}{{site.baseurl}}/people.html#Robert X.D. Hawkins)!
 
 * [Justine Kao]({{site.url}}{{site.baseurl}}/people.html#Justine Kao)'s paper [Nonliteral understanding of number words](//cocolab.stanford.edu/papers/PNAS-2014-KaoEtAl.pdf) has just been published in PNAS! (Stanford News article [here](//news.stanford.edu/news/2014/august/language-figurative-goodman-080614.html))

@@ -28,4 +28,5 @@ permalink: resources.html
 ## Models
 
 * [Forest - a repository for generative models](//forestdb.org/)
-* Download a local version of [webchurch](//github.com/probmods/webchurch) (detailed in Probabilistic Models of Cognition)
+* Download a local version of [webchurch](http://github.com/probmods/webchurch) (detailed in Probabilistic Models of Cognition)
+* Download a local version of [webPPL](http://github.com/probmods/webppl) (detailed in The Design and Implementation of Probabilistic Programming Languages)

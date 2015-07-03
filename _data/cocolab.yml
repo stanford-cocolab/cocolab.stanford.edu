@@ -66,8 +66,6 @@
           Philosophy from Boston University. I then crossed the Charles River to
           join the Department of Linguistics at Harvard University, where I
           received my PhD in 2014.
-- role: Graduate Students
-  people:
     - name: Andreas Stuhlm&uuml;ller
       img: andreas.jpg
       webpage: //stuhlmueller.org/
@@ -89,6 +87,8 @@
           improve education. Using behavioral experiments and computational
           models, I investigate how people learn and generalize concepts and
           skills.
+- role: Graduate Students
+  people:
     - name: Daniel Hawthorne
       img: danH.jpg
       bio:
@@ -148,19 +148,14 @@
           experimental methods to investigate these questions, including game
           theory, information theory, artificial intelligence, pragmatics, and
           traditional cognitive psychology.
-- role: Research Staff
-  people:
     - name: Erin Bennett
       img: erin.jpg
       bio:
         - >
-          I'm having a great time, working on a variety of projects exploring
-          the connections between intuitive theories, explanation, and language
-          understanding, and also organizing and maintaining resources for the
-          lab. In the process, I'm learning lots of new research and programming
-          skills.
-    - name: Julius Cheng
-      img: julius.jpg
+          I'm interested in language, explanation, and inference. I use
+          computational models and behavioral experiments to study how
+          people communicate to one another their beliefs about
+          the state and causal mechanisms in the world.
 - role: Alumni
   people:
     - name: Daniel Lassiter
