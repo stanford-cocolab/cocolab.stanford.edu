@@ -42,6 +42,8 @@ Plot ERPs with continuous support as binned histograms. Also, when items in the 
 ## Symbolic Regression in WebPPL
 *Daniel Ly*
 
+The "symbolic regression using probabilistic programming languages" hackathon project focused on inferring the structure and parameters of free form equations using the probabilistic programming language webppl. Representing equations as combinations of mathematical operators, modifications of mathematical expressions are proposed using probabilistic inference and scored based on its ability to fit a given dataset. Although symbolic regression inference is typically computed using an evolutionary computational algorithm, the purpose of this project was to develop a platform for evaluating the performance of probabilistic inference in this domain.
+
 ## Streaming in WebPPL
 *Siddharth Narayanaswamy*
 
