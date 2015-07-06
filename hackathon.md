@@ -11,7 +11,7 @@ We held a hackathon on July 1, 2015. Participants chose projects tangentially re
 
 An app that tracks how you're feeling throughout the day, so that eventually you can correlate things that you do during the day with how you feel. It uses [webppl.js](https://github.com/probmods/webppl) to send notifications at random intervals.
 
-Here's the web interface to the [SampleMe](http://sampleme.meteor.com/) app! You can also install the corresponding app on your smartphone.
+Here's the web interface to the [SampleMe](http://sampleme.io/) app! You can also install the corresponding app on your smartphone.
 
 Future extensions could request more information from users so that the app itself can make inferences (also using WebPPL) about what things make you feel good, or at least track some of the things that *might* make you feel good.
 
