@@ -329,7 +329,7 @@ A javascript-based probabilistic programming language.
 
 ## Professional Services
 
-* Journal Reviewer: Science. Nature. Cognition. Child Development. Trends in Cognitive Science. Cognitive Science. Memory and Cognition. Cognitive Psychology. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex. Decision.
+* Journal Reviewer: Science. Nature. Cognition. Child Development. Trends in Cognitive Science. Cognitive Science. Memory and Cognition. Cognitive Psychology. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex. Decision. Natural Language Semantics.
 
 * Conference Proceedings Reviewer: Cognitive Science. Neural Information Processing Systems. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence. TARK.
 
