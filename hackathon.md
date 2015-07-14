@@ -15,10 +15,17 @@ Here's the web interface to the [SampleMe](http://sampleme.io/) app! You can als
 
 Future extensions could request more information from users so that the app itself can make inferences (also using WebPPL) about what things make you feel good, or at least track some of the things that *might* make you feel good.
 
-## Coffee Model and Change Detection
+## Inference for SampleMe
 *Michael Henry Tessler and Noah Goodman*
 
-Examples of WebPPL inference to complement the SampleMe app. A model for [detecting changes](https://github.com/stuhlmueller/sampleme/blob/master/models/detectChanges.wppl) in SampleMe data. And a [coffee model](https://github.com/stuhlmueller/sampleme/blob/master/models/coffeeRegression.wppl) for figuring out whether coffee makes me happier. (Even more models [here](https://github.com/stuhlmueller/sampleme/tree/master/models))
+Examples of WebPPL inference to complement the SampleMe app.
+
+<!-- And a [coffee model](https://github.com/stuhlmueller/sampleme/blob/master/models/coffeeRegression.wppl) for figuring out whether coffee makes me happier. -->
+<!-- I implemented a few data analysis models that approach general problems relating to Andreas’s SampleMe project. -->
+
+One of the problems is: when to ping the user for another data point (e.g. when to ask "how are you feeling", given some history of responses). To address this, MH wrote down a simple "[change detection](https://github.com/stuhlmueller/sampleme/blob/master/models/detectChanges.wppl)"" model, that infers when a change has occurred (or hasn’t occurred) from time-series data. From this, we can quantify uncertainty about future time points (e.g. if a change has occurred recently, we will be less uncertain about the value of the next time point than if we are still expecting a change to occur). Using the variance of the posterior predictive, we could conceivably decide when is a good future time to ask a question (e.g. when our uncertainty exceeds some threshold).
+
+Even more models [here](https://github.com/stuhlmueller/sampleme/tree/master/models).
 
 ## Color-Me-Text
 *Greg Scontras, Justine Kao, and Desmond Ong*
@@ -37,7 +44,7 @@ Make it so that it's easy to write webPPL modules and manage dependencies with a
 ## Improving visualizations in WebPPL
 *Erin Bennett*
 
-Plot ERPs with continuous support as binned histograms. Also, when items in the support are objects consisting of several different continuous values, plot marginals and scatterplots. Still needs to be integrated with the rest of webppl. Some code for graphing [here](https://github.com/erindb/webppl-viz)
+Plot ERPs with continuous support as binned histograms. Also, when items in the support are objects consisting of several different continuous values, plot marginals and scatterplots. Here's the [package so far](https://github.com/erindb/webppl-viz) and some [examples](http://web.stanford.edu/~erindb/webppl-viz/).
 
 ## Symbolic Regression in WebPPL
 *Daniel Ly*
