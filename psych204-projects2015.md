@@ -97,7 +97,7 @@ layout: default
 <td align="left">Ben Peloquin </a></td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="./class/psych204/spring2015/Razavi_Report.pdf"> Humor in Cartoon Captions </a></td>
+<td align="left">  Humor in Cartoon Captions </td>
 <td align="left">Pedram Razavi</td>
 </tr>
 <tr class="even">
