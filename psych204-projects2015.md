@@ -53,7 +53,7 @@ layout: default
 <td align="left">Jack Cook, Maggie Goulder, Virginia Steindorf</td>
 </tr>
 <tr class="even">
-<td align="left"><a href="./class/psych204/spring2015/Dalder_Yang_Report.pdf"> The Effect of Container Context on the Interpretation of &quot;full,&quot; a Gradable Adjective </a></td>
+<td align="left"><a href="./class/psych204/spring2015/Dalder_Yang_Report.pdf"> The Effect of Container Context on the Interpretation of &quot;full,&quot; a Gradable Adjective </a> <br><br></td>
 <td align="left">Jacob Dalder, April Yang  <br><br></td>
 </tr>
 <tr class="odd">
@@ -69,7 +69,7 @@ layout: default
 <td align="left">Bogac Kerem Goskel</td>
 </tr>
 <tr class="even">
-<td align="left"><a href="./class/psych204/spring2015/Hawkins_Report.pdf"> What do newspapers, watches, credit cards, and liquors bottles have in common? A computational exploration of question behavior.</a></td>
+<td align="left"><a href="./class/psych204/spring2015/Hawkins_Report.pdf"> What do newspapers, watches, credit cards, and liquors bottles have in common? A computational exploration of question behavior.</a> <br><br></td>
 <td align="left">Robert Hawkins <br><br></td>
 </tr>
 <tr class="odd">
@@ -85,7 +85,7 @@ layout: default
 <td align="left">Matthew Levy, Colton Dempsey</td>
 </tr>
 <tr class="even">
-<td align="left"><a href="./class/psych204/spring2015/Ma_Report.pdf"> Subjective Randomness: Pitch Contour as a Signal for Randomness in Musical Melodies </a></td>
+<td align="left"><a href="./class/psych204/spring2015/Ma_Report.pdf"> Subjective Randomness: Pitch Contour as a Signal for Randomness in Musical Melodies </a><br><br></td>
 <td align="left">George Ma <br><br></td>
 </tr>
 <tr class="odd">
