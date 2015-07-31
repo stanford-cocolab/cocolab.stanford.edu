@@ -41,7 +41,7 @@ layout: default
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left"><a href="./class/psych204/spring2015/Berkenkamp_Evered_Kadisha_Report.pdf"> Sentence Final Punctuation and Affect in Text Message Communication </a></td>
+<td align="left"><!-- <a href="./class/psych204/spring2015/Berkenkamp_Evered_Kadisha_Report.pdf"> --> Sentence Final Punctuation and Affect in Text Message Communication <!-- </a> --></td>
 <td align="left">Jenna Berkenkamp, Anne Evered, Liana Kadisha</td>
 </tr>
 <tr class="even">
@@ -54,8 +54,8 @@ layout: default
 </tr>
 <tr class="even">
 <td align="left"><a href="./class/psych204/spring2015/Dalder_Yang_Report.pdf"> The Effect of Container Context on the Interpretation of &quot;full,&quot; a Gradable Adjective </a></td>
-<td align="left">Jacob Dalder, April Yang</td>
-</tr><br><br>
+<td align="left">Jacob Dalder, April Yang  <br><br></td>
+</tr>
 <tr class="odd">
 <td align="left"><a href="./class/psych204/spring2015/Eisenberg_Messina_Report.pdf"> Knowing how to act in an uncertain world: a model of task-set inference </a></td>
 <td align="left">Ian Eisenberg, Marisa Messina</td>
@@ -70,8 +70,8 @@ layout: default
 </tr>
 <tr class="even">
 <td align="left"><a href="./class/psych204/spring2015/Hawkins_Report.pdf"> What do newspapers, watches, credit cards, and liquors bottles have in common? A computational exploration of question behavior.</a></td>
-<td align="left">Robert Hawkins</td>
-</tr><br><br>
+<td align="left">Robert Hawkins <br><br></td>
+</tr>
 <tr class="odd">
 <td align="left"><a href="./class/psych204/spring2015/Lee_Report.pdf"> Bayesian Network Properties With Complex Network Topologies </a></td>
 <td align="left">Howon Lee</td>
@@ -86,8 +86,8 @@ layout: default
 </tr>
 <tr class="even">
 <td align="left"><a href="./class/psych204/spring2015/Ma_Report.pdf"> Subjective Randomness: Pitch Contour as a Signal for Randomness in Musical Melodies </a></td>
-<td align="left">George Ma</td>
-</tr><br><br>
+<td align="left">George Ma <br><br></td>
+</tr>
 <tr class="odd">
 <td align="left"><a href="./class/psych204/spring2015/Nam_Report.pdf"> Comparing the Believability of Emotion and Event Utterances </a></td>
 <td align="left">Julie Nam</td>
@@ -102,8 +102,8 @@ layout: default
 </tr>
 <tr class="even">
 <td align="left"><a href="./class/psych204/spring2015/Simon_Hickcox_Weilder_Report.pdf"> Anchoring on Extreme Values </a></td>
-<td align="left">Harry Simon, Jocelyn Hickcox, Gideon Weilder</td>
-</tr><br><br>
+<td align="left">Harry Simon, Jocelyn Hickcox, Gideon Weilder <br><br></td>
+</tr>
 <tr class="odd">
 <td align="left"><a href="./class/psych204/spring2015/Velez_Report.pdf"> Learning What Others Like: Preference Learning as a Mixed Multinomial Logit Model </a></td>
 <td align="left">Natalia Velez</td>
