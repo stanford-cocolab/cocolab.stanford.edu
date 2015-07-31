@@ -294,6 +294,8 @@ In all cases, you are encouraged to consider multiple models (for example, sever
 
 With approval of the instructor, a project could focus on AI rather than human behavior: use an idea we've discussed in class to implement an interesting new AI system. Similarly projects could focus on inference and infrastructure in PPLs by building a better algorithm, implementing a useful automatic analysis of programs, etc.
 
+Past Projects 
++ [2014-2015](http://cocolab.stanford.edu/psych204-projects2015.html)
 
 ## Project proposal
 
