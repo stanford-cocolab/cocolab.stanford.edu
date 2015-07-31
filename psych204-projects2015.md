@@ -69,7 +69,7 @@ layout: default
 <td align="left">Bogac Kerem Goskel</td>
 </tr>
 <tr class="even">
-<td align="left"><a href="./class/psych204/spring2015/Hawkins_Report.pdf"> What do newspapers, watches, credit cards, and liquors bottles have in common? A computational exploration of question behavior.</a> <br><br></td>
+<td align="left"><a href="./class/psych204/spring2015/Hawkins_Report.pdf"> What do newspapers, watches, credit cards, and liquors bottles have in common? <br>&nbsp;&nbsp;&nbsp;&nbsp; A computational exploration of question behavior.</a> <br><br></td>
 <td align="left">Robert Hawkins <br><br></td>
 </tr>
 <tr class="odd">
@@ -101,7 +101,7 @@ layout: default
 <td align="left">Pedram Razavi</td>
 </tr>
 <tr class="even">
-<td align="left"><a href="./class/psych204/spring2015/Simon_Hickcox_Weilder_Report.pdf"> Anchoring on Extreme Values </a></td>
+<td align="left"><a href="./class/psych204/spring2015/Simon_Hickcox_Weilder_Report.pdf"> Anchoring on Extreme Values </a><br><br></td>
 <td align="left">Harry Simon, Jocelyn Hickcox, Gideon Weilder <br><br></td>
 </tr>
 <tr class="odd">
