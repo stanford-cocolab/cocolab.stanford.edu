@@ -121,7 +121,7 @@ layout: default
 <td align="left">Alex Yorke, Lily Sierra, Aaron Sekhri</td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="./class/psych204/spring2015/Yuan_Report.pdf"> Generating Random Sequences For You: Modeling Subjective Randomness in Competitive Games </a></td>
+<td align="left"><a href="./class/psych204/spring2015/Yuan_Report.pdf"> Generating Random Sequences For You: Modeling Subjective Randomness in Competitive Games </a>&nbsp;&nbsp;&nbsp;</td>
 <td align="left">Arianna Yuan</td>
 </tr>
 </tbody>
