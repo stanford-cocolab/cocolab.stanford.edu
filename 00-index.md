@@ -10,11 +10,15 @@ Please use the links at the top to navigate.
 
 ### News
 
+* Don't PUNish us! A new [paper on puns](//cocolab.stanford.edu/papers/KaoEtAl2015-CognitiveScience.pdf) has appeared in Cognitive Science, and neen written about in the [New Scientist](https://www.newscientist.com/article/dn28036-think-youre-punny-computer-that-can-tell-how-good-a-joke-is/) and [The Times](//cocolab.stanford.edu/papers/TIM_20150815_null_null_01_25.pdf).
+
+* Congratulations to [Andreas Stuhlmueller]({{site.url}}{{site.baseurl}}/people.html#Andreas Stuhlmüller), [Long Ouyang]({{site.url}}{{site.baseurl}}/people.html#Long Ouyang), and [Dan Hawthorne]({{site.url}}{{site.baseurl}}/people.html#Dan Hawthorne) on successfully defending their dissertations!
+
+* A nice introduction to PPLs, featuring our work, appeared in the [American Scientist](http://www.americanscientist.org/libraries/documents/20158411291411312-2015-09Hayes.pdf).
+
 * We held a CoCoLab hackathon! Here are the [results]({{site.url}}{{site.baseurl}}/hackathon.html).
 
 * Welcome to our new(ish) post-docs [Andreas Stuhlmüller]({{site.url}}{{site.baseurl}}/people.html#Andreas Stuhlmüller) and [Long Ouyang]({{site.url}}{{site.baseurl}}/people.html#Long Ouyang) and new(ish) grad student [Erin Bennett]({{site.url}}{{site.baseurl}}/people.html#Erin Bennett). 
-
-* Congratulations to [Long Ouyang]({{site.url}}{{site.baseurl}}/people.html#Long Ouyang) on his defense!
 
 * Welcome to our new members [Greg Scontras]({{site.url}}{{site.baseurl}}/people.html#Greg Scontras) and [Robert X.D. Hawkins]({{site.url}}{{site.baseurl}}/people.html#Robert X.D. Hawkins)!
 
