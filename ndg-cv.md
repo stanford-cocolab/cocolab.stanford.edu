@@ -65,6 +65,8 @@ Cognitive development.
 
 ## Honors
 
+* 2015 Cognitive Science Society paper prize for applied computational modeling.
+
 * 2014 Cognitive Science Society paper prize for computational modeling of language.
 
 * Roger N. Shepard Distinguished Visiting Scholar, 2013-14, University of Arizona.
@@ -427,21 +429,24 @@ A javascript-based probabilistic programming language.
 
 ### Ph.D. students (principal or co-principal advisor)
 
-* Andreas Stuhmueller (MIT, BCS)
+* Andreas Stuhmueller (MIT, BCS), completed 2015
+
+* Long Ouyang (Stanford, Psychology), completed 2015
+
+* Daniel Hawthorne (Stanford, Psychology), completed 2015
 
 * Leon Bergen (MIT, BCS)
 
-* Long Ouyang (Stanford, Psychology)
-
 * Justine Kao (Stanford, Psychology)
-
-* Daniel Hawthorne (Stanford, Psychology)
 
 * Desmond Ong (Stanford, Psychology)
 
 * Michael Henry Tessler (Stanford, Psychology)
 
 * Robert X. D. Hawkins (Stanford, Psychology)
+
+* Erin Bennett (Stanford, Psychology)
+
 
 ### Ph.D. Committees
 
