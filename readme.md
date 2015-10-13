@@ -7,7 +7,7 @@ Here's how to edit this website!
 ## Overview
 
 1. Checkout [this repo](//github.com/erindb/cocolab.stanford.edu) on github
-2. Make changes and push to github (see later sections for details on specific kinds of changes)
+2. Make changes and push to github (make sure you have collaborator privilages, and see later sections for details on specific kinds of changes)
 3. Go to `/afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu` and pull your changes
 
 		ssh [SUNetID]@cardinal.stanford.edu
