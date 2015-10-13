@@ -91,14 +91,15 @@
   people:
     - name: Daniel Hawthorne
       img: danH.jpg
+      webpage: //www.djthorne.org/
       bio:
         - >
-          I've been looking at how past actions are used to infer and inform
-          beliefs and preferences. To explore this question, I've drawn upon
-          social and cognitive psychology, decision making, and computational
-          approaches. This is to say it is a lot of fun. Additionally, this
-          line of inquiry gives me a nice parachute--think self-help books
-          with titles like 'fake it 'till you believe you've made it'
+          I model the conceptual structures underpinning social cognition.
+	  How do we understand other people’s choices in terms of their
+	  traits, beliefs, and desires? How do we use this understanding
+	  to learn from them and predict their behavior? To explore this
+	  question, I've drawn upon social and cognitive psychology, decision
+	  and information thoery, and computational approaches.
     - name: Justine Kao
       img: justine.jpg
       webpage: //web.stanford.edu/~justinek
