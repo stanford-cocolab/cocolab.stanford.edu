@@ -43,6 +43,15 @@
 	Website = {papers/SumnerEtAl2015-Cogsci.pdf},
 	Year = {2015}}
 
+@inproceedings{ullman:cogsci2014,
+        Abstract = {Humans acquire their most basic physical concepts early in development, but continue to enrich and expand their intuitive physics throughout life as they are exposed to more and varied dynamical environments. We introduce a hierarchical Bayesian framework to explain how people can learn physical theories across multiple timescales and levels of abstraction. In contrast to previous Bayesian models of theory acquisition (Tenenbaum, Kemp, Griffiths, & Goodman, 2011), we work with more expressive probabilistic program representations suitable for learning the forces and properties that govern how objects interact in dynamic scenes unfolding over time. We compare our model and human learners on a challenging task of inferring novel physical laws in microworlds given short movies. People are generally able to perform this task and behave in line with model predictions. Yet they also make systematic errors suggestive of how a top-down Bayesian approach to learning might be complemented by a more bottomup feature-based approximate inference scheme, to best explain theory learning at an algorithmic level.},
+        Author = {Tomer D. Ullman and Andreas Stuhlm\"{u}ller and Noah D. Goodman and Joshua B. Tenenbaum},
+        Title = {Learning physics from dynamical scenes},
+        Booktitle = {Proceedings of the Thirty-Sixth Annual Conference of the Cognitive Science society},
+        Year = {2014},
+	Website = {http://stuhlmueller.org/papers/physics-cogsci2014.pdf}
+}
+
 @inproceedings{RitchieEtAl2015-SIGGRAPH,
 	Abstract = {We present a method for controlling the output of procedural modeling programs using Sequential Monte Carlo (SMC). Previous probabilistic methods for controlling procedural models use Markov Chain Monte Carlo (MCMC), which receives control feedback only for completely-generated models. In contrast, SMC receives feedback incrementally on incomplete models, allowing it to reallocate computational resources and converge quickly. To handle the many possible sequentializations of a structured, recursive procedural modeling program, we develop and prove the correctness of a new SMC variant, Stochastically-Ordered Sequential Monte Carlo (SOSMC). We implement SOSMC for general-purpose programs using a new programming primitive: the stochastic future. Finally, we show that SOSMC reliably generates high-quality outputs for a variety of programs and control scoring functions. For small computational budgets, SOSMC's outputs often score nearly twice as high as those of MCMC or normal SMC.},
 	Author = {Daniel Ritchie and B. Mildenhall and N. D. Goodman and P. Hanrahan},
@@ -604,6 +613,24 @@
 	Website = {https://web.stanford.edu/~ngoodman/papers/ScontrasGraffGoodman-ComparingPluralities.pdf},
 	Year = {2012}}
 
+@article{ritchie2015c3,
+         Abstract = {Lightweight, source-to-source transformation approaches to implementing MCMC for probabilistic programming languages are popular for their simplicity, support of existing deterministic code, and ability to execute on existing fast runtimes. However, they are also slow, requiring a complete re-execution of the program on every Metropolis Hastings proposal. We present a new extension to the lightweight approach, C3, which enables efficient, incrementalized re-execution of MH proposals. C3 is based on two core ideas: transforming probabilistic programs into continuation passing style (CPS), and caching the results of function calls. We show that on several common models, C3 reduces proposal runtime by 20-100x, in some cases reducing runtime complexity from linear in model size to constant. We also demonstrate nearly an order of magnitude speedup on a complex inverse procedural modeling application.},
+         Author = {Daniel Ritchie and Andreas Stuhlm\"{u}ller and Noah D. Goodman},
+         Journal = {Technical report: arXiv:1509.02151},
+         Title = {C3: Lightweight Incrementalized MCMC for Probabilistic Programs using Continuations and Callsite Caching},
+         Year = 2015,
+         Website = {http://arxiv.org/abs/1509.02151}
+}
+
+@article{stuhlmueller2015coarse,
+         Abstract = {Many practical techniques for probabilistic inference require a sequence of distributions that interpolate between a tractable distribution and an intractable distribution of interest. Usually, the sequences used are simple, e.g., based on geometric averages between distributions. When models are expressed as probabilistic programs, the models themselves are highly structured objects that can be used to derive annealing sequences that are more sensitive to domain structure. We propose an algorithm for transforming probabilistic programs to coarse-to-fine programs which have the same marginal distribution as the original programs, but generate the data at increasing levels of detail, from coarse to fine. We apply this algorithm to an Ising model, its depth-from-disparity variation, and a factorial hidden Markov model. We show preliminary evidence that the use of coarse-to-fine models can make existing generic inference algorithms more efficient.},
+         Author = {Andreas Stuhlm\"{u}ller and Robert X. D. Hawkins and N. Siddharth and Noah D. Goodman},
+	 Journal = {Technical report: arXiv:1509.02962}
+         Title = {Coarse-to-Fine Sequential Monte Carlo for Probabilistic Programs},
+         Year = 2015,
+         Website = {http://arxiv.org/abs/1509.02962}
+}
+		
 @techreport{hwang2011inducing,
 	Abstract = {This report outlines an approach to learning generative models from data. We express models as probabilistic programs, which allows us to capture abstract patterns within the examples. By choosing our language for programs to be an extension of the algebraic data type of the examples, we can begin with a program that generates all and only the examples. We then introduce greater abstraction, and hence generalization, incrementally to the extent that it improves the posterior probability of the examples given the program. Motivated by previous approaches to model merging and program induction, we search for such explanatory abstractions using program transformations. We consider two types of transformation: Abstraction merges common subexpressions within a program into new functions (a form of anti-unification). Deargumentation simplifies functions by reducing the number of arguments. We demonstrate that this approach finds key patterns in the domain of nested lists, including parameterized sub-functions and stochastic recursion.},
 	Author = {Hwang, Irvin and Stuhlm{\"u}ller, Andreas and Goodman, Noah D},
