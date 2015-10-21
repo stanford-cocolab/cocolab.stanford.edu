@@ -135,7 +135,7 @@ A javascript-based probabilistic programming language.
 
 ## Popular Press (selected articles)
 
-* "A grand unified theory of AI," MIT News, March 30, 2010. (Picked up by slashdot.org, reddit.com, etc.)
+* "A grand unified theory of AI," MIT News, March 30, 2010.
 
 * "I, algorithm." New Scientist, January 29, 2011.
 
@@ -153,7 +153,20 @@ A javascript-based probabilistic programming language.
 
 * "Why Can't Robots Understand Sarcasm?" The Atlantic, January 22, 2015.
 
+* “Think you’re punny? Computer that can tell how good a joke is.” New Scientist, August 12, 2015.
+
+* “Call it Clement Droid: a machine that has a droll sense of humour.” The Times, August 15, 2015.
+
+
 ## Invited Presentations
+
+* Linguistic Universals Colloquium, Harvard University, Cambridge, MA, October 2015.
+
+* CS, Brown University, Providence, RI, October 2015.
+
+* CLPS Colloquium, Brown University, Providence, RI, October 2015.
+
+* ILLC Colloquium, University of Edinburgh, Edinburgh, UK, September 2015.
 
 * XPRAG 7, Plenary Speaker, Chicago, IL, July 2015.
 
@@ -333,13 +346,13 @@ A javascript-based probabilistic programming language.
 
 * Journal Reviewer: Science. Nature. Cognition. Child Development. Trends in Cognitive Science. Cognitive Science. Memory and Cognition. Cognitive Psychology. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex. Decision. Natural Language Semantics.
 
-* Conference Proceedings Reviewer: Cognitive Science. Neural Information Processing Systems. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence. TARK.
+* Conference Proceedings Reviewer (selected): Cognitive Science. Neural Information Processing Systems. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence.
 
 * Grant reviewer: NSF (ad-hoc and panelist).
 
 * Co-Organizer: European Summer School of Logic Language and Information, workshop "Formal and Experimental Pragmatics". Tübingen, August 2014.
 
-* Program committee: Cognitive Science Society, 2014.
+* Program committee: Cognitive Science Society, 2014, 2015.
 
 * Organizer: Stanford Pragmatics and Social Cognition Workshop, March 2013.
 
