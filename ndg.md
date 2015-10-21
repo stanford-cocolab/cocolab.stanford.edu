@@ -30,17 +30,15 @@ Office: 356 Jordan Hall, Stanford.
 
 ## Teaching
 
-### This year
-
-I'll be teaching [Psych 204](psych204.html) and [Psych 205](https://docs.google.com/document/d/1KV4VaA_ixBJO6JtNe5yt9ckKpyzA_Vhme84SCxYUaNE/edit?usp=sharing) in Spring 2015.
-
-
 ### Computation and Cognition: the Probabilistic Approach (Psych 204)
 
 Taught: Spring 2015, Fall 2013, Fall 2012, Winter 2012, Spring 2011.  
 [Website](psych204.html) 
 (and [Old Website](http://www.stanford.edu/~ngoodman/psych204/)).
 
+### Foundations of Cognition
+
+Taught: Spring 2015. [Website](https://docs.google.com/document/d/1KV4VaA_ixBJO6JtNe5yt9ckKpyzA_Vhme84SCxYUaNE)
 
 ### Introduction to Cognitive Science (Psych 035, SymSys 100, Ling 144, Phil 190)
 
