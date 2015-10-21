@@ -36,7 +36,7 @@ Taught: Spring 2015, Fall 2013, Fall 2012, Winter 2012, Spring 2011.
 [Website](psych204.html) 
 (and [Old Website](http://www.stanford.edu/~ngoodman/psych204/)).
 
-### Foundations of Cognition
+### Foundations of Cognition (Psych 205)
 
 Taught: Spring 2015. [Website](https://docs.google.com/document/d/1KV4VaA_ixBJO6JtNe5yt9ckKpyzA_Vhme84SCxYUaNE)
 
