@@ -440,25 +440,28 @@ A javascript-based probabilistic programming language.
 
 * Joseph Austerweil. Now assistant professor of Cognitive Science, Brown University.
 
+
 ### Ph.D. students (principal or co-principal advisor)
 
-* Andreas Stuhmueller (MIT, BCS), completed 2015
+* Erin Bennett (Stanford, Psychology)
+
+* Robert X. D. Hawkins (Stanford, Psychology)
+
+* Michael Henry Tessler (Stanford, Psychology)
+
+* Desmond Ong (Stanford, Psychology)
+
+* Daniel Ritchie (Stanford, Computer Science)
+
+* Justine Kao (Stanford, Psychology)
+
+* Leon Bergen (MIT, BCS)
 
 * Long Ouyang (Stanford, Psychology), completed 2015
 
 * Daniel Hawthorne (Stanford, Psychology), completed 2015
 
-* Leon Bergen (MIT, BCS)
-
-* Justine Kao (Stanford, Psychology)
-
-* Desmond Ong (Stanford, Psychology)
-
-* Michael Henry Tessler (Stanford, Psychology)
-
-* Robert X. D. Hawkins (Stanford, Psychology)
-
-* Erin Bennett (Stanford, Psychology)
+* Andreas Stuhmueller (MIT, BCS), completed 2015
 
 
 ### Ph.D. Committees
@@ -466,6 +469,8 @@ A javascript-based probabilistic programming language.
 * Ian Ballard (Stanford, Neuroscience)
 
 * Molly Lewis (Stanford, Psychology)
+
+* Eric Schkufza (Stanford, Computer Science), completed 2015
 
 * Eric Miller (Stanford, Psychology), completed 2015
 
@@ -484,6 +489,8 @@ A javascript-based probabilistic programming language.
 * Timothy J. O’Donnell (Harvard, Psychology), completed 2011
 
 * Jerry Talton (Stanford, Computer Science), completed 2011
+
+
 
 ## University Committees
 
