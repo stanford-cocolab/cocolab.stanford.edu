@@ -70,4 +70,4 @@ Human recognition of words, objects, and scenes is extremely rapid, often taking
 
 # Experimental Methodology Development
 
-Under construction
+Under construction.
