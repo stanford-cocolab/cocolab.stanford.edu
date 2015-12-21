@@ -18,12 +18,12 @@ Homepage: [`noahgoodman.net`](http://noahgoodman.net)
 
 ## Research Interests
 
-Computational models of cognition.  
-Probabilistic programming languages.  
-Natural language semantics and pragmatics.  
-Representation, acquisition, and use of concepts and intuitive theories.  
+Computational models of cognition.   
 Social and affective cognition.  
+Representation and use of concepts and intuitive theories.  
+Natural language semantics and pragmatics.  
 Cognitive development.
+Probabilistic programming languages. 
 
 ## Professional Positions
 
@@ -47,6 +47,23 @@ Cognitive development.
 
 ## Grants
 
+* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017. 
+
+* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016. 
+
+* *Development of probmods.org web-book*, Stanford VPOL, 2013. 
+
+* *A Center for Brains, Minds and Machines: The Science and the Technology of Intelligence*, NSF, Sep 2013 - Sep 2017 (Sub-award from MIT, PI: Poggio).
+
+* *Grounded language understanding as social cognition*, ONR, Jan 2013 - Jan 2016 (PI: Potts).
+
+* *Embedded Humans: Provably Correct Decision Making for Networks of Humans and Unmanned Systems*, ONR, Feb 2013 - Dec 2017 (Sub-award from Berkeley, PI: Sastry; Stanford PI: Guibas).
+
+* J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016. 
+
+* *A Framework for Core Cognition*, ONR, Jul 2009 - Dec 2012 (PI: Tenenbaum).
+
+<!---
 * *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017, $3,311,403.
 
 * *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016, $508,640.
@@ -62,6 +79,7 @@ Cognitive development.
 * J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016, $601,367.
 
 * *A Framework for Core Cognition*, ONR, Jul 2009 - Dec 2012 (PI: Tenenbaum).
+-->
 
 ## Honors
 
@@ -139,13 +157,13 @@ A javascript-based probabilistic programming language.
 
 * "I, algorithm." New Scientist, January 29, 2011.
 
-* "More Than Child’s Play: Ability to Think Scientifically Declines as Kids Grow Up." Scientific American, September 21, 2011.
+* "More Than Child's Play: Ability to Think Scientifically Declines as Kids Grow Up." Scientific American, September 21, 2011.
 
 * "Artificial Intelligence Could Be on Brink of Passing Turing Test." WIRED, April 12, 2012.
 
 * "Context is key to making computers better conversationalists." WIRED.uk, June 20, 2012.
 
-* "Forget the Turing Test: Here’s How We Could Actually Measure AI." WIRED, June 12, 2014.
+* "Forget the Turing Test: Here's How We Could Actually Measure AI." WIRED, June 12, 2014.
 
 * "Solve For Standing Ovation: Should AI Researchers Bother Building A TED-Bot?" Popular Science, March 28, 2014.
 
@@ -153,9 +171,9 @@ A javascript-based probabilistic programming language.
 
 * "Why Can't Robots Understand Sarcasm?" The Atlantic, January 22, 2015.
 
-* “Think you’re punny? Computer that can tell how good a joke is.” New Scientist, August 12, 2015.
+* "Think you're punny? Computer that can tell how good a joke is." New Scientist, August 12, 2015.
 
-* “Call it Clement Droid: a machine that has a droll sense of humour.” The Times, August 15, 2015.
+* "Call it Clement Droid: a machine that has a droll sense of humour." The Times, August 15, 2015.
 
 
 ## Invited Presentations
@@ -222,9 +240,9 @@ A javascript-based probabilistic programming language.
 
 * IMBS workshop "Quantum thinking", Irvine, CA, February 2013.
 
-* Keynote, Principles of Programming Languages (POPL 13 ), Rome, Italy, January 2013.
+* Keynote, Principles of Programming Languages (POPL 13), Rome, Italy, January 2013.
 
-* Linguistics Colloquium, Tübingen, Germany, January 2013.
+* Linguistics Colloquium, Tubingen, Germany, January 2013.
 
 * Invited Symposium, Budapest CEU Conference on Cognitive Development, Budapest, Hungary, January 2013.
 
@@ -312,13 +330,13 @@ A javascript-based probabilistic programming language.
 
 * AAAI Fall Symposia workshop "Representation Change". Washington, DC, November 2007.
 
-* Society for Philosophy and Psychology. Toronto, ON, June 2007. (Invited commentary on D. Lyons, "Covert Rationality: Overimitation and the Structure of Children’s Causal Learning".)
+* Society for Philosophy and Psychology. Toronto, ON, June 2007. (Invited commentary on D. Lyons, "Covert Rationality: Overimitation and the Structure of Children's Causal Learning".)
 
 * McDonnell Foundation Workshop on Moral Cognition. Pasadena, CA, May 2007.
 
 * University of Salzburg, Institute fur Psychologie colloquium. Salzburg, AU, April 2007.
 
-* University of Göttingen, Cognitive and Decision Sciences seminar. Göttingen, GM, April 2007.
+* University of Gottingen, Cognitive and Decision Sciences seminar. Gottingen, GM, April 2007.
 
 * Rutgers University, Center for Cognitive Science seminar. Piscataway, NJ, March 2007.
 
@@ -344,15 +362,15 @@ A javascript-based probabilistic programming language.
 
 ## Professional Services
 
-* Journal Reviewer: Science. Nature. Cognition. Child Development. Trends in Cognitive Science. Cognitive Science. Memory and Cognition. Cognitive Psychology. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex. Decision. Natural Language Semantics.
+* Journal Reviewer: Science. Nature. Cognition. Trends in Cognitive Science. Cognitive Science. Cognitive Psychology. Child Development. Memory and Cognition. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex. Decision. Natural Language Semantics.
 
 * Conference Proceedings Reviewer (selected): Cognitive Science. Neural Information Processing Systems. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence.
 
 * Grant reviewer: NSF (ad-hoc and panelist).
 
-* Co-Organizer: European Summer School of Logic Language and Information, workshop "Formal and Experimental Pragmatics". Tübingen, August 2014.
+* Program committee: Cognitive Science Society, 2014, 2015, 2016.
 
-* Program committee: Cognitive Science Society, 2014, 2015.
+* Co-Organizer: European Summer School of Logic Language and Information, workshop "Formal and Experimental Pragmatics". Tubingen, August 2014.
 
 * Organizer: Stanford Pragmatics and Social Cognition Workshop, March 2013.
 
@@ -364,13 +382,13 @@ A javascript-based probabilistic programming language.
 
 * Organizer: workshop "Probabilistic Programming in AI". Los Altos, CA, January 2010.
 
-* Co-Organizer: NIPS workshop "Bounded-rational analyses of human cognition: Bayesian models, approximate inference, and the brain". Whister, BC, December 2009.
+* Co-Organizer: NIPS workshop "Bounded-rational analyses of human cognition: Bayesian models, approximate inference, and the brain". Whistler, BC, December 2009.
 
 * Program committee: International Workshop on Statistical Relational Learning. Leuven, Belgium, July 2009.
 
 * Co-Organizer: Cognitive Science Society, workshop "Intuitive pedagogical reasoning: an interdisciplinary workshop". Amsterdam, Netherlands, August 2009.
 
-* Co-Organizer: Annual Summer Interdisciplinary Conference, symposium "Bayesian models in psychology". Valle d’Aosta, Italy, July 2009.
+* Co-Organizer: Annual Summer Interdisciplinary Conference, symposium "Bayesian models in psychology". Valle 'Aosta, Italy, July 2009.
 
 * Co-Organizer: Eastern Psychology Association, workshop "Social routes to causal knowledge: action, imitation, and pedagogy". Boston, MA, March 2008.
 
@@ -394,7 +412,7 @@ A javascript-based probabilistic programming language.
 
 ### Summer Schools and Tutorials
 
-* "Probabilistic programming languages." European Summer School of Logic Language and Information. Tübingen, August 2014.
+* "Probabilistic programming languages." European Summer School of Logic Language and Information. Tubingen, August 2014.
 
 * "Probability in semantics and pragmatics" (with D. Lassiter). European Summer School of Logic Language and Information. Dusseldorf, August 2013.
 
@@ -402,7 +420,7 @@ A javascript-based probabilistic programming language.
 
 * "Computational Cognitive Science: Probability, Programs, and the Mind." European Summer School of Logic Language and Information. Copenhagen, August 2010.
 
-* Tutorial on probabilistic models of cognition (with T. O’Donnell). Cornell University, October 2009.
+* Tutorial on probabilistic models of cognition (with T. O'Donnell). Cornell University, October 2009.
 
 * IPAM Graduate Summer School: "Probabilistic Models of Cognition: The Mathematics of Mind", Los Angeles CA, July 2007. ( 3 lectures.)
 
@@ -432,13 +450,19 @@ A javascript-based probabilistic programming language.
 
 * Judith Degan.
 
-* Siddarth Narayanaswami.
+* Leon Bergen.
 
-* Daniel Ly.
+* Long Ouyang.
 
-* Daniel Lassiter. Now assistant professor of Linguistics, Stanford University.
+* Andreas Stuhmueller.
 
-* Joseph Austerweil. Now assistant professor of Cognitive Science, Brown University.
+* Siddarth Narayanaswami. (Former. Now post-doc Oxford University.)
+
+* Daniel Ly. (Former.)
+
+* Daniel Lassiter. (Former. Now assistant professor of Linguistics, Stanford University.)
+
+* Joseph Austerweil. (Former. Now assistant professor of Cognitive Science, Brown University.)
 
 
 ### Ph.D. students (principal or co-principal advisor)
@@ -455,7 +479,7 @@ A javascript-based probabilistic programming language.
 
 * Justine Kao (Stanford, Psychology)
 
-* Leon Bergen (MIT, BCS)
+* Leon Bergen (MIT, BCS), completed 2015
 
 * Long Ouyang (Stanford, Psychology), completed 2015
 
@@ -486,7 +510,7 @@ A javascript-based probabilistic programming language.
 
 * Steve Piantadosi (MIT, BCS), completed 2011
 
-* Timothy J. O’Donnell (Harvard, Psychology), completed 2011
+* Timothy J. O'Donnell (Harvard, Psychology), completed 2011
 
 * Jerry Talton (Stanford, Computer Science), completed 2011
 
