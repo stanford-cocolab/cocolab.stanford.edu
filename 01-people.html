@@ -14,11 +14,10 @@ permalink: people.html
             <div class="text">
                 <h2><a class="subtle_link" name="{{person.name}}">{{person.name}}</a></h2>
                 {% if person.was %}
-                    <p class="was">Was: {{person.was}}</p>
-                {% endif %}
-                {% if person.now %}
-                    <p class="now">{{person.now}}</a>
-                {% endif %}
+                    <p class="was">Was: {{person.was}}</br>
+                    {% if person.now %} Now: {{person.now}} {% endif %}
+                    </p>
+		{% endif %}
                 {% if person.webpage %}
                     <p><a href="{{person.webpage}}">Personal webpage</a></p>
                 {% endif %}

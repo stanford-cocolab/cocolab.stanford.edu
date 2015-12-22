@@ -130,20 +130,20 @@
 - role: Alumni
   people:
     - name: Daniel Hawthorne
-      was: Graduate student in Psychology
+      was: a graduate student in Psychology at Stanford
       webpage: //www.djthorne.org/
     - name: Daniel Ly
-      was: Post-doc in the lab
+      was: a post-doc
     - name: Siddharth Narayanaswamy
-      was: Post-doc in the lab
+      was: a post-doc
       webpage: //www.iffsid.com/
     - name: Daniel Lassiter
       webpage: //www.stanford.edu/~danlass
-      was: Post-doc in the lab
-      now: Now an Assistant Professor of Linguistics at Stanford
+      was: a post-doc
+      now: an Assistant Professor of Linguistics at Stanford
     - name: Joseph Austerweil
-      was: Post-doc in the lab
-      now: Now an Assistant Professor of Psychology at Brown
+      was: a post-doc
+      now: an Assistant Professor of Psychology at Brown
     - name: Thomas Icard
-      was: Graduate student in Philosophy
-      now: Now an Assistant Professor of Philosophy at Stanford
+      was: a graduate student in Philosophy
+      now: an Assistant Professor of Philosophy at Stanford
