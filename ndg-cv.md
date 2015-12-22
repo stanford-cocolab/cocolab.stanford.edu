@@ -446,26 +446,26 @@ A javascript-based probabilistic programming language.
 
 ### Post-doctoral students
 
-* Gregory Scontras.
+* Leon Bergen, 2016-present
 
-* Judith Degan.
+* Gregory Scontras, 2014-present
 
-* Leon Bergen.
+* Judith Degen, 2013-present
 
-* Long Ouyang.
+* Long Ouyang, 2015-present
 
-* Andreas Stuhmueller.
+* Andreas Stuhmueller, 2015-present
 
-* Siddarth Narayanaswami. (Former. Now post-doc Oxford University.)
+* Siddarth Narayanaswami 2013-15 (Now post-doc, Oxford University)
 
-* Daniel Ly. (Former.)
+* Daniel Ly, 2013-15
 
-* Daniel Lassiter. (Former. Now assistant professor of Linguistics, Stanford University.)
+* Daniel Lassiter, 2011-13 (Now assistant professor of Linguistics, Stanford University)
 
-* Joseph Austerweil. (Former. Now assistant professor of Cognitive Science, Brown University.)
+* Joseph Austerweil, 2013 (Now assistant professor of Cognitive Science, Brown University)
 
 
-### Ph.D. students (principal or co-principal advisor)
+### Ph.D. students
 
 * Erin Bennett (Stanford, Psychology)
 
@@ -478,8 +478,6 @@ A javascript-based probabilistic programming language.
 * Daniel Ritchie (Stanford, Computer Science)
 
 * Justine Kao (Stanford, Psychology)
-
-* Leon Bergen (MIT, BCS), completed 2015
 
 * Long Ouyang (Stanford, Psychology), completed 2015
 
@@ -494,15 +492,27 @@ A javascript-based probabilistic programming language.
 
 * Molly Lewis (Stanford, Psychology)
 
+* Leon Bergen (MIT, BCS), completed 2015
+
+* Lingfeng Yang (Stanford, Computer Science), completed 2015
+
+* Rahul Sharma (Stanford, Computer Science), completed 2015
+
 * Eric Schkufza (Stanford, Computer Science), completed 2015
 
 * Eric Miller (Stanford, Psychology), completed 2015
 
 * Tomer Ulman (MIT, BCS), completed 2014
 
+* Spence Green (Stanford, Computer Science), completed 2014
+
+* Ranjitha Kumar (Stanford, Computer Science), completed 2013
+
 * Yi-Ting Yeh (Stanford, Computer Science), completed 2013
 
 * Thomas Icard III (Stanford, Philosophy), completed 2013
+
+* Jerry Talton III (Stanford, Computer Science), completed 2012
 
 * Jeremy Glick (Stanford, Psychology), completed 2011
 
