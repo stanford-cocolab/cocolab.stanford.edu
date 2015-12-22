@@ -24,27 +24,6 @@
           the University of Osnabr&uuml;ck in 2008, and my PhD in Brain and
           Cognitive Sciences and Linguistics from the University of Rochester
           in 2013.
-    - name: Daniel Ly
-      img: danLy.jpg
-      bio:
-        - >
-          I am interested in automated science and developing closed-loop
-          methods to automatically discover the underlying structure in complex
-          phenomena which remain elusive to current approaches. I use
-          computational models to study how mechanistic models can be
-          automatically uncovered and how experiments can be optimally
-          designed to elicit behaviors that disambiguate competing models.
-          I've worked previously on inferring structure in dynamical systems
-          and I am currently pursuing projects for automated psychology
-          experiment design.
-        - >
-          I received my BASc in Engineering Science from the University of
-          Toronto in 2008, my MASc in Computer Engineering from the University
-          of Toronto in 2009, and my PhD in Mechanical Engineering from Cornell
-          University in 2013.
-    - name: Siddharth Narayanaswamy
-      img: sid.jpg
-      webpage: //www.iffsid.com/
     - name: Greg Scontras
       img: greg.jpg
       webpage: //web.stanford.edu/~scontras/Gregory_Scontras.html
@@ -87,19 +66,9 @@
           improve education. Using behavioral experiments and computational
           models, I investigate how people learn and generalize concepts and
           skills.
+    - name: Leon Bergen
 - role: Graduate Students
   people:
-    - name: Daniel Hawthorne
-      img: danH.jpg
-      webpage: //www.djthorne.org/
-      bio:
-        - >
-          I model the conceptual structures underpinning social cognition.
-          How do we understand other people’s choices in terms of their
-          traits, beliefs, and desires? How do we use this understanding
-          to learn from them and predict their behavior? To explore this
-          question, I've drawn upon social and cognitive psychology, decision
-          and information thoery, and computational approaches.
     - name: Justine Kao
       img: justine.jpg
       webpage: //web.stanford.edu/~justinek
@@ -160,25 +129,16 @@
           the state and causal mechanisms in the world.
 - role: Alumni
   people:
+    - name: Daniel Hawthorne
+      was: Graduate student in Psychology
+      webpage: //www.djthorne.org/
+    - name: Daniel Ly
+      was: Post-doc in the lab
+    - name: Siddharth Narayanaswamy
+      was: Post-doc in the lab
+      webpage: //www.iffsid.com/
     - name: Daniel Lassiter
-      img: danLass.jpg
       webpage: //www.stanford.edu/~danlass
-      bio:
-        - >
-          How is communication possible given the severely restricted
-          information that we have about the world and each other? An answer
-          to this question must account for an old paradox: meaning is
-          productive (compositional), yet actual semantic and pragmatic
-          interpretation are flexible, context-sensitive, and non-deterministic.
-          My research combines formal methods from compositional
-          model-theoretical semantics and formal pragmatics with ideas from
-          work on reasoning and concepts in computational cognitive science,
-          working toward a comprehensive probabilistic semantics and Bayesian
-          pragmatics that makes precise and testable quantitative predictions.
-          I've worked in particular on epistemic and deontic modality,
-          vagueness and gradability, reasoning with modals and degree
-          expressions, and presupposition, and am currently pursuing projects
-          on probabilistic quantification and reasoning with generics.
       was: Post-doc in the lab
       now: Now an Assistant Professor of Linguistics at Stanford
     - name: Joseph Austerweil
@@ -186,4 +146,4 @@
       now: Now an Assistant Professor of Psychology at Brown
     - name: Thomas Icard
       was: Graduate student in Philosophy
-      now: Now an assistant Professor of Philosophy at Stanford
+      now: Now an Assistant Professor of Philosophy at Stanford
