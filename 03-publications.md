@@ -3,10 +3,11 @@ layout: default
 title: Publications
 permalink: publications.html
 ---
-
+<!---
 ## Manuscripts
 
 {% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year=Manuscript] %}
+-->
 
 ## To appear
 
