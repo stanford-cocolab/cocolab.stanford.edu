@@ -22,13 +22,13 @@ Computational models of cognition.
 Social and affective cognition.  
 Representation and use of concepts and intuitive theories.  
 Natural language semantics and pragmatics.  
-Cognitive development.
-Probabilistic programming languages. 
+Cognitive development.  
+Probabilistic programming languages.
 
 ## Professional Positions
 
 * Assistant Professor of Cognitive Psychology, Stanford University, 2010 -.  
-  (By courtesy, Assistant Professor of Linguistics and of Computer Science.)
+  (By courtesy, Assistant Professor of Computer Science and of Linguistics.)
 
 * Research Scientist, Massachusetts Institute of Technology, 2008-2010.
 
