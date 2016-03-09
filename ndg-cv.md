@@ -44,44 +44,9 @@ Probabilistic programming languages.
 
 * B.A. Mathematics, Cum Laude, University of Arizona, 1997.
 
-
-## Grants
-
-* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017. 
-
-* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016. 
-
-* *Development of probmods.org web-book*, Stanford VPOL, 2013. 
-
-* *A Center for Brains, Minds and Machines: The Science and the Technology of Intelligence*, NSF, Sep 2013 - Sep 2017 (Sub-award from MIT, PI: Poggio).
-
-* *Grounded language understanding as social cognition*, ONR, Jan 2013 - Jan 2016 (PI: Potts).
-
-* *Embedded Humans: Provably Correct Decision Making for Networks of Humans and Unmanned Systems*, ONR, Feb 2013 - Dec 2017 (Sub-award from Berkeley, PI: Sastry; Stanford PI: Guibas).
-
-* J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016. 
-
-* *A Framework for Core Cognition*, ONR, Jul 2009 - Dec 2012 (PI: Tenenbaum).
-
-<!---
-* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017, $3,311,403.
-
-* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016, $508,640.
-
-* *Development of probmods.org web-book*, Stanford VPOL, 2013, $25,000.
-
-* *A Center for Brains, Minds and Machines: The Science and the Technology of Intelligence*, NSF, Sep 2013 - Sep 2017 (Sub-award from MIT, PI: Poggio).
-
-* *Grounded language understanding as social cognition*, ONR, Jan 2013 - Jan 2016 (PI: Potts).
-
-* *Embedded Humans: Provably Correct Decision Making for Networks of Humans and Unmanned Systems*, ONR, Feb 2013 - Dec 2017 (Sub-award from Berkeley, PI: Sastry; Stanford PI: Guibas).
-
-* J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016, $601,367.
-
-* *A Framework for Core Cognition*, ONR, Jul 2009 - Dec 2012 (PI: Tenenbaum).
--->
-
 ## Honors
+
+* 2016 Alfred P. Sloan Research Fellow in Neuroscience.
 
 * 2015 Cognitive Science Society paper prize for applied computational modeling.
 
@@ -108,6 +73,42 @@ Probabilistic programming languages.
 * Bruton Graduate Fellowship, 2000.
 
 * National Merit Scholarship, 1994-1997.
+
+## Grants
+
+* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017.
+
+* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016.
+
+* *Development of probmods.org web-book*, Stanford VPOL, 2013.
+
+* *A Center for Brains, Minds and Machines: The Science and the Technology of Intelligence*, NSF, Sep 2013 - Sep 2017 (Sub-award from MIT, PI: Poggio).
+
+* *Grounded language understanding as social cognition*, ONR, Jan 2013 - Jan 2016 (PI: Potts).
+
+* *Embedded Humans: Provably Correct Decision Making for Networks of Humans and Unmanned Systems*, ONR, Feb 2013 - Dec 2017 (Sub-award from Berkeley, PI: Sastry; Stanford PI: Guibas).
+
+* J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016.
+
+* *A Framework for Core Cognition*, ONR, Jul 2009 - Dec 2012 (PI: Tenenbaum).
+
+<!---
+* *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017, $3,311,403.
+
+* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016, $508,640.
+
+* *Development of probmods.org web-book*, Stanford VPOL, 2013, $25,000.
+
+* *A Center for Brains, Minds and Machines: The Science and the Technology of Intelligence*, NSF, Sep 2013 - Sep 2017 (Sub-award from MIT, PI: Poggio).
+
+* *Grounded language understanding as social cognition*, ONR, Jan 2013 - Jan 2016 (PI: Potts).
+
+* *Embedded Humans: Provably Correct Decision Making for Networks of Humans and Unmanned Systems*, ONR, Feb 2013 - Dec 2017 (Sub-award from Berkeley, PI: Sastry; Stanford PI: Guibas).
+
+* J. S. McDonnell Foundation Scholar Award, Oct 2010 - Oct 2016, $601,367.
+
+* *A Framework for Core Cognition*, ONR, Jul 2009 - Dec 2012 (PI: Tenenbaum).
+-->
 
 ## Publications
 
@@ -177,6 +178,10 @@ A javascript-based probabilistic programming language.
 
 
 ## Invited Presentations
+
+* DGfS workshop on Computational Pragmatics, Konstanz, Germany, February 2016.
+
+* SPLAP Workshop, UCSC, Santa Cruz, CA, February 2016.
 
 * Linguistic Universals Colloquium, Harvard University, Cambridge, MA, October 2015.
 
@@ -432,7 +437,7 @@ A javascript-based probabilistic programming language.
 
 * "Computation and Cognition: the Probabilistic Approach" (Psych 204). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015.
 
-* "Representations of Meaning" (Psych 236 c, Linguist 236). Stanford. Spring 2013.(Co-taught with C. Potts.) 
+* "Representations of Meaning" (Psych 236 c, Linguist 236). Stanford. Spring 2013.(Co-taught with C. Potts.)
 
 * "Introduction to Cognitive Science" (SymSys 100, Psych 34). Stanford. Spring 2012, Winter 2013, Winter 2014.
 
