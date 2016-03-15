@@ -2,9 +2,36 @@
 layout: default
 ---
 
-# CoCoLab Hackathon
+From time to time, we hold hackathons where participants chose projects tangentially related to their research to finish in a day.
 
-We held a hackathon on July 1, 2015. Participants chose projects tangentially related to their research to finish in a day.
+# CoCoLab Hackathon (March 4, 2016).
+
+## Ask Reddit
+*Andreas Stuhlmüller*
+
+I converted the dataset of all reddit posts and comments (1.7 billion!) into question-answer format and wrote a [command-line interpreter](https://github.com/stuhlmueller/ask-reddit) that can be used to ask reddit questions such as "what movie should i watch?" ("city of god") or "where should i go on vacation?" ("costa rica. tons of things to do and see, lovely people, reasonable prices.").
+
+## Content inference
+*Long Ouyang*
+
+Reading articles on the internet can be annoying because often times the writing itself occupies so little space. Personally, I'd like to see nothing except for the content (no banner ads, no pictures, no floating banners / social toolbars). So I wrote a tool that tries to extract the content by inferring a CSS selector based on user-generated examples of elements that should be kept / not kept.
+
+## rwebppl
+*Michael Henry Tessler and Mika Braginsky*
+
+We laid the foundations for [rwebppl](https://github.com/mhtess/rwebppl), an R interface to WebPPL. We got it to the point where the user can call ```install_webppl()```, and then call webppl models that are written into a file (just like one would on the command line, but from R), as well as be able to write and run models using only R (models written to a string, as is done in rjags and rstan). As well, you can use webppl packages in much the same way as you would use them on the command line. In the future, we are going to implement ways to pass data from R into webppl (for example, for doing bayesian data analysis)  and be able to pass the markov chains from Webppl MCMC to R, for running diagnostics.
+
+## topicl
+*Robert Hawkins and Noah Goodman*
+
+We created a [webppl packge](https://github.com/hawkrobe/topicl) that scrapes text from instances of a user-provided DOM class on a webpage, parses the text into documents with word counts, and runs a topic model on the documents. We implemented LDA using a mini-batch variational inference algorithm, and embedded it in the CoCoLab publications page to get topic distributions over abstracts! In the future, we'd like to provide visualization tools as well.
+
+## PunerRater
+*Justine Kao and Desmond Ong*
+
+We made a [website](https://github.com/justinek/PunerRater) that takes in a user-submitted pun and provides ambiguity and distinctiveness ratings. Also highlights most likely focus words given each meaning.
+
+# CoCoLab Hackathon (July 1, 2015).
 
 ## SampleMe
 *Andreas Stuhlmüller*
