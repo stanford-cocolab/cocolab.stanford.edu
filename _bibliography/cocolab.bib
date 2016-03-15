@@ -10,6 +10,21 @@
 
 
 @inproceedings{evans2016learning,
+        Abstract = {An important use of machine learning is to learn what people value. What posts or photos should a
+                  user be shown? Which jobs or activities would a person find rewarding? In each case, observations of
+                  people’s past choices can inform our inferences about their likes and preferences. If we assume that
+                  choices are approximately optimal according to some utility function, we can treat preference inference
+                  as Bayesian inverse planning.  That is, given a prior on utility functions and some observed
+                  choices, we invert an optimal decision-making process to infer a posterior distribution on utility
+                  functions.  However, people often deviate from approximate optimality. They have false beliefs,
+                  their planning is sub-optimal, and their choices may be temporally inconsistent due to hyperbolic
+                  discounting and other biases.  We demonstrate how to incorporate these deviations into algorithms for
+                  preference inference by constructing generative models of planning for agents who are subject to
+                  false beliefs and time inconsistency. We explore the inferences these models make about preferences,
+                  beliefs, and biases. We present a behavioral experiment in which human subjects perform
+                  preference inference given the same observations of choices as our model. Results show that human
+                  subjects (like our model) explain choices in terms of systematic deviations from optimal behavior and
+                  suggest that they take such deviations into account when inferring preferences.},
 	Author = {Owain Evans and Andreas Stuhlm\"{u}ller and Noah D. Goodman},
 	Booktitle = {Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI-2016)},
 	Date-Added = {2015-12-1 12:03:30 +0000},
@@ -28,11 +43,19 @@
 	Year = {To appear}}
 
 @inproceedings{Luong2015,
+        Abstract = {We examine the ability of several models of computation and storage to explain
+	reading time data. Specifically, we demonstrate on both the Dundee and the MIT
+	reading time corpora, that fragment grammars, a model that optimizes the tradeoff
+	between computation and storage, is able to better explain people’s reaction
+	times than two baseline models which exclusively favor either storage or computation.
+	Additionally, we make a contribution by extending an existing incremental
+	parser to handle more general grammars and scale well to larger rule and data sets},
 	Author = {Thang Luong and Timothy O'Donnell and Noah D. Goodman},
 	Booktitle = {CogACLL 2015},
 	Date-Added = {2015-07-30 15:58:46 +0000},
 	Date-Modified = {2015-07-30 16:00:44 +0000},
 	Title = {Evaluating Models of Computation and Storage in Human Sentence Processing},
+	Website = {http://web.mit.edu/timod/www/papers/reading-time.pdf},
 	Year = {2015}}
 
 @article{OngEtAl2015-Cognition,
@@ -806,7 +829,7 @@
 	Year = {2011}}
 
 @article{DesrochersEtAl2010-PNAS,
-	Abstract = {Habits and rituals are expressed universally across animal species. These behaviors are advantageous in allowing sequential behaviors to be performed without cognitive overload, and appear to rely on neural circuits that are relatively benign but vulnerable to takeover by extreme contexts, neuropsychiatric sequelae, and processes leading to addiction. Reinforcement learning (RL) is thought to underlie the formation of optimal habits. However, this theoretic formulation has principally been tested experimentally in simple stimulus-response tasks with relatively few available responses. We asked whether RL could also account for the emergence of habitual action sequences in realistically complex situations in which no repetitive stimulus-response links were present and in which many response options were present. We exposed na{\"\i}ve macaque monkeys to such experimental conditions by introducing a unique free saccade scan task. Despite the highly uncertain conditions and no instruction, the monkeys developed a succession of stereotypical, self-chosen saccade sequence patterns. Remarkably, these continued to morph for months, long after session-averaged reward and cost (eye movement distance) reached asymptote. Prima facie, these continued behavioral changes appeared to challenge RL. However, trial-by-trial analysis showed that pattern changes on adjacent trials were predicted by lowered cost, and RL simulations that reduced the cost reproduced the monkeys' behavior. Ultimately, the patterns settled into stereotypical saccade sequences that minimized the cost of obtaining the reward on average. These findings suggest that brain mechanisms underlying the emergence of habits, and perhaps unwanted repetitive behaviors in clinical disorders, could follow RL algorithms capturing extremely local explore/exploit tradeoffs.},
+	Abstract = {Habits and rituals are expressed universally across animal species. These behaviors are advantageous in allowing sequential behaviors to be performed without cognitive overload, and appear to rely on neural circuits that are relatively benign but vulnerable to takeover by extreme contexts, neuropsychiatric sequelae, and processes leading to addiction. Reinforcement learning (RL) is thought to underlie the formation of optimal habits. However, this theoretic formulation has principally been tested experimentally in simple stimulus-response tasks with relatively few available responses. We asked whether RL could also account for the emergence of habitual action sequences in realistically complex situations in which no repetitive stimulus-response links were present and in which many response options were present. We exposed naive macaque monkeys to such experimental conditions by introducing a unique free saccade scan task. Despite the highly uncertain conditions and no instruction, the monkeys developed a succession of stereotypical, self-chosen saccade sequence patterns. Remarkably, these continued to morph for months, long after session-averaged reward and cost (eye movement distance) reached asymptote. Prima facie, these continued behavioral changes appeared to challenge RL. However, trial-by-trial analysis showed that pattern changes on adjacent trials were predicted by lowered cost, and RL simulations that reduced the cost reproduced the monkeys' behavior. Ultimately, the patterns settled into stereotypical saccade sequences that minimized the cost of obtaining the reward on average. These findings suggest that brain mechanisms underlying the emergence of habits, and perhaps unwanted repetitive behaviors in clinical disorders, could follow RL algorithms capturing extremely local explore/exploit tradeoffs.},
 	Author = {Desrochers, Theresa M and Jin, Dezhe Z and Goodman, Noah D and Graybiel, Ann M},
 	Journal = {Proceedings of the National Academy of Sciences},
 	Number = {47},
@@ -818,6 +841,17 @@
 	Year = {2010}}
 
 @article{KempEtAl2010-CognitiveScience,
+        Abstract = {Learning to understand a single causal system can be an achievement, but humans must learn
+	about multiple causal systems over the course of a lifetime. We present a hierarchical Bayesian
+	framework that helps to explain how learning about several causal systems can accelerate learning
+	about systems that are subsequently encountered. Given experience with a set of objects, our framework
+	learns a causal model for each object and a causal schema that captures commonalities among
+	these causal models. The schema organizes the objects into categories and specifies the causal powers
+	and characteristic features of these categories and the characteristic causal interactions between
+	categories. A schema of this kind allows causal models for subsequent objects to be rapidly learned,
+	and we explore this accelerated learning in four experiments. Our results confirm that humans learn
+	rapidly about the causal powers of novel objects, and we show that our framework accounts better
+	for our data than alternative models of causal learning.}
 	Author = {Kemp, Charles and Goodman, Noah D and Tenenbaum, Joshua B},
 	Journal = {Cognitive Science},
 	Number = {7},
@@ -829,6 +863,13 @@
 	Year = {2010}}
 
 @article{frank2010predicting,
+        Abstract = {A picture may be worth a thousand words, but its description will likely use far fewer. How do speakers choose which aspects of a complex image to describe? Grice's pragmatic maxims (e.g., “be relevant”, “be informative”) have served as an informal guide for understanding how speakers select which pieces of information to include in descriptions. We present a formalization of Grice's maxim of informativeness (“choose descriptions proportional to the number of bits they convey about the referent with respect to context”) and test its ability to capture human performance.
+
+Experiment 1: Participants saw sets of four simple objects that varied on two dimensions (e.g., texture and shape) and were asked to provide the relative probabilities of using two different adjectives (e.g., polka-dot vs. square) to describe a target object relative to the distractor objects. Participants' mean probabilities were highly correlated with the information theoretic model’s predictions for the relative informativeness of the two adjectives (r=.92,p<.0001).
+
+Experiment 2: Participants described street scenes from a database of hand-segmented and labeled images (LabelMe). In the context condition, participants were presented with a set of six scenes, one target and five distractors, and were asked to name five objects in the target scene so that another observer could pick that scene out of the set. In the no-context condition, another group of participants performed the same task without seeing the distractors. The information-theoretic model was strongly correlated with differences in object labeling between context and no-context conditions (r=.67,p<.0001), suggesting that the model captures the effect of context on descriptor choice.
+
+Our results suggest that speakers' image descriptions conform to optimal pragmatic norms and that information theory can define norms for the linguistic compression of visual information. This constitutes a first step towards understanding how the visual world is captured and communicated by language users.},
 	Author = {Frank, Michael and Kenney, Avril and Goodman, Noah and Tenenbaum, Joshua and Torralba, Antonio and Oliva, Aude},
 	Journal = {Journal of Vision},
 	Number = {7},
@@ -1096,7 +1137,7 @@
 	Year = {2007}}
 
 @inproceedings{KempEtAl2007-Cogsci,
-	Abstract = {Causal inferences about sparsely observed objects are often supported by causal schemata, or systems of abstract causal knowledge. We present a hierarchical Bayesian framework that learns simple causal schemata given only raw data as in- put. Given a set of objects and observations of causal events in- volving some of these objects, our framework simultaneously discovers the causal type of each object, the causal powers of these types, the characteristic features of these types, and the characteristic interactions between these types. Previous behavioral studies confirm that humans are able to discover causal schemata, and we show that our framework accounts for data collected by Lien and Cheng and Shanks and Darby.},
+	Abstract = {Causal inferences about sparsely observed objects are often supported by causal schemata, or systems of abstract causal knowledge. We present a hierarchical Bayesian framework that learns simple causal schemata given only raw data as input. Given a set of objects and observations of causal events involving some of these objects, our framework simultaneously discovers the causal type of each object, the causal powers of these types, the characteristic features of these types, and the characteristic interactions between these types. Previous behavioral studies confirm that humans are able to discover causal schemata, and we show that our framework accounts for data collected by Lien and Cheng and Shanks and Darby.},
 	Annote = {<b>[Winner of the 2007 Cognitive Science Society computational modeling prize for Higher-level Cognition.]</b>},
 	Author = {Charles Kemp and Noah D. Goodman and Joshua B. Tenenbaum},
 	Booktitle = {Proceedings of the Twenty-ninth Annual Meeting of the {C}ognitive {S}cience {S}ociety},
