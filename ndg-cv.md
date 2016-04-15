@@ -371,9 +371,13 @@ A javascript-based probabilistic programming language.
 
 * Conference Proceedings Reviewer (selected): Cognitive Science. Neural Information Processing Systems. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence.
 
-* Grant reviewer: NSF (ad-hoc and panelist).
+* Grant reviewer: NSF (ad-hoc and panelist), ONR.
 
 * Program committee: Cognitive Science Society, 2014, 2015, 2016.
+
+* Co-organizer: Cognitive Science Society, symposium “Empirical and Computational Approaches to Metaphor and Figurative Meaning”, Pennsylvania, August 2016.
+
+* Co-organizer: Cognitive Science Society, symposium “The Emergence of Conventions”, Pennsylvania, August 2016.
 
 * Co-Organizer: European Summer School of Logic Language and Information, workshop "Formal and Experimental Pragmatics". Tubingen, August 2014.
 
@@ -416,6 +420,8 @@ A javascript-based probabilistic programming language.
 ## Teaching
 
 ### Summer Schools and Tutorials
+
+* Probabilistic Programming for Advanced Machine Learning (summer school for DARPA program of the same name), Portland, August 2016.
 
 * "Probabilistic programming languages." European Summer School of Logic Language and Information. Tubingen, August 2014.
 
