@@ -179,6 +179,8 @@ A javascript-based probabilistic programming language.
 
 ## Invited Presentations
 
+* Adobe Machine Learning Seminar, San Jose, CA, April 2016.
+
 * DGfS workshop on Computational Pragmatics, Konstanz, Germany, February 2016.
 
 * SPLAP Workshop, UCSC, Santa Cruz, CA, February 2016.
