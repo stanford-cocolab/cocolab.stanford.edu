@@ -8,7 +8,11 @@ permalink: index.html
 
 Please use the links at the top to navigate.
 
+
+* 
 ### News
+
+* Congratulations to Greg Scontras on accepting a tenure-track position at UC Irvine.
 
 * We held a CoCoLab hackathon! Here are the [results]({{site.url}}{{site.baseurl}}/hackathon.html).
 
@@ -19,8 +23,6 @@ Please use the links at the top to navigate.
 * A nice introduction to PPLs, featuring our work, appeared in the [American Scientist](http://www.americanscientist.org/libraries/documents/20158411291411312-2015-09Hayes.pdf).
 
 * Welcome to our new(ish) post-docs [Andreas Stuhlmüller]({{site.url}}{{site.baseurl}}/people.html#Andreas Stuhlmüller) and [Long Ouyang]({{site.url}}{{site.baseurl}}/people.html#Long Ouyang) and new(ish) grad student [Erin Bennett]({{site.url}}{{site.baseurl}}/people.html#Erin Bennett). 
-
-* Welcome to our new members [Greg Scontras]({{site.url}}{{site.baseurl}}/people.html#Greg Scontras) and [Robert X.D. Hawkins]({{site.url}}{{site.baseurl}}/people.html#Robert X.D. Hawkins)!
 
 * [Justine Kao]({{site.url}}{{site.baseurl}}/people.html#Justine Kao)'s paper [Nonliteral understanding of number words](//cocolab.stanford.edu/papers/PNAS-2014-KaoEtAl.pdf) has just been published in PNAS! (Stanford News article [here](//news.stanford.edu/news/2014/august/language-figurative-goodman-080614.html))
 
