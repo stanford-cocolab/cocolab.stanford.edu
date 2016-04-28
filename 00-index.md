@@ -12,7 +12,7 @@ Please use the links at the top to navigate.
 * 
 ### News
 
-* Congratulations to Greg Scontras on accepting a tenure-track position at UC Irvine.
+* Congratulations to Greg Scontras on accepting a tenure-track position at UC Irvine!
 
 * We held a CoCoLab hackathon! Here are the [results]({{site.url}}{{site.baseurl}}/hackathon.html).
 
