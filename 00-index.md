@@ -12,6 +12,8 @@ Please use the links at the top to navigate.
 * 
 ### News
 
+* Congratulations to [Justine Kao]({{site.url}}{{site.baseurl}}/people.html#Justine Kao), who recently defended her dissertation and became Dr. Kao! She will be joining Apple's Siri Natural Language Group as an NLU Researcher and Machine Learning Data Scientist.
+
 * Congratulations to Greg Scontras on accepting a tenure-track position at UC Irvine!
 
 * We held a CoCoLab hackathon! Here are the [results]({{site.url}}{{site.baseurl}}/hackathon.html).
@@ -21,9 +23,3 @@ Please use the links at the top to navigate.
 * Congratulations to [Andreas Stuhlmueller]({{site.url}}{{site.baseurl}}/people.html#Andreas Stuhlmüller), [Long Ouyang]({{site.url}}{{site.baseurl}}/people.html#Long Ouyang), and [Daniel Hawthorne]({{site.url}}{{site.baseurl}}/people.html#Daniel Hawthorne) on successfully defending their dissertations!
 
 * A nice introduction to PPLs, featuring our work, appeared in the [American Scientist](http://www.americanscientist.org/libraries/documents/20158411291411312-2015-09Hayes.pdf).
-
-* Welcome to our new(ish) post-docs [Andreas Stuhlmüller]({{site.url}}{{site.baseurl}}/people.html#Andreas Stuhlmüller) and [Long Ouyang]({{site.url}}{{site.baseurl}}/people.html#Long Ouyang) and new(ish) grad student [Erin Bennett]({{site.url}}{{site.baseurl}}/people.html#Erin Bennett). 
-
-* [Justine Kao]({{site.url}}{{site.baseurl}}/people.html#Justine Kao)'s paper [Nonliteral understanding of number words](//cocolab.stanford.edu/papers/PNAS-2014-KaoEtAl.pdf) has just been published in PNAS! (Stanford News article [here](//news.stanford.edu/news/2014/august/language-figurative-goodman-080614.html))
-
-* Leon Bergen's paper [The strategic use of noise in pragmatic reasoning](//web.mit.edu/bergen/www/papers/BergenGoodman2014.pdf) wins the 2014 Cognitive Science Society computational modeling prize for language. ([photo](https://cogsciconference.shutterfly.com/11))
