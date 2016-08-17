@@ -132,6 +132,13 @@
         Website = {papers/HawkinsGoodman2016-Cogsci.pdf},
 	Year = {2016}}
 
+@inproceedings{RitchieEtAl2016-NIPS,
+        Annote = {(To appear)},
+	Author = {Daniel Ritchie and Anna Thomas and Pat Hanrahan and Noah D. Goodman},
+	Booktitle = {Advances in Neural Information Processing Systems (NIPS 2016)},
+	Title = {Neurally-Guided Procedural Models: Amortized Inference for Procedural Graphics Programs using Neural Networks},
+	Year = {To appear}}
+
 @inproceedings{MonroeEtAl2016-EMNLP,
         Annote = {(To appear)},
 	Author = {Monroe, Will and Goodman, Noah D and Potts, Chris},
@@ -589,7 +596,7 @@
 @inproceedings{stuhlmuller2013learning,
 	Abstract = {We describe a class of algorithms for amortized inference in Bayesian networks. In this setting, we invest computation upfront to support rapid online inference for a wide range of queries. Our approach is based on learning an inverse factorization of a model's joint distribution: a factorization that turns observations into root nodes. Our algorithms accumulate information to estimate the local conditional distributions that constitute such a factorization. These stochastic inverses can be used to invert each of the computation steps leading to an observation, sampling backwards in order to quickly find a likely explanation. We show that estimated inverses converge asymptotically in number of (prior or posterior) training samples. To make use of inverses before convergence, we describe the Inverse MCMC algorithm, which uses stochastic inverses to make block proposals for a Metropolis-Hastings sampler. We explore the efficiency of this sampler for a variety of parameter regimes and Bayes nets.},
 	Author = {Stuhlm{\"u}ller, Andreas and Taylor, Jacob and Goodman, Noah},
-	Booktitle = {Advances in Neural Information Processing Systems},
+	Booktitle = {Advances in Neural Information Processing Systems (NIPS 2013)},
 	Title = {Learning Stochastic Inverses},
 	Website = {https://web.stanford.edu/~ngoodman/papers/inverses-nips-2013.pdf},
 	Year = {2013}}
@@ -597,7 +604,7 @@
 @inproceedings{smith2013learning,
 	Abstract = {Language users are remarkably good at making inferences about speakers' intentions in context, and children learning their native language also display substantial skill in acquiring the meanings of unknown words. These two cases are deeply related: Language users invent new terms in conversation, and language learners learn the literal meanings of words based on their pragmatic inferences about how those words are used. While pragmatic inference and word learning have both been independently characterized in probabilistic terms, no current work unifies these two. We describe a model in which language learners assume that they jointly approximate a shared, external lexicon and reason recursively about the goals of others in using this lexicon. This model captures phenomena in word learning and pragmatic inference; it additionally leads to insights about the emergence of communicative systems in conversation and the mechanisms by which pragmatic inferences become incorporated into word meanings.},
 	Author = {Smith, Nathaniel J and Goodman, Noah and Frank, Michael},
-	Booktitle = {Advances in Neural Information Processing Systems 26},
+	Booktitle = {Advances in Neural Information Processing Systems (NIPS 2013)},
 	Editor = {C.J.C. Burges and L. Bottou and M. Welling and Z. Ghahramani and K.Q. Weinberger},
 	Pages = {3039--3047},
 	Publisher = {Curran Associates, Inc.},
@@ -918,7 +925,7 @@
 @inproceedings{wingate2011nonstandard,
 	Abstract = {Probabilistic programming languages allow modelers to specify a stochastic process using syntax that resembles modern programming languages. Because the program is in machine-readable format, a variety of techniques from compiler design and program analysis can be used to examine the structure of the distribution represented by the probabilistic program. We show how nonstandard interpretations of probabilistic programs can be used to craft efficient inference algorithms: information about the structure of a distribution (such as gradients or dependencies) is generated as a monad-like side computation while executing the program. These interpretations can be easily coded using special-purpose objects and operator overloading. We implement two examples of nonstandard interpretations in two different languages, and use them as building blocks to construct inference algorithms: automatic differentiation, which enables gradient based methods, and provenance tracking, which enables efficient construction of global proposals.},
 	Author = {Wingate, David and Goodman, Noah D and Stuhlmueller, Andreas and Siskind, Jeffrey Mark},
-	Booktitle = {Advances in Neural Information Processing Systems 23},
+	Booktitle = {Advances in Neural Information Processing Systems (NIPS 2011)},
 	Pages = {1152--1160},
 	Title = {Nonstandard Interpretations of Probabilistic Programs for Efficient Inference},
 	Website = {https://web.stanford.edu/~ngoodman/papers/WGSS-NIPS11.pdf},
@@ -1058,6 +1065,14 @@ Our results suggest that speakers' image descriptions conform to optimal pragmat
 	Website = {papers/UllmanEtAl2010-Cogsci.pdf},
 	Year = {2010}}
 
+@inproceedings{Ullman2010,
+	Abstract = {Everyday social interactions are heavily influenced by our snap judgments about others' goals. Even young infants can infer the goals of intentional agents from observing how they interact with objects and other agents in their environment: e.g., that one agent is `helping' or `hindering' another's attempt to get up a hill or open a box. We propose a model for how people can infer these social goals from actions, based on inverse planning in multiagent Markov decision problems (MDPs). The model infers the goal most likely to be driving an agent's behavior by assuming the agent acts approximately rationally given environmental constraints and its model of other agents present. We also present behavioral evidence in support of this model over a simpler, perceptual cue-based alternative.},
+	Author = {T. Ullman and C. L. Baker and O. Macindoe and O. Evans and N. D. Goodman and J. B. Tenenbaum},
+	Booktitle = {Advances in Neural Information Processing Systems (NIPS 2010)},
+	Title = {Help or hinder: Bayesian models of social goal inference.},
+	Website = {http://web.mit.edu/tomeru/www/papers/nips2010.pdf},
+	Year = {2010}}
+
 @inproceedings{WingateEtAl2009-UncertaintyInArtificialIntelligence,
 	Abstract = {We present the Infinite Latent Events Model, a nonparametric hierarchical Bayesian distribution over infinite dimensional Dynamic Bayesian Networks with binary state representations and noisy-OR-like transitions. The distribution can be used to learn structure in discrete timeseries data by simultaneously inferring a set of latent events, which events fired at each timestep, and how those events are causally linked. We illustrate the model on a sound factorization task, a network topology identification task, and a video game task.},
 	Author = {Wingate, David and Goodman, Noah D and Roy, Daniel M and Tenenbaum, Joshua B},
@@ -1130,14 +1145,6 @@ Our results suggest that speakers' image descriptions conform to optimal pragmat
 	Booktitle = {Proceedings of the 31st Annual Conference of the {C}ognitive {S}cience {S}ociety},
 	Title = {Cause and intent: Social reasoning in causal learning},
 	Website = {papers/GoodmanEtAl2009-Cogsci.pdf},
-	Year = {2009}}
-
-@inproceedings{Ullman2009,
-	Abstract = {Everyday social interactions are heavily influenced by our snap judgments about others' goals. Even young infants can infer the goals of intentional agents from observing how they interact with objects and other agents in their environment: e.g., that one agent is `helping' or `hindering' another's attempt to get up a hill or open a box. We propose a model for how people can infer these social goals from actions, based on inverse planning in multiagent Markov decision problems (MDPs). The model infers the goal most likely to be driving an agent's behavior by assuming the agent acts approximately rationally given environmental constraints and its model of other agents present. We also present behavioral evidence in support of this model over a simpler, perceptual cue-based alternative.},
-	Author = {T. Ullman and C. L. Baker and O. Macindoe and O. Evans and N. D. Goodman and J. B. Tenenbaum},
-	Booktitle = {Advances in Neural Information Processing Systems 22},
-	Title = {Help or hinder: Bayesian models of social goal inference.},
-	Website = {http://web.mit.edu/tomeru/www/papers/nips2010.pdf},
 	Year = {2009}}
 
 @inproceedings{FrankEtAl2009-Cogsci,
@@ -1265,7 +1272,7 @@ Our results suggest that speakers' image descriptions conform to optimal pragmat
 @inproceedings{KempEtAl2007-NIPS,
 	Abstract = {Much of human knowledge is organized into sophisticated systems that are often called intuitive theories. We propose that intuitive theories are mentally represented in a logical language, and that the subjective complexity of a theory is determined by the length of its representation in this language. This complexity measure helps to explain how theories are learned from relational data, and how they support inductive inferences about unobserved relations. We describe two experiments that test our approach, and show that it provides a better account of human learning and reasoning than an approach developed by Goodman [1].},
 	Author = {Kemp, Charles and Goodman, Noah D and Tenenbaum, Joshua B},
-	Booktitle = {Advances in Neural Information Processing Systems},
+	Booktitle = {Advances in Neural Information Processing Systems (NIPS 2007)},
 	Title = {Learning and using relational theories.},
 	Website = {papers/KempEtAl2007-NIPS.pdf},
 	Year = {2007}}
@@ -1291,7 +1298,7 @@ Our results suggest that speakers' image descriptions conform to optimal pragmat
 @inproceedings{FrankEtAl2007-NIPS,
 	Abstract = {For infants, early word learning is a chicken-and-egg problem. One way to learn a word is to observe that it co-occurs with a particular referent across different situations. Another way is to use the social context of an utterance to infer the intended referent of a word. Here we present a Bayesian model of cross-situational word learning, and an extension of this model that also learns which social cues are relevant to determining reference. We test our model on a small corpus of mother-infant interaction and find it performs better than competing models. Finally, we show that our model accounts for experimental phenomena including mutual exclusivity, fast-mapping, and generalization from social cues.},
 	Author = {Frank, M. C. and Goodman, N. D. and Tenenbaum, J. B.},
-	Journal = {Advances in Neural Information Processing Systems},
+	Journal = {Advances in Neural Information Processing Systems (NIPS 2007)},
 	Publisher = {MIT Press},
 	Title = {A bayesian framework for crosssituational word-learning},
 	Volume = {20},
