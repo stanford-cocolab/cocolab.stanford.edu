@@ -11,11 +11,15 @@ layout: default
 
 This course will introduce the probabilistic approach to cognitive science, in which learning and reasoning are understood as inference in complex probabilistic models. Examples will be drawn from areas including concept learning, causal reasoning, social cognition, and language understanding. Formal modeling ideas and techniques will be discussed in concert with relevant empirical phenomena.
 
-Instructor: Noah Goodman (ngoodman at stanford dot edu)  
-TAs: Robert Hawkins & MH Tessler
-Meeting time: T,Th, 1:30-2:50pm
-Meeting place: School of Education 313
-Office hours: TBA
+* Instructor: Noah Goodman (ngoodman at stanford dot edu)
+
+* TAs: Robert Hawkins (rxdh) & MH Tessler (mtessler)
+
+* Meeting time: T,Th, 1:30-2:50pm
+
+* Meeting place: School of Education 313
+
+* Office hours: TBA
 
 We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer questions as well, and TAs will verify the solutions. Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
