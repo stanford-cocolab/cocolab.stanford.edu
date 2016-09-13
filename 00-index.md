@@ -16,6 +16,8 @@ Please use the links at the top to navigate.
 
 * Congratulations to Greg Scontras on accepting a tenure-track position at UC Irvine!
 
+* Noah was featured in recent articles in the [MIT Technology Review](https://www.technologyreview.com/s/602094/ais-language-problem/) and [Boston Globe](http://www.bostonglobe.com/ideas/2016/05/27/what-people-can-learn-from-algorithms-and-algorithms-can-learn-from-people/R7XJ1TgLnyZCOnmzBryh5H/story.html).
+
 * We held a CoCoLab hackathon! Here are the [results]({{site.url}}{{site.baseurl}}/hackathon.html).
 
 * Don't PUNish us! [A computational model of linguistic humor in puns](//cocolab.stanford.edu/papers/KaoEtAl2015-CognitiveScience.pdf) has appeared in Cognitive Science, and been written about in the [New Scientist](https://www.newscientist.com/article/dn28036-think-youre-punny-computer-that-can-tell-how-good-a-joke-is/) and [The Times](//cocolab.stanford.edu/papers/TIM_20150815_null_null_01_25.pdf).
