@@ -7,21 +7,20 @@ layout: default
 
 #Computation and Cognition: the Probabilistic Approach (Psych204/CS428, Fall 2016)
 
-**Note: this site has not yet updated for 2016-17!!**
-
 ##Overview
 
 This course will introduce the probabilistic approach to cognitive science, in which learning and reasoning are understood as inference in complex probabilistic models. Examples will be drawn from areas including concept learning, causal reasoning, social cognition, and language understanding. Formal modeling ideas and techniques will be discussed in concert with relevant empirical phenomena.
 
 Instructor: Noah Goodman (ngoodman at stanford dot edu)  
-TAs: TBA
-Meeting time: TBA
-Meeting place: TBA
+TAs: Robert Hawkins & MH Tessler
+Meeting time: T,Th, 1:30-2:50pm
+Meeting place: School of Education 313
 Office hours: TBA
 
-We encourage students to use Piazza for questions that are readily articulable. Piazza is a forum for questions & answers, and answers may be posed by both students and TAs. We strongly encourage students to answer questions, and TAs will verify the solutions.
+We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer questions as well, and TAs will verify the solutions. Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
 ##Assignments and grading
+
 Students (both registered and auditing) will be expected to do assigned readings before class.
 Registered students will be graded based on:
 
@@ -29,9 +28,7 @@ Registered students will be graded based on:
 * 30% Homework.
 * 50% Final project (including proposal, update, presentation, and paper).
 
-Send all assignment submissions and correspondences to psych204-spr1415-staff at lists dot stanford dot edu
-
-Assignments should be in .pdf form; fixed-width font appreciated. Assignments will be graded using the following scheme:
+Assignments should be submitted to Canvas in .pdf form; fixed-width font appreciated. Assignments will be graded using the following scheme:
 
 After the first attempt of the problem set:
 
@@ -44,25 +41,24 @@ You will receive feedback on your work. If you receive *half credit*, you will h
 + Full credit (revised attempt): Assignment is complete, solutions are correct, and explanations for why original solution was incorrect are provided
 
 ##Readings
-Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the webbook [Probabilistic Models of Cognition](http://probmods.org/) and selected research papers.
+
+Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the webbook [Probabilistic Models of Cognition](http://probmods.org/v2) and selected research papers.
 
 ##Pre-requisites
+
 There are no formal pre-requisites for this class. However, this is a graduate-level course, which will move relatively quickly and have technical content. Students should be already familiar with the basics of probability and programming (or be willing to learn this background on their own).
-
-
-
 
 #Schedule
 
-##Week of March 31
+##Week of September 26
 Introduction. Simulation, computation, and generative models. Probability and belief.
 
 Homework: Exercises on Scheme Basics and Generative Models.
 
 Readings:
 
- * [Scheme Basics](http://probmods.org/appendix-scheme.html)
- * [Generative Models](http://probmods.org/generative-models.html)
+ * [Scheme Basics](http://probmods.org/v2/chapters/appendix-scheme.html)
+ * [Generative Models](http://probmods.org/v2/chapters/02-generative-models.html)
  * [Concepts in a probabilistic language of thought.](http://www.stanford.edu/~ngoodman/papers/ConceptsChapter-final.pdf) Goodman, Tenenbaum, Gerstenberg (2015).
  * Optional: [How to grow a mind: structure, statistics, and abstraction.](../papers/tkgg-science11-reprint.pdf), J. B. Tenenbaum, C. Kemp, T. L. Griffiths, and N. D. Goodman (2011).
  * Optional: [Ping Pong in Church: Productive use of concepts in human probabilistic inference.](http://stanford.edu/~ngoodman/papers/GerstenbergGoodman2012.pdf) Gerstenberg and Goodman (2012).
@@ -72,48 +68,64 @@ Readings:
  * Optional: [Sources of uncertainty in intuitive physics.](http://www.edvul.com/pdf/SV-CogSci-2012.pdf) Smith and Vul (2012).
 
 
-##Week of April 7
+##Week of October 3
 Conditioning and inference. Causal vs. statistical dependency. Patterns of inference.
 
 Homework: Exercises on Conditioning and Patterns of Inference.
 
 Readings:
 
-* [Conditioning](http://probmods.org/conditioning.html)
-* [Patterns of Inference](http://probmods.org/patterns-of-inference.html)
+* [Conditioning](http://probmods.org/v2/chapters/03-conditioning.html)
+* [Patterns of Inference](http://probmods.org/v2/chapters/04-patterns-of-inference.html)
 * [Predicting the future.](http://cocosci.berkeley.edu/tom/papers/predictions.pdf) Griffiths and Tenenbaum (2006).
 * Optional: [Causal Reasoning Through Intervention.](http://www.ucl.ac.uk/lagnado-lab/publications/lagnado/intervention%20hagmayer%20et%20al.pdf) Hagmayer, Sloman, Lagnado, and Waldmann (2006).
 * Optional: [Children's causal inferences from indirect evidence: Backwards blocking and Bayesian reasoning in preschoolers.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Sobel2004.pdf) Sobel, Tenenbaum, Gopnik (2004).
 * Optional: [Bayesian models of object perception.](http://vision.psych.umn.edu/users/kersten/kersten-lab/papers/KerstenYuilleApr2003.pdf) Kersten and Yuille (2003).
 
-
-
-## Week of April 14
-Sequences of observations. Bayesian data analysis. Discussion on levels of analysis.
+## Week of October 10
+Sequences of observations. Bayesian data analysis. 
 
 Homework: Exercises on Bayesian data analysis.
 
-<!--[Mini-project](https://probmods.org/mini-projects.html#explaining-away) -->
+<!--[Mini-project](https://probmods.org/v2/chapters/mini-projects.html#explaining-away) -->
 
 Readings:
 
-* [Models for sequences of observations](http://probmods.org/observing-sequences.html)
+* [Models for sequences of observations](http://probmods.org/v2/chapters/05-observing-sequences.html)
 * [Bayesian data analysis](http://forestdb.org/models/bayesian-data-analysis.html)
+
+## Week of October 17
+Inference algorithms, PPL implementation
+
+Readings:
+
+* [DIPPL: Exploring the executions of a random computation](http://dippl.org/chapters/03-enumeration.html)
+* [Algorithms for Inference](http://probmods.org/v2/chapters/07-inference-process.html)
+* [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
+
+## Week of October 24
+Resource-rational process models. Discussion on levels of analysis.
+
 * [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
+* [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
+* [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
 * Optional: [Chapter 1 of  "Vision."](http://ling.umd.edu/~idsardi/728/Marr/Marr%20%27Vision%27%20Ch%201.pdf) Marr (1982).
 * Optional: [Ten Years of Rational Analysis.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
 * Optional: [The Knowledge Level.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Newell1982.pdf) Newell (1982).
+* Optional: <a href="http://www.princeton.edu/~sjgershm/GershmanVulTenenbaum09.pdf">Perceptual multistability as Markov chain Monte Carlo inference.</a> Gershman, Vul, Tenenbaum (2009).
+* Optional: <a href="http://cocosci.berkeley.edu/tom/papers/rational1.pdf">A more rational model of categorization.</a> Sanborn, Griffiths,  Navarro (2006).
+* Optional: <a href="http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf">Theory acquisition as stochastic search.</a> Ullman, Goodman, and Tenenbaum (2010).
+* Optional: <a href="http://cocosci.berkeley.edu/tom/papers/mechanism.pdf">Exemplar models as a mechanism for performing Bayesian inference.</a> Shi, Griffiths, Feldman, Sanborn (2010).
 
 
-
-## Week of April 21
+## Week of October 31
 Social cognition.
 
 Homework: Exercises on Inference about Inference, also work on project proposals (see below).
 
 Readings:
 
-* [Inference about Inference](http://probmods.org/inference-about-inference.html)
+* [Inference about Inference](http://probmods.org/v2/chapters/06-inference-about-inference.html)
 * Optional: [Goal Inference as Inverse Planning.](http://web.mit.edu/clbaker/www/papers/cogsci2007.pdf) Baker, Tenenbaum, Saxe (2007).
 * Optional: [Cause and intent: Social reasoning in causal learning.](http://stanford.edu/~ngoodman/papers/SocCause_v1.pdf) Goodman, Baker, Tenenbaum (2009).
 * Optional: [Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs.](http://stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf) Stuhlmueller and Goodman (2013).
@@ -122,7 +134,7 @@ Readings:
 * Optional: [A rational account of pedagogical reasoning: Teaching by, and learning from, examples.](http://www.stanford.edu/~ngoodman/papers/shaftogg14.pdf) Shafto, Goodman, and Griffiths (2014).
 
 
-## Week of April 28
+## Week of November 7
 Natural language pragmatics and semantics. Project proposals due on Friday!
 
 Readings:
@@ -135,26 +147,27 @@ Readings:
 
 
 
-## Week of May 5
+## Week of November 14
 Learning as inference.
 
 Readings:
 
-* [Learning as Conditional Inference](https://probmods.org/learning-as-conditional-inference.html)
+* [Learning as Conditional Inference](https://probmods.org/v2/chapters/08-learning-as-conditional-inference.html)
 * [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/nips99preprint.pdf">Rules and similarity in concept learning.</a> Tenenbaum (2000).
 * Optional: <a href="http://www.mit.edu/~ast/papers/structured-generative-concepts-cogsci2010.pdf">Learning Structured Generative Concepts.</a> Stuhlmueller, Tenenbaum, and Goodman (2010).
 
 
-## Week of May 12
+## Week of November 21
 Hierarchical models. Mixture models. Occam's razor.
 
 Project update (preliminary paper) due on Friday!
 
 Readings:
 
-* <a href="https://probmods.org/hierarchical-models.html">Hierarchical Models</a>
-* <a href="https://probmods.org/occam's-razor.html">Occam's Razor</a>
+* <a href="https://probmods.org/v2/chapters/09-hierarchical-models.html">Hierarchical Models</a>
+* <a href="https://probmods.org/v2/chapters/10-occam's-razor.html">Occam's Razor</a>
+* <a href="https://probmods.org/v2/chapters/11-mixture-models.html">Hierarchical Models</a>
 * <a href="http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf">Structure and strength in causal induction.</a> Griffiths and Tenenbaum (2005).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/bayes.pdf">Bayesian modeling of human concept learning.</a> Tenenbaum (1999).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/cogsci00_FINAL.pdf">Word learning as Bayesian inference.</a> Tenenbaum and Xu (2000).
@@ -162,32 +175,14 @@ Readings:
 * Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/KempPT06.pdf">Learning overhypotheses.</a> Kemp, Perfors, and Tenenbaum (2006).
 * Optional: <a>Object name learning provides on-the-job training for attention.</a> Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
 
+## Week of November 28
 
+??? 
 
-## Week of May 19
-Inference algorithms, PPL implementation
-
-Readings:
-
-* [DIPPL: Exploring the executions of a random computation](http://dippl.org/chapters/03-enumeration.html)
-* [Algorithms for Inference](http://probmods.org/inference-process.html)
-* [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
-
-
-## Week of May 26
-Resource-rational process models. Other topics.
-
-* [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
-* [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
-* Optional: <a href="http://www.princeton.edu/~sjgershm/GershmanVulTenenbaum09.pdf">Perceptual multistability as Markov chain Monte Carlo inference.</a> Gershman, Vul, Tenenbaum (2009).
-* Optional: <a href="http://cocosci.berkeley.edu/tom/papers/rational1.pdf">A more rational model of categorization.</a> Sanborn, Griffiths,  Navarro (2006).
-* Optional: <a href="http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf">Theory acquisition as stochastic search.</a> Ullman, Goodman, and Tenenbaum (2010).
-* Optional: <a href="http://cocosci.berkeley.edu/tom/papers/mechanism.pdf">Exemplar models as a mechanism for performing Bayesian inference.</a> Shi, Griffiths, Feldman, Sanborn (2010).
-
-## June 2
+## December 6
 Project presentations!
 
-## June 4
+## December 8
 Project presentations (continued)!
 
 
