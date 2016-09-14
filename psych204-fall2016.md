@@ -55,6 +55,7 @@ There are no formal pre-requisites for this class. However, this is a graduate-l
 #Schedule
 
 ##Week of September 26
+
 Introduction. Simulation, computation, and generative models. Probability and belief.
 
 Homework: Exercises on Scheme Basics and Generative Models.
@@ -73,6 +74,7 @@ Readings:
 
 
 ##Week of October 3
+
 Conditioning and inference. Causal vs. statistical dependency. Patterns of inference.
 
 Homework: Exercises on Conditioning and Patterns of Inference.
@@ -87,6 +89,7 @@ Readings:
 * Optional: [Bayesian models of object perception.](http://vision.psych.umn.edu/users/kersten/kersten-lab/papers/KerstenYuilleApr2003.pdf) Kersten and Yuille (2003).
 
 ## Week of October 10
+
 Sequences of observations. Bayesian data analysis. 
 
 Homework: Exercises on Bayesian data analysis.
@@ -99,6 +102,7 @@ Readings:
 * [Bayesian data analysis](http://forestdb.org/models/bayesian-data-analysis.html)
 
 ## Week of October 17
+
 Inference algorithms, PPL implementation
 
 Readings:
@@ -108,6 +112,7 @@ Readings:
 * [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
 
 ## Week of October 24
+
 Resource-rational process models. Discussion on levels of analysis.
 
 * [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
@@ -139,7 +144,7 @@ Readings:
 
 
 ## Week of November 7
-Natural language pragmatics and semantics. Project proposals due on Friday!
+Natural language pragmatics and semantics. Project proposals due on Thursday!
 
 Readings:
 
@@ -152,7 +157,10 @@ Readings:
 
 
 ## Week of November 14
+
 Learning as inference.
+
+Project update (preliminary paper) due on Thursday!
 
 Readings:
 
@@ -163,9 +171,12 @@ Readings:
 
 
 ## Week of November 21
-Hierarchical models. Mixture models. Occam's razor.
 
-Project update (preliminary paper) due on Friday!
+Thanksgiving -- no class!
+
+## Week of November 28
+
+Hierarchical models. Mixture models. Occam's razor.
 
 Readings:
 
@@ -178,8 +189,6 @@ Readings:
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/f881-XuTenenbaum.pdf"> Word learning as Bayesian inference: Evidence from preschoolers.</a> Xu and Tenenbaum (2005).
 * Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/KempPT06.pdf">Learning overhypotheses.</a> Kemp, Perfors, and Tenenbaum (2006).
 * Optional: <a>Object name learning provides on-the-job training for attention.</a> Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
-
-## Week of November 28
 
 ??? 
 
