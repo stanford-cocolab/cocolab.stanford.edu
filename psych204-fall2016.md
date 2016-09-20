@@ -28,11 +28,11 @@ We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announc
 Students (both registered and auditing) will be expected to do assigned readings before class.
 Registered students will be graded based on:
 
-* 20% Class participation and Piazza participation.
+* 20% Class participation and Canvas participation.
 * 30% Homework.
 * 50% Final project (including proposal, update, presentation, and paper).
 
-Assignments should be submitted to Canvas in .pdf form; fixed-width font appreciated. Assignments will be graded using the following scheme:
+Assignments should be submitted to Canvas in .pdf form; fixed-width font appreciated. Homework assignments will be graded using the following scheme:
 
 After the first attempt of the problem set:
 
@@ -46,7 +46,7 @@ You will receive feedback on your work. If you receive *half credit*, you will h
 
 ##Readings
 
-Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the webbook [Probabilistic Models of Cognition](http://probmods.org/v2) and selected research papers.
+Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the web-book [Probabilistic Models of Cognition](http://probmods.org/v2) and selected research papers.
 
 ##Pre-requisites
 
@@ -90,7 +90,7 @@ Readings:
 
 ## Week of October 10
 
-Sequences of observations. Bayesian data analysis. 
+Sequences of observations. Bayesian data analysis.
 
 Homework: Exercises on Bayesian data analysis.
 
@@ -190,7 +190,7 @@ Readings:
 * Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/KempPT06.pdf">Learning overhypotheses.</a> Kemp, Perfors, and Tenenbaum (2006).
 * Optional: <a>Object name learning provides on-the-job training for attention.</a> Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
 
-??? 
+???
 
 ## December 6
 Project presentations!

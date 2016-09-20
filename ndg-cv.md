@@ -176,6 +176,8 @@ A javascript-based probabilistic programming language.
 
 * "Call it Clement Droid: a machine that has a droll sense of humour." The Times, August 15, 2015.
 
+* "What people can learn from algorithms — and algorithms can learn from people." Boston Globe, May 27, 2016.
+
 
 ## Invited Presentations
 
