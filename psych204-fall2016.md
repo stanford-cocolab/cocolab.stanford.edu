@@ -62,13 +62,11 @@ Homework: Exercises on Scheme Basics and Generative Models.
 
 Readings:
 
- * [Scheme Basics](http://probmods.org/v2/chapters/appendix-scheme.html)
+ * [JavaScript Basics](http://probmods.org/v2/chapters/appendix-js.html)
  * [Generative Models](http://probmods.org/v2/chapters/02-generative-models.html)
- * [Concepts in a probabilistic language of thought.](http://www.stanford.edu/~ngoodman/papers/ConceptsChapter-final.pdf) Goodman, Tenenbaum, Gerstenberg (2015).
+ * Optional: [Concepts in a probabilistic language of thought.](http://www.stanford.edu/~ngoodman/papers/ConceptsChapter-final.pdf) Goodman, Tenenbaum, Gerstenberg (2015).
  * Optional: [How to grow a mind: structure, statistics, and abstraction.](../papers/tkgg-science11-reprint.pdf), J. B. Tenenbaum, C. Kemp, T. L. Griffiths, and N. D. Goodman (2011).
- * Optional: [Ping Pong in Church: Productive use of concepts in human probabilistic inference.](http://stanford.edu/~ngoodman/papers/GerstenbergGoodman2012.pdf) Gerstenberg and Goodman (2012).
  * Optional: [Structure and Interpretation of Computer Programs.](http://mitpress.mit.edu/sicp/) (This is an amazing intro to computer science, through Scheme.)
- * Optional: [Some](http://www.shido.info/lisp/idx_scm_e.html) [Scheme](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/schemetutorial.html) [tutorials](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html).
  * Optional: [Internal physics models guide probabilistic judgments about object dynamics.](http://web.mit.edu/~pbatt/www/publications/HamrBattTene11CogSci33.pdf) Hamrick, Battaglia, Tenenbaum (2011).
  * Optional: [Sources of uncertainty in intuitive physics.](http://www.edvul.com/pdf/SV-CogSci-2012.pdf) Smith and Vul (2012).
 
@@ -90,7 +88,7 @@ Readings:
 
 ## Week of October 10
 
-Sequences of observations. Bayesian data analysis.
+Bayesian data analysis. Discussion on levels of analysis.
 
 Homework: Exercises on Bayesian data analysis.
 
@@ -98,83 +96,41 @@ Homework: Exercises on Bayesian data analysis.
 
 Readings:
 
-* [Models for sequences of observations](http://probmods.org/v2/chapters/05-observing-sequences.html)
 * [Bayesian data analysis](http://forestdb.org/models/bayesian-data-analysis.html)
-
-## Week of October 17
-
-Inference algorithms, PPL implementation
-
-Readings:
-
-* [DIPPL: Exploring the executions of a random computation](http://dippl.org/chapters/03-enumeration.html)
-* [Algorithms for Inference](http://probmods.org/v2/chapters/07-inference-process.html)
-* [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
-
-## Week of October 24
-
-Resource-rational process models. Discussion on levels of analysis.
-
 * [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
-* [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
-* [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
 * Optional: [Chapter 1 of  "Vision."](http://ling.umd.edu/~idsardi/728/Marr/Marr%20%27Vision%27%20Ch%201.pdf) Marr (1982).
 * Optional: [Ten Years of Rational Analysis.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
 * Optional: [The Knowledge Level.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Newell1982.pdf) Newell (1982).
+
+## Week of October 17
+
+Inference algorithms. Resource-rational process models.
+
+Project proposals due on Thursday!
+
+Readings:
+
+* [Algorithms for Inference](http://probmods.org/v2/chapters/07-inference-process.html)
+* [DIPPL: Exploring the executions of a random computation](http://dippl.org/chapters/03-enumeration.html)
+* [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
+* [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
+* [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
 * Optional: <a href="http://www.princeton.edu/~sjgershm/GershmanVulTenenbaum09.pdf">Perceptual multistability as Markov chain Monte Carlo inference.</a> Gershman, Vul, Tenenbaum (2009).
 * Optional: <a href="http://cocosci.berkeley.edu/tom/papers/rational1.pdf">A more rational model of categorization.</a> Sanborn, Griffiths,  Navarro (2006).
 * Optional: <a href="http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf">Theory acquisition as stochastic search.</a> Ullman, Goodman, and Tenenbaum (2010).
 * Optional: <a href="http://cocosci.berkeley.edu/tom/papers/mechanism.pdf">Exemplar models as a mechanism for performing Bayesian inference.</a> Shi, Griffiths, Feldman, Sanborn (2010).
 
 
-## Week of October 31
-Social cognition.
+## Week of October 24
+Sequences of observations. Learning as inference.
 
-Homework: Exercises on Inference about Inference, also work on project proposals (see below).
-
-Readings:
-
-* [Inference about Inference](http://probmods.org/v2/chapters/06-inference-about-inference.html)
-* Optional: [Goal Inference as Inverse Planning.](http://web.mit.edu/clbaker/www/papers/cogsci2007.pdf) Baker, Tenenbaum, Saxe (2007).
-* Optional: [Cause and intent: Social reasoning in causal learning.](http://stanford.edu/~ngoodman/papers/SocCause_v1.pdf) Goodman, Baker, Tenenbaum (2009).
-* Optional: [Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs.](http://stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf) Stuhlmueller and Goodman (2013).
-* Optional: [Young children use statistical sampling to infer the preferences of other people.](https://courses.cit.cornell.edu/tk397/ECCL/Publications_files/Psychological%20Science-2010-Kushnir-0956797610376652.pdf) Kushnir, Xu, and Wellman (2010).
-* Optional: [Teaching games: statistical sampling assumptions for learning in pedagogical situations.](http://stanford.edu/~ngoodman/papers/pedagogicalSampling.pdf) Shafto and Goodman (2008).
-* Optional: [A rational account of pedagogical reasoning: Teaching by, and learning from, examples.](http://www.stanford.edu/~ngoodman/papers/shaftogg14.pdf) Shafto, Goodman, and Griffiths (2014).
-
-
-## Week of November 7
-Natural language pragmatics and semantics. Project proposals due on Thursday!
-
-Readings:
-
-* [Probabilistic Semantics and Pragmatics: Uncertainty in Language and Thought](http://www.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) Goodman and Lassiter (2015).
-* [Quantifying pragmatic inference in language games.](http://stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf) Frank and Goodman (2012).
-* Optional: [Knowledge and implicature: Modeling language understanding as social cognition.](http://stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) Goodman and Stuhlmueller (2013).
-* Optional: [Nonliteral understanding of number words.](http://cocolab.stanford.edu/papers/PNAS-2014-KaoEtAl.pdf) Kao, Wu, Bergen, Goodman (2014). (See also [the model on Forest](http://forestdb.org/models/hyperbole.html).)
-* Optional: [The strategic use of noise in pragmatic reasoning.](http://cocolab.stanford.edu/papers/PragmaticProsody.pdf) Bergen and Goodman (to appear).
-
-
-
-## Week of November 14
-
-Learning as inference.
-
-Project update (preliminary paper) due on Thursday!
-
-Readings:
-
+* [Models for sequences of observations](http://probmods.org/v2/chapters/05-observing-sequences.html)
 * [Learning as Conditional Inference](https://probmods.org/v2/chapters/08-learning-as-conditional-inference.html)
 * [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/nips99preprint.pdf">Rules and similarity in concept learning.</a> Tenenbaum (2000).
 * Optional: <a href="http://www.mit.edu/~ast/papers/structured-generative-concepts-cogsci2010.pdf">Learning Structured Generative Concepts.</a> Stuhlmueller, Tenenbaum, and Goodman (2010).
 
-
-## Week of November 21
-
-Thanksgiving -- no class!
-
-## Week of November 28
+## Week of October 31
 
 Hierarchical models. Mixture models. Occam's razor.
 
@@ -190,16 +146,47 @@ Readings:
 * Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/KempPT06.pdf">Learning overhypotheses.</a> Kemp, Perfors, and Tenenbaum (2006).
 * Optional: <a>Object name learning provides on-the-job training for attention.</a> Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
 
-???
+## Week of November 7
+Social cognition.
 
-## December 6
+Homework: Exercises on Inference about Inference, also work on project proposals (see below).
+
+Readings:
+
+* [Inference about Inference](http://probmods.org/v2/chapters/06-inference-about-inference.html)
+* Optional: [Goal Inference as Inverse Planning.](http://web.mit.edu/clbaker/www/papers/cogsci2007.pdf) Baker, Tenenbaum, Saxe (2007).
+* Optional: [Cause and intent: Social reasoning in causal learning.](http://stanford.edu/~ngoodman/papers/SocCause_v1.pdf) Goodman, Baker, Tenenbaum (2009).
+* Optional: [Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs.](http://stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf) Stuhlmueller and Goodman (2013).
+* Optional: [Young children use statistical sampling to infer the preferences of other people.](https://courses.cit.cornell.edu/tk397/ECCL/Publications_files/Psychological%20Science-2010-Kushnir-0956797610376652.pdf) Kushnir, Xu, and Wellman (2010).
+* Optional: [Teaching games: statistical sampling assumptions for learning in pedagogical situations.](http://stanford.edu/~ngoodman/papers/pedagogicalSampling.pdf) Shafto and Goodman (2008).
+* Optional: [A rational account of pedagogical reasoning: Teaching by, and learning from, examples.](http://www.stanford.edu/~ngoodman/papers/shaftogg14.pdf) Shafto, Goodman, and Griffiths (2014).
+
+## Week of November 14
+Natural language pragmatics and semantics.
+
+Project update (preliminary paper) due on Thursday!
+
+Readings:
+
+* [Probabilistic Semantics and Pragmatics: Uncertainty in Language and Thought](http://www.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) Goodman and Lassiter (2015).
+* [Quantifying pragmatic inference in language games.](http://stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf) Frank and Goodman (2012).
+* Optional: [Knowledge and implicature: Modeling language understanding as social cognition.](http://stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) Goodman and Stuhlmueller (2013).
+* Optional: [Nonliteral understanding of number words.](http://cocolab.stanford.edu/papers/PNAS-2014-KaoEtAl.pdf) Kao, Wu, Bergen, Goodman (2014). (See also [the model on Forest](http://forestdb.org/models/hyperbole.html).)
+* Optional: [The strategic use of noise in pragmatic reasoning.](http://cocolab.stanford.edu/papers/PragmaticProsody.pdf) Bergen and Goodman (to appear).
+
+
+## Week of November 21
+
+Thanksgiving -- no class!
+
+## Week of November 28
+
+Potpourri!!
+
+## Week of December 6
 Project presentations!
 
-## December 8
-Project presentations (continued)!
-
-
-Each project team will present a short summary. We'll go in reverse-alphabetical order.
+Each project team will present a short summary. We'll go in alphabetical order.
 
 
 
