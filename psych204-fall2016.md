@@ -9,11 +9,14 @@ layout: default
 
 ##Overview
 
-This course will introduce the probabilistic approach to cognitive science, in which learning and reasoning are understood as inference in complex probabilistic models. Examples will be drawn from areas including concept learning, causal reasoning, social cognition, and language understanding. Formal modeling ideas and techniques will be discussed in concert with relevant empirical phenomena.
+How can we understand intelligent behavior as computation?
+This course will introduce probabilistic modeling through probabilistic programs,
+and will explore the probabilistic approach to modeling human (and artificial) cognition.
+Examples will be drawn from areas including concept learning, causal reasoning, social cognition, and language understanding.
 
-* Instructor: Noah Goodman (ngoodman at stanford dot edu)
+* Instructor: Noah Goodman (ngoodman at stanford)
 
-* TAs: Robert Hawkins (rxdh) & MH Tessler (mtessler)
+* TAs: Robert Hawkins (rxdh at stanford) & MH Tessler (mtessler at stanford)
 
 * Meeting time: T,Th, 1:30-2:50pm
 
@@ -21,11 +24,11 @@ This course will introduce the probabilistic approach to cognitive science, in w
 
 * Office hours: TBA
 
-We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer questions as well, and TAs will verify the solutions. Trying to explain a concept to someone else is often the best way to check your own knowledge.
+We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
 ##Assignments and grading
 
-Students (both registered and auditing) will be expected to do assigned readings before class.
+Students (both registered and auditing) will be expected to do assigned readings *before* class.
 Registered students will be graded based on:
 
 * 20% Class participation and Canvas participation.
@@ -50,7 +53,7 @@ Readings for each week will be linked from the calendar below. (In some cases th
 
 ##Pre-requisites
 
-There are no formal pre-requisites for this class. However, this is a graduate-level course, which will move relatively quickly and have technical content. Students should be already familiar with the basics of probability and programming (or be willing to learn this background on their own).
+There are no formal pre-requisites for this class. However, this is a graduate-level course, which will move relatively quickly and have technical content. Students should be already familiar with the basics of probability and programming.
 
 #Schedule
 
@@ -62,7 +65,7 @@ Homework: Exercises on JavaScript Basics and Generative Models.
 
 Readings:
 
- * [JavaScript Basics](http://probmods.org/v2/chapters/appendix-js.html)
+ * [JavaScript Basics](http://probmods.org/v2/chapters/appendix-js-basics.html)
  * [Generative Models](http://probmods.org/v2/chapters/02-generative-models.html)
  * Optional: [Concepts in a probabilistic language of thought.](http://www.stanford.edu/~ngoodman/papers/ConceptsChapter-final.pdf) Goodman, Tenenbaum, Gerstenberg (2015).
  * Optional: [How to grow a mind: structure, statistics, and abstraction.](../papers/tkgg-science11-reprint.pdf), J. B. Tenenbaum, C. Kemp, T. L. Griffiths, and N. D. Goodman (2011).
@@ -94,7 +97,7 @@ Homework: Exercises on Bayesian data analysis, also work on project proposals (s
 
 <!--[Mini-project](https://probmods.org/v2/chapters/mini-projects.html#explaining-away) -->
 
-Readings:
+Readings (to be finalized!):
 
 * [Bayesian data analysis](http://forestdb.org/models/bayesian-data-analysis.html)
 * [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
@@ -108,7 +111,7 @@ Inference algorithms. Resource-rational process models.
 
 Project proposals due on Thursday!
 
-Readings:
+Readings (to be finalized!):
 
 * [Algorithms for Inference](http://probmods.org/v2/chapters/07-inference-process.html)
 * [DIPPL: Exploring the executions of a random computation](http://dippl.org/chapters/03-enumeration.html)
@@ -124,6 +127,8 @@ Readings:
 ## Week of October 24
 Sequences of observations. Learning as inference.
 
+Readings (to be finalized!):
+
 * [Models for sequences of observations](http://probmods.org/v2/chapters/05-observing-sequences.html)
 * [Learning as Conditional Inference](https://probmods.org/v2/chapters/08-learning-as-conditional-inference.html)
 * [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
@@ -134,7 +139,7 @@ Sequences of observations. Learning as inference.
 
 Hierarchical models. Mixture models. Occam's razor.
 
-Readings:
+Readings (to be finalized!):
 
 * <a href="https://probmods.org/v2/chapters/09-hierarchical-models.html">Hierarchical Models</a>
 * <a href="https://probmods.org/v2/chapters/10-occam's-razor.html">Occam's Razor</a>
@@ -149,9 +154,7 @@ Readings:
 ## Week of November 7
 Social cognition.
 
-Homework: Exercises on Inference about Inference.
-
-Readings:
+Readings (to be finalized!):
 
 * [Inference about Inference](http://probmods.org/v2/chapters/06-inference-about-inference.html)
 * Optional: [Goal Inference as Inverse Planning.](http://web.mit.edu/clbaker/www/papers/cogsci2007.pdf) Baker, Tenenbaum, Saxe (2007).
@@ -166,7 +169,7 @@ Natural language pragmatics and semantics.
 
 Project update (preliminary paper) due on Thursday!
 
-Readings:
+Readings (to be finalized!):
 
 * [Probabilistic Semantics and Pragmatics: Uncertainty in Language and Thought](http://www.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) Goodman and Lassiter (2015).
 * [Quantifying pragmatic inference in language games.](http://stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf) Frank and Goodman (2012).
@@ -181,7 +184,7 @@ Thanksgiving -- no class!
 
 ## Week of November 28
 
-Potpourri!!
+Potpourri!! (Topics TBA.)
 
 ## Week of December 6
 Project presentations!
@@ -277,7 +280,7 @@ the class to bear.
 
 You are encouraged (but not required) to do projects in small groups of two or three people.
 
-Projects will generally contain both a probabilistic model of some aspect of human cognition and a behavioral expriment testing the model. Some ways you can go:
+Projects will generally contain both a probabilistic model of some aspect of human cognition and a behavioral experiment testing the model. Some ways you can go:
 
 * Directly replicate the experiment and model in an existing paper. This is the most concrete way to go if you are new to both experiments and models.
 * Replicate an existing experiment (or possibly use existing data) that has not been modeled and consider different probabilistic models for the data.
@@ -303,41 +306,35 @@ project should be clearly stated. You should briefly describe the
 *methods* you plan to use (your experimental
 design, your modeling approach, your data analysis, and so on).
 
-Email your proposal to the instructor as a PDF file by midnight on 5/1/15.
+Upload your proposal to Canvas as a PDF file by midnight on 10/17/2016.
 
 
 ## Project update
 
-Two weeks before your project presentation you should turn in a preliminary version of your paper. This should be a complete outline for all sections. It should have a full draft of your *introduction* and *background and related work* sections. In addition, it should have preliminary results from your modeling and/or experiments. Alltogether, these will probably take about 3 pages.
+Two weeks before your project presentation you should turn in a preliminary version of your paper. This should be a complete outline for all sections. It should have a full draft of your *introduction* and *background and related work* sections. In addition, it should have preliminary results from your modeling and/or experiments. All together, these will probably take about 3 pages.
 
-Email your preliminary report to the instructor as a PDF file by midnight on 5/15/15.
+Upload your proposal to Canvas as a PDF file by midnight on 11/14/2016.
 
 
 ## Project presentation
 
-Each person or team will have **5** minutes to present their project. We will go in
-reverse-alphabetical order (last name). The presentations should describe your question,
+Each person or team will have **5-10** minutes to present their project (*exact timing TBA*). We will go in
+alphabetical order (last name). The presentations should describe your question,
 methods, and results at a high level.
 
-Presentations should be in Google Drive Presentation format.
+Presentations should be in Google Drive Presentation format. *Upload instructions TBA.*
 
-Students should upload their presentation (in google presentations format) [here](https://drive.google.com/folderview?id=0BxDiKG5ZeJxeflE5V09OV1RZWVE2WngybERoODBMV2duNWIzcnZhWFdFMVFCSmRHWHZ4SDQ&usp=sharing)
-
-For students who don’t like working in Google Presentations, you can do your presentation in powerpoint and convert it. Google drive can upload (and convert) slides from the following formats:
-
-.ppt (if newer than Microsoft® Office 95), .pptx, .pptm, .pps, .ppsx, .ppsm, .pot, .potx, .potm, .odp
-
-Students should check their conversion once they’ve uploaded it for errors. Presumably, one could also do the slides in Keynote, convert to PPT, and then convert to Google Slides, but we suspect the errors would compound.
+For students who don’t like working in Google Presentations, you can do your presentation in powerpoint and convert it. Google drive can upload (and convert) slides from the following formats: .ppt (if newer than Microsoft® Office 95), .pptx, .pptm, .pps, .ppsx, .ppsm, .pot, .potx, .potm, .odp . Students should check their conversion once they’ve uploaded it for errors. Presumably, one could also do the slides in Keynote, convert to PPT, and then convert to Google Slides, but we suspect the errors would compound.
 
 
 ## Project writeup
 
 Your final project should be described in the format of a conference
 paper, following the guidelines of paper submissions to the
-Cognitive Science Society conference: [see the section "Submission formats" on this page](http://cognitivesciencesociety.org/conference2015/submissions.html).
+Cognitive Science Society conference: [see the section "Submission formats" on this page](http://www.cognitivesciencesociety.org/cogsci-archival-conference-information/).
 In particular, your paper should be no more than six pages long.
 Your paper should cover the background behind your
 project, the questions you are asking, your methods and results, and
 your interpretation of these results.
 
-Email your paper to the instructor as a PDF file by midnight on 6/5/15.
+Email your paper to the instructor as a PDF file by midnight on *date TBA*.
