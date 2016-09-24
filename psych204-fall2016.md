@@ -58,7 +58,7 @@ There are no formal pre-requisites for this class. However, this is a graduate-l
 
 Introduction. Simulation, computation, and generative models. Probability and belief.
 
-Homework: Exercises on Scheme Basics and Generative Models.
+Homework: Exercises on JavaScript Basics and Generative Models.
 
 Readings:
 
@@ -90,7 +90,7 @@ Readings:
 
 Bayesian data analysis. Discussion on levels of analysis.
 
-Homework: Exercises on Bayesian data analysis.
+Homework: Exercises on Bayesian data analysis, also work on project proposals (see below).
 
 <!--[Mini-project](https://probmods.org/v2/chapters/mini-projects.html#explaining-away) -->
 
@@ -149,7 +149,7 @@ Readings:
 ## Week of November 7
 Social cognition.
 
-Homework: Exercises on Inference about Inference, also work on project proposals (see below).
+Homework: Exercises on Inference about Inference.
 
 Readings:
 
