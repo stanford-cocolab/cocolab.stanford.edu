@@ -65,7 +65,7 @@ Homework: Exercises on JavaScript Basics and Generative Models.
 
 Readings:
 
- * [JavaScript Basics](http://probmods.org/v2/chapters/appendix-js-basics.html)
+ * [JavaScript Basics](http://probmods.org/v2/chapters/13-appendix-js-basics.html)
  * [Generative Models](http://probmods.org/v2/chapters/02-generative-models.html)
  * Optional: [Concepts in a probabilistic language of thought.](http://www.stanford.edu/~ngoodman/papers/ConceptsChapter-final.pdf) Goodman, Tenenbaum, Gerstenberg (2015).
  * Optional: [How to grow a mind: structure, statistics, and abstraction.](http://web.mit.edu/~cocosci/Papers/tkgg-science11-reprint.pdf), J. B. Tenenbaum, C. Kemp, T. L. Griffiths, and N. D. Goodman (2011).
