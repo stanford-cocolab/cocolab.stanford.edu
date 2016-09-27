@@ -9,11 +9,14 @@ layout: default
 
 ##Overview
 
-This course will introduce the probabilistic approach to cognitive science, in which learning and reasoning are understood as inference in complex probabilistic models. Examples will be drawn from areas including concept learning, causal reasoning, social cognition, and language understanding. Formal modeling ideas and techniques will be discussed in concert with relevant empirical phenomena.
+How can we understand intelligent behavior as computation?
+This course will introduce probabilistic modeling through probabilistic programs,
+and will explore the probabilistic approach to modeling human (and artificial) cognition.
+Examples will be drawn from areas including concept learning, causal reasoning, social cognition, and language understanding.
 
-* Instructor: Noah Goodman (ngoodman at stanford dot edu)
+* Instructor: Noah Goodman (ngoodman at stanford)
 
-* TAs: Robert Hawkins (rxdh) & MH Tessler (mtessler)
+* TAs: Robert Hawkins (rxdh at stanford) & MH Tessler (mtessler at stanford)
 
 * Meeting time: T,Th, 1:30-2:50pm
 
@@ -21,18 +24,18 @@ This course will introduce the probabilistic approach to cognitive science, in w
 
 * Office hours: TBA
 
-We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer questions as well, and TAs will verify the solutions. Trying to explain a concept to someone else is often the best way to check your own knowledge.
+We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
 ##Assignments and grading
 
-Students (both registered and auditing) will be expected to do assigned readings before class.
+Students (both registered and auditing) will be expected to do assigned readings *before* class.
 Registered students will be graded based on:
 
-* 20% Class participation and Piazza participation.
+* 20% Class participation and Canvas participation.
 * 30% Homework.
 * 50% Final project (including proposal, update, presentation, and paper).
 
-Assignments should be submitted to Canvas in .pdf form; fixed-width font appreciated. Assignments will be graded using the following scheme:
+Assignments should be submitted to Canvas in .pdf form; fixed-width font appreciated. Homework assignments will be graded using the following scheme:
 
 After the first attempt of the problem set:
 
@@ -46,11 +49,11 @@ You will receive feedback on your work. If you receive *half credit*, you will h
 
 ##Readings
 
-Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the webbook [Probabilistic Models of Cognition](http://probmods.org/v2) and selected research papers.
+Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the web-book [Probabilistic Models of Cognition](http://probmods.org/v2) and selected research papers.
 
 ##Pre-requisites
 
-There are no formal pre-requisites for this class. However, this is a graduate-level course, which will move relatively quickly and have technical content. Students should be already familiar with the basics of probability and programming (or be willing to learn this background on their own).
+There are no formal pre-requisites for this class. However, this is a graduate-level course, which will move relatively quickly and have technical content. Students should be already familiar with the basics of probability and programming.
 
 #Schedule
 
@@ -58,17 +61,15 @@ There are no formal pre-requisites for this class. However, this is a graduate-l
 
 Introduction. Simulation, computation, and generative models. Probability and belief.
 
-Homework: Exercises on Scheme Basics and Generative Models.
+Homework: Exercises on JavaScript Basics and Generative Models.
 
 Readings:
 
- * [Scheme Basics](http://probmods.org/v2/chapters/appendix-scheme.html)
+ * [JavaScript Basics](http://probmods.org/v2/chapters/appendix-js-basics.html)
  * [Generative Models](http://probmods.org/v2/chapters/02-generative-models.html)
- * [Concepts in a probabilistic language of thought.](http://www.stanford.edu/~ngoodman/papers/ConceptsChapter-final.pdf) Goodman, Tenenbaum, Gerstenberg (2015).
+ * Optional: [Concepts in a probabilistic language of thought.](http://www.stanford.edu/~ngoodman/papers/ConceptsChapter-final.pdf) Goodman, Tenenbaum, Gerstenberg (2015).
  * Optional: [How to grow a mind: structure, statistics, and abstraction.](../papers/tkgg-science11-reprint.pdf), J. B. Tenenbaum, C. Kemp, T. L. Griffiths, and N. D. Goodman (2011).
- * Optional: [Ping Pong in Church: Productive use of concepts in human probabilistic inference.](http://stanford.edu/~ngoodman/papers/GerstenbergGoodman2012.pdf) Gerstenberg and Goodman (2012).
  * Optional: [Structure and Interpretation of Computer Programs.](http://mitpress.mit.edu/sicp/) (This is an amazing intro to computer science, through Scheme.)
- * Optional: [Some](http://www.shido.info/lisp/idx_scm_e.html) [Scheme](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/schemetutorial.html) [tutorials](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html).
  * Optional: [Internal physics models guide probabilistic judgments about object dynamics.](http://web.mit.edu/~pbatt/www/publications/HamrBattTene11CogSci33.pdf) Hamrick, Battaglia, Tenenbaum (2011).
  * Optional: [Sources of uncertainty in intuitive physics.](http://www.edvul.com/pdf/SV-CogSci-2012.pdf) Smith and Vul (2012).
 
@@ -90,95 +91,55 @@ Readings:
 
 ## Week of October 10
 
-Sequences of observations. Bayesian data analysis. 
+Bayesian data analysis. Discussion on levels of analysis.
 
-Homework: Exercises on Bayesian data analysis.
+Homework: Exercises on Bayesian data analysis, also work on project proposals (see below).
 
 <!--[Mini-project](https://probmods.org/v2/chapters/mini-projects.html#explaining-away) -->
 
-Readings:
+Readings (to be finalized!):
 
-* [Models for sequences of observations](http://probmods.org/v2/chapters/05-observing-sequences.html)
 * [Bayesian data analysis](http://forestdb.org/models/bayesian-data-analysis.html)
-
-## Week of October 17
-
-Inference algorithms, PPL implementation
-
-Readings:
-
-* [DIPPL: Exploring the executions of a random computation](http://dippl.org/chapters/03-enumeration.html)
-* [Algorithms for Inference](http://probmods.org/v2/chapters/07-inference-process.html)
-* [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
-
-## Week of October 24
-
-Resource-rational process models. Discussion on levels of analysis.
-
 * [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
-* [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
-* [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
 * Optional: [Chapter 1 of  "Vision."](http://ling.umd.edu/~idsardi/728/Marr/Marr%20%27Vision%27%20Ch%201.pdf) Marr (1982).
 * Optional: [Ten Years of Rational Analysis.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
 * Optional: [The Knowledge Level.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Newell1982.pdf) Newell (1982).
+
+## Week of October 17
+
+Inference algorithms. Resource-rational process models.
+
+Project proposals due on Thursday!
+
+Readings (to be finalized!):
+
+* [Algorithms for Inference](http://probmods.org/v2/chapters/07-inference-process.html)
+* [DIPPL: Exploring the executions of a random computation](http://dippl.org/chapters/03-enumeration.html)
+* [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
+* [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
+* [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
 * Optional: <a href="http://www.princeton.edu/~sjgershm/GershmanVulTenenbaum09.pdf">Perceptual multistability as Markov chain Monte Carlo inference.</a> Gershman, Vul, Tenenbaum (2009).
 * Optional: <a href="http://cocosci.berkeley.edu/tom/papers/rational1.pdf">A more rational model of categorization.</a> Sanborn, Griffiths,  Navarro (2006).
 * Optional: <a href="http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf">Theory acquisition as stochastic search.</a> Ullman, Goodman, and Tenenbaum (2010).
 * Optional: <a href="http://cocosci.berkeley.edu/tom/papers/mechanism.pdf">Exemplar models as a mechanism for performing Bayesian inference.</a> Shi, Griffiths, Feldman, Sanborn (2010).
 
 
-## Week of October 31
-Social cognition.
+## Week of October 24
+Sequences of observations. Learning as inference.
 
-Homework: Exercises on Inference about Inference, also work on project proposals (see below).
+Readings (to be finalized!):
 
-Readings:
-
-* [Inference about Inference](http://probmods.org/v2/chapters/06-inference-about-inference.html)
-* Optional: [Goal Inference as Inverse Planning.](http://web.mit.edu/clbaker/www/papers/cogsci2007.pdf) Baker, Tenenbaum, Saxe (2007).
-* Optional: [Cause and intent: Social reasoning in causal learning.](http://stanford.edu/~ngoodman/papers/SocCause_v1.pdf) Goodman, Baker, Tenenbaum (2009).
-* Optional: [Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs.](http://stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf) Stuhlmueller and Goodman (2013).
-* Optional: [Young children use statistical sampling to infer the preferences of other people.](https://courses.cit.cornell.edu/tk397/ECCL/Publications_files/Psychological%20Science-2010-Kushnir-0956797610376652.pdf) Kushnir, Xu, and Wellman (2010).
-* Optional: [Teaching games: statistical sampling assumptions for learning in pedagogical situations.](http://stanford.edu/~ngoodman/papers/pedagogicalSampling.pdf) Shafto and Goodman (2008).
-* Optional: [A rational account of pedagogical reasoning: Teaching by, and learning from, examples.](http://www.stanford.edu/~ngoodman/papers/shaftogg14.pdf) Shafto, Goodman, and Griffiths (2014).
-
-
-## Week of November 7
-Natural language pragmatics and semantics. Project proposals due on Thursday!
-
-Readings:
-
-* [Probabilistic Semantics and Pragmatics: Uncertainty in Language and Thought](http://www.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) Goodman and Lassiter (2015).
-* [Quantifying pragmatic inference in language games.](http://stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf) Frank and Goodman (2012).
-* Optional: [Knowledge and implicature: Modeling language understanding as social cognition.](http://stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) Goodman and Stuhlmueller (2013).
-* Optional: [Nonliteral understanding of number words.](http://cocolab.stanford.edu/papers/PNAS-2014-KaoEtAl.pdf) Kao, Wu, Bergen, Goodman (2014). (See also [the model on Forest](http://forestdb.org/models/hyperbole.html).)
-* Optional: [The strategic use of noise in pragmatic reasoning.](http://cocolab.stanford.edu/papers/PragmaticProsody.pdf) Bergen and Goodman (to appear).
-
-
-
-## Week of November 14
-
-Learning as inference.
-
-Project update (preliminary paper) due on Thursday!
-
-Readings:
-
+* [Models for sequences of observations](http://probmods.org/v2/chapters/05-observing-sequences.html)
 * [Learning as Conditional Inference](https://probmods.org/v2/chapters/08-learning-as-conditional-inference.html)
 * [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/nips99preprint.pdf">Rules and similarity in concept learning.</a> Tenenbaum (2000).
 * Optional: <a href="http://www.mit.edu/~ast/papers/structured-generative-concepts-cogsci2010.pdf">Learning Structured Generative Concepts.</a> Stuhlmueller, Tenenbaum, and Goodman (2010).
 
-
-## Week of November 21
-
-Thanksgiving -- no class!
-
-## Week of November 28
+## Week of October 31
 
 Hierarchical models. Mixture models. Occam's razor.
 
-Readings:
+Readings (to be finalized!):
 
 * <a href="https://probmods.org/v2/chapters/09-hierarchical-models.html">Hierarchical Models</a>
 * <a href="https://probmods.org/v2/chapters/10-occam's-razor.html">Occam's Razor</a>
@@ -190,16 +151,45 @@ Readings:
 * Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/KempPT06.pdf">Learning overhypotheses.</a> Kemp, Perfors, and Tenenbaum (2006).
 * Optional: <a>Object name learning provides on-the-job training for attention.</a> Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
 
-??? 
+## Week of November 7
+Social cognition.
 
-## December 6
+Readings (to be finalized!):
+
+* [Inference about Inference](http://probmods.org/v2/chapters/06-inference-about-inference.html)
+* Optional: [Goal Inference as Inverse Planning.](http://web.mit.edu/clbaker/www/papers/cogsci2007.pdf) Baker, Tenenbaum, Saxe (2007).
+* Optional: [Cause and intent: Social reasoning in causal learning.](http://stanford.edu/~ngoodman/papers/SocCause_v1.pdf) Goodman, Baker, Tenenbaum (2009).
+* Optional: [Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs.](http://stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf) Stuhlmueller and Goodman (2013).
+* Optional: [Young children use statistical sampling to infer the preferences of other people.](https://courses.cit.cornell.edu/tk397/ECCL/Publications_files/Psychological%20Science-2010-Kushnir-0956797610376652.pdf) Kushnir, Xu, and Wellman (2010).
+* Optional: [Teaching games: statistical sampling assumptions for learning in pedagogical situations.](http://stanford.edu/~ngoodman/papers/pedagogicalSampling.pdf) Shafto and Goodman (2008).
+* Optional: [A rational account of pedagogical reasoning: Teaching by, and learning from, examples.](http://www.stanford.edu/~ngoodman/papers/shaftogg14.pdf) Shafto, Goodman, and Griffiths (2014).
+
+## Week of November 14
+Natural language pragmatics and semantics.
+
+Project update (preliminary paper) due on Thursday!
+
+Readings (to be finalized!):
+
+* [Probabilistic Semantics and Pragmatics: Uncertainty in Language and Thought](http://www.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) Goodman and Lassiter (2015).
+* [Quantifying pragmatic inference in language games.](http://stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf) Frank and Goodman (2012).
+* Optional: [Knowledge and implicature: Modeling language understanding as social cognition.](http://stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) Goodman and Stuhlmueller (2013).
+* Optional: [Nonliteral understanding of number words.](http://cocolab.stanford.edu/papers/PNAS-2014-KaoEtAl.pdf) Kao, Wu, Bergen, Goodman (2014). (See also [the model on Forest](http://forestdb.org/models/hyperbole.html).)
+* Optional: [The strategic use of noise in pragmatic reasoning.](http://cocolab.stanford.edu/papers/PragmaticProsody.pdf) Bergen and Goodman (to appear).
+
+
+## Week of November 21
+
+Thanksgiving -- no class!
+
+## Week of November 28
+
+Potpourri!! (Topics TBA.)
+
+## Week of December 6
 Project presentations!
 
-## December 8
-Project presentations (continued)!
-
-
-Each project team will present a short summary. We'll go in reverse-alphabetical order.
+Each project team will present a short summary. We'll go in alphabetical order.
 
 
 
@@ -290,7 +280,7 @@ the class to bear.
 
 You are encouraged (but not required) to do projects in small groups of two or three people.
 
-Projects will generally contain both a probabilistic model of some aspect of human cognition and a behavioral expriment testing the model. Some ways you can go:
+Projects will generally contain both a probabilistic model of some aspect of human cognition and a behavioral experiment testing the model. Some ways you can go:
 
 * Directly replicate the experiment and model in an existing paper. This is the most concrete way to go if you are new to both experiments and models.
 * Replicate an existing experiment (or possibly use existing data) that has not been modeled and consider different probabilistic models for the data.
@@ -316,41 +306,35 @@ project should be clearly stated. You should briefly describe the
 *methods* you plan to use (your experimental
 design, your modeling approach, your data analysis, and so on).
 
-Email your proposal to the instructor as a PDF file by midnight on 5/1/15.
+Upload your proposal to Canvas as a PDF file by midnight on 10/17/2016.
 
 
 ## Project update
 
-Two weeks before your project presentation you should turn in a preliminary version of your paper. This should be a complete outline for all sections. It should have a full draft of your *introduction* and *background and related work* sections. In addition, it should have preliminary results from your modeling and/or experiments. Alltogether, these will probably take about 3 pages.
+Two weeks before your project presentation you should turn in a preliminary version of your paper. This should be a complete outline for all sections. It should have a full draft of your *introduction* and *background and related work* sections. In addition, it should have preliminary results from your modeling and/or experiments. All together, these will probably take about 3 pages.
 
-Email your preliminary report to the instructor as a PDF file by midnight on 5/15/15.
+Upload your proposal to Canvas as a PDF file by midnight on 11/14/2016.
 
 
 ## Project presentation
 
-Each person or team will have **5** minutes to present their project. We will go in
-reverse-alphabetical order (last name). The presentations should describe your question,
+Each person or team will have **5-10** minutes to present their project (*exact timing TBA*). We will go in
+alphabetical order (last name). The presentations should describe your question,
 methods, and results at a high level.
 
-Presentations should be in Google Drive Presentation format.
+Presentations should be in Google Drive Presentation format. *Upload instructions TBA.*
 
-Students should upload their presentation (in google presentations format) [here](https://drive.google.com/folderview?id=0BxDiKG5ZeJxeflE5V09OV1RZWVE2WngybERoODBMV2duNWIzcnZhWFdFMVFCSmRHWHZ4SDQ&usp=sharing)
-
-For students who don’t like working in Google Presentations, you can do your presentation in powerpoint and convert it. Google drive can upload (and convert) slides from the following formats:
-
-.ppt (if newer than Microsoft® Office 95), .pptx, .pptm, .pps, .ppsx, .ppsm, .pot, .potx, .potm, .odp
-
-Students should check their conversion once they’ve uploaded it for errors. Presumably, one could also do the slides in Keynote, convert to PPT, and then convert to Google Slides, but we suspect the errors would compound.
+For students who don’t like working in Google Presentations, you can do your presentation in powerpoint and convert it. Google drive can upload (and convert) slides from the following formats: .ppt (if newer than Microsoft® Office 95), .pptx, .pptm, .pps, .ppsx, .ppsm, .pot, .potx, .potm, .odp . Students should check their conversion once they’ve uploaded it for errors. Presumably, one could also do the slides in Keynote, convert to PPT, and then convert to Google Slides, but we suspect the errors would compound.
 
 
 ## Project writeup
 
 Your final project should be described in the format of a conference
 paper, following the guidelines of paper submissions to the
-Cognitive Science Society conference: [see the section "Submission formats" on this page](http://cognitivesciencesociety.org/conference2015/submissions.html).
+Cognitive Science Society conference: [see the section "Submission formats" on this page](http://www.cognitivesciencesociety.org/cogsci-archival-conference-information/).
 In particular, your paper should be no more than six pages long.
 Your paper should cover the background behind your
 project, the questions you are asking, your methods and results, and
 your interpretation of these results.
 
-Email your paper to the instructor as a PDF file by midnight on 6/5/15.
+Email your paper to the instructor as a PDF file by midnight on *date TBA*.
