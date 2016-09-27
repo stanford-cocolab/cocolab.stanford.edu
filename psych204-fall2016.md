@@ -119,7 +119,7 @@ Readings (to be finalized!):
 * [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
 * [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
 * Optional: [Perceptual multistability as Markov chain Monte Carlo inference](http://papers.nips.cc/paper/3711-perceptual-multistability-as-markov-chain-monte-carlo-inference.pdf). Gershman, Vul, Tenenbaum (2009).
-* Optional: [A more rational model of categorization](http://papers.nips.cc/paper/3711-perceptual-multistability-as-markov-chain-monte-carlo-inference.pdf). Sanborn, Griffiths,  Navarro (2006).
+* Optional: [A more rational model of categorization](http://health.adelaide.edu.au/psychology/ccs/docs/pubs/2006/SanbornGriffithsNavarro2006.pdf). Sanborn, Griffiths,  Navarro (2006).
 * Optional: [Theory acquisition as stochastic search](http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf) Ullman, Goodman, and Tenenbaum (2010).
 * Optional: [Exemplar models as a mechanism for performing Bayesian inference](http://cocosci.berkeley.edu/tom/papers/mechanism.pdf). Shi, Griffiths, Feldman, Sanborn (2010).
 
@@ -133,7 +133,7 @@ Readings (to be finalized!):
 * [Learning as Conditional Inference](https://probmods.org/v2/chapters/08-learning-as-conditional-inference.html)
 * [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/nips99preprint.pdf">Rules and similarity in concept learning.</a> Tenenbaum (2000).
-* Optional: <a href="http://www.mit.edu/~ast/papers/structured-generative-concepts-cogsci2010.pdf">Learning Structured Generative Concepts.</a> Stuhlmueller, Tenenbaum, and Goodman (2010).
+* Optional: [Learning Structured Generative Concepts](https://mindmodeling.org/cogsci2010/papers/0533/paper0533.pdf). Stuhlmueller, Tenenbaum, and Goodman (2010).
 
 ## Week of October 31
 
@@ -149,7 +149,7 @@ Readings (to be finalized!):
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/cogsci00_FINAL.pdf">Word learning as Bayesian inference.</a> Tenenbaum and Xu (2000).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/f881-XuTenenbaum.pdf"> Word learning as Bayesian inference: Evidence from preschoolers.</a> Xu and Tenenbaum (2005).
 * Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/KempPT06.pdf">Learning overhypotheses.</a> Kemp, Perfors, and Tenenbaum (2006).
-* Optional: <a>Object name learning provides on-the-job training for attention.</a> Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
+* Optional: [Object name learning provides on-the-job training for attention](http://www.iub.edu/~cogdev/labwork/ObjectNameLearning.pdf). Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
 
 ## Week of November 7
 Social cognition.
@@ -160,7 +160,7 @@ Readings (to be finalized!):
 * Optional: [Goal Inference as Inverse Planning.](http://web.mit.edu/clbaker/www/papers/cogsci2007.pdf) Baker, Tenenbaum, Saxe (2007).
 * Optional: [Cause and intent: Social reasoning in causal learning.](http://stanford.edu/~ngoodman/papers/SocCause_v1.pdf) Goodman, Baker, Tenenbaum (2009).
 * Optional: [Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs.](http://stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf) Stuhlmueller and Goodman (2013).
-* Optional: [Young children use statistical sampling to infer the preferences of other people.](https://courses.cit.cornell.edu/tk397/ECCL/Publications_files/Psychological%20Science-2010-Kushnir-0956797610376652.pdf) Kushnir, Xu, and Wellman (2010).
+* Optional: [Young children use statistical sampling to infer the preferences of other people.](http://economics.cornell.edu/sites/default/files/files/events/Psychological%20Science-2010-Kushnir-0956797610376652.pdf) Kushnir, Xu, and Wellman (2010).
 * Optional: [Teaching games: statistical sampling assumptions for learning in pedagogical situations.](http://stanford.edu/~ngoodman/papers/pedagogicalSampling.pdf) Shafto and Goodman (2008).
 * Optional: [A rational account of pedagogical reasoning: Teaching by, and learning from, examples.](http://www.stanford.edu/~ngoodman/papers/shaftogg14.pdf) Shafto, Goodman, and Griffiths (2014).
 
