@@ -24,61 +24,10 @@
           the University of Osnabr&uuml;ck in 2008, and my PhD in Brain and
           Cognitive Sciences and Linguistics from the University of Rochester
           in 2013.
-    - name: Greg Scontras
-      img: greg.jpg
-      webpage: //web.stanford.edu/~scontras/Gregory_Scontras.html
-      bio:
-        - >
-          Central to theories of natural language are speakers' mental
-          representations of the words they use, together with the ways these
-          representations are employed in computing the meaning of the sentences
-          that contain them. Identifying the mental representations of our
-          speech and the computational system that manipulates them informs
-          not just the cognitive underpinnings of language, but also how the
-          mind works more generally. My work investigates these representations
-          as a means to further our understanding of language and the
-          psychological systems that shape it. Recent projects have focused
-          on linguistic phenomena that appeal to or facilitate measurement,
-          targeting representations of plurality, degree, and number.
-        - >
-          Originally from Maine, I received my BA in Linguistics and in
-          Philosophy from Boston University. I then crossed the Charles River to
-          join the Department of Linguistics at Harvard University, where I
-          received my PhD in 2014.
-    - name: Andreas Stuhlm&uuml;ller
-      img: andreas.jpg
-      webpage: //stuhlmueller.org/
-      bio:
-        - >
-          I want to understand how to represent, learn, and reason with
-          structured knowledge. I work on probabilistic programming as a means
-          of knowledge representation, and probabilistic inference as a method
-          of machine learning and reasoning. I am broadly interested in topics
-          in cognitive science and artificial intelligence that contribute to
-          this project, including concept learning, theory of mind, game
-          theory, and decision theory.
-    - name: Long Ouyang
-      img: long.jpg
-      webpage: //www.stanford.edu/~louyang
-      bio:
-        - >
-          I do research on human learning with the ultimate goal of helping
-          improve education. Using behavioral experiments and computational
-          models, I investigate how people learn and generalize concepts and
-          skills.
     - name: Leon Bergen
+      webpage: //web.stanford.edu/~lbergen/
 - role: Graduate Students
   people:
-    - name: Justine Kao
-      img: justine.jpg
-      webpage: //web.stanford.edu/~justinek
-      bio:
-        - >
-          I am primarily interested in cognitive mechanisms that enable the
-          processing and understanding of non-literal language such as metaphor,
-          hyperbole, and word play. In particular, I aim to use behavioral
-          experiments and computational models to examine how people infer rich
-          meanings from sparse and often ambiguous linguistic input.
     - name: Desmond Ong
       img: desmond.jpg
       webpage: //web.stanford.edu/~dco
@@ -129,21 +78,38 @@
           the state and causal mechanisms in the world.
 - role: Alumni
   people:
+    - name: Greg Scontras
+      was: a post-doc
+      now: Assistant Professor of Linguistics at UC Irvine
+      webpage: //socsci.uci.edu/~gscontra/
+    - name: Justine Kao
+      was: a graduate student in Psychology
+      now: Siri Machine Learning Data Scientist at Apple
+      webpage: //web.stanford.edu/~justinek
+    - name: Andreas Stuhlm&uuml;ller
+      was: a graduate student and post-doc
+      webpage: //stuhlmueller.org/
+    - name: Long Ouyang
+      was: a graduate student and post-doc
+      webpage: //www.stanford.edu/~louyang
     - name: Daniel Hawthorne
-      was: a graduate student in Psychology at Stanford
+      was: a graduate student in Psychology 
       webpage: //www.djthorne.org/
     - name: Daniel Ly
       was: a post-doc
     - name: Siddharth Narayanaswamy
       was: a post-doc
+      now: a post-doc at Oxford 
       webpage: //www.iffsid.com/
     - name: Daniel Lassiter
-      webpage: //www.stanford.edu/~danlass
       was: a post-doc
       now: an Assistant Professor of Linguistics at Stanford
+      webpage: //www.stanford.edu/~danlass
     - name: Joseph Austerweil
       was: a post-doc
       now: an Assistant Professor of Psychology at Brown
+      webpage: //alab.psych.wisc.edu/
     - name: Thomas Icard
       was: a graduate student in Philosophy
       now: an Assistant Professor of Philosophy at Stanford
+      webpage: //stanford.edu/~icard/
