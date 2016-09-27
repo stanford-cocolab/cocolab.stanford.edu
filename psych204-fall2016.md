@@ -68,7 +68,7 @@ Readings:
  * [JavaScript Basics](http://probmods.org/v2/chapters/appendix-js-basics.html)
  * [Generative Models](http://probmods.org/v2/chapters/02-generative-models.html)
  * Optional: [Concepts in a probabilistic language of thought.](http://www.stanford.edu/~ngoodman/papers/ConceptsChapter-final.pdf) Goodman, Tenenbaum, Gerstenberg (2015).
- * Optional: [How to grow a mind: structure, statistics, and abstraction.](../papers/tkgg-science11-reprint.pdf), J. B. Tenenbaum, C. Kemp, T. L. Griffiths, and N. D. Goodman (2011).
+ * Optional: [How to grow a mind: structure, statistics, and abstraction.](http://web.mit.edu/~cocosci/Papers/tkgg-science11-reprint.pdf), J. B. Tenenbaum, C. Kemp, T. L. Griffiths, and N. D. Goodman (2011).
  * Optional: [Structure and Interpretation of Computer Programs.](http://mitpress.mit.edu/sicp/) (This is an amazing intro to computer science, through Scheme.)
  * Optional: [Internal physics models guide probabilistic judgments about object dynamics.](http://web.mit.edu/~pbatt/www/publications/HamrBattTene11CogSci33.pdf) Hamrick, Battaglia, Tenenbaum (2011).
  * Optional: [Sources of uncertainty in intuitive physics.](http://www.edvul.com/pdf/SV-CogSci-2012.pdf) Smith and Vul (2012).
