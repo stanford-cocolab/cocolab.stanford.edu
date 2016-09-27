@@ -118,10 +118,10 @@ Readings (to be finalized!):
 * [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
 * [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
 * [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
-* Optional: <a href="http://www.princeton.edu/~sjgershm/GershmanVulTenenbaum09.pdf">Perceptual multistability as Markov chain Monte Carlo inference.</a> Gershman, Vul, Tenenbaum (2009).
-* Optional: <a href="http://cocosci.berkeley.edu/tom/papers/rational1.pdf">A more rational model of categorization.</a> Sanborn, Griffiths,  Navarro (2006).
-* Optional: <a href="http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf">Theory acquisition as stochastic search.</a> Ullman, Goodman, and Tenenbaum (2010).
-* Optional: <a href="http://cocosci.berkeley.edu/tom/papers/mechanism.pdf">Exemplar models as a mechanism for performing Bayesian inference.</a> Shi, Griffiths, Feldman, Sanborn (2010).
+* Optional: [Perceptual multistability as Markov chain Monte Carlo inference](http://papers.nips.cc/paper/3711-perceptual-multistability-as-markov-chain-monte-carlo-inference.pdf). Gershman, Vul, Tenenbaum (2009).
+* Optional: [A more rational model of categorization](http://papers.nips.cc/paper/3711-perceptual-multistability-as-markov-chain-monte-carlo-inference.pdf). Sanborn, Griffiths,  Navarro (2006).
+* Optional: [Theory acquisition as stochastic search](http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf) Ullman, Goodman, and Tenenbaum (2010).
+* Optional: [Exemplar models as a mechanism for performing Bayesian inference](http://cocosci.berkeley.edu/tom/papers/mechanism.pdf). Shi, Griffiths, Feldman, Sanborn (2010).
 
 
 ## Week of October 24
