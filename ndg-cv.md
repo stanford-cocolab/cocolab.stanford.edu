@@ -19,15 +19,16 @@ Homepage: [`noahgoodman.net`](http://noahgoodman.net)
 ## Research Interests
 
 Computational models of cognition.   
-Social and affective cognition.  
-Representation and use of concepts and intuitive theories.  
+Probabilistic programming languages.  
 Natural language semantics and pragmatics.  
-Cognitive development.  
-Probabilistic programming languages.
+Concepts and intuitive theories.  
 
 ## Professional Positions
 
-* Assistant Professor of Cognitive Psychology, Stanford University, 2010 -.  
+* Associate Professor of Cognitive Psychology, Stanford University, 2016 -.  
+  (By courtesy, Associate Professor of Computer Science and of Linguistics.)
+
+* Assistant Professor of Cognitive Psychology, Stanford University, 2010 - 2016.  
   (By courtesy, Assistant Professor of Computer Science and of Linguistics.)
 
 * Research Scientist, Massachusetts Institute of Technology, 2008-2010.
@@ -78,7 +79,7 @@ Probabilistic programming languages.
 
 * *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017.
 
-* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Sep 2016.
+* *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Mar 2017.
 
 * *Development of probmods.org web-book*, Stanford VPOL, 2013.
 
@@ -441,11 +442,11 @@ A javascript-based probabilistic programming language.
 
 ### University Courses
 
+* "Computation and Cognition: the Probabilistic Approach" (Psych 204 / CS 428). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015, Autumn 2016.
+
 * "Foundations of Cognition" (Psych 205). Stanford. Spring 2015.
 
 * "Probabilistic Models of Social Behavior and Affect" (Psych 241). Stanford. Spring 2014. (Co-taught with J. Zaki, M. Frank.)
-
-* "Computation and Cognition: the Probabilistic Approach" (Psych 204). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015.
 
 * "Representations of Meaning" (Psych 236 c, Linguist 236). Stanford. Spring 2013.(Co-taught with C. Potts.)
 
@@ -455,7 +456,7 @@ A javascript-based probabilistic programming language.
 
 * Co-taught (with L. Schulz and C. Moore): "Perception, Conception, and Action: Grounding Thoughts in Experience (and Vice Versa)", MIT, Spring 2008.
 
-* Extensive experience teaching mathematics at all levels, 1997-2005. (Details by request.)
+* Experience teaching mathematics at all levels, 1997-2005. (Details by request.)
 
 ## Advising
 
@@ -463,13 +464,13 @@ A javascript-based probabilistic programming language.
 
 * Leon Bergen, 2016-present
 
-* Gregory Scontras, 2014-present
-
 * Judith Degen, 2013-present
 
-* Long Ouyang, 2015-present
-
 * Andreas Stuhmueller, 2015-present
+
+* Long Ouyang, 2015-2016
+
+* Gregory Scontras, 2014-2016 (Now assistant professor of Linguistics, UC Irvine)
 
 * Siddarth Narayanaswami 2013-15 (Now post-doc, Oxford University)
 
@@ -482,6 +483,8 @@ A javascript-based probabilistic programming language.
 
 ### Ph.D. students
 
+* Katherine Herman (Stanford, Psychology)
+
 * Erin Bennett (Stanford, Psychology)
 
 * Robert X. D. Hawkins (Stanford, Psychology)
@@ -490,9 +493,9 @@ A javascript-based probabilistic programming language.
 
 * Desmond Ong (Stanford, Psychology)
 
-* Daniel Ritchie (Stanford, Computer Science)
+* Daniel Ritchie (Stanford, Computer Science), completed 2016
 
-* Justine Kao (Stanford, Psychology)
+* Justine Kao (Stanford, Psychology), completed 2016
 
 * Long Ouyang (Stanford, Psychology), completed 2015
 
