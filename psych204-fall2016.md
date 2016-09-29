@@ -26,6 +26,8 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 
 We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
+**The course is full, but we may be able to accept a few more students. If you would like to apply to add the course please fill out [this form](https://goo.gl/forms/uq9cf2syqP2h7b1k2).**
+
 ##Assignments and grading
 
 Students (both registered and auditing) will be expected to do assigned readings *before* class.
