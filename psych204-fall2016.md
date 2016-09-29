@@ -22,7 +22,7 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 
 * Meeting place: School of Education 313
 
-* Office hours: TBA
+* Office hours: T, 3-4pm (RH); Th, 3-4pm (MH)
 
 We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
@@ -61,7 +61,7 @@ There are no formal pre-requisites for this class. However, this is a graduate-l
 
 Introduction. Simulation, computation, and generative models. Probability and belief.
 
-Homework: Exercises on JavaScript Basics and Generative Models.
+Homework: Exercises on Generative Models and (optionally) JavaScript Basics.
 
 Readings:
 
