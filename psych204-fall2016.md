@@ -22,7 +22,7 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 
 * Meeting place: School of Education 313
 
-* Office hours: T, 3-4pm (RH); Th, 3-4pm (MH)
+* Office hours: T, 3-4pm (NG); Th, 3-4pm (MH); F, 2-3pm (RH)
 
 We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
