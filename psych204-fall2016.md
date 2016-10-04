@@ -45,7 +45,7 @@ After the first attempt of the problem set:
 + Half credit: Assignment was attempted, with incorrect solutions
 + No credit: Assignment was not attempted
 
-You will receive feedback on your work. If you receive *half credit*, you will have the opportunity for revision:
+You will receive feedback on your work. If you receive *half credit*, you will have the opportunity for revision. Submit revisions to the same assignment entry on Canvas, including "revision" in your file name:
 
 + Full credit (revised attempt): Assignment is complete, solutions are correct, and explanations for why original solution was incorrect are provided
 
