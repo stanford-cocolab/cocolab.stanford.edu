@@ -26,7 +26,9 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 
 We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
+<!--
 **The course is full, but we may be able to accept a few more students. If you would like to apply to add the course please fill out [this form](https://goo.gl/forms/uq9cf2syqP2h7b1k2).**
+-->
 
 ##Assignments and grading
 
@@ -53,17 +55,19 @@ You will receive feedback on your work. If you receive *half credit*, you will h
 
 Readings for each week will be linked from the calendar below. Readings will be drawn from the web-book [Probabilistic Models of Cognition](http://probmods.org/v2) and selected research papers. (In some cases the papers will require an SUNet ID to access. See the instructor in case of trouble.)
 
-### Other resources
+##Pre-requisites
 
-Here are notes from a few short courses, also based on WebPPL:
+There are no formal pre-requisites for this class. However, this is a graduate-level course, which will move relatively quickly and have technical content. Students should be already familiar with the basics of probability and programming.
+
+
+# Other resources
+
+In addition to the assigned readings below, here are notes from a few related short courses, that might prove useful:
 
 * [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)
 * [PPAML Summer School 2016](http://probmods.github.io/ppaml2016/)
 * [Bayesian Statistics for Psychologists](http://www.stanford.edu/class/psych201s/)
 
-##Pre-requisites
-
-There are no formal pre-requisites for this class. However, this is a graduate-level course, which will move relatively quickly and have technical content. Students should be already familiar with the basics of probability and programming.
 
 #Schedule
 
