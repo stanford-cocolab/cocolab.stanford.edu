@@ -51,7 +51,15 @@ You will receive feedback on your work. If you receive *half credit*, you will h
 
 ##Readings
 
-Readings for each week will be linked from the calendar below. (In some cases these will require an SUNet ID to access. See the instructor in case of trouble.) Readings will be drawn from the web-book [Probabilistic Models of Cognition](http://probmods.org/v2) and selected research papers.
+Readings for each week will be linked from the calendar below. Readings will be drawn from the web-book [Probabilistic Models of Cognition](http://probmods.org/v2) and selected research papers. (In some cases the papers will require an SUNet ID to access. See the instructor in case of trouble.)
+
+### Other resources
+
+Here are notes from a few short courses, also based on WebPPL:
+
+* [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)
+* [PPAML Summer School 2016](http://probmods.github.io/ppaml2016/)
+* [Bayesian Statistics for Psychologists](http://www.stanford.edu/class/psych201s/)
 
 ##Pre-requisites
 
