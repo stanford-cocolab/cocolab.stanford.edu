@@ -22,7 +22,7 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 
 * Meeting place: School of Education 313
 
-* Office hours: TBA
+* Office hours: T, 3-4pm (NG; see after class); Th, 3-4pm (MH; Room 316); F, 2-3pm (RH; Room 352)
 
 We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
@@ -45,7 +45,7 @@ After the first attempt of the problem set:
 + Half credit: Assignment was attempted, with incorrect solutions
 + No credit: Assignment was not attempted
 
-You will receive feedback on your work. If you receive *half credit*, you will have the opportunity for revision:
+You will receive feedback on your work. If you receive *half credit*, you will have the opportunity for revision. Submit revisions to the same assignment entry on Canvas, including "revision" in your file name:
 
 + Full credit (revised attempt): Assignment is complete, solutions are correct, and explanations for why original solution was incorrect are provided
 
@@ -63,7 +63,7 @@ There are no formal pre-requisites for this class. However, this is a graduate-l
 
 Introduction. Simulation, computation, and generative models. Probability and belief.
 
-Homework: Exercises on JavaScript Basics and Generative Models.
+Homework: Exercises on Generative Models and (optionally) JavaScript Basics.
 
 Readings:
 
