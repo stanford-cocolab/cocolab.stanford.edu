@@ -128,10 +128,10 @@ Project proposals due on Thursday!
 Readings (to be finalized!):
 
 * [Algorithms for Inference](http://probmods.org/v2/chapters/07-inference-process.html)
-* [DIPPL: Exploring the executions of a random computation](http://dippl.org/chapters/03-enumeration.html)
-* [DIPPL: Markov Chain Monte Carlo](http://dippl.org/chapters/06-mcmc.html)
-* [One and done: Globally optimal behavior from locally suboptimal decisions.](http://stanford.edu/~ngoodman/papers/VulEtAl2009.pdf) Vul, Goodman, Griffiths, Tenenbaum (2009).
-* [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
+* [Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic.](https://cocolab.stanford.edu/papers/GriffithsEtAl2015-TiCS.pdf) Griffiths, Lieder, Goodman (2015).
+* [One and Done? Optimal Decisions From Very Few Samples.](https://web.stanford.edu/~ngoodman/papers/VulGoodmanGriffithsTenenbaum-COGS-2014.pdf) Vul, Goodman, Griffiths, Tenenbaum (2014).
+* Optional: [The Design and Implementation of Probabilistic Programming Languages.](http://dippl.org/)
+* Optional: [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
 * Optional: [Perceptual multistability as Markov chain Monte Carlo inference](http://papers.nips.cc/paper/3711-perceptual-multistability-as-markov-chain-monte-carlo-inference.pdf). Gershman, Vul, Tenenbaum (2009).
 * Optional: [A more rational model of categorization](http://health.adelaide.edu.au/psychology/ccs/docs/pubs/2006/SanbornGriffithsNavarro2006.pdf). Sanborn, Griffiths,  Navarro (2006).
 * Optional: [Theory acquisition as stochastic search](http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf) Ullman, Goodman, and Tenenbaum (2010).
@@ -197,8 +197,9 @@ Readings (to be finalized!):
 Thanksgiving -- no class!
 
 ## Week of November 28
-
 Potpourri!! (Topics TBA.)
+
+Project peer-reviews due on Thursday!
 
 ## Week of December 6
 Project presentations!
@@ -325,10 +326,11 @@ Upload your proposal to Canvas as a PDF file by midnight on 10/17/2016.
 
 ## Project update
 
-Two weeks before your project presentation you should turn in a preliminary version of your paper. This should be a complete outline for all sections. It should have a full draft of your *introduction* and *background and related work* sections. In addition, it should have preliminary results from your modeling and/or experiments. All together, these will probably take about 3 pages.
+Several weeks before your project presentation you should turn in a preliminary version of your paper. This should be a complete outline for all sections. It should have a full draft of your *introduction* and *background and related work* sections. In addition, it should have preliminary results from your modeling and/or experiments. All together, these will probably take about 3 pages.
 
 Upload your proposal to Canvas as a PDF file by midnight on 11/14/2016.
 
+These preliminary results will be peer-reviewed: everyone will be asked to read and comment on one other team's project update.
 
 ## Project presentation
 
