@@ -115,6 +115,8 @@ Readings:
 
 * [Bayesian data analysis](http://probmods.org/v2/chapters/14-bayesian-data-analysis.html)
 * [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
+* Optional: [Inferring Subjective Prior Knowledge: An Integrative Bayesian Approach.](http://psiexp.ss.uci.edu/research/papers/Tauber_Steyvers_CogSci2013%20-%20FINAL%20REVISION.pdf) Tauber & Steyvers (2013).
+* Optional: [Descriptive vs. optimal bayesian modeling (blog post)](http://babieslearninglanguage.blogspot.com/2015/09/descriptive-vs-optimal-bayesian-modeling.html). Frank (2015)
 * Optional: [Chapter 1 of  "Vision."](http://ling.umd.edu/~idsardi/728/Marr/Marr%20%27Vision%27%20Ch%201.pdf) Marr (1982).
 * Optional: [Ten Years of Rational Analysis.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
 * Optional: [The Knowledge Level.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Newell1982.pdf) Newell (1982).
