@@ -22,7 +22,7 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 
 * Meeting place: School of Education 313
 
-* Office hours: T, 3-4pm (NG; see after class); Th, 3-4pm (MH; Room 316); F, 2-3pm (RH; Room 352)
+* Office hours (in Jordan Hall): T, 3-4pm (NG; see after class); Th, 3-4pm (MH; Room 316); F, 2-3pm (RH; Room 352)
 
 We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
@@ -98,7 +98,7 @@ Readings:
 
 * [Conditioning](http://probmods.org/v2/chapters/03-conditioning.html)
 * [Patterns of Inference](http://probmods.org/v2/chapters/04-patterns-of-inference.html)
-* [Predicting the future.](http://cocosci.berkeley.edu/tom/papers/predictions.pdf) Griffiths and Tenenbaum (2006).
+* [Optimal predictions in everyday cognition.](http://cocosci.berkeley.edu/tom/papers/predictions.pdf) Griffiths and Tenenbaum (2006).
 * Optional: [Causal Reasoning Through Intervention.](http://www.ucl.ac.uk/lagnado-lab/publications/lagnado/intervention%20hagmayer%20et%20al.pdf) Hagmayer, Sloman, Lagnado, and Waldmann (2006).
 * Optional: [Children's causal inferences from indirect evidence: Backwards blocking and Bayesian reasoning in preschoolers.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Sobel2004.pdf) Sobel, Tenenbaum, Gopnik (2004).
 * Optional: [Bayesian models of object perception.](http://vision.psych.umn.edu/users/kersten/kersten-lab/papers/KerstenYuilleApr2003.pdf) Kersten and Yuille (2003).
