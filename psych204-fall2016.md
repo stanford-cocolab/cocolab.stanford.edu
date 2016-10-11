@@ -125,9 +125,10 @@ Inference algorithms. Resource-rational process models.
 
 Project proposals due on Thursday!
 
-Readings (to be finalized!):
+Readings:
 
 * [Algorithms for Inference](http://probmods.org/v2/chapters/07-inference-process.html)
+* [PPAML Summer School 2016: Approximate Inference Algorithms.](http://probmods.github.io/ppaml2016/chapters/4-algorithms.html)
 * [Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic.](https://cocolab.stanford.edu/papers/GriffithsEtAl2015-TiCS.pdf) Griffiths, Lieder, Goodman (2015).
 * [One and Done? Optimal Decisions From Very Few Samples.](https://web.stanford.edu/~ngoodman/papers/VulGoodmanGriffithsTenenbaum-COGS-2014.pdf) Vul, Goodman, Griffiths, Tenenbaum (2014).
 * Optional: [The Design and Implementation of Probabilistic Programming Languages.](http://dippl.org/)
