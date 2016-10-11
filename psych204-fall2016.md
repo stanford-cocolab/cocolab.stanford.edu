@@ -67,7 +67,7 @@ In addition to the assigned readings below, here are notes from a few related sh
 * [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)
 * [PPAML Summer School 2016](http://probmods.github.io/ppaml2016/)
 * [Bayesian Statistics for Psychologists](http://www.stanford.edu/class/psych201s/)
-
+* [Modeling Agents with Probabilistic Programs](http://agentmodels.org/)
 
 #Schedule
 
