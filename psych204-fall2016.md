@@ -2,9 +2,6 @@
 layout: default
 ---
 
-
-
-
 #Computation and Cognition: the Probabilistic Approach (Psych204/CS428, Fall 2016)
 
 ##Overview
@@ -324,14 +321,14 @@ project should be clearly stated. You should briefly describe the
 *methods* you plan to use (your experimental
 design, your modeling approach, your data analysis, and so on).
 
-Upload your proposal to Canvas as a PDF file by midnight on 10/17/2016.
+Upload your proposal to Canvas as a PDF file by midnight on 10/20/2016.
 
 
 ## Project update
 
 Several weeks before your project presentation you should turn in a preliminary version of your paper. This should be a complete outline for all sections. It should have a full draft of your *introduction* and *background and related work* sections. In addition, it should have preliminary results from your modeling and/or experiments. All together, these will probably take about 3 pages.
 
-Upload your proposal to Canvas as a PDF file by midnight on 11/14/2016.
+<!-- Upload your proposal to Canvas as a PDF file by midnight on 11/14/2016. -->
 
 These preliminary results will be peer-reviewed: everyone will be asked to read and comment on one other team's project update.
 
