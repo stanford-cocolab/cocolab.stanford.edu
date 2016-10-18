@@ -122,7 +122,7 @@ Readings:
 
 Inference algorithms. Resource-rational process models.
 
-Project proposals due on Thursday!
+Project proposals due on Friday!
 
 Readings:
 
@@ -181,7 +181,7 @@ Readings (to be finalized!):
 ## Week of November 14
 Natural language pragmatics and semantics.
 
-Project update (preliminary paper) due on Thursday!
+Project update (preliminary paper) due on Friday!
 
 Readings (to be finalized!):
 
@@ -199,7 +199,7 @@ Thanksgiving -- no class!
 ## Week of November 28
 Potpourri!! (Topics TBA.)
 
-Project peer-reviews due on Thursday!
+Project peer-reviews due on Friday!
 
 ## Week of December 6
 Project presentations!
