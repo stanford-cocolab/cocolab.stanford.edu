@@ -19,7 +19,10 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 
 * Meeting place: School of Education 313
 
-* Office hours (in Jordan Hall): T, 3-4pm (NG; see after class); Th, 3-4pm (MH; Room 316); F, 2-3pm (RH; Room 352)
+* Office hours (in Jordan Hall):
+  * w/ NG: T, 3-4pm (see after class)
+  * w/ MH: [by appointment](https://mht.youcanbook.me/) (Room 316)
+  * w/ RH: [by appointment](https://rxdh.youcanbook.me/) (Room 352)
 
 We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
