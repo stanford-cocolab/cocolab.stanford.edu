@@ -157,7 +157,7 @@ Readings (to be finalized!):
 
 * <a href="https://probmods.org/v2/chapters/09-hierarchical-models.html">Hierarchical Models</a>
 * <a href="https://probmods.org/v2/chapters/10-occam's-razor.html">Occam's Razor</a>
-* <a href="https://probmods.org/v2/chapters/11-mixture-models.html">Hierarchical Models</a>
+* <a href="https://probmods.org/v2/chapters/11-mixture-models.html">Mixture Models</a>
 * <a href="http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf">Structure and strength in causal induction.</a> Griffiths and Tenenbaum (2005).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/bayes.pdf">Bayesian modeling of human concept learning.</a> Tenenbaum (1999).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/cogsci00_FINAL.pdf">Word learning as Bayesian inference.</a> Tenenbaum and Xu (2000).
