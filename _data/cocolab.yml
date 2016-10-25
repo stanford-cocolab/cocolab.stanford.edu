@@ -76,6 +76,15 @@
           computational models and behavioral experiments to study how
           people communicate to one another their beliefs about
           the state and causal mechanisms in the world.
+    - name: Katherine Hermann
+      img: katherine.jpg
+      bio:
+        - >
+          I'm interested in problems at the intersection of language and
+          vision. I develop probabilistic and neural network models with the
+          joint objective of explaining human behavioral data and building AI
+          with more human-like representations and capacities.
+
 - role: Alumni
   people:
     - name: Greg Scontras

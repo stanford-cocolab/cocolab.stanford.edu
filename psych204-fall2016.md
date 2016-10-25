@@ -2,9 +2,6 @@
 layout: default
 ---
 
-
-
-
 #Computation and Cognition: the Probabilistic Approach (Psych204/CS428, Fall 2016)
 
 ##Overview
@@ -22,7 +19,10 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 
 * Meeting place: School of Education 313
 
-* Office hours (in Jordan Hall): T, 3-4pm (NG; see after class); Th, 3-4pm (MH; Room 316); F, 2-3pm (RH; Room 352)
+* Office hours (in Jordan Hall):
+  * w/ NG: T, 3-4pm (see after class)
+  * w/ MH: [by appointment](https://mht.youcanbook.me/) (Room 316)
+  * w/ RH: [by appointment](https://rxdh.youcanbook.me/) (Room 352)
 
 We will use [Canvas](https://canvas.stanford.edu/courses/49557/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
@@ -115,6 +115,8 @@ Readings:
 
 * [Bayesian data analysis](http://probmods.org/v2/chapters/14-bayesian-data-analysis.html)
 * [Chapter 1 of "The adaptive character of thought."](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Anderson90.pdf) Anderson (1990).
+* Optional: [Inferring Subjective Prior Knowledge: An Integrative Bayesian Approach.](http://psiexp.ss.uci.edu/research/papers/Tauber_Steyvers_CogSci2013%20-%20FINAL%20REVISION.pdf) Tauber & Steyvers (2013).
+* Optional: [Descriptive vs. optimal bayesian modeling (blog post)](http://babieslearninglanguage.blogspot.com/2015/09/descriptive-vs-optimal-bayesian-modeling.html). Frank (2015)
 * Optional: [Chapter 1 of  "Vision."](http://ling.umd.edu/~idsardi/728/Marr/Marr%20%27Vision%27%20Ch%201.pdf) Marr (1982).
 * Optional: [Ten Years of Rational Analysis.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
 * Optional: [The Knowledge Level.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Newell1982.pdf) Newell (1982).
@@ -123,7 +125,7 @@ Readings:
 
 Inference algorithms. Resource-rational process models.
 
-Project proposals due on Thursday!
+Project proposals due on Friday!
 
 Readings:
 
@@ -159,7 +161,7 @@ Readings:
 
 * <a href="https://probmods.org/v2/chapters/09-hierarchical-models.html">Hierarchical Models</a>
 * <a href="https://probmods.org/v2/chapters/10-occam's-razor.html">Occam's Razor</a>
-* <a href="https://probmods.org/v2/chapters/11-mixture-models.html">Hierarchical Models</a>
+* <a href="https://probmods.org/v2/chapters/11-mixture-models.html">Mixture Models</a>
 * <a href="http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf">Structure and strength in causal induction.</a> Griffiths and Tenenbaum (2005).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/bayes.pdf">Bayesian modeling of human concept learning.</a> Tenenbaum (1999).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/cogsci00_FINAL.pdf">Word learning as Bayesian inference.</a> Tenenbaum and Xu (2000).
@@ -183,7 +185,7 @@ Readings (to be finalized!):
 ## Week of November 14
 Natural language pragmatics and semantics.
 
-Project update (preliminary paper) due on Thursday!
+Project update (preliminary paper) due on Friday!
 
 Readings (to be finalized!):
 
@@ -201,7 +203,7 @@ Thanksgiving -- no class!
 ## Week of November 28
 Potpourri!! (Topics TBA.)
 
-Project peer-reviews due on Thursday!
+Project peer-reviews due on Friday!
 
 ## Week of December 6
 Project presentations!
@@ -323,14 +325,14 @@ project should be clearly stated. You should briefly describe the
 *methods* you plan to use (your experimental
 design, your modeling approach, your data analysis, and so on).
 
-Upload your proposal to Canvas as a PDF file by midnight on 10/17/2016.
+Upload your proposal to Canvas as a PDF file by midnight on 10/20/2016.
 
 
 ## Project update
 
 Several weeks before your project presentation you should turn in a preliminary version of your paper. This should be a complete outline for all sections. It should have a full draft of your *introduction* and *background and related work* sections. In addition, it should have preliminary results from your modeling and/or experiments. All together, these will probably take about 3 pages.
 
-Upload your proposal to Canvas as a PDF file by midnight on 11/14/2016.
+<!-- Upload your proposal to Canvas as a PDF file by midnight on 11/14/2016. -->
 
 These preliminary results will be peer-reviewed: everyone will be asked to read and comment on one other team's project update.
 
