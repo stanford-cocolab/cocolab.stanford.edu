@@ -142,19 +142,20 @@ Readings:
 ## Week of October 24
 Sequences of observations. Learning as inference.
 
-Readings (to be finalized!):
+Readings:
 
 * [Models for sequences of observations](http://probmods.org/v2/chapters/05-observing-sequences.html)
 * [Learning as Conditional Inference](https://probmods.org/v2/chapters/08-learning-as-conditional-inference.html)
 * [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/nips99preprint.pdf">Rules and similarity in concept learning.</a> Tenenbaum (2000).
 * Optional: [Learning Structured Generative Concepts](https://mindmodeling.org/cogsci2010/papers/0533/paper0533.pdf). Stuhlmueller, Tenenbaum, and Goodman (2010).
+<!--should add some more recent papers on learning...-->
 
 ## Week of October 31
 
 Hierarchical models. Mixture models. Occam's razor.
 
-Readings (to be finalized!):
+Readings:
 
 * <a href="https://probmods.org/v2/chapters/09-hierarchical-models.html">Hierarchical Models</a>
 * <a href="https://probmods.org/v2/chapters/10-occam's-razor.html">Occam's Razor</a>
