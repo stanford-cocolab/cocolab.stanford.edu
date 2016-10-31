@@ -175,6 +175,7 @@ Social cognition.
 Readings (to be finalized!):
 
 * [Inference about Inference](http://probmods.org/v2/chapters/06-inference-about-inference.html)
+* Optional: [Modeling Agents with Probabilistic Programs](http://agentmodels.org/)
 * Optional: [Goal Inference as Inverse Planning.](http://web.mit.edu/clbaker/www/papers/cogsci2007.pdf) Baker, Tenenbaum, Saxe (2007).
 * Optional: [Cause and intent: Social reasoning in causal learning.](http://stanford.edu/~ngoodman/papers/SocCause_v1.pdf) Goodman, Baker, Tenenbaum (2009).
 * Optional: [Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs.](http://stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf) Stuhlmueller and Goodman (2013).
