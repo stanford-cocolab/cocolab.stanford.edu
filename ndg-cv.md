@@ -63,6 +63,8 @@ Concepts and intuitive theories.
 
 * 2011 Cognitive Science Society paper prize for computational modeling of language.
 
+* 2010 J. S. McDonnell Foundation Scholar Award.
+
 * 2007 Cognitive Science Society paper prize for computational modeling of higher-level cognition.
 
 * 2007 Cognitive Science Society paper prize for computational modeling of perception and action.
@@ -77,13 +79,13 @@ Concepts and intuitive theories.
 
 ## Grants
 
+* Alfred P. Sloan Research Fellow in Neuroscience, 2016 - 2019.
+
 * *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017.
 
 * *Grounding Lexical Meaning in Core Cognition*, ONR, Sep 2013 - Mar 2017.
 
 * *Development of probmods.org web-book*, Stanford VPOL, 2013.
-
-* *A Center for Brains, Minds and Machines: The Science and the Technology of Intelligence*, NSF, Sep 2013 - Sep 2017 (Sub-award from MIT, PI: Poggio).
 
 * *Grounded language understanding as social cognition*, ONR, Jan 2013 - Jan 2016 (PI: Potts).
 
