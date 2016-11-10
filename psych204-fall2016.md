@@ -156,13 +156,12 @@ Readings:
 
 ## Week of October 31
 
-Hierarchical models. Mixture models. Occam's razor.
+Hierarchical models. Occam's razor.
 
 Readings:
 
 * <a href="https://probmods.org/v2/chapters/09-hierarchical-models.html">Hierarchical Models</a>
 * <a href="https://probmods.org/v2/chapters/10-occam's-razor.html">Occam's Razor</a>
-* <a href="https://probmods.org/v2/chapters/11-mixture-models.html">Mixture Models</a>
 * <a href="http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf">Structure and strength in causal induction.</a> Griffiths and Tenenbaum (2005).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/bayes.pdf">Bayesian modeling of human concept learning.</a> Tenenbaum (1999).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/cogsci00_FINAL.pdf">Word learning as Bayesian inference.</a> Tenenbaum and Xu (2000).
@@ -171,12 +170,23 @@ Readings:
 * Optional: [Object name learning provides on-the-job training for attention](http://www.iub.edu/~cogdev/labwork/ObjectNameLearning.pdf). Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
 
 ## Week of November 7
+
+Mixture models. Unbounded mixture models.
+
+Readings:
+
+* [Mixture Models](https://probmods.org/v2/chapters/11-mixture-models.html)
+* Optional: [Non-parametric models](https://probmods.org/v2/chapters/12-non-parametric-models.html)
+
+## Week of November 14
 Social cognition.
 
-Readings (to be finalized!):
+Project update (preliminary paper) due on Friday!
 
-* [Inference about Inference](http://probmods.org/v2/chapters/06-inference-about-inference.html)
-* Optional: [Modeling Agents with Probabilistic Programs](http://agentmodels.org/)
+Readings:
+
+* [Modeling Agents with Probabilistic Programs](http://agentmodels.org/) sections III and IV.
+* Optional: [Inference about Inference](http://probmods.org/v2/chapters/06-inference-about-inference.html)
 * Optional: [Goal Inference as Inverse Planning.](http://web.mit.edu/clbaker/www/papers/cogsci2007.pdf) Baker, Tenenbaum, Saxe (2007).
 * Optional: [Cause and intent: Social reasoning in causal learning.](http://stanford.edu/~ngoodman/papers/SocCause_v1.pdf) Goodman, Baker, Tenenbaum (2009).
 * Optional: [Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs.](http://stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf) Stuhlmueller and Goodman (2013).
@@ -184,28 +194,25 @@ Readings (to be finalized!):
 * Optional: [Teaching games: statistical sampling assumptions for learning in pedagogical situations.](http://stanford.edu/~ngoodman/papers/pedagogicalSampling.pdf) Shafto and Goodman (2008).
 * Optional: [A rational account of pedagogical reasoning: Teaching by, and learning from, examples.](http://www.stanford.edu/~ngoodman/papers/shaftogg14.pdf) Shafto, Goodman, and Griffiths (2014).
 
-## Week of November 14
-Natural language pragmatics and semantics.
-
-Project update (preliminary paper) due on Friday!
-
-Readings (to be finalized!):
-
-* [Probabilistic Semantics and Pragmatics: Uncertainty in Language and Thought](http://www.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) Goodman and Lassiter (2015).
-* [Quantifying pragmatic inference in language games.](http://stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf) Frank and Goodman (2012).
-* Optional: [Knowledge and implicature: Modeling language understanding as social cognition.](http://stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) Goodman and Stuhlmueller (2013).
-* Optional: [Nonliteral understanding of number words.](http://cocolab.stanford.edu/papers/PNAS-2014-KaoEtAl.pdf) Kao, Wu, Bergen, Goodman (2014). (See also [the model on Forest](http://forestdb.org/models/hyperbole.html).)
-* Optional: [The strategic use of noise in pragmatic reasoning.](http://cocolab.stanford.edu/papers/PragmaticProsody.pdf) Bergen and Goodman (to appear).
-
 
 ## Week of November 21
 
 Thanksgiving -- no class!
 
 ## Week of November 28
-Potpourri!! (Topics TBA.)
+Natural language pragmatics and semantics.
 
 Project peer-reviews due on Friday!
+
+Readings:
+
+* [Pragmatic language interpretation as probabilistic inference.](http://cocolab.stanford.edu/papers/GoodmanFrank2016-TICS.pdf) Goodman and Frank (2016).
+* [Quantifying pragmatic inference in language games.](http://stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf) Frank and Goodman (2012).
+* Optional: [Probabilistic Semantics and Pragmatics: Uncertainty in Language and Thought](http://www.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) Goodman and Lassiter (2015).
+* Optional: [Knowledge and implicature: Modeling language understanding as social cognition.](http://stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf) Goodman and Stuhlmueller (2013).
+* Optional: [Nonliteral understanding of number words.](http://cocolab.stanford.edu/papers/PNAS-2014-KaoEtAl.pdf) Kao, Wu, Bergen, Goodman (2014). (See also [the model on Forest](http://forestdb.org/models/hyperbole.html).)
+* Optional: [The strategic use of noise in pragmatic reasoning.](http://cocolab.stanford.edu/papers/PragmaticProsody.pdf) Bergen and Goodman (to appear).
+
 
 ## Week of December 6
 Project presentations!
