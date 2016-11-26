@@ -206,6 +206,7 @@ Project peer-reviews due on Friday!
 
 Readings:
 
+* [Composition in Probabilistic Language Understanding](http://gscontras.github.io/ESSLLI-2016/), notes from ESSLLI 2016 by Scontras and Tessler.
 * [Pragmatic language interpretation as probabilistic inference.](http://cocolab.stanford.edu/papers/GoodmanFrank2016-TICS.pdf) Goodman and Frank (2016).
 * [Quantifying pragmatic inference in language games.](http://stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf) Frank and Goodman (2012).
 * Optional: [Probabilistic Semantics and Pragmatics: Uncertainty in Language and Thought](http://www.stanford.edu/~ngoodman/papers/Goodman-HCS-final.pdf) Goodman and Lassiter (2015).
