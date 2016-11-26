@@ -7,7 +7,15 @@
 
 %% Saved with string encoding Unicode (UTF-8) 
 
-
+@techreport{ritchie2016DAIPP,
+  Abstract  = {Probabilistic programming languages (PPLs) are a powerful modeling tool, able to represent any computable probability distribution. Unfortunately, probabilistic program inference is often intractable, and existing PPLs mostly rely on expensive, approximate sampling-based methods. To alleviate this problem, one could try to learn from past inferences, so that future inferences run faster. This strategy is known as amortized inference; it has recently been applied to Bayesian networks and deep generative models. This paper proposes a system for amortized inference in PPLs. In our system, amortization comes in the form of a parameterized guide program. Guide programs have similar structure to the original program, but can have richer data flow, including neural network components. These networks can be optimized so that the guide approximately samples from the posterior distribution defined by the original program. We present a flexible interface for defining guide programs and a stochastic gradient-based scheme for optimizing guide parameters, as well as some preliminary results on automatically deriving guide programs. We explore in detail the common machine learning pattern in which a ‘local’ model is specified by ‘global’ random values and used to generate independent observed data points; this gives rise to amortized local inference supporting global model learning.},
+  Author    = {Daniel Ritchie and Paul Horsfall and Noah D. Goodman},
+  Annote    = {(Manuscript)},
+  Title     = {{Deep Amortized Inference for Probabilistic Programs}},
+  Journal   = {arXiv:1610.05735},
+  Website   = {https://dritchie.github.io/pdf/daipp.pdf},
+  Year      = {Manuscript}
+}
 
 @techreport{tessler2016manuscript,
 	Abstract = {Generalizations about categories are central to human understanding, and generic language (e.g. Dogs bark.) provides a simple and ubiquitous way to communicate these generalizations. Yet the meaning of generic language is philosophically puzzling and has resisted precise formalization. We explore the idea that the core meaning of a generic sentence is simple but underspecified, and that general principles of pragmatic reasoning are responsible for establishing the precise meaning in context. Building on recent probabilistic models of language understanding, we provide a formal model for the evaluation and comprehension of generic sentences. This model explains the puzzling flexibility in usage of generics in terms of diverse prior beliefs about properties. We elicit these priors experimentally and show that the resulting model predictions explain almost all of the variance in human judgments for both common and novel generics. This theory provides the mathematical bridge between the words we use and the concepts they describe},
@@ -150,16 +158,16 @@
 	Author = {Daniel Ritchie and Anna Thomas and Pat Hanrahan and Noah D. Goodman},
 	Booktitle = {Advances in Neural Information Processing Systems (NIPS 2016)},
 	Title = {Neurally-Guided Procedural Models: Amortized Inference for Procedural Graphics Programs using Neural Networks},
+	Website = {https://dritchie.github.io/pdf/ngpm.pdf},
 	Year = {To appear}}
 
 @inproceedings{MonroeEtAl2016-EMNLP,
 	Abstract = {The production of color language is essential for grounded language generation. Color descriptions have many challenging properties: they can be vague, compositionally complex, and denotationally rich. We present an effective approach to generating color descriptions using recurrent neural networks and a Fourier-transformed color representation. Our model outperforms previous work on a conditional language modeling task over a large corpus of naturalistic color descriptions. In addition, probing the model's output reveals that it can	accurately produce not only basic color terms but also descriptors with non-convex denotations ("greenish"), bare modifiers ("bright", "dull"), and compositional phrases ("faded teal") not seen in training},
-	Annote = {(To appear)},
 	Author = {Monroe, Will and Goodman, Noah D and Potts, Chris},
 	Booktitle = {Proceedings of the 2016 Conference on Empirical Methods on Natural Language Processing (EMNLP 2016)},
 	Title = {Learning to Generate Compositional Color Descriptions},
 	Website = {http://arxiv.org/abs/1606.03821},
-	Year = {To appear}}
+	Year = {2016}}
 
 @article{ScontrasEtAl2016-OpenMind,
 	Abstract = {From English to Hungarian to Mokilese, speakers exhibit strong ordering prefer- ences in multi-adjective strings: "the big blue box" sounds far more natural than "the blue big box." We show that an adjective's distance from the modified noun is pre- dicted not by a rigid syntax, but by the adjective's meaning: less subjective adjectives occur closer to the nouns they modify. This finding provides an example of a broad linguistic universal---adjective ordering preferences---emerging from general properties of cognition.},
@@ -184,14 +192,16 @@
 	hyperbole and vagueness occur. More generally, they provide a computational
 	framework for integrating linguistic structure, world knowledge, and context in
 	pragmatic language understanding.},
-	Annote = {(To appear)},
 	Author = {Goodman, Noah D and Frank, Michael C},
 	Date-Added = {2016-8-17 15:05:27 +0000},
 	Date-Modified = {2016-8-17 14:55:10 +0000},
 	Journal = {Trends in Cognitive Sciences},
+	Number = {11},
+	Pages = {818-829},
 	Title = {Pragmatic language interpretation as probabilistic inference},
+	Volume = {20},	
 	Website = {papers/GoodmanFrank2016-TICS.pdf},
-	Year = {To appear}}
+	Year = {2016}}
 
 @inproceedings{Luong2015,
 	Abstract = {We examine the ability of several models of computation and storage to explain
