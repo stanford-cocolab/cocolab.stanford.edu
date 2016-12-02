@@ -339,31 +339,46 @@ Upload your proposal to Canvas as a PDF file by midnight on 10/20/2016.
 
 ## Project update
 
-Several weeks before your project presentation you should turn in a preliminary version of your paper. This should be a complete outline for all sections. It should have a full draft of your *introduction* and *background and related work* sections. In addition, it should have preliminary results from your modeling and/or experiments. All together, these will probably take about 3 pages.
+Several weeks before your project presentation you should turn in a
+preliminary version of your paper. This should be a complete outline
+for all sections. It should have a full draft of your *introduction*
+and *background and related work* sections. In addition, it should
+have preliminary results from your modeling and/or experiments. All
+together, these will probably take about 3 pages.
 
-<!-- Upload your proposal to Canvas as a PDF file by midnight on 11/14/2016. -->
-
-These preliminary results will be peer-reviewed: everyone will be asked to read and comment on one other team's project update.
+These preliminary results will be peer-reviewed: everyone will be
+asked to read and comment on one other team's project update.
 
 ## Project presentation
 
-Each person or team will have **5-10** minutes to present their project (*exact timing TBA*). We will go in
-alphabetical order (last name). The presentations should describe your question,
-methods, and results at a high level.
+Each person or team will have **7** minutes (5 minute presentation + 2
+minutes for questions). We will go in alphabetical order (last
+name). The presentations should describe your question, methods, and
+results at a high level.
 
-Presentations should be in Google Drive Presentation format. *Upload instructions TBA.*
+Presentations should be in Google Drive Presentation format: upload
+the presentation to [this
+folder](https://drive.google.com/drive/folders/0BxDiKG5ZeJxed1hMNTJuZWl4cFU).
 
-For students who don’t like working in Google Presentations, you can do your presentation in powerpoint and convert it. Google drive can upload (and convert) slides from the following formats: .ppt (if newer than Microsoft® Office 95), .pptx, .pptm, .pps, .ppsx, .ppsm, .pot, .potx, .potm, .odp . Students should check their conversion once they’ve uploaded it for errors. Presumably, one could also do the slides in Keynote, convert to PPT, and then convert to Google Slides, but we suspect the errors would compound.
-
+For students who don’t like working in Google Presentations, you can
+do your presentation in powerpoint and convert it. Google drive can
+upload (and convert) slides from the following formats: .ppt (if newer
+than Microsoft® Office 95), .pptx, .pptm, .pps, .ppsx, .ppsm, .pot,
+.potx, .potm, .odp . Students should check their conversion once
+they’ve uploaded it for errors. Presumably, one could also do the
+slides in Keynote, convert to PPT, and then convert to Google Slides,
+but we suspect the errors would compound.
 
 ## Project writeup
 
 Your final project should be described in the format of a conference
-paper, following the guidelines of paper submissions to the
-Cognitive Science Society conference: [see the section "Submission formats" on this page](http://www.cognitivesciencesociety.org/cogsci-archival-conference-information/).
-In particular, your paper should be no more than six pages long.
-Your paper should cover the background behind your
-project, the questions you are asking, your methods and results, and
-your interpretation of these results.
+paper, following the guidelines of paper submissions to the Cognitive
+Science Society conference: [see the section "Submission formats" on
+this
+page](http://www.cognitivesciencesociety.org/cogsci-archival-conference-information/).
+In particular, your paper should be no more than six pages long.  Your
+paper should cover the background behind your project, the questions
+you are asking, your methods and results, and your interpretation of
+these results.
 
 Email your paper to the instructor as a PDF file by midnight on *date TBA*.
