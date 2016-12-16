@@ -382,4 +382,4 @@ paper should cover the background behind your project, the questions
 you are asking, your methods and results, and your interpretation of
 these results.
 
-Email your paper to the instructor as a PDF file by midnight on *date TBA*.
+Email your paper to the instructor as a PDF file by midnight on *Thursday, Dec. 15th*.
