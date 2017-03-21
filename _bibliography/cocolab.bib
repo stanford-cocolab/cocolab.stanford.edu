@@ -2,20 +2,21 @@
 %% http://bibdesk.sourceforge.net/
 
 
-%% Created for Noah Goodman at 2016-09-27 07:43:25 -0700 
+%% Created for Noah Goodman at 2017-03-21 08:37:09 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
+
+
 @techreport{ritchie2016DAIPP,
-  Abstract  = {Probabilistic programming languages (PPLs) are a powerful modeling tool, able to represent any computable probability distribution. Unfortunately, probabilistic program inference is often intractable, and existing PPLs mostly rely on expensive, approximate sampling-based methods. To alleviate this problem, one could try to learn from past inferences, so that future inferences run faster. This strategy is known as amortized inference; it has recently been applied to Bayesian networks and deep generative models. This paper proposes a system for amortized inference in PPLs. In our system, amortization comes in the form of a parameterized guide program. Guide programs have similar structure to the original program, but can have richer data flow, including neural network components. These networks can be optimized so that the guide approximately samples from the posterior distribution defined by the original program. We present a flexible interface for defining guide programs and a stochastic gradient-based scheme for optimizing guide parameters, as well as some preliminary results on automatically deriving guide programs. We explore in detail the common machine learning pattern in which a ‘local’ model is specified by ‘global’ random values and used to generate independent observed data points; this gives rise to amortized local inference supporting global model learning.},
-  Author    = {Daniel Ritchie and Paul Horsfall and Noah D. Goodman},
-  Annote    = {(Manuscript)},
-  Title     = {{Deep Amortized Inference for Probabilistic Programs}},
-  Journal   = {arXiv:1610.05735},
-  Website   = {https://dritchie.github.io/pdf/daipp.pdf},
-  Year      = {Manuscript}
-}
+	Abstract = {Probabilistic programming languages (PPLs) are a powerful modeling tool, able to represent any computable probability distribution. Unfortunately, probabilistic program inference is often intractable, and existing PPLs mostly rely on expensive, approximate sampling-based methods. To alleviate this problem, one could try to learn from past inferences, so that future inferences run faster. This strategy is known as amortized inference; it has recently been applied to Bayesian networks and deep generative models. This paper proposes a system for amortized inference in PPLs. In our system, amortization comes in the form of a parameterized guide program. Guide programs have similar structure to the original program, but can have richer data flow, including neural network components. These networks can be optimized so that the guide approximately samples from the posterior distribution defined by the original program. We present a flexible interface for defining guide programs and a stochastic gradient-based scheme for optimizing guide parameters, as well as some preliminary results on automatically deriving guide programs. We explore in detail the common machine learning pattern in which a `local' model is specified by `global' random values and used to generate independent observed data points; this gives rise to amortized local inference supporting global model learning.},
+	Annote = {(Manuscript)},
+	Author = {Daniel Ritchie and Paul Horsfall and Noah D. Goodman},
+	Journal = {arXiv:1610.05735},
+	Title = {{Deep Amortized Inference for Probabilistic Programs}},
+	Website = {https://dritchie.github.io/pdf/daipp.pdf},
+	Year = {Manuscript}}
 
 @techreport{tessler2016manuscript,
 	Abstract = {Generalizations about categories are central to human understanding, and generic language (e.g. Dogs bark.) provides a simple and ubiquitous way to communicate these generalizations. Yet the meaning of generic language is philosophically puzzling and has resisted precise formalization. We explore the idea that the core meaning of a generic sentence is simple but underspecified, and that general principles of pragmatic reasoning are responsible for establishing the precise meaning in context. Building on recent probabilistic models of language understanding, we provide a formal model for the evaluation and comprehension of generic sentences. This model explains the puzzling flexibility in usage of generics in terms of diverse prior beliefs about properties. We elicit these priors experimentally and show that the resulting model predictions explain almost all of the variance in human judgments for both common and novel generics. This theory provides the mathematical bridge between the words we use and the concepts they describe},
@@ -59,7 +60,6 @@
 	Website = {http://langcog.stanford.edu/papers_new/yoon-2017-underrev.pdf},
 	Year = {Manuscript}}
 
-
 @inproceedings{tessler2017cogsci,
 	Abstract = {Speakers often refer to context only implicitly when using language. The utterance "it's warm outside" could mean it's warm relative to other days of the year or just relative to the current season (e.g., it's warm for winter). Warm vaguely conveys that the temperature is high relative to some contextual comparison class, but little is known about how a listener decides upon such a standard of comparison. Here, we propose that the resolution of a comparison class in context is a pragmatic inference driven by world knowledge and listeners' internal models of speech production. We introduce a Rational Speech Act model and derive two novel predictions from it, which we validate using a paraphrase experiment to measure listeners' beliefs about the likely comparison class used by a speaker. Our model makes quantitative predictions given prior world knowledge for the domains in question. We triangulate this knowledge by a second language task in the same domains, using Bayesian data analysis to infer priors from both data sets.},
 	Annote = {(Manuscript)},
@@ -70,7 +70,6 @@
 	Title = {Warm (for winter): Comparison class understanding in vague language},
 	Website = {http://stanford.edu/~mtessler/papers/Tessler2017-cogsci-submitted.pdf},
 	Year = {Manuscript}}
-
 
 @inproceedings{evans2016learning,
 	Abstract = {An important use of machine learning is to learn what people value. What posts or photos should a
@@ -209,17 +208,16 @@
 	Date-Modified = {2016-09-27 14:43:24 +0000},
 	Journal = {Open Mind},
 	Title = {Subjectivity predicts adjective ordering preferences},
-        Website = {http://www.mitpressjournals.org/doi/pdf/10.1162/OPMI_a_00005},
+	Website = {http://www.mitpressjournals.org/doi/pdf/10.1162/OPMI_a_00005},
 	Year = {2017}}
 
 @article{ong2017happier,
-  Annote = {(To appear)},
-  Title={Happier than thou? {A} self-enhancement bias in emotion attribution},
-  Author={Ong, Desmond C and Goodman, Noah D and Zaki, Jamil},
-  Journal={Emotion},
-  Year={To appear},
-  Website = {papers/OngEtAl2017-Emotion.pdf}
-}
+	Annote = {(To appear)},
+	Author = {Ong, Desmond C and Goodman, Noah D and Zaki, Jamil},
+	Journal = {Emotion},
+	Title = {Happier than thou? {A} self-enhancement bias in emotion attribution},
+	Website = {papers/OngEtAl2017-Emotion.pdf},
+	Year = {To appear}}
 
 @article{GoodmanFrank2016-TICS,
 	Abstract = {Understanding language is more than the use of fixed conventions and more than
@@ -241,7 +239,7 @@
 	Number = {11},
 	Pages = {818-829},
 	Title = {Pragmatic language interpretation as probabilistic inference},
-	Volume = {20},	
+	Volume = {20},
 	Website = {papers/GoodmanFrank2016-TICS.pdf},
 	Year = {2016}}
 
@@ -276,11 +274,12 @@
 	Abstract = {A number of recent proposals have used techniques from game theory and Bayesian cognitive science to formalize Gricean pragmatic reasoning (Frank & Goodman, 2012; Franke, 2009; Goodman & Stuhlm\"uller, 2013; Jaeger, 2012). We discuss two phenomena which pose a challenge to these accounts of pragmatics: M-implicatures (Horn, 1984) and embedded implicatures which violate Hurford's constraint (Chierchia, Fox & Spector, 2012; Hurford, 1974). Previous models cannot derive these implicatures, because of basic limitations in their architecture. In order to explain these phenomena, we propose a realignment of the division between semantic content and pragmatic content. Under this proposal, the semantic content of an utterance is not fixed independent of pragmatic inference; rather, pragmatic inference partially determines an utterance's semantic content. We show how semantic inference can be realized as an extension to the Rational Speech Acts framework (Goodman & Stuhlm\"uller, 2013). The addition of lexical uncertainty derives both M-implicatures and the relevant embedded implicatures, and preserves the derivations of more standard implicatures.},
 	Annote = {(To appear)},
 	Author = {Leon Bergen and Roger Levy and Noah D Goodman},
-	Date-Modified = {2015-12-21 14:30:44 +0000},
+	Date-Modified = {2017-03-21 15:30:19 +0000},
 	Journal = {Semantics and Pragmatics},
 	Title = {Pragmatic Reasoning through Semantic Inference},
-	Website = {papers/BergenLevyGoodman-LexUnc.pdf},
-	Year = {To appear}}
+	Volume = {9},
+	Website = {http://semprag.org/article/view/sp.9.20/pdf},
+	Year = {2016}}
 
 @inproceedings{SumnerEtAl2015-Cogsci,
 	Abstract = {A popular conception about language development is that comprehension precedes production. Although this is certainly true during the earliest stages of phonological development, once a child possesses the basic articulatory skills required for imitation, it need not necessarily be the case. A child could produce a word without possessing the fully formed lexical representation through imitation. In some cases, such as in response to questions containing fixed choices, this behavior could be mistaken for a deeper understanding of the words' semantic content. In this paper, we present evidence that 2to 3-year-old children exhibit a robust recency bias when verbally responding to two-alternative choice questions (i.e., they select the second, most recently mentioned option), possibly due to the availability of the second word in phonological memory. We find further evidence of this effect outside of a laboratory setting in naturalistic conversational contexts in CHILDES (MacWhinney, 2000), a large corpus of transcribed child-adult interactions.},
