@@ -12,6 +12,10 @@ Please use the links at the top to navigate.
 * 
 ### News
 
+* Congratulations to Judith Degen on accepting a tenure-track position at Stanford!
+
+* Congratulations to Leon Bergen on accepting a tenure-track position at UC San Diego!
+
 * Congratulations to [Justine Kao]({{site.url}}{{site.baseurl}}/people.html#Justine Kao), who recently defended her dissertation and became Dr. Kao! She will be joining Apple's Siri Natural Language Group as an NLU Researcher and Machine Learning Data Scientist.
 
 * Congratulations to Greg Scontras on accepting a tenure-track position at UC Irvine!
