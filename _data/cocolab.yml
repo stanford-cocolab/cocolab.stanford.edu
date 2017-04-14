@@ -26,6 +26,15 @@
           in 2013.
     - name: Leon Bergen
       webpage: //web.stanford.edu/~lbergen/
+    - name: Judy Fan
+      img: judy.jpg
+      webpage: //http://www.judithfan.net/
+      bio:
+        - >
+	  Before joining the lab in 2017, I received my PhD in cognitive
+	  psychology from Princeton in 2016, and my AB in neurobiology
+	  from Harvard in 2010. 
+
 - role: Graduate Students
   people:
     - name: Desmond Ong
@@ -116,7 +125,7 @@
       webpage: //www.stanford.edu/~danlass
     - name: Joseph Austerweil
       was: a post-doc
-      now: an Assistant Professor of Psychology at Brown
+      now: an Assistant Professor of Psychology at Wisconsin, Madison
       webpage: //alab.psych.wisc.edu/
     - name: Thomas Icard
       was: a graduate student in Philosophy
