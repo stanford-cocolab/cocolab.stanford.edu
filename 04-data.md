@@ -12,7 +12,7 @@ The corpora below contain the messages sent by both players on each trial, along
 
 ## Color Reference
 
-<img alt="Speaker's view in color reference task." src="{{site.url}}{{site.baseurl}}/images/research/speakerView.png" width="50%"/>
+<img alt="Speaker's view in color reference task." src="{{site.url}}{{site.baseurl}}/images/research/speakerView.png" width="50%" style="display: block; margin: auto;"/>
 
 [**Download**](https://raw.githubusercontent.com/futurulus/coop-nets/master/behavioralAnalysis/humanOutput/filteredCorpus.csv)
 
@@ -56,4 +56,4 @@ Raw data can be found with its own README [on github](https://github.com/futurul
 
 For further technical details about the framework used to conduct these experiments, see:
 
-Hawkins, R.X.D (2015). Conducting real-time multiplayer experiments on the web. *Behavior research methods. 47* (4), 966-976.
+[Hawkins, R.X.D (2015). Conducting real-time multiplayer experiments on the web. *Behavior research methods. 47* (4), 966-976.](https://rxdhawkins.files.wordpress.com/2014/10/hawkins14_realtimewebexperiments.pdf)
