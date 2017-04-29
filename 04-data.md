@@ -12,7 +12,7 @@ The corpora below contain the messages sent by both players on each trial, along
 
 ## Color Reference
 
-<img alt="Speaker's view in color reference task." src="{{site.url}}{{site.baseurl}}/images/research/speakerView.png" width="300px"/>
+<img alt="Speaker's view in color reference task." src="{{site.url}}{{site.baseurl}}/images/research/speakerView.png" width="50%"/>
 
 [**Download**](https://raw.githubusercontent.com/futurulus/coop-nets/master/behavioralAnalysis/humanOutput/filteredCorpus.csv)
 
