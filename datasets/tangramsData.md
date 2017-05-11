@@ -18,13 +18,11 @@ permalink: datasets/tangrams.html
 * **gameid**: unique identifier for game in which message was sent
 * **msgTime**: time at which player sent message
 * **roundNum**: round of game in which message was sent [1-50]
-* **condition**: type of context for round ['close', 'split', 'far']
-* **role**: role of player who sent message ['speaker', 'listener']
-* **workerid_uniq**: unique, anonymized identifier of player who sent message to track across games
+* **role**: role of player who sent message ['director', 'matcher']
 * **contents**: raw text of message
 * **totalLength**: the total amount of time player spent in game (in ms)
 * **thinksHuman**: whether the player thought their partner was a human
-* **ratePartner**: how much the player enjoyed working with their partner
+* **ratePartner**: how much the player enjoyed working with their partner ['not much', 'okay', 'liked', 'loved']
 * **numRawWords**: the number of raw words in the utterance
 
 **Citation**:
