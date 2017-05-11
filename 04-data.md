@@ -10,11 +10,11 @@ In our reference game tasks, we pair up players across the web in a real-time, m
 
 The corpora below contain the messages sent by both players on each trial, along with trial-level metadata about the context. 
 
-## Color Reference ({{site.url}}{{site.baseurl}}/datasets/colors.html)
+## [Color Reference]({{site.url}}{{site.baseurl}}/datasets/colors.html)
 
 <img alt="Speaker's view in color reference task." src="{{site.url}}{{site.baseurl}}/images/research/speakerView.png" width="50%" style="display: block; margin: auto;"/>
 
-## [Tangrams: Clark & Wilkes-Gibbs (1986)]({{site.url}}{{site.baseurl}}/datasets/tangrams.html)
+## [Tangrams]({{site.url}}{{site.baseurl}}/datasets/tangrams.html)
 
 <img alt="Speaker's view in color reference task." src="{{site.url}}{{site.baseurl}}/images/research/tangrams.png" width="50%" style="display: block; margin: auto;"/>
 
