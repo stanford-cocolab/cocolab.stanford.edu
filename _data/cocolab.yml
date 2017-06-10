@@ -69,16 +69,11 @@
       webpage: //rxdhawkins.wordpress.com/
       bio:
         - >
-          My primary interests are in social cognition: how do we represent
-          knowledge about one another and reason with that knowledge? What
-          principles and cognitive processes underlie our interactions? How
-          do individuals organize themselves into structured collectives? How
-          do conventions emerge within those structures?
-        - >
-          I use an interdisciplinary combination of computational and
-          experimental methods to investigate these questions, including game
-          theory, information theory, artificial intelligence, pragmatics, and
-          traditional cognitive psychology.
+          I'm interested in the cognitive mechanisms that allow people to
+          flexibly coordinate with one another. In particular, I study the
+          formation of conventions and norms using multi-player experiments and
+          computational models of communication and social reasoning.
+
     - name: Erin Bennett
       img: erin.jpg
       bio:
