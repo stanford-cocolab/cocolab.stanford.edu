@@ -12,7 +12,7 @@ github_username:  StanfordCoCoLab
 
 gems: ['jekyll/scholar']
 
-max_year: 2016 #the most recent year with papers published
+max_year: 2017 #the most recent year with papers published
 # i should figure out how to automate that...
 
 # Build settings
