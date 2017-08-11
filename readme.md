@@ -91,3 +91,35 @@ If the website does not update within a minute or so of making these changes, th
 	rsync -r -a -v _site/* ../WWW/
 
 in a terminal on the Stanford server in the `/afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu` directory.
+
+### Set up
+
+To set up installing ruby gems without sudo access, these lines should be in your `~/.bash_profile` (or `~/.bashrc` or whatever you use):
+
+```
+PATH=$PATH:~/.gem/bin:~/bin
+export GEM_HOME=~/.gem
+```
+
+Once you've re-logged on or `source`ed your profile file, you can install [`jekyll`](https://jekyllrb.com/) and [`jekyll-scholar`](https://github.com/inukshuk/jekyll-scholar) using `gem`. This site uses `jekyll (2.5.3)` and `jekyll-scholar (4.3.3)`. Note that while `jekyll` is compatible with [GitHub pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/), [`jekyll-scholar` is not](https://github.com/inukshuk/jekyll-scholar#github-pages).
+
+Here's a possible `.git/hooks/post-merge` script.
+
+```
+#!/bin/sh
+
+export COCOHOME=/afs/ir.stanford.edu/group/cocolab
+export PATH=$PATH:${COCOHOME}/.gem/bin
+export GEM_HOME=${COCOHOME}/.gem
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+cd /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu/
+
+jekyll build
+
+rsync -r -a -v /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu/_site/* /afs/ir.stanford.edu/group/cocolab/WWW/
+```
+
+
+
+
