@@ -25,10 +25,13 @@ Concepts and intuitive theories.
 
 ## Professional Positions
 
-* Associate Professor of Cognitive Psychology, Stanford University, 2016 -.  
+* Associate Professor of Psychology and Computer Science, Stanford University, 2017 -.  
+(By courtesy, Associate Professor of Linguistics.)
+
+* Associate Professor of Psychology, Stanford University, 2016 - 2017.  
   (By courtesy, Associate Professor of Computer Science and of Linguistics.)
 
-* Assistant Professor of Cognitive Psychology, Stanford University, 2010 - 2016.  
+* Assistant Professor of Psychology, Stanford University, 2010 - 2016.  
   (By courtesy, Assistant Professor of Computer Science and of Linguistics.)
 
 * Research Scientist, Massachusetts Institute of Technology, 2008-2010.
