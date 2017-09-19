@@ -32,9 +32,9 @@ Office: 356 Jordan Hall, Stanford.
 
 ### Computation and Cognition: the Probabilistic Approach (Psych 204 / CS 428)
 
-[Fall 2016 Course Website](psych204-fall2016.html)
+[Fall 2017 Course Website](psych204-fall2017.html)
 
-Previously taught: [Spring 2015](psych204-spr2015.html), [Fall 2013](http://www.stanford.edu/~ngoodman/psych204/), Fall 2012, Winter 2012, Spring 2011.  
+Previously taught: [Fall 2016](psych204-fall2016.html) [Spring 2015](psych204-spr2015.html), [Fall 2013](http://www.stanford.edu/~ngoodman/psych204/), Fall 2012, Winter 2012, Spring 2011.  
 
 ### Foundations of Cognition (Psych 205)
 
