@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Computation and Cognition: the Probabilistic Approach (Psych204/CS428, Fall 2016)
+#Computation and Cognition: the Probabilistic Approach (Psych 204/CS 428, Fall 2017)
 
 ##Overview
 
@@ -19,7 +19,7 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 
 * Meeting place: History Corner (Building 200), Room 305
 
-* Office hours (in Jordan Hall):
+* Office hours (held in *Jordan Hall*, Building 420):
   * w/ NG: T, 3-4pm (see after class)
   * w/ EB: TBD
   * w/ RH: Th, noon-1:30pm (before class), Room 358
