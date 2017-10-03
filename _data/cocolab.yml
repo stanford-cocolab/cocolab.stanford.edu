@@ -78,10 +78,11 @@
       img: erin.jpg
       bio:
         - >
-          I'm interested in language, explanation, and inference. I use
-          computational models and behavioral experiments to study how
-          people communicate to one another their beliefs about
-          the state and causal mechanisms in the world.
+          I'm interested in how people express relations between sentences,
+          with markers like "because" and "however" or different choices of punctuation.
+          My work looks at how the meanings of sentences in a discourse change
+          across these markers and how they constrain and inform the meanings
+          of the sentences they connect.
     - name: Katherine Hermann
       img: katherine.jpg
       bio:
