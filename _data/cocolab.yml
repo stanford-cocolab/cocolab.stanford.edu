@@ -5,27 +5,6 @@
       webpage: ndg.html
 - role: Post-Doctoral Scholars
   people:
-    - name: Judith Degen
-      img: judith.jpg
-      webpage: //www.stanford.edu/people/jdegen
-      bio:
-        - >
-          A remarkable feature of human language is that listeners typically
-          have little difficulty inferring what a speaker intends to convey
-          even though much of the relevant information is not encoded
-          explicitly in the utterance. I use behavioral and computational
-          methods to study how listeners settle on an interpretation, given
-          an underspecified utterance. I'm particularly interested in how the
-          more fixed, semantic aspects of utterances interact with contextual
-          information and principles of cooperative communication.
-        - >
-          I'm Swiss, and I received my BSc in Cognitive Science from the
-          University of Osnabr&uuml;ck in 2005, my MSc in Cognitive Science from
-          the University of Osnabr&uuml;ck in 2008, and my PhD in Brain and
-          Cognitive Sciences and Linguistics from the University of Rochester
-          in 2013.
-    - name: Leon Bergen
-      webpage: //web.stanford.edu/~lbergen/
     - name: Judy Fan
       img: judy.jpg
       webpage: //www.judithfan.net/
@@ -39,19 +18,6 @@
 
 - role: Graduate Students
   people:
-    - name: Desmond Ong
-      img: desmond.jpg
-      webpage: //web.stanford.edu/~dco
-      bio:
-        - >
-          Very broadly, I'm interested in studying the role of emotions in
-          the context of decision making and how that plays into our intuitive
-          theories of (ourselves and) other people, via computational modeling
-          and behavioral experiments.
-        - >
-          I'm also interested in prosociality, social cognition and theory of
-          mind; behavioral and neuro-economics, game theory; artificial
-          intelligence.
     - name: Michael Henry Tessler
       img: henry.jpg
       webpage: //web.stanford.edu/~mtessler
@@ -91,9 +57,24 @@
           vision. I develop probabilistic and neural network models with the
           joint objective of explaining human behavioral data and building AI
           with more human-like representations and capacities.
+    - name: Ben Peloquin
+      img: 
+      bio:
 
 - role: Alumni
   people:
+    - name: Desmond Ong
+      was: a graduate student in Psychology
+      now: Research Scientist at Institute of High Performance Computing, Singapore
+      webpage: //web.stanford.edu/~dco
+    - name: Judith Degen
+      was: a post-doc
+      now: Assistant Professor of Linguistics at Stanford
+      webpage: //www.stanford.edu/people/jdegen
+    - name: Leon Bergen
+      was: a post-doc
+      now: Assistant Professor of Linguistics at UCSD
+      webpage: //web.stanford.edu/~lbergen/
     - name: Greg Scontras
       was: a post-doc
       now: Assistant Professor of Linguistics at UC Irvine
@@ -113,6 +94,7 @@
       webpage: //www.djthorne.org/
     - name: Daniel Ly
       was: a post-doc
+      now: Algorithm Engineer at Lumo Bodytech
     - name: Siddharth Narayanaswamy
       was: a post-doc
       now: a post-doc at Oxford
