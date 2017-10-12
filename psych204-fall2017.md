@@ -20,7 +20,7 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 * Meeting place: History Corner (Building 200), Room 305
 
 * Office hours:
-  * w/ NG: TBA
+  * w/ NG: W, 2-3:30pm, Room 356 *Jordan Hall*, Building 420
   * w/ EB: M, 2-3pm, Room 316 *Jordan Hall*, Building 420
   * w/ RH: F, 1:30-3pm, Room 358 *Jordan Hall*, Building 420
 
