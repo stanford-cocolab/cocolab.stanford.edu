@@ -28,7 +28,7 @@
       webpage: //web.stanford.edu/~lbergen/
     - name: Judy Fan
       img: judy.jpg
-      webpage: //www.judithfan.net/
+      webpage: http://www.judithfan.net/
       bio:
         - >
           I'm interested in how visual perception, action, and social inference are coordinated to support learning and communication.
@@ -76,13 +76,11 @@
 
     - name: Erin Bennett
       img: erin.jpg
+      webpage: //web.stanford.edu/~erindb
       bio:
         - >
-          I'm interested in how people express relations between sentences,
-          with markers like "because" and "however" or different choices of punctuation.
-          My work looks at how the meanings of sentences in a discourse change
-          across these markers and how they constrain and inform the meanings
-          of the sentences they connect.
+          I'm interested in discourse relations, sentence meaning representation,
+          and causal reasoning.
     - name: Katherine Hermann
       img: katherine.jpg
       bio:
@@ -101,7 +99,6 @@
     - name: Justine Kao
       was: a graduate student in Psychology
       now: Siri Machine Learning Data Scientist at Apple
-      webpage: //web.stanford.edu/~justinek
     - name: Andreas Stuhlm&uuml;ller
       was: a graduate student and post-doc
       webpage: //stuhlmueller.org/
@@ -116,7 +113,7 @@
     - name: Siddharth Narayanaswamy
       was: a post-doc
       now: a post-doc at Oxford
-      webpage: //www.iffsid.com/
+      webpage: //www.robots.ox.ac.uk/~nsid/
     - name: Daniel Lassiter
       was: a post-doc
       now: an Assistant Professor of Linguistics at Stanford
