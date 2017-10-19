@@ -120,7 +120,7 @@ Readings:
 
 ## Week of October 17
 
-Inference algorithms. Resource-rational process models.
+Inference algorithms.
 
 Project proposals due on Friday!
 
@@ -139,7 +139,7 @@ Readings:
 
 
 ## Week of October 24
-Sequences of observations. Learning as inference.
+Resource-rational process models. Sequences of observations. Learning as inference.
 
 Readings:
 
@@ -151,7 +151,18 @@ Readings:
 
 <!--should add some more recent papers on learning...-->
 
+
+
 ## Week of October 31
+
+Learning compositional hypotheses. Learning continuous functions. Deep probabilistic models.
+
+Readings:
+
+* TBA
+
+
+## Week of November 7
 
 Hierarchical models. Occam's razor.
 
@@ -166,24 +177,16 @@ Readings:
 * Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/KempPT06.pdf">Learning overhypotheses.</a> Kemp, Perfors, and Tenenbaum (2006).
 * Optional: [Object name learning provides on-the-job training for attention](http://www.iub.edu/~cogdev/labwork/ObjectNameLearning.pdf). Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
 
-## Week of November 7
-
-Mixture models. Unbounded mixture models.
-
-Readings:
-
-* [Mixture Models](https://probmods.org/chapters/11-mixture-models.html)
-* Optional: [Non-parametric models](https://probmods.org/chapters/12-non-parametric-models.html)
-
 ## Week of November 14
 
-Topic TBA.
+Mixture models. Unbounded mixture models.
 
 Project update (preliminary paper) due on Friday!
 
 Readings:
 
-* TBA
+* [Mixture Models](https://probmods.org/chapters/11-mixture-models.html)
+* Optional: [Non-parametric models](https://probmods.org/chapters/12-non-parametric-models.html)
 
 ## Week of November 21
 
@@ -218,7 +221,7 @@ Project presentations!
 
 Each project team will present a short summary. We'll go in alphabetical order.
 
-TBC: Extended class on 12/5 for presentations, no class on 12/7.
+Extended class on 12/5 for presentations, no class on 12/7.
 
 
 <!--
