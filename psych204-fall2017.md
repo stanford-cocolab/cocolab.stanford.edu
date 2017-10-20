@@ -128,14 +128,7 @@ Readings:
 
 * [Algorithms for Inference](http://probmods.org/chapters/07-inference-process.html)
 * [PPAML Summer School 2016: Approximate Inference Algorithms.](http://probmods.github.io/ppaml2016/chapters/4-algorithms.html)
-* [Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic.](https://cocolab.stanford.edu/papers/GriffithsEtAl2015-TiCS.pdf) Griffiths, Lieder, Goodman (2015).
-* [One and Done? Optimal Decisions From Very Few Samples.](https://web.stanford.edu/~ngoodman/papers/VulGoodmanGriffithsTenenbaum-COGS-2014.pdf) Vul, Goodman, Griffiths, Tenenbaum (2014).
 * Optional: [The Design and Implementation of Probabilistic Programming Languages.](http://dippl.org/)
-* Optional: [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
-* Optional: [Perceptual multistability as Markov chain Monte Carlo inference](http://papers.nips.cc/paper/3711-perceptual-multistability-as-markov-chain-monte-carlo-inference.pdf). Gershman, Vul, Tenenbaum (2009).
-* Optional: [A more rational model of categorization](http://health.adelaide.edu.au/psychology/ccs/docs/pubs/2006/SanbornGriffithsNavarro2006.pdf). Sanborn, Griffiths,  Navarro (2006).
-* Optional: [Theory acquisition as stochastic search](http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf) Ullman, Goodman, and Tenenbaum (2010).
-* Optional: [Exemplar models as a mechanism for performing Bayesian inference](http://cocosci.berkeley.edu/tom/papers/mechanism.pdf). Shi, Griffiths, Feldman, Sanborn (2010).
 
 
 ## Week of October 24
@@ -143,14 +136,18 @@ Resource-rational process models. Sequences of observations. Learning as inferen
 
 Readings:
 
+* [Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic.](https://cocolab.stanford.edu/papers/GriffithsEtAl2015-TiCS.pdf) Griffiths, Lieder, Goodman (2015).
+* [One and Done? Optimal Decisions From Very Few Samples.](https://web.stanford.edu/~ngoodman/papers/VulGoodmanGriffithsTenenbaum-COGS-2014.pdf) Vul, Goodman, Griffiths, Tenenbaum (2014).
 * [Models for sequences of observations](http://probmods.org/chapters/05-observing-sequences.html)
 * [Learning as Conditional Inference](https://probmods.org/chapters/08-learning-as-conditional-inference.html)
-* [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
-* Optional: <a href="http://web.mit.edu/cocosci/Papers/nips99preprint.pdf">Rules and similarity in concept learning.</a> Tenenbaum (2000).
-* Optional: [Learning Structured Generative Concepts](https://mindmodeling.org/cogsci2010/papers/0533/paper0533.pdf). Stuhlmueller, Tenenbaum, and Goodman (2010).
+* Optional: [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
+* Optional: [Perceptual multistability as Markov chain Monte Carlo inference](http://papers.nips.cc/paper/3711-perceptual-multistability-as-markov-chain-monte-carlo-inference.pdf). Gershman, Vul, Tenenbaum (2009).
+* Optional: [A more rational model of categorization](http://health.adelaide.edu.au/psychology/ccs/docs/pubs/2006/SanbornGriffithsNavarro2006.pdf). Sanborn, Griffiths,  Navarro (2006).
+* Optional: [Theory acquisition as stochastic search](http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf) Ullman, Goodman, and Tenenbaum (2010).
+* Optional: [Exemplar models as a mechanism for performing Bayesian inference](http://cocosci.berkeley.edu/tom/papers/mechanism.pdf). Shi, Griffiths, Feldman, Sanborn (2010).
+
 
 <!--should add some more recent papers on learning...-->
-
 
 
 ## Week of October 31
@@ -159,8 +156,10 @@ Learning compositional hypotheses. Learning continuous functions. Deep probabili
 
 Readings:
 
+* [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
 * TBA
-
+* Optional: <a href="http://web.mit.edu/cocosci/Papers/nips99preprint.pdf">Rules and similarity in concept learning.</a> Tenenbaum (2000).
+* Optional: [Learning Structured Generative Concepts](https://mindmodeling.org/cogsci2010/papers/0533/paper0533.pdf). Stuhlmueller, Tenenbaum, and Goodman (2010).
 
 ## Week of November 7
 
@@ -168,9 +167,9 @@ Hierarchical models. Occam's razor.
 
 Readings:
 
-* <a href="https://probmods.org/chapters/09-hierarchical-models.html">Hierarchical Models</a>
-* <a href="https://probmods.org/chapters/10-occam's-razor.html">Occam's Razor</a>
-* <a href="http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf">Structure and strength in causal induction.</a> Griffiths and Tenenbaum (2005).
+* [Hierarchical Models](https://probmods.org/chapters/09-hierarchical-models.html)
+* [Occam's Razor](https://probmods.org/chapters/10-occam's-razor.html)
+* [Structure and strength in causal induction](http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf). Griffiths and Tenenbaum (2005).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/bayes.pdf">Bayesian modeling of human concept learning.</a> Tenenbaum (1999).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/cogsci00_FINAL.pdf">Word learning as Bayesian inference.</a> Tenenbaum and Xu (2000).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/f881-XuTenenbaum.pdf"> Word learning as Bayesian inference: Evidence from preschoolers.</a> Xu and Tenenbaum (2005).
