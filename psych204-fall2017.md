@@ -22,7 +22,7 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 * Office hours:
   * w/ NG: W, 2-3:30pm, Room 356 *Jordan Hall*, Building 420
   * w/ EB: M, 2-3pm, Room 316 *Jordan Hall*, Building 420
-  * w/ RH: F, 1:30-3pm, Room 358 *Jordan Hall*, Building 420
+  * w/ RH: [book here](https://rxdh.youcanbook.me/index.jsp), meet in Room 358 *Jordan Hall*, Building 420
 
 We will use [Canvas](https://canvas.stanford.edu/courses/70937/) to post announcements, collect assignments, and host discussion among students. We encourage students to post questions here instead of directly emailing the instructors: we hope students will attempt to answer each other's questions as well (TAs will verify the answers). Trying to explain a concept to someone else is often the best way to check your own knowledge.
 
