@@ -374,10 +374,14 @@ but we suspect the errors would compound.
 ## Project writeup
 
 Your final project should be described in the format of a conference
-paper, following the guidelines of paper submissions to the Cognitive
-Science Society conference: [see the section "Submission formats" on
-this
-page](http://www.cognitivesciencesociety.org/cogsci-archival-conference-information/).
+paper, following the [guidelines of paper submissions to the Cognitive
+Science Society
+conference](http://www.cognitivesciencesociety.org/cogsci-archival-conference-information/).
+The easiest way is to download the pre-formatted template:
+
+* [LaTeX](http://cognitivesciencesociety.org/wp-content/uploads/archival/cognitivesciencesociety.org/uploads/latexpaper_2015.zip)
+* [Word (if you must)](http://cognitivesciencesociety.org/wp-content/uploads/archival/cognitivesciencesociety.org/uploads/wordpaper_2015.zip)
+
 In particular, your paper should be no more than six pages long.  Your
 paper should cover the background behind your project, the questions
 you are asking, your methods and results, and your interpretation of
