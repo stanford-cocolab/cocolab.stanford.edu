@@ -53,29 +53,7 @@ Raw data can be found with its own README [on github](https://github.com/futurul
 
 **Description**: Chinese speakers performed the same task as above.
 
-**Columns**:
-
-* **gameid**: unique identifier for game in which message was sent
-* **msgTime**: time at which player sent message
-* **roundNum**: round of game in which message was sent [1-50]
-* **condition**: type of context for round ['close', 'split', 'far']
-* **role**: role of player who sent message ['speaker', 'listener']
-* **contents**: raw text of message
-* **clkTime**: time at which listener clicked object to terminate round
-* **outcome**: boolean denoting whether the listener picked the correct object [false, true]
-* **numRawWords**, **numRawChars**: number of words/characters in raw message
-* **numCleanWords**, **numCleanChars**: number of words/characters in cleaned message (stopwords removed)
-* **source**: indicator that message game from human participant rather than model
-* **clickStatus**: identity of object clicked by listener [target, distr1, distr2]
-* **clickColH**,**clickColS**,**clickColL**: coordinate in HSL space of object clicked by listener
-* **clickLocS**,**clickLocL**: location in array of object clicked: for speaker (S) and listener (L)
-* **alt1Status**: identity of first alternative [target, distr1, distr2]
-* **alt1ColH**,**alt1ColS**,**alt1ColL**: coordinate in HSL space of first alternative
-* **alt1LocS**,**alt1LocL**: location in array of first alternative: for speaker (S) and listener (L)
-* **alt2Status**: identity of second alternative [target, distr1, distr2]
-* **alt2ColH**,**alt2ColS**,**alt2ColL**: coordinate in HSL space of second alternative
-* **alt2LocS**,**alt2LocL**: location in array of second alternative: for speaker (S) and listener (L)
-* **targetD1Diff**,**targetD2Diff**,**D1D2Diff**: [delta-e 2000](http://zschuessler.github.io/DeltaE/learn/) distance in perceptually-normed LAB space between each pair of the three swatches
+**Columns**: A subset of the above.
 
 Raw, pre-filtered data can be found [on github](https://github.com/futurulus/coop-nets/tree/master/languageAnalysis/data_input_raw).
 
