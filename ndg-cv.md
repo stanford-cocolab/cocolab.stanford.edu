@@ -184,8 +184,30 @@ A javascript-based probabilistic programming language.
 
 * "What people can learn from algorithms — and algorithms can learn from people." Boston Globe, May 27, 2016.
 
+* "AI's Langauge Problem." MIT Technology Review,  August 9, 2016.
+
 
 ## Invited Presentations
+
+* Cognitive Science Colloquium, Johns Hopkins University, Baltimore, MD, March 2018.
+
+* "Emergent Language" workshop, NIPS, Long Beach, CA, November 2017.
+
+* "Combining Academia and Industry Workshop", CogSci, London, UK, July 2017.
+
+* Gatsby Unit, London, UK, July 2017.
+
+* PLEMM workshop, Facebook, Menlo Park, CA, May 2017.
+
+* EmTech Digital, San Francisco, CA, March 2017.
+
+* Uber Technology Conference, Uber, Palo Alto, CA, February 2017.
+
+* Machine Learning Seminar, University of Washington, Seattle, WA, January 2017.
+
+* Tokyo, Japan, December 2016.
+
+* Society for Philosophy and Psychology, Austin, TX, May 2016.
 
 * Adobe Machine Learning Seminar, San Jose, CA, April 2016.
 
@@ -377,13 +399,13 @@ A javascript-based probabilistic programming language.
 
 ## Professional Services
 
-* Journal Reviewer: Science. Nature. Cognition. Trends in Cognitive Science. Cognitive Science. Cognitive Psychology. Child Development. Memory and Cognition. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex. Decision. Natural Language Semantics.
+* Journal Reviewer: Science. Nature. PNAS. Cognition. Trends in Cognitive Science. Cognitive Science. Cognitive Psychology. Child Development. Memory and Cognition. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex. Decision. Natural Language Semantics.
 
 * Conference Proceedings Reviewer (selected): Cognitive Science. Neural Information Processing Systems. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence.
 
 * Grant reviewer: NSF (ad-hoc and panelist), ONR.
 
-* Program committee: Cognitive Science Society, 2014, 2015, 2016.
+* Program committee / Senior PC: Cognitive Science Society, 2014, 2015, 2016. AAAI 2016. AIStats 2017.
 
 * Co-organizer: Cognitive Science Society, symposium “Empirical and Computational Approaches to Metaphor and Figurative Meaning”, Pennsylvania, August 2016.
 
@@ -421,7 +443,9 @@ A javascript-based probabilistic programming language.
 
 ## Outreach
 
-* Guest lecturer, [SAILORS](http://ai.stanford.edu/sailors/) program, Stanford, 2015.
+* Guest lecture, Summer School in Cognitive Science, Montreal, Canada, June 2016.
+
+* Guest lecturer, [SAILORS](http://ai.stanford.edu/sailors/) program, Stanford, 2015, 2016, 2017.
 
 * Studium Generale, Groningen, Netherlands, February 2014.
 
@@ -447,7 +471,9 @@ A javascript-based probabilistic programming language.
 
 ### University Courses
 
-* "Computation and Cognition: the Probabilistic Approach" (Psych 204 / CS 428). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015, Autumn 2016.
+* "Computation and Cognition: the Probabilistic Approach" (Psych 204 / CS 428). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015, Autumn 2016, Autumn 2017.
+
+* "Seminar in Semantics: Formal semantics and the psychology of reasoning" (LINGUIST 236/PSYCH 236). Stanford. Spring 2017.
 
 * "Foundations of Cognition" (Psych 205). Stanford. Spring 2015.
 
@@ -467,11 +493,15 @@ A javascript-based probabilistic programming language.
 
 ### Post-doctoral students
 
-* Leon Bergen, 2016-present
+* Judy Fan, 2017-present
 
-* Judith Degen, 2013-present
+* Daniel Ritchie, 2016-17 (Now assistant professor of CS, Brown)
 
-* Andreas Stuhmueller, 2015-present
+* Leon Bergen, 2016-2017 (Now assistant professor of Linguistics, UCSD)
+
+* Judith Degen, 2013-2017 (Now assistant professor of Linguistics, Stanford)
+
+* Andreas Stuhmueller, 2015-2017 (Now CEO Ought, Inc.)
 
 * Long Ouyang, 2015-2016
 
@@ -483,12 +513,14 @@ A javascript-based probabilistic programming language.
 
 * Daniel Lassiter, 2011-13 (Now assistant professor of Linguistics, Stanford University)
 
-* Joseph Austerweil, 2013 (Now assistant professor of Cognitive Science, Brown University)
+* Joseph Austerweil, 2013 (Now associate professor of Cognitive Science, University of Wisconsin)
 
 
 ### Ph.D. students
 
-* Katherine Herman (Stanford, Psychology)
+* Mike Wu (Stanford, Computer Science)
+
+* Ben Peloquin (Stanford, Psychology)
 
 * Erin Bennett (Stanford, Psychology)
 
@@ -496,7 +528,7 @@ A javascript-based probabilistic programming language.
 
 * Michael Henry Tessler (Stanford, Psychology)
 
-* Desmond Ong (Stanford, Psychology)
+* Desmond Ong (Stanford, Psychology), completed 2017
 
 * Daniel Ritchie (Stanford, Computer Science), completed 2016
 
@@ -511,9 +543,21 @@ A javascript-based probabilistic programming language.
 
 ### Ph.D. Committees
 
-* Ian Ballard (Stanford, Neuroscience)
+* Andrew Lampinen (Stanford, Psychology)
 
-* Molly Lewis (Stanford, Psychology)
+* Erica Yoon (Stanford, Psychology)
+
+* Justin Johnson (Stanford, CS), completed 2018
+
+* Will Munroe (Stanford, CS), completed 2018
+
+* Steven Hansen (Stanford, Psychology), completed 2018
+
+* Sida Wang (Stanford, CS), completed 2017
+
+* Ian Ballard (Stanford, Neuroscience), completed 2017
+
+* Molly Lewis (Stanford, Psychology), completed 2016
 
 * Leon Bergen (MIT, BCS), completed 2015
 
@@ -545,11 +589,20 @@ A javascript-based probabilistic programming language.
 
 * Timothy J. O'Donnell (Harvard, Psychology), completed 2011
 
-* Jerry Talton (Stanford, Computer Science), completed 2011
 
+<!--
+Quals and such:
+Aditya Grover, CS quals commitee
+Natalia Velez, Psych CADA committee
+Ziang Xie, CS orals committee
 
+-->
 
 ## University Committees
+
+* Psychology Department, Graduate Admissions Committee, 2016-17, 2017-2018.
+
+* CS Department, MA Advising Committee, 2017-18.
 
 * Psychology Department, Colloquium Committee, 2014-2015.
 
