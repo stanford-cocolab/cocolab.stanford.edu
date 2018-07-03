@@ -12,6 +12,10 @@ Please use the links at the top to navigate.
 * 
 ### News
 
+* Congratulations to Judy Fan on accepting a tenure-track position at UC San Diego!
+
+* Congratulations to MH Tessler, who recently defended his dissertation and is heading to MIT for a post-doc.
+
 * Congratulations to Judith Degen on accepting a tenure-track position at Stanford!
 
 * Congratulations to Leon Bergen on accepting a tenure-track position at UC San Diego!

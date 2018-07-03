@@ -3,7 +3,7 @@ layout: default
 permalink: datasets/colors.html
 ---
 
-## Color Reference
+## Color Reference (English)
 
 <img alt="Speaker's view in color reference task." src="{{site.url}}{{site.baseurl}}/images/research/speakerView.png" width="50%" style="display: block; margin: auto;"/>
 
@@ -43,4 +43,20 @@ Raw data can be found with its own README [on github](https://github.com/futurul
 
 **Citation**:
 
-[Monroe, W., Hawkins, R. X. D., Goodman, N. D., & Potts, C. (2017). Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding. arXiv preprint arXiv:1703.10186.](https://arxiv.org/pdf/1703.10186.pdf)
+[Monroe, W., Hawkins, R. X. D., Goodman, N. D., & Potts, C. (2017). Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding. TACL: Transactions of the Association for Computational Linguistics 5, pp. 325–338.](http://www.aclweb.org/anthology/Q17-1023)
+
+## Color Reference (Chinese)
+
+[**Download**](https://github.com/futurulus/coop-nets/blob/master/languageAnalysis/data_input_cleaned/filteredCorpus.csv)
+
+**Size**: 175 games; 5,775 utterances.
+
+**Description**: Chinese speakers performed the same task as above.
+
+**Columns**: A subset of the above.
+
+Raw, pre-filtered data can be found [on github](https://github.com/futurulus/coop-nets/tree/master/languageAnalysis/data_input_raw).
+
+**Citation**:
+
+Monroe, W., Hu, J., Jong, A., & Potts, C. (2018). Generating Bilingual Pragmatic Color References. Proceedings of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 

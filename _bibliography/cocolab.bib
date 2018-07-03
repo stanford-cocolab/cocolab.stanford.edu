@@ -1,25 +1,99 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% http://bibdesk.sourceforge.net/
 
-
-%% Created for Noah Goodman at 2017-11-21 10:39:39 -0700 
+%% Created for Robert Hawkins at 2018-05-21 14:32:06 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
 
-@techreport{NieBennettGoodman17,
-	Abstract = {Sentence vectors represent an appealing approach to meaning: learn an embedding that encompasses the meaning of a sentence in a single vector, that can be used for a variety of semantic tasks. Existing models for learning sentence embeddings either require extensive computational resources to train on large corpora, or are trained on costly, manually curated datasets of sentence relations. We observe that humans naturally annotate the relations between their sentences with discourse markers like "but" and "because". These words are deeply linked to the meanings of the sentences they connect. Using this natural signal, we automatically collect a classification dataset from unannotated text. Training a model to predict these discourse markers yields high quality sentence embeddings. Our model captures complementary information to existing models and achieves comparable generalization performance to state of the art models.},
-	Annote = {(Manuscript)},
+@article{OngEtAl18_Topics,
+	Author = {Ong, Desmond C. and Zaki, Jamil and Goodman, Noah D.},
+	Journal = {Topics in Cognitive Science},
+	Title = {Computational models of emotion inference in Theory of Mind: A review and roadmap},
+	Website = {papers/OngEtAl18_Topics.pdf},
+	Abstract = {Research on social cognition has fruitfully applied computational modeling approaches to explain how observers understand and reason about others' mental states. By contrast, there has been less work on modeling observers' understanding of emotional states. We propose an intuitive theory framework to studying affective cognition---how humans reason about emotions---and derive a taxonomy of inferences within affective cognition. Using this taxonomy, we review formal computational modeling work on such inferences, including: causal reasoning about how others react to events, reasoning about unseen causes of emotions, reasoning with multiple cues, as well as reasoning from emotions to other mental states. Additionally, we provide a roadmap for future research by charting out inferences---such as hypothetical and counterfactual reasoning about emotions---that are ripe for future computational modeling work. This framework proposes unifying these various types of reasoning as Bayesian inference within a common ``intuitive Theory of Emotion''. Finally, we end with a discussion of important theoretical and methodological challenges that lie ahead in modeling affective cognition.},
+	Year = {To appear},
+	Annote = {To appear}}
+
+
+@article{DasguptaEtAl18_Cognition,
+	Author = {Ishita Dasgupta and Eric Schulz and Noah D. Goodman and Samuel J. Gershman},
+	Date-Added = {2018-05-21 21:31:45 +0000},
+	Date-Modified = {2018-05-21 21:32:00 +0000},
+	Journal = {Cognition},
+	Pages = {67 - 81},
+	Title = {Remembrance of inferences past: Amortization in human hypothesis generation},
+	Volume = {178},
+	Year = {2018},
+	Website = {https://www.biorxiv.org/content/biorxiv/early/2017/12/11/231837.full.pdf},
+	Abstract = {Bayesian models of cognition assume that people compute probability distributions over hypotheses. However, the required computations are frequently intractable or prohibitively expensive. Since people often encounter many closely related distributions, selective reuse of computations (amortized inference) is a computationally efficient use of the brain's limited resources. We present three experiments that provide evidence for amortization in human probabilistic reasoning. When sequentially answering two related queries about natural scenes, participants' responses to the second query systematically depend on the structure of the first query. This influence is sensitive to the content of the queries, only appearing when the queries are related. Using a cognitive load manipulation, we find evidence that people amortize summary statistics of previous inferences, rather than storing the entire distribution. These findings support the view that the brain trades off accuracy and computational cost, to make efficient use of its limited cognitive resources to approximate probabilistic inference. }}
+
+@incollection{DasguptaEtAl2018-Cogsci,
+	Author = {Ishita Dasgupta and Demi Guo and Andreas Stuhlm{\"u}ller and Samuel J. Gershman and Noah D. Goodman},
+	Booktitle = {Proceedings of the Fortieth Annual Conference of the Cognitive Science Society},
+	Date-Added = {2018-05-21 21:25:06 +0000},
+	Date-Modified = {2018-05-21 21:26:06 +0000},
+	Title = {Evaluating Compositionality in Sentence Embeddings},
+	Website = {papers/DasguptaEtAl2018-Cogsci.pdf},
+	Year = {2018},
+	Abstract = {An important challenge for human-like AI is compositional semantics. Recent research has attempted to address this by using deep neural networks to learn vector space embeddings of sentences, which then serve as input to other tasks. We present a new dataset for one such task, ``natural language inference'' (NLI), that cannot be solved using only word-level knowledge and requires some compositionality. We find that the performance of state of the art sentence embeddings (InferSent; Conneau et al., 2017) on our new dataset is poor. We analyze the decision rules learned by InferSent and find that they are consistent with simple heuristics that are ecologically valid in its training dataset. Further, we find that augmenting training with our dataset improves test performance on our dataset without loss of performance on the original training dataset. This highlights the importance of structured datasets in better understanding and improving AI systems.}}
+
+@inproceedings{Hahn_information_2018,
+	Author = {Michael Hahn and Judith Degen and Noah Goodman and Dan Jurafsky and and Richard Futrell},
+	Booktitle = {Proceedings of the Fortieth Annual Conference of the Cognitive Science Society},
+	Title = {An information-theoretic explanation of adjective ordering preferences},
+	Website = {papers/hahn-cogsci2018.pdf},
+	Year = {2018},
+	Abstract = {Across languages, adjectives are subject to ordering restrictions. Recent research shows that these are predicted by adjective subjectivity, but the question remains open why this is the case. We first conduct a corpus study and not only replicate the subjectivity effect, but also find a previously undocumented effect of mutual information between adjectives and nouns. We then describe a rational model of adjective use in which listeners explicitly reason about judgments made by different speakers, formalizing the notion of subjectivity as agreement between speakers. We show that, once incremental processing is combined with memory limitations, our model predicts effects both of subjectivity and mutual information. We confirm the adequacy of our model by evaluating it on corpus data, finding that it correctly predicts ordering in unseen data with an accuracy of 96.2\%. This suggests that adjective ordering can be explained by general principles of human communication and language processing.}}
+
+@article{ong2018happier,
+	Author = {Ong, Desmond C and Goodman, Noah D and Zaki, Jamil},
+	Journal = {Emotion},
+	Number = {1},
+	Pages = {116},
+	Publisher = {American Psychological Association},
+	Title = {Happier than thou? A self-enhancement bias in emotion attribution.},
+	Volume = {18},
+	Website = {papers/OngEtAl2017-Emotion.pdf},
+	Year = {2018},
+	Abstract = {People tend to judge themselves as exhibiting above average levels of desirable traits---including competence, kindness, and life satisfaction---but does this self-enhancement extend to emotional responses? Here, we explore this question by having people attribute emotions to themselves and others following simple gambles. We demonstrate that people display an emotional self-enhancement bias that varies with the context of the emotion-eliciting situation. People judge themselves as experiencing more positive emotional reactions on average, and they also believed that others' emotions are more sensitive to gamble outcomes, such that people judge others to experience stronger negative affect in response to negative outcomes (Study 1). This self-enhancement bias further tracks social distance, such that people attribute less positive and more negative emotion to more dissimilar, as compared to more similar others (Study 2). People also predict less favorable emotional states for themselves and others experiencing events in the future, as compared to the present (Study 3), suggesting that this attribution bias extends across multiple dimensions of psychological distance. Broadly, these data suggest that people exhibit self-enhancement in emotion attribution, but do so in subtle ways that depend on situational and social factors.}}
+
+@inproceedings{hawkins2018cogsci,
+	Author = {Robert X. D. Hawkins and Michael Franke and Kenny Smith and Noah D. Goodman},
+	Booktitle = {Proceedings of the Fortieth Annual Conference of the Cognitive Science Society},
+	Date-Added = {2017-02-22 13:01:38 +0000},
+	Date-Modified = {2017-02-22 13:03:04 +0000},
+	Title = {Emerging Abstractions: Lexical conventions are shaped by communicative context},
+	Website = {papers/HawkinsEtAl2018-Cogsci.pdf},
+	Year = {2018},
+	Abstract = {Words exist for referring at many levels of specificity: from the broadest (thing) to the most specific (Fido). What drives the emergence of these levels of abstraction? Recent computational theories of language evolution suggest that communicative demands of the environment may play a deciding role. We hypothesize that language users are more likely to lexicalize specific names (e.g. Fido) when the context frequently requires making fine distinctions between entities; conversely, they should develop a more compressed system of conventions for abstract categories (e.g. dog) in coarser contexts. We test this hypothesis by manipulating context in a repeated reference game where pairs of participants interactively coordinate on an artificial communication system. We show qualitative differences in the levels of abstraction that emerged in different contexts and introduce a statistical approach to probe the dynamics of emergence. These findings illuminate the local pragmatic learning mechanisms that may drive global language evolution.}}
+
+@article{NieBennettGoodman17,
 	Author = {{Nie}, A. and {Bennett}, E.~D. and {Goodman}, N.~D.},
-	Date-Modified = {2017-11-21 17:33:50 +0000},
 	Journal = {arXiv:1710.04334},
 	Title = {DisSent: Sentence Representation Learning from Explicit Discourse Relations},
 	Website = {https://arxiv.org/abs/1710.04334},
-	Year = {Manuscript}}
+	Year = {Manuscript},
+	Abstract = {Sentence vectors represent an appealing approach to meaning: learn an embedding that encompasses the meaning of a sentence in a single vector, that can be used for a variety of semantic tasks. Existing models for learning sentence embeddings either require extensive computational resources to train on large corpora, or are trained on costly, manually curated datasets of sentence relations. We observe that humans naturally annotate the relations between their sentences with discourse markers like "but" and "because". These words are deeply linked to the meanings of the sentences they connect. Using this natural signal, we automatically collect a classification dataset from unannotated text. Training a model to predict these discourse markers yields high quality sentence embeddings. Our model captures complementary information to existing models and achieves comparable generalization performance to state of the art models.},
+	Annote = {(Manuscript)}}
+
+@article{BennettGoodman2018,
+	Author = {Bennett, Erin D and Goodman, Noah D},
+	Journal = {Cognition},
+	Title = {Extremely costly intensifiers are stronger than quite costly ones},
+	Year = {2018},
+	Pages = {147-161},
+	Volume = {178},
+	Website = {papers/BennettGoodman2018.pdf},
+	Abstract = {We show that the wide range in strengths of intensifying degree adverbs (e.g. very and extremely) can be partly explained by pragmatic inference based on differing cost, rather than differing semantics. The pragmatic theory predicts a linear relationship between the meaning of intensifiers and their length and log-frequency. We first test this prediction in three studies, using two different dependent measures, finding that higher utterance cost (i.e. higher word length or surprisal) does predict stronger meanings. In two additional studies we confirm that the relationship between length and meaning is present even for novel words. We discuss the implications for adverbial meaning and the more general question of how extensive non-arbitrary form-meaning association may be in language.}}
 
 @inproceedings{SiddharthEtAl2018-NIPS,
+	Author = {Siddharth, N and Paige, Brooks and de Meent, Van and Desmaison, Alban and Wood, Frank and Goodman, Noah D and Kohli, Pushmeet and Torr, Philip HS},
+	Booktitle = {Advances in Neural Information Processing Systems (NIPS 2018)},
+	Title = {Learning Disentangled Representations with Semi-Supervised Deep Generative Models},
+	Year = {2018},
 	Abstract = {Variational autoencoders (VAEs) learn representations of data by jointly training a probabilistic
 encoder and decoder network. Typically these models encode all features of the data into a
 single variable. Here we are interested in learning disentangled representations that encode
@@ -32,12 +106,16 @@ further define a general objective for semi-supervised learning in this model cl
 approximated using an importance sampling procedure. We evaluate our framework's ability
 to learn disentangled representations, both by qualitative exploration of its generative capacity,
 and quantitative evaluation of its discriminative ability on a variety of models and datasets.},
-	Annote = {To appear},
-	Author = {Siddharth, N and Paige, Brooks and de Meent, Van and Desmaison, Alban and Wood, Frank and Goodman, Noah D and Kohli, Pushmeet and Torr, Philip HS},
-	Booktitle = {Advances in Neural Information Processing Systems (NIPS 2018)},
-	Title = {Learning Disentangled Representations with Semi-Supervised Deep Generative Models},
-	Website = {https://arxiv.org/pdf/1706.00400.pdf},
-	Year = {To appear}}
+	Website = {https://arxiv.org/pdf/1706.00400.pdf}}
+
+@inproceedingss{CohnGordonEtAl2018_NAACL,
+	Author = {Reuben Cohn-Gordon and Noah Goodman and Chris Potts},
+	Booktitle = {NAACL},
+	Title = {Pragmatically Informative Image Captioning With Character-Level Inference},
+	Website = {papers/CohnGordonEtAl2018_NAACL.pdf},
+	Year = {To appear},
+	Abstract = {We combine a neural image captioner with a Rational Speech Acts (RSA) model to make a system that is pragmatically informative: its objective is to produce captions that are not merely true but also distinguish their inputs from similar images. Previous attempts to combine RSA with neural image captioning require an inference which normalizes over the entire set of possible utterances. This poses a serious problem of efficiency, previously solved by sampling a small subset of possible utterances. We instead solve this problem by implementing a version of RSA which operates at the level of characters (``a'',``b'',``c'', . . . ) during the unrolling of the caption. We find that the utterance-level effect of referential captions can be obtained with only character-level decisions. Finally, we introduce an automatic method for testing the performance of pragmatic speaker models, and show that our model outperforms a non-pragmatic baseline as well as a word-level RSA captioner.},
+	Annote = {To appear}}
 
 @article{BallardEtAl-Cortex,
 	Author = {Ian Ballard and Eric Miller and Steven Piantadosi and Noah Goodman and Samuel McClure},
@@ -58,31 +136,40 @@ and quantitative evaluation of its discriminative ability on a variety of models
 	Year = {To appear}}
 
 @article{Hawthorne2017_ToM,
-	Author = {D. Hawthorne-Madell and N. D. Goodman},
-	Date-Added = {2017-06-26 21:17:42 +0000},
-	Date-Modified = {2017-11-21 17:31:17 +0000},
+	Author = {Daniel Hawthorne-Madell and Noah D. Goodman},
 	Journal = {Open Mind},
-	Title = {So good it has to be true: Wishful thinking in theory of mind},
+	Number = {2},
+	Pages = {101-110},
+	Title = {So Good It Has to Be True: Wishful Thinking in Theory of Mind},
+	Volume = {1},
 	Website = {papers/HawthorneGoodman2017-Wishful.pdf},
-	Year = {2017}}
+	Year = {2017},
+	Abstract = { In standard decision theory, rational agents are objective, keeping their beliefs independent from their desires. Such agents are the basis for current computational models of Theory of Mind (ToM), but the accuracy of these models are unknown. Do people really think that others do not let their desires color their beliefs? In two experiments we test whether people think that others engage in wishful thinking. We find that participants do think others believe that desirable events are more likely to happen, and that undesirable ones are less likely to happen. However, these beliefs are not well calibrated as people do not let their desires influence their beliefs in the task. Whether accurate or not, thinking that others wishfully think has consequences for reasoning about them. We find one such consequence---people learn more from an informant who thinks an event will happen despite wishing it was otherwise. People's ToM therefore appears to be more nuanced than the current rational accounts in that it allows other's desires to directly affect their subjective probability of an event. }}
 
 @article{Scontras2017_Cubert,
 	Author = {Scontras, Gregory and Noah D. Goodman},
 	Date-Added = {2017-06-26 17:32:13 +0000},
 	Date-Modified = {2017-11-21 17:29:02 +0000},
 	Journal = {Cognition},
+	Pages = {294 - 311},
 	Title = {Resolving uncertainty in plural predication},
+	Volume = {168},
 	Website = {papers/ScontrasGoodman2017_Cognition.pdf},
-	Year = {2017}}
+	Year = {2017},
+	Abstract = {Plural predications (e.g., ``the boxes are heavy'') are common sources of ambiguity in everyday language, allowing both distributive and collective interpretations (e.g., the boxes each are heavy vs. the boxes together are heavy). This paper investigates the role of context in the disambiguation of plural predication. We address the key phenomenon of ``stubborn distributivity,'' whereby certain predicates (e.g., big, tall) are claimed to lack collective interpretations altogether. We first validate a new methodology for measuring the interpretation of plural predications. Using this method, we then analyze naturally-occurring plural predications from corpora. We find a role of context, but no evidence of a distinct class of predicates that resists collective interpretations. We further explore the role of context in our final experiments, showing that both the predictability of properties and the knowledgeability of the speaker affect disambiguation. This suggests a pragmatic account of how ambiguous plural predications are interpreted. In particular, stubbornly distributive predicates are so because the collective properties they name are unpredictable, or unstable, in most contexts; this unpredictability results in a noisy collective interpretation, something speakers and listeners recognize as ineffective for communicating efficiently about their world. We formalize the pragmatics of utterance disambiguation within the Bayesian Rational Speech Act framework.}}
 
 @article{Gerstenberg2017,
 	Abstract = {How do people make causal judgments? What role, if any, does counterfactual simulation play? Counterfactual theories of causal judgments predict that people compare what actually happened with what would have happened if the candidate cause had been absent. Process theories predict that people focus only on what actually happened, to assess the mechanism linking candidate cause and outcome. We tracked participants' eye-movements while they judged whether one billiard ball caused another one to go through a gate, or prevented it from going through. Both participants' looking patterns and judgments demonstrate that counterfactual simulation is critical. Participants simulate where the target ball would have gone if the candidate cause had been removed from the scene. The more certain participants were that the outcome would have been different, the stronger their causal judgments. These results provide the first direct evidence for spontaneous counterfactual simulation in an important domain of high-level cognition.},
 	Author = {Tobias Gerstenberg and Matthew F. Peterson and Noah D. Goodman and David A. Lagnado and Joshua B. Tenenbaum},
 	Date-Modified = {2017-11-21 17:34:54 +0000},
 	Journal = {Psychological Science},
+	Number = {12},
+	Pages = {1731--1744},
 	Title = {Eye-tracking causality},
+	Volume = {28},
 	Website = {papers/GerstenbergEtAl17_PsychScience.pdf},
-	Year = {2017}}
+	Year = {2017},
+	Abstract = {How do people make causal judgments? What role, if any, does counterfactual simulation play? Counterfactual theories of causal judgments predict that people compare what actually happened with what would have happened if the candidate cause had been absent. Process theories predict that people focus only on what actually happened, to assess the mechanism linking candidate cause and outcome. We tracked participants' eye-movements while they judged whether one billiard ball caused another one to go through a gate, or prevented it from going through. Both participants' looking patterns and judgments demonstrate that counterfactual simulation is critical. Participants simulate where the target ball would have gone if the candidate cause had been removed from the scene. The more certain participants were that the outcome would have been different, the stronger their causal judgments. These results provide the first direct evidence for spontaneous counterfactual simulation in an important domain of high-level cognition.}}
 
 @article{FalkEtAl2017a,
 	Abstract = {Cognitive biases, such as the anchoring bias, pose a serious challenge to rational accounts of human cognition. We investigate whether rational theories can meet this challenge by taking into account the mind's bounded cognitive resources. We asked what reasoning under uncertainty would look like if people made rational use of their finite time and limited cognitive resources. To answer this question, we applied a mathematical theory of bounded rationality to the problem of numerical estimation. Our analysis led to a rational process model that can be interpreted in terms of anchoring-and-adjustment. This model provided a unifying explanation for ten anchoring phenomena including the differential effect of accuracy motivation on the bias towards provided versus self-generated anchors. Our results illustrate the potential of resource-rational analysis to provide formal theories that can unify a wide range of empirical results and reconcile the impressive capacities of the human mind with its apparently irrational cognitive biases.},
@@ -106,9 +193,13 @@ and quantitative evaluation of its discriminative ability on a variety of models
 	Date-Added = {2017-03-21 16:19:12 +0000},
 	Date-Modified = {2017-11-21 17:36:14 +0000},
 	Journal = {Transactions of the Association for Computational Linguistics},
+	Number = {1},
+	Pages = {325--338},
 	Title = {Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding},
-	Website = {https://arxiv.org/abs/1703.10186},
-	Year = {2017}}
+	Volume = {5},
+	Website = {http://www.aclweb.org/anthology/Q17-1023},
+	Year = {2017},
+	Abstract = {We present a model of pragmatic referring expression interpretation in a grounded communication task (identifying colors from descriptions) that draws upon predictions from two recurrent neural network classifiers, a speaker and a listener, unified by a recursive pragmatic reasoning framework. Experiments show that this combined pragmatic model interprets color descriptions more accurately than the classifiers from which it is built. We observe that pragmatic reasoning helps primarily in the hardest cases: when the model must distinguish very similar colors, or when few utterances adequately express the target color. Our findings make use of a newly-collected corpus of human utterances in color reference games, which exhibit a variety of pragmatic behaviors. We also show that the embedded speaker model reproduces many of these pragmatic behaviors.}}
 
 @techreport{ritchie2016DAIPP,
 	Abstract = {Probabilistic programming languages (PPLs) are a powerful modeling tool, able to represent any computable probability distribution. Unfortunately, probabilistic program inference is often intractable, and existing PPLs mostly rely on expensive, approximate sampling-based methods. To alleviate this problem, one could try to learn from past inferences, so that future inferences run faster. This strategy is known as amortized inference; it has recently been applied to Bayesian networks and deep generative models. This paper proposes a system for amortized inference in PPLs. In our system, amortization comes in the form of a parameterized guide program. Guide programs have similar structure to the original program, but can have richer data flow, including neural network components. These networks can be optimized so that the guide approximately samples from the posterior distribution defined by the original program. We present a flexible interface for defining guide programs and a stochastic gradient-based scheme for optimizing guide parameters, as well as some preliminary results on automatically deriving guide programs. We explore in detail the common machine learning pattern in which a `local' model is specified by `global' random values and used to generate independent observed data points; this gives rise to amortized local inference supporting global model learning.},
@@ -317,13 +408,6 @@ and quantitative evaluation of its discriminative ability on a variety of models
 	Journal = {Open Mind},
 	Title = {Subjectivity predicts adjective ordering preferences},
 	Website = {http://www.mitpressjournals.org/doi/pdf/10.1162/OPMI_a_00005},
-	Year = {2017}}
-
-@article{ong2017happier,
-	Author = {Ong, Desmond C and Goodman, Noah D and Zaki, Jamil},
-	Journal = {Emotion},
-	Title = {Happier than thou? {A} self-enhancement bias in emotion attribution},
-	Website = {papers/OngEtAl2017-Emotion.pdf},
 	Year = {2017}}
 
 @article{GoodmanFrank2016-TICS,
