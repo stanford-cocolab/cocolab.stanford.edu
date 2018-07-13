@@ -1,0 +1,285 @@
+<p>
+<link type="text/css" rel="stylesheet" href="jquery-ui.css" /></p>
+<script src="jquery.min.js"></script> <script src="jquery-ui.min.js"></script>
+<!--- Style ---!>
+<p><style type="text/css">
+    body { color: #666666; }
+    p    { color: #000000;
+	         font: 17px/1.5em Verdana, Helvetica, Arial, sans-serif; 
+	         margin-bottom: 12px;}
+	  li   { font: 14px Arial, Verdana, sans-serif;
+	         color: #525252;
+	         margin-top: 6px;
+	         margin-bottom: 6px;
+	         font-weight: light;   }
+	  h3   { font-family: Helvetica, Arial, Verdana, sans-serif;
+	         color: #307bba;
+	         font-size: 18px;
+	         font-weight:lighter;
+	         margin-top: 10px;
+	         margin-bottom: 10px; }
+	  h4   { font-family: Helvetica, Arial, Verdana, sans-serif;
+	         color: #307bba;
+	         font-size: 16px;
+	         font-weight:lighter;
+	         margin-top: 10px;
+	         margin-bottom: 10px; }
+	  h1.home { color: #ff7e00;
+            	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            	font-size: 36px;
+	            font-weight: lighter;
+	            margin-top: 10px;
+	            margin-bottom: 15px; }
+    h1 {      color: #307bba;
+            	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	            font-size: 30px;
+	            font-weight: lighter;
+            	margin-bottom: 15px; } 
+    .highlight-box { border:solid 0px #98BE10; background:#F2FFE5; color:#222222; padding:8px; text-align:left; }
+    .instr {  font-family: Helvetica, Arial, sans-serif;
+              color: #000000;
+              font-size:14px;
+              font-weight: lighter;
+              margin-top: 16px;
+              margin-bottom: 16px; }
+    #slider0 { width: 600px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+    #slider0 .ui-slider-handle {
+               background: #FAFAFA; }
+
+    #slider0b { width: 600px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+    #slider0b .ui-slider-handle {
+               background: #FAFAFA; }
+</style></p>
+
+<h1>Find the Biased Word!</h1>
+
+<table cellspacing="0" cellpadding="15" border="2" rules="none" frame="box">
+<tbody><tr><td>
+<h3>Instructions:</h3>
+<ul><div class="instr">
+  <li>A biased statement is one that does NOT represent fairly all the views on a subject. Examples of biased language include opinions or contested assertions that are stated as facts, facts that are presented as opinions, judgmental language, a minority view that is presented as the majority one, etc.</li>
+  
+  <li>For example, the word <b><font color="#DF3A01">renowned</font></b> makes the following statement biased:<br /><br />
+  (1)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<i>The New York Times is an internationally renowned daily newspaper published in New York City and distributed in the United States and many other nations worldwide.</i><br /><br />
+  because <b><font color="#DF3A01">renowned</font></b> implies that, apart from very well known, the New York Times is widely honored and acclaimed. This is framed from a US perspective. A word like "known" would make the statement more neutral.</li>
+  
+  <li>Another example of a biased statement is the following:<br /><br />
+  
+  (2)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<i>Kuypers claimed that the mainstream press in America tends to favor liberal viewpoints.</i><br /><br />
+  The verb <b><font color="#DF3A01">claimed</font></b> casts doubt on Kuypers' statement, subtly implying that what he said is not true. A verb like "stated" would not introduce this bias.</li>
+  
+  <li>You will see 10 sentences with a text box below. <b>YOUR TASK IS TO TYPE IN THE BOX THE WORD THAT MAKES THE STATEMENT BIASED.</b> In examples (1) and (2) above, the expected answers would be <b><font color="#DF3A01">renowned</font></b> and <b><font color="#DF3A01">claimed</font></b>, respectively. Note that you should ONLY ENTER A SINGLE WORD. <br/><br/>You are not expected to do any supplemental research to solve this task.</li>
+</ul></div>
+</td></tr></tbody>
+</table>
+
+
+<p>&nbsp;</p>
+<h3>Please answer the following questions:</h3>
+<div class="highlight-box">
+<table cellspacing="0" cellpadding="15">
+    <tbody>
+        <tr>
+        <tr>
+            <td colspan="2"><font color="#000000">We are interested in your linguistic background, the following questions are addressing that:</font><br />
+            <br />
+            If you already answered the following set of questions questions in a previous HIT, check this box and you can skip questions 2 to 3.<br />
+            Otherwise you must answer all the questions below:
+            </td>
+            <td width="20"><input type="checkbox" onchange="displaySubmitButton()" name="RepeatedWorker" value="Repeated" id="repeatedWorker" onclick="skipBackgroundChecks()" /></td>
+        </tr>
+        <tr>
+            <td width="400"><font color="#307bba">2. What languages can you speak?</font></td>
+            <td width="500"><input type="text" onchange="displaySubmitButton()" name="Q1LanguagesSpoken" id="languageQ1" size="50" maxlength="80" /></td><td />
+        </tr>
+        <tr>
+            <td><font color="#307bba">3. What language did you mainly speak in primary school?</font>
+            </td>
+            <td colspan="2">
+            <p><input type="text" onchange="displaySubmitButton()" name="Q2PimarySchoolLanguage" id="languageQ2" size="50" maxlength="80" /></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+
+
+
+<p>&nbsp;</p>
+<h3>Please rate the following phrases using the sliding bars:</h3>
+<h3><span style="color: rgb(51, 51, 51);"> The change in color of the slide bar indicates that your answer has been recorded.</span></h3>
+
+
+<p>&nbsp;</p>
+<table width="850" cellspacing="0" cellpadding="0" border="0" align="center">
+    <tbody>
+        <tr>
+            <td>&nbsp;</td>
+            <td colspan="7">
+            <p><font style="background-color:#DDDDDD">&nbsp;${phrase0}</font></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="150">
+            <h4>How polite is this?</h4>
+            </td>
+            <td align="center" colspan="7">
+            <div id="slider0">&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td width="100" valign="top" align="center">|<br />
+            Very impolite</td>
+            <td width="100" valign="top" align="center">|<br />
+            Impolite</td>
+            <td width="100" valign="top" align="center">|<br />
+            Somewhat impolite</td>
+            <td width="100" valign="top" align="center">|<br />
+            Neutral</td>
+            <td width="100" valign="top" align="center">|<br />
+            Somewhat polite</td>
+            <td width="100" valign="top" align="center">|<br />
+            Polite</td>
+            <td width="100" valign="top" align="center">|<br />
+            Very polite</td>
+        </tr>
+        <tr>
+            <td width="150"><br />
+            <h4>Do you feel pressured?</h4>
+            </td>
+            <td align="center" colspan="7"><br />
+            <div id="slider0b">&nbsp;</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="150">&nbsp;</td>
+            <td width="100" valign="top" align="center">|<br />
+            I feel pressured to act</td>
+            <td valign="top" align="center" colspan="5">|<br />
+            I feel somewhat pressured to act</td>
+            <td width="100" valign="top" align="center">|<br />
+            I feel it's up to me</td>
+        </tr>
+
+    </tbody>
+</table>
+<p><br />
+
+<p>&nbsp;</p>
+<input type="checkbox" onclick="displaySubmitButton()" onclick="displaySubmitButton()" /> Check here after completing the task.<br />
+<span id="submitButtonExplain">
+<li>The submit button will appear once you have answered all the questions.</li>
+<!-- <li>For the phrases you want to rate as neutral, you still have to explicitly click on the slider bar.</li> -->
+<li>Please re-read the instruction for clarification.</li>
+</span>
+
+
+<!--- functions ---> <script type="text/javascript"> 
+function skipBackgroundChecks()
+{
+  if ( document.getElementById("repeatedWorker").checked )
+  {
+      document.getElementById("languageQ1").style.background="#CCCCCC";
+      document.getElementById("languageQ2").style.background="#CCCCCC";
+      document.getElementById("languageQ1").disabled=true;
+      document.getElementById("languageQ2").disabled=true;
+  }
+  else
+  {
+      document.getElementById("languageQ1").disabled=false;
+      document.getElementById("languageQ2").disabled=false;
+      document.getElementById("languageQ1").style.background="#FFFFFF";
+      document.getElementById("languageQ2").style.background="#FFFFFF";
+  }
+}
+// function: backgroundValidated()
+function backgroundValidated()
+{
+  return ( document.getElementById("languageQ1").value.trim() != ""
+           && document.getElementById("languageQ2").value.trim() != ""
+//            && genderChecked()
+         )
+         || document.getElementById("repeatedWorker").checked; 
+}
+// function: genderChecked()
+function genderChecked()
+{
+  return (document.getElementById("genderQ3F").checked ||
+      document.getElementById("genderQ3M").checked ||
+      document.getElementById("genderQ3N").checked);
+}
+
+// function: displaySubmitButton
+function displaySubmitButton()
+{
+  if ( backgroundValidated() &&
+       warmupChecked() && 
+    document.getElementById("slider0").style.background != "" &&
+    document.getElementById("slider0b").style.background != ""
+    )
+  {
+    document.getElementById("submitButtonExplain").innerHTML="";
+    document.getElementById('submitButton').style.visibility="visible";
+  }
+  else
+  {
+    document.getElementById('submitButton').style.visibility="hidden";
+  }
+}
+</script> 
+
+<!--- All those hidden input variables are here --->
+<p>
+<input type="hidden" value="${phraseID0}" name="phraseID0" />
+<input type="hidden" name="hSlider0" id="hiddenSliderValue0" />
+<input type="hidden" id="hiddenSliderValue0b" name="hSlider0b" />
+<input type="hidden" name="hSlider0c" id="hiddenSliderValue0c" />
+</p>
+
+<!--- script for sliders A ---> <script>
+ $("#slider0").slider({
+               animate: true,
+               max: 25 , min: 1, step: 1, value: 13,
+               slide: function( event, ui ) {
+                   $("#slider0 .ui-slider-handle").css({
+                      "background":"#E0F5FF",
+                      "border-color": "#001F29"
+                   });
+               },
+               change: function( event, ui ) {
+                   $('#hiddenSliderValue0').attr('value', ui.value);
+                   $("#slider0").css({"background":"#99D6EB"});
+                   $("#slider0 .ui-slider-handle").css({
+                     "background":"#667D94",
+                     "border-color": "#001F29" });
+                   displaySubmitButton();
+               }});
+</script>
+<!--- script for sliders B ---> <script>
+ $("#slider0b").slider({
+               animate: true,
+               max: 9 , min: 1, step: 1, value: 5,
+               slide: function( event, ui ) {
+                   $("#slider0b .ui-slider-handle").css({
+                      "background":"#E0F5FF",
+                      "border-color": "#001F29"
+                   });
+               },
+               change: function( event, ui ) {
+                   $('#hiddenSliderValue0b').attr('value', ui.value);
+                   $("#slider0b").css({"background":"#99D6EB"});
+                   $("#slider0b .ui-slider-handle").css({
+                     "background":"#667D94",
+                     "border-color": "#001F29" });
+                   displaySubmitButton();
+               }});
+</script>
