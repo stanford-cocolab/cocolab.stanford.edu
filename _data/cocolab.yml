@@ -18,18 +18,6 @@
 
 - role: Graduate Students
   people:
-    - name: Michael Henry Tessler
-      img: henry.jpg
-      webpage: //web.stanford.edu/~mtessler
-      bio:
-        - >
-          There are these things called ideas and some seem clear. And yet
-          communication with natural language &mdash; our primary mode of
-          conveying these ideas &mdash; is anything but!
-        - >
-          I'm interested in this interplay between natural and formal language,
-          between the fuzzy and the sharp. I use computational models and
-          behavioral experiments to explore how logic and language interact.
     - name: Robert X.D. Hawkins
       img: robert.jpg
       webpage: //rxdhawkins.wordpress.com/
@@ -47,20 +35,16 @@
         - >
           I'm interested in discourse relations, sentence meaning representation,
           and causal reasoning.
-    - name: Katherine Hermann
-      img: katherine.jpg
-      bio:
-        - >
-          I'm interested in problems at the intersection of language and
-          vision. I develop probabilistic and neural network models with the
-          joint objective of explaining human behavioral data and building AI
-          with more human-like representations and capacities.
     - name: Ben Peloquin
       img: 
       bio:
 
 - role: Alumni
   people:
+    - name: Michael Henry Tessler
+      was: a graduate student in Psychology
+      now: a post-doc at MIT
+      webpage: //web.stanford.edu/~mtessler
     - name: Desmond Ong
       was: a graduate student in Psychology
       now: Research Scientist at Institute of High Performance Computing, Singapore
