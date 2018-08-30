@@ -39,6 +39,16 @@
       img: ben.jpg
       webpage: //benpeloquin7.github.io/
       bio:
+        - >
+	  What is the impact of language on cognition? What is the impact of
+	  cognition on language? While the first question is concerned with
+	  *representation* -- how the information encoded in language influences
+	  the way we understand and perceive the world, the second is concerned
+	  with *design* -- how distributional properties found in natural
+	  languages emerge from local interactions between speakers and
+	  listeners. I take a computational approach to these questions using
+	  tools from Bayesian cognitive modeling, agent-based simulation and
+	  machine learning.
 
     - name: Mike Wu
       img: 
