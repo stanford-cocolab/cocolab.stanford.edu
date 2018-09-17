@@ -18,18 +18,6 @@
 
 - role: Graduate Students
   people:
-    - name: Michael Henry Tessler
-      img: henry.jpg
-      webpage: //web.stanford.edu/~mtessler
-      bio:
-        - >
-          There are these things called ideas and some seem clear. And yet
-          communication with natural language &mdash; our primary mode of
-          conveying these ideas &mdash; is anything but!
-        - >
-          I'm interested in this interplay between natural and formal language,
-          between the fuzzy and the sharp. I use computational models and
-          behavioral experiments to explore how logic and language interact.
     - name: Robert X.D. Hawkins
       img: robert.jpg
       webpage: //rxdhawkins.wordpress.com/
@@ -47,20 +35,35 @@
         - >
           I'm interested in discourse relations, sentence meaning representation,
           and causal reasoning.
-    - name: Katherine Hermann
-      img: katherine.jpg
+    - name: Ben Peloquin
+      img: ben.jpg
+      webpage: //benpeloquin7.github.io/
       bio:
         - >
-          I'm interested in problems at the intersection of language and
-          vision. I develop probabilistic and neural network models with the
-          joint objective of explaining human behavioral data and building AI
-          with more human-like representations and capacities.
-    - name: Ben Peloquin
-      img: 
-      bio:
+          What is the impact of language on cognition? What is the impact of
+          cognition on language? While the first question is concerned with
+          *representation* -- how the information encoded in language influences
+          the way we understand and perceive the world, the second is concerned
+          with *design* -- how distributional properties found in natural
+          languages emerge from local interactions between speakers and
+          listeners. I take a computational approach to these questions using
+          tools from Bayesian cognitive modeling, agent-based simulation and
+          machine learning.
 
+    - name: Mike Wu
+      img: mikewu.png
+      webpage: //mikehwu.com/
+      bio:
+        - > 
+          My current research interests are in bayesian deep learning,
+          sampling methods, and inference in generative models.
+ 
 - role: Alumni
   people:
+    - name: Michael Henry Tessler
+      was: a graduate student in Psychology
+      now: a post-doc at MIT
+      webpage: //web.stanford.edu/~mtessler
     - name: Desmond Ong
       was: a graduate student in Psychology
       now: Research Scientist at Institute of High Performance Computing, Singapore
