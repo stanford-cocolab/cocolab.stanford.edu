@@ -189,6 +189,14 @@ A javascript-based probabilistic programming language.
 
 ## Invited Presentations
 
+* KogWis (Germany Cognitive Science Society Biannual Conference), Darmstadt, Germany, September 2018.
+
+* "Program Induction" workshop, CogSci, Madison, WI, July 2018.
+
+* A-Star, Singapore, June 2018.
+
+* Dubrovnik Cognitive Science Conference, Dubrovnik, Croatia, May 2018.
+
 * Cognitive Science Colloquium, Johns Hopkins University, Baltimore, MD, March 2018.
 
 * "Emergent Language" workshop, NIPS, Long Beach, CA, November 2017.
