@@ -307,7 +307,7 @@ Catch up. Project presentations!
 Some students, especially graduate students may prefer to get in-depth experience applying the techniques we've discussed in class to a research question.
 To facilitate this, we will allow selected students to do a project instead of homework for the second half of the course.
 We encouraged (but don't require) projects to be done in small groups of two or three people.
-Project proposals will be evaluated for plausibility and scientific value, and about six projects will be selected to go ahead.
+Project proposals will be evaluated for plausibility and scientific value; about six projects will be selected to proceed.
 
 <!--
 In choosing a project, you should draw on your own
