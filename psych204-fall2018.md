@@ -20,6 +20,7 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 * Meeting place: 380-380X
 
 * Office hours: TBA
+
 <!--
   * w/ NG: W, 2-3:30pm, Room 356 *Jordan Hall*, Building 420
   * w/ EB: M, 2-3pm, Room 316 *Jordan Hall*, Building 420
@@ -189,6 +190,7 @@ Readings:
 ## Week of November 13
 
 Mixture models. Unbounded mixture models.
+
 <!-- TODO: More stuff here?-->
 
 Readings:
@@ -346,6 +348,7 @@ project should be clearly stated. You should briefly describe the
 design, your modeling approach, your data analysis, and so on).
 
 Upload your proposal to Canvas as a PDF file by midnight on TBA.
+
 <!--10/20/2016.-->
 
 <!--
