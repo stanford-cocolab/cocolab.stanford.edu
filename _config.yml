@@ -1,5 +1,6 @@
 # Site settings
 title: Stanford CoCoLab
+encoding: utf8
 email: erindb@stanford.edu
 description: >
   Stanford Computation and Cognition Lab
