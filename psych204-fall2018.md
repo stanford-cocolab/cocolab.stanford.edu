@@ -92,7 +92,6 @@ Readings:
 
 
 ##Week of October 2
-<!--NDG away on oct 4... -->
 
 Conditioning and inference. Causal vs. statistical dependency. Patterns of inference.
 
@@ -102,7 +101,7 @@ Readings:
 
 * [Conditioning](http://probmods.org/chapters/conditioning.html)
 * [Causal and statistical dependence](http://probmods.org/chapters/dependence.html)
-* [Conditional dependence](http://probmods.org/chapters/conditional-depenence.html)
+* [Conditional dependence](http://probmods.org/chapters/conditional-dependence.html)
 * [Optimal predictions in everyday cognition.](http://cocosci.berkeley.edu/tom/papers/predictions.pdf) Griffiths and Tenenbaum (2006).
 * Optional: [Causal Reasoning Through Intervention.](http://www.ucl.ac.uk/lagnado-lab/publications/lagnado/intervention%20hagmayer%20et%20al.pdf) Hagmayer, Sloman, Lagnado, and Waldmann (2006).
 * Optional: [Children's causal inferences from indirect evidence: Backwards blocking and Bayesian reasoning in preschoolers.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Sobel2004.pdf) Sobel, Tenenbaum, Gopnik (2004).
@@ -167,6 +166,7 @@ Readings:
 Learning continuous functions. Deep probabilistic models.
 
 Readings:
+
 * [Learning (deep) continuous functions](https://probmods.org/chapters/function-learning.html)
 
 <!--TODO: recent deep generative models papers? -->
