@@ -116,8 +116,9 @@ Here's a possible `.git/hooks/post-merge` script.
 #!/bin/sh
 
 export COCOHOME=/afs/ir.stanford.edu/group/cocolab
-export PATH=$PATH:${COCOHOME}/.gem/bin
+export PATH=${COCOHOME}/.gem/bin:$PATH
 export GEM_HOME=${COCOHOME}/.gem
+export GEM_PATH=$GEM_PATH:$GEM_HOME
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 cd /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu/

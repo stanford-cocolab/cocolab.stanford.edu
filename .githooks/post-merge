@@ -1,0 +1,18 @@
+#!/bin/sh
+
+export COCOHOME=/afs/ir.stanford.edu/group/cocolab
+export PATH=${COCOHOME}/.gem/bin:$PATH
+export GEM_HOME=${COCOHOME}/.gem
+export GEM_PATH=$GEM_PATH:$GEM_HOME
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+cd /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu/
+
+jekyll build
+
+rsync -r -a -v /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu/_site/* /afs/ir.stanford.edu/group/cocolab/WWW/
+
+cd ../WWW
+cp psych204-fall2018.html psych204.html
+cd ../cocolab.stanford.edu/
+

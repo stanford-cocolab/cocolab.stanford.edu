@@ -19,7 +19,10 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 
 * Meeting place: 380-380X
 
-* Office hours: TBA
+* Office hours:
+    * Robert: 3 to 4pm Thursday (after class)
+    * Ben: 3 to 4pm Tuesday (after class)
+    * Noah: TBA
 
 <!--
   * w/ NG: W, 2-3:30pm, Room 356 *Jordan Hall*, Building 420
@@ -125,6 +128,7 @@ Readings:
 * Optional: [Chapter 1 of  "Vision."](http://ling.umd.edu/~idsardi/728/Marr/Marr%20%27Vision%27%20Ch%201.pdf) Marr (1982).
 * Optional: [Ten Years of Rational Analysis.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/chater99ten.pdf) Chater, Oaksford (1999).
 * Optional: [The Knowledge Level.](https://web.stanford.edu/~ngoodman/psych204/restrictedpapers/Newell1982.pdf) Newell (1982).
+* Optional: [What Do We Actually Know About the Economy? (Wonkish)](https://www.nytimes.com/2018/09/16/opinion/what-do-we-actually-know-about-the-economy-wonkish.html) Paul Krugman, New York Times (2018).
 
 ## Week of October 16
 
