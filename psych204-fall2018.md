@@ -22,7 +22,7 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 * Office hours:
     * Robert: 3 to 4pm Thursday (after class)
     * Ben: 3 to 4pm Tuesday (after class)
-    * Noah: TBA
+    * Noah: 10 to 11a Tuesday (in 356-420)
 
 <!--
   * w/ NG: W, 2-3:30pm, Room 356 *Jordan Hall*, Building 420
