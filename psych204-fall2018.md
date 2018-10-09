@@ -20,9 +20,9 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 * Meeting place: 380-380X
 
 * Office hours:
-    * Robert: 3 to 4pm Thursday (in 380-381T)
-    * Ben: 3 to 4pm Tuesday (after class)
-    * Noah: 10 to 11a Tuesday (in 356-420)
+    * Robert: 3 to 4pm Thursday (in building 380, room 381T)
+    * Ben: 3 to 4pm Tuesday (in building 420, room 386)
+    * Noah: 10 to 11a Tuesday (in building 420, room 356)
 
 <!--
   * w/ NG: W, 2-3:30pm, Room 356 *Jordan Hall*, Building 420
