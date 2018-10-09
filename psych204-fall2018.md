@@ -20,7 +20,7 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 * Meeting place: 380-380X
 
 * Office hours:
-    * Robert: 3 to 4pm Thursday (after class)
+    * Robert: 3 to 4pm Thursday (in 380-381T)
     * Ben: 3 to 4pm Tuesday (after class)
     * Noah: 10 to 11a Tuesday (in 356-420)
 
