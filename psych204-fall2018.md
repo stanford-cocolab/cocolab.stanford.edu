@@ -164,32 +164,34 @@ Readings:
 
 ## Week of October 30
 
-Learning compositional hypotheses. The langauge of thought. Learning continuous functions. Deep probabilistic models.
+Learning compositional hypotheses. The langauge of thought. Hierarchical models. 
 
 Readings:
 
 * [Learning in a langauge of thought](https://probmods.org/chapters/lot-learning.html)
-* [Learning (deep) continuous functions](https://probmods.org/chapters/function-learning.html)
+* [Hierarchical Models](https://probmods.org/chapters/hierarchical-models.html)
 * [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
 * Optional: [Learning Structured Generative Concepts](https://mindmodeling.org/cogsci2010/papers/0533/paper0533.pdf). Stuhlmueller, Tenenbaum, and Goodman (2010).
-
-<!--TODO: recent deep generative models papers? -->
-
-
-## Week of November 6
-
-Hierarchical models. Occam's razor.
-
-Readings:
-
-* [Hierarchical Models](https://probmods.org/chapters/hierarchical-models.html)
-* [Occam's Razor](https://probmods.org/chapters/occams-razor.html)
-* [Structure and strength in causal induction](http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf). Griffiths and Tenenbaum (2005).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/bayes.pdf">Bayesian modeling of human concept learning.</a> Tenenbaum (1999).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/cogsci00_FINAL.pdf">Word learning as Bayesian inference.</a> Tenenbaum and Xu (2000).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/f881-XuTenenbaum.pdf"> Word learning as Bayesian inference: Evidence from preschoolers.</a> Xu and Tenenbaum (2005).
 * Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/KempPT06.pdf">Learning overhypotheses.</a> Kemp, Perfors, and Tenenbaum (2006).
 * Optional: [Object name learning provides on-the-job training for attention](http://www.iub.edu/~cogdev/labwork/ObjectNameLearning.pdf). Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
+
+
+## Week of November 6
+
+Occam's razor. Learning continuous functions. Deep probabilistic models.
+
+Readings:
+
+* [Occam's Razor](https://probmods.org/chapters/occams-razor.html)
+* [Learning (deep) continuous functions](https://probmods.org/chapters/function-learning.html)
+* [Structure and strength in causal induction](http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf). Griffiths and Tenenbaum (2005).
+
+
+<!--TODO: recent deep generative models papers? -->
+
 
 ## Week of November 13
 
