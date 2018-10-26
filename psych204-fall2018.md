@@ -132,64 +132,66 @@ Readings:
 
 ## Week of October 16
 
-Inference algorithms. Process models.
+Inference algorithms. 
 
-Project proposals due on Friday!
+Project proposals due on Sunday!
 
 Readings:
 
 * [Algorithms for Inference](http://probmods.org/chapters/inference-algorithms.html)
-* [Rational process models](http://probmods.org/chapters/process-models.html)
 * [PPAML Summer School 2016: Approximate Inference Algorithms.](http://probmods.github.io/ppaml2016/chapters/4-algorithms.html)
+* Optional: [The Design and Implementation of Probabilistic Programming Languages.](http://dippl.org/)
+
+## Week of October 23
+
+Process models. Learning as inference. 
+
+Readings:
+
+* [Rational process models](http://probmods.org/chapters/process-models.html)
+* [Learning as Conditional Inference](https://probmods.org/chapters/learning-as-conditional-inference.html)
 * [Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic.](https://cocolab.stanford.edu/papers/GriffithsEtAl2015-TiCS.pdf) Griffiths, Lieder, Goodman (2015).
 * [One and Done? Optimal Decisions From Very Few Samples.](https://web.stanford.edu/~ngoodman/papers/VulGoodmanGriffithsTenenbaum-COGS-2014.pdf) Vul, Goodman, Griffiths, Tenenbaum (2014).
-* Optional: [The Design and Implementation of Probabilistic Programming Languages.](http://dippl.org/)
+* Optional: <a href="http://web.mit.edu/cocosci/Papers/nips99preprint.pdf">Rules and similarity in concept learning.</a> Tenenbaum (2000).
 * Optional: [Burn-in, bias, and the rationality of anchoring.](http://www.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf) Lieder, Griffiths, and Goodman (2012).
 * Optional: [Perceptual multistability as Markov chain Monte Carlo inference](http://papers.nips.cc/paper/3711-perceptual-multistability-as-markov-chain-monte-carlo-inference.pdf). Gershman, Vul, Tenenbaum (2009).
 * Optional: [A more rational model of categorization](http://health.adelaide.edu.au/psychology/ccs/docs/pubs/2006/SanbornGriffithsNavarro2006.pdf). Sanborn, Griffiths,  Navarro (2006).
 * Optional: [Theory acquisition as stochastic search](http://stanford.edu/~ngoodman/papers/tlss_2010_final.pdf) Ullman, Goodman, and Tenenbaum (2010).
 * Optional: [Exemplar models as a mechanism for performing Bayesian inference](http://cocosci.berkeley.edu/tom/papers/mechanism.pdf). Shi, Griffiths, Feldman, Sanborn (2010).
 
-## Week of October 23
-
-Learning as inference. Learning compositional hypotheses. The langauge of thought.
-
-Readings:
-
-* [Learning as Conditional Inference](https://probmods.org/chapters/learning-as-conditional-inference.html)
-* [Learning in a langauge of thought](https://probmods.org/chapters/lot-learning.html)
-* [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
-* Optional: <a href="http://web.mit.edu/cocosci/Papers/nips99preprint.pdf">Rules and similarity in concept learning.</a> Tenenbaum (2000).
-* Optional: [Learning Structured Generative Concepts](https://mindmodeling.org/cogsci2010/papers/0533/paper0533.pdf). Stuhlmueller, Tenenbaum, and Goodman (2010).
-
 <!--TODO: add some more recent papers on learning...-->
 
 
 ## Week of October 30
 
-Learning continuous functions. Deep probabilistic models.
+Learning compositional hypotheses. The langauge of thought. Hierarchical models. 
 
 Readings:
 
-* [Learning (deep) continuous functions](https://probmods.org/chapters/function-learning.html)
-
-<!--TODO: recent deep generative models papers? -->
-
-
-## Week of November 6
-
-Hierarchical models. Occam's razor.
-
-Readings:
-
+* [Learning in a langauge of thought](https://probmods.org/chapters/lot-learning.html)
 * [Hierarchical Models](https://probmods.org/chapters/hierarchical-models.html)
-* [Occam's Razor](https://probmods.org/chapters/occams-razor.html)
-* [Structure and strength in causal induction](http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf). Griffiths and Tenenbaum (2005).
+* [A rational analysis of rule-based concept learning.](http://stanford.edu/~ngoodman/papers/RRfinal3.pdf) Goodman, Tenenbaum, Feldman, and Griffiths (2008).
+* Optional: [Learning Structured Generative Concepts](https://mindmodeling.org/cogsci2010/papers/0533/paper0533.pdf). Stuhlmueller, Tenenbaum, and Goodman (2010).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/bayes.pdf">Bayesian modeling of human concept learning.</a> Tenenbaum (1999).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/cogsci00_FINAL.pdf">Word learning as Bayesian inference.</a> Tenenbaum and Xu (2000).
 * Optional: <a href="http://web.mit.edu/cocosci/Papers/f881-XuTenenbaum.pdf"> Word learning as Bayesian inference: Evidence from preschoolers.</a> Xu and Tenenbaum (2005).
 * Optional: <a href="http://www.psy.cmu.edu/~ckemp/papers/KempPT06.pdf">Learning overhypotheses.</a> Kemp, Perfors, and Tenenbaum (2006).
 * Optional: [Object name learning provides on-the-job training for attention](http://www.iub.edu/~cogdev/labwork/ObjectNameLearning.pdf). Smith, Jones, Landau, Gershko-Stowe, and Samuelson (2002).
+
+
+## Week of November 6
+
+Occam's razor. Learning continuous functions. Deep probabilistic models.
+
+Readings:
+
+* [Occam's Razor](https://probmods.org/chapters/occams-razor.html)
+* [Learning (deep) continuous functions](https://probmods.org/chapters/function-learning.html)
+* [Structure and strength in causal induction](http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf). Griffiths and Tenenbaum (2005).
+
+
+<!--TODO: recent deep generative models papers? -->
+
 
 ## Week of November 13
 
