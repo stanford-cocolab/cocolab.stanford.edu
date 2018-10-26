@@ -20,9 +20,9 @@ Examples will be drawn from areas including concept learning, causal reasoning, 
 * Meeting place: 380-380X
 
 * Office hours:
-    * Robert: 3 to 4pm Thursday (in building 380, room 381T) + project meetings 4-5pm (book [here](rxdh.youcanbook.me))
-    * Ben: 3 to 4pm Tuesday (in building 420, room 386) + project meetings 4-5pm (book [here](https://bpeloqui.youcanbook.me))
-    * Noah: 10 to 11a Tuesday (in building 420, room 356)
+    * Robert: 3-4pm Thursday (in building 380, room 381T) + project slots 4-5pm (book [here](https://rxdh.youcanbook.me))
+    * Ben: 3-4pm Tuesday (in building 420, room 386) + project slots 4-5pm (book [here](https://bpeloqui.youcanbook.me))
+    * Noah: 10-11am Tuesday (in building 420, room 356)
 
 <!--
   * w/ NG: W, 2-3:30pm, Room 356 *Jordan Hall*, Building 420
