@@ -181,29 +181,27 @@ Readings:
 
 ## Week of November 6
 
-Occam's razor. Learning continuous functions. Deep probabilistic models.
+Occam's razor. Mixture models. Unbounded mixture models.
 
 Readings:
 
 * [Occam's Razor](https://probmods.org/chapters/occams-razor.html)
-* [Learning (deep) continuous functions](https://probmods.org/chapters/function-learning.html)
+* [Mixture Models](https://probmods.org/chapters/mixture-models.html)
+* Optional: [Non-parametric models](https://probmods.org/chapters/non-parametric-models.html)
 * [Structure and strength in causal induction](http://web.mit.edu/cocosci/Papers/structure-strength-reprint.pdf). Griffiths and Tenenbaum (2005).
-
-
-<!--TODO: recent deep generative models papers? -->
-
 
 ## Week of November 13
 
-Mixture models. Unbounded mixture models.
-
-<!-- TODO: More stuff here?-->
+Learning continuous functions. Deep probabilistic models.
 
 Readings:
 
-* [Mixture Models](https://probmods.org/chapters/mixture-models.html)
-* Optional: [Non-parametric models](https://probmods.org/chapters/non-parametric-models.html)
+* [Learning (deep) continuous functions](https://probmods.org/chapters/function-learning.html)
 * Optional: [Derivation of f-GAN objective](https://arxiv.org/abs/1606.00709)
+* Optional: [Tutorial on Variational Auto-Encoders](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+
+<!--TODO: recent deep generative models papers? -->
+
 
 ## Week of November 20
 
