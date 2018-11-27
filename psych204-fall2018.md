@@ -203,6 +203,7 @@ Readings:
 
 * [Mixture Models](https://probmods.org/chapters/mixture-models.html)
 * Optional: [Non-parametric models](https://probmods.org/chapters/non-parametric-models.html)
+* Optional: [Derivation of f-GAN objective](https://arxiv.org/abs/1606.00709)
 
 ## Week of November 20
 
@@ -213,7 +214,7 @@ Social cognition. Natural language pragmatics and semantics.
 
 Readings:
 
-* TBA
+* [Social cognition](http://probmods.org/chapters/social-cognition.html) 
 
 <!--
 * [Modeling Agents with Probabilistic Programs](http://agentmodels.org/) sections III and IV.
