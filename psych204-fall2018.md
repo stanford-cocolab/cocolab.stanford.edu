@@ -197,7 +197,8 @@ Learning continuous functions. Deep probabilistic models.
 Readings:
 
 * [Learning (deep) continuous functions](https://probmods.org/chapters/function-learning.html)
-* TBA
+* Optional: [Derivation of f-GAN objective](https://arxiv.org/abs/1606.00709)
+* Optional: [Tutorial on Variational Auto-Encoders](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
 <!--TODO: recent deep generative models papers? -->
 
@@ -211,7 +212,7 @@ Social cognition. Natural language pragmatics and semantics.
 
 Readings:
 
-* TBA
+* [Social cognition](http://probmods.org/chapters/social-cognition.html) 
 
 <!--
 * [Modeling Agents with Probabilistic Programs](http://agentmodels.org/) sections III and IV.
