@@ -2,10 +2,12 @@
 %% http://bibdesk.sourceforge.net/
 
 
-%% Created for Noah Goodman at 2018-07-25 15:05:01 -0500 
+%% Created for Noah Goodman at 2018-11-16 13:34:49 -0800 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
+
+
 
 @techreport{HawkinsGoodman18_QA,
 	Abstract = {What makes a question useful? What makes an answer helpful? Asking questions is one of our most efficient and reliable means of learning about the world. Yet we do not often pose these questions to an impartial oracle; we ask other agents, in dialogue. In this paper, we reconcile formal models of optimal question-asking with classic psycholinguistic effects of social context by extending recent probabilistic cognitive models of goal-relevant communication to dialogue. Agents hear an utterance, update their beliefs through social reasoning, and select an utterance in response. The utility of producing a question in this framework is the expected reduction in uncertainty about the aspects of the world relevant to the speaker's goal upon hearing an answer from their partner. Critically, this suggests that the question itself can be a signal to the speaker's underlying goals, and that a helpful answerer should be informative with respect to inferred goals, beyond the literal meaning of the question. We compare models of both the questioner and answerer within this framework based on three pieces of evidence: First, we account for classic effects in psycholinguistics showing that the same question can yield different answers depending on the context. Second, we run a real-time, multi-player communication game to jointly test predictions made by the questioner and answerer components of our model. Third, we show that the salience of goals affects both asking and answering questions. We find that sophisticated pragmatic reasoning in dialogue is needed to account for critical aspects of the data.},
@@ -51,7 +53,6 @@
 	Title = {Speakers account for asymmetries in visual perspective so listeners don't have to},
 	Website = {https://arxiv.org/abs/1807.09000},
 	Year = {Manuscript}}
-
 
 @article{Wu2018,
 	Annote = {(Manuscript)},
@@ -112,12 +113,12 @@ crowdsourcing.},
 
 @article{OngEtAl18_Topics,
 	Abstract = {Research on social cognition has fruitfully applied computational modeling approaches to explain how observers understand and reason about others' mental states. By contrast, there has been less work on modeling observers' understanding of emotional states. We propose an intuitive theory framework to studying affective cognition---how humans reason about emotions---and derive a taxonomy of inferences within affective cognition. Using this taxonomy, we review formal computational modeling work on such inferences, including: causal reasoning about how others react to events, reasoning about unseen causes of emotions, reasoning with multiple cues, as well as reasoning from emotions to other mental states. Additionally, we provide a roadmap for future research by charting out inferences---such as hypothetical and counterfactual reasoning about emotions---that are ripe for future computational modeling work. This framework proposes unifying these various types of reasoning as Bayesian inference within a common ``intuitive Theory of Emotion''. Finally, we end with a discussion of important theoretical and methodological challenges that lie ahead in modeling affective cognition.},
-	Annote = {To appear},
 	Author = {Ong, Desmond C. and Zaki, Jamil and Goodman, Noah D.},
+	Date-Modified = {2018-11-16 19:25:56 +0000},
 	Journal = {Topics in Cognitive Science},
 	Title = {Computational models of emotion inference in Theory of Mind: A review and roadmap},
 	Website = {papers/OngEtAl18_Topics.pdf},
-	Year = {To appear}}
+	Year = {2018}}
 
 @article{DasguptaEtAl18_Cognition,
 	Abstract = {Bayesian models of cognition assume that people compute probability distributions over hypotheses. However, the required computations are frequently intractable or prohibitively expensive. Since people often encounter many closely related distributions, selective reuse of computations (amortized inference) is a computationally efficient use of the brain's limited resources. We present three experiments that provide evidence for amortization in human probabilistic reasoning. When sequentially answering two related queries about natural scenes, participants' responses to the second query systematically depend on the structure of the first query. This influence is sensitive to the content of the queries, only appearing when the queries are related. Using a cognitive load manipulation, we find evidence that people amortize summary statistics of previous inferences, rather than storing the entire distribution. These findings support the view that the brain trades off accuracy and computational cost, to make efficient use of its limited cognitive resources to approximate probabilistic inference. },
@@ -219,13 +220,12 @@ and quantitative evaluation of its discriminative ability on a variety of models
 
 @article{BallardEtAl-Cortex,
 	Author = {Ian Ballard and Eric Miller and Steven Piantadosi and Noah Goodman and Samuel McClure},
-	Annote = {To appear},	
 	Date-Added = {2017-06-27 17:59:10 +0000},
-	Date-Modified = {2017-11-21 17:31:29 +0000},
+	Date-Modified = {2018-11-16 19:22:26 +0000},
 	Journal = {Cerebral Cortex},
 	Title = {Beyond Reward Prediction Errors: Human Striatum Updates Rule Values During Learning},
 	Website = {http://www.biorxiv.org/content/biorxiv/early/2017/03/09/115253.full.pdf},
-	Year = {To appear}}
+	Year = {2017}}
 
 @article{Hawthorne2017_SocialLearning,
 	Abstract = {Learning what others know, especially experts, is a crucial shortcut to understanding the world. Other people's actions and utterances are thus a powerful source of evidence. However, people do not simply copy others' choices or stated beliefs; rather, they infer what others believe and integrate these beliefs with their own. In this paper, we present a computational account of the inference and integration process that underpins learning from a combination of social and direct evidence. This account formalizes the learner's intuitive understanding of psychology---or theory of mind (ToM)---including attributes such as confidence, reliability, and knowledgeability. It then shows how ToM is the lens used to interpret another person's choices, weighing them against the learner's own direct evidence. To test this account, we develop an experimental paradigm that allows for graded manipulation of social and direct evidence, and for quantitative measurement of the learner's resulting beliefs. Four experiments test the predictions of the model, manipulating knowledgeability, confidence, and reliability of the social source. Learners' behavior is consistent with our quantitative and qualitative model predictions across all 4 experiments, demonstrating subtle interactions between evidence and the attributes of those learned from.},
@@ -579,14 +579,14 @@ precisely how abstract knowledge is learned from language.},
 	Year = {2016}}
 
 @article{UllmanEtAl2018,
-	Volume = {104},
 	Abstract = {Humans acquire their most basic physical concepts early in development, and continue to enrich and expand their intuitive physics throughout life as they are exposed to more and varied dynamical environments. We introduce a hierarchical Bayesian framework to explain how people can learn physical parameters at multiple levels. In contrast to previous Bayesian models of theory acquisition (Tenenbaum, Kemp, Griffiths, & Goodman, 2011), we work with more expressive probabilistic program representations suitable for learning the forces and properties that govern how objects interact in dynamic scenes unfolding over time. We compare our model to human learners on a challenging task of estimating multiple physical parameters in novel microworlds given short movies. This task requires people to reason simultaneously about multiple interacting physical laws and properties. People are generally able to learn in this setting and are consistent in their judgments. Yet they also make systematic errors indicative of the approximations people might make in solving this computationally demanding problem with limited computational resources. We propose two approximations that complement the top-down Bayesian approach. One approximation model relies on a more bottom-up feature-based inference scheme. The second approximation combines the strengths of the bottom-up and top-down approaches, by taking the feature-based inference as its point of departure for a search in physical-parameter space.},
-	Pages = {57--82},
-	Website = {https://stuhlmueller.org/papers/physics-cogpsy2017.pdf},
 	Author = {Tomer Ullman and Andreas Stuhlm\"uller and Noah Goodman and Joshua Tenenbaum},
 	Date-Modified = {2018-07-24 21:06:28 +0000},
 	Journal = {Cognitive Psychology},
+	Pages = {57--82},
 	Title = {Learning Physical Parameters from Dynamic Scenes},
+	Volume = {104},
+	Website = {https://stuhlmueller.org/papers/physics-cogpsy2017.pdf},
 	Year = {2018}}
 
 @inproceedings{SumnerEtAl2015-Cogsci,

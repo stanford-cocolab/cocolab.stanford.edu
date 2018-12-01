@@ -82,6 +82,8 @@ Concepts and intuitive theories.
 
 ## Grants
 
+* *Homo SocioNeticus: Scaling the cognitive foundations of online social behavior*, 2018 - 2021 (Sub-award from Virginia Tech).
+
 * Alfred P. Sloan Research Fellow in Neuroscience, 2016 - 2019.
 
 * *Amortized Inference for Probabilistic Programs*, DARPA, Oct 2013 - Jul 2017.
@@ -157,6 +159,8 @@ Implementations of the Church probabilistic programming language.
 
 * [WebPPL](http://webppl.org).
 A javascript-based probabilistic programming language.
+
+* [Pyro](http://pyro.ai). A deep probabilistic programming language based on Python and PyTorch.
 
 ## Popular Press (selected articles)
 
@@ -479,7 +483,9 @@ A javascript-based probabilistic programming language.
 
 ### University Courses
 
-* "Computation and Cognition: the Probabilistic Approach" (Psych 204 / CS 428). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015, Autumn 2016, Autumn 2017.
+* "Computation and Cognition: the Probabilistic Approach" (Psych 204 / CS 428). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015, Autumn 2016, Autumn 2017, Autumn 2018.
+
+* "Seminar on the Science of Meditation" (Psych 295). Stanford. Spring 2018.
 
 * "Seminar in Semantics: Formal semantics and the psychology of reasoning" (LINGUIST 236/PSYCH 236). Stanford. Spring 2017.
 
@@ -534,7 +540,7 @@ A javascript-based probabilistic programming language.
 
 * Robert X. D. Hawkins (Stanford, Psychology)
 
-* Michael Henry Tessler (Stanford, Psychology)
+* Michael Henry Tessler (Stanford, Psychology), completed 2018
 
 * Desmond Ong (Stanford, Psychology), completed 2017
 
@@ -551,9 +557,13 @@ A javascript-based probabilistic programming language.
 
 ### Ph.D. Committees
 
+* Natalia Velez (Stanford, Psychology)
+
 * Andrew Lampinen (Stanford, Psychology)
 
 * Erica Yoon (Stanford, Psychology)
+
+* Ziang Xie (Stanford, CS), completed 2018
 
 * Justin Johnson (Stanford, CS), completed 2018
 
@@ -601,14 +611,19 @@ A javascript-based probabilistic programming language.
 <!--
 Quals and such:
 Aditya Grover, CS quals commitee
-Natalia Velez, Psych CADA committee
-Ziang Xie, CS orals committee
-
 -->
 
 ## University Committees
 
-* Psychology Department, Graduate Admissions Committee, 2016-17, 2017-2018.
+* Human-centered AI Initiative Design Committee, 2018-19.
+
+* Psychology Department, Graduate Admissions Committee (*Chair*), 2018-19.
+
+* CS Department, Graduate Admissions Committee, 2018-19.
+
+* CS Department, Ad-Hoc Promotion Committee, 2018-19.
+
+* Psychology Department, Graduate Admissions Committee, 2016-17, 2017-18.
 
 * CS Department, MA Advising Committee, 2017-18.
 
