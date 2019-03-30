@@ -193,6 +193,18 @@ A javascript-based probabilistic programming language.
 
 ## Invited Presentations
 
+* ICLR, New Orleans, LA, May 2019.
+
+* Open Source Leadership Summit, Half Moon Bay, CA, March 2019.
+
+* College de France, Paris, France, February 2019.
+
+* "Robots Seminar", Oxford, UK, February 2019.
+
+* Deepmind, London, UK, February 2019.
+
+* Probabilistic Programming, Cambridge, MA, October 2018.
+
 * KogWis (Germany Cognitive Science Society Biannual Conference), Darmstadt, Germany, September 2018.
 
 * "Program Induction" workshop, CogSci, Madison, WI, July 2018.
@@ -483,7 +495,11 @@ A javascript-based probabilistic programming language.
 
 ### University Courses
 
+* "Langauge and Thought" (Psych 132). Stanford. Spring 2019.
+
 * "Computation and Cognition: the Probabilistic Approach" (Psych 204 / CS 428). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015, Autumn 2016, Autumn 2017, Autumn 2018.
+
+* "Topics in Natural and Artificial Intelligence". Stanford. Autumn 2018.
 
 * "Seminar on the Science of Meditation" (Psych 295). Stanford. Spring 2018.
 

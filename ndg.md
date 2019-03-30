@@ -30,11 +30,15 @@ Office: 356 Jordan Hall, Stanford.
 
 ## Teaching
 
+### Langauge and Thought (Psych 132)
+
+[Spring 2019 syllabus](https://docs.google.com/document/d/1FNk6-blLkWNYKntHvQ7s6x6CBTBtGLFowTvk00hMt7E/edit?usp=sharing)
+
 ### Computation and Cognition: the Probabilistic Approach (Psych 204 / CS 428)
 
-[Fall 2017 Course Website](psych204-fall2017.html)
+[Fall 2018 Course Website](psych204-fall2018.html)
 
-Previously taught: [Fall 2016](psych204-fall2016.html) [Spring 2015](psych204-spr2015.html), [Fall 2013](http://www.stanford.edu/~ngoodman/psych204/), Fall 2012, Winter 2012, Spring 2011.  
+Previously taught: [Fall 2017](psych204-fall2017.html), [Fall 2016](psych204-fall2016.html) [Spring 2015](psych204-spr2015.html), [Fall 2013](http://www.stanford.edu/~ngoodman/psych204/), Fall 2012, Winter 2012, Spring 2011.  
 
 ### Foundations of Cognition (Psych 205)
 
