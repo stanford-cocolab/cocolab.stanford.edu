@@ -50,6 +50,10 @@ Taught: Winter 2014, Winter 2013, Spring 2012.
 
 ### Seminars
 
+Fall 2018: Topics in Natural and Artificial Intelligence
+
+Spring 2018: Seminar on the Science of Meditation
+
 Spring 2014: [Probabilistic Models of Social Behavior and Affect](http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=PSYCH%20241:%20Probabilistic%20Models%20of%20Social%20Behavior%20and%20Affect&academicYear=20132014) (co-taught with Mike Frank and Jamil Zaki).
 
 Spring 2013: [Representations of Meaning](http://www.stanford.edu/class/linguist236/index.html) (co-taught with Chris Potts).
