@@ -12,11 +12,20 @@ github_username:  StanfordCoCoLab
 
 gems: ['jekyll/scholar']
 
+# Build settings
+markdown: kramdown
+
 max_year: 2019 #the most recent year with papers published
 # i should figure out how to automate that...
 
-# Build settings
-markdown: redcarpet
+exclude:
+  - "files"
+  - "wikiuploads"
+  - "ignore"
+
+keep_files:
+  - "files"
+  - "wikiuploads"
 
 # for BibTeX
 scholar:
@@ -41,10 +50,3 @@ scholar:
 
   query: "@*"
 
-exclude:
-  - "files"
-  - "wikiuploads"
-
-keep_files:
-  - "files"
-  - "wikiuploads"

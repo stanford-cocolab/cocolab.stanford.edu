@@ -1,0 +1,31 @@
+#!/bin/sh
+
+export COCOHOME=/afs/ir.stanford.edu/group/cocolab
+export PATH=${COCOHOME}/.gem/bin:$PATH
+export GEM_HOME=${COCOHOME}/.gem
+export GEM_PATH=$GEM_PATH:$GEM_HOME
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+cd /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu/
+
+# setup for cv pdf (remove layout and link to pdf)
+sed '5d;2d' ndg-cv.md > tmp.md
+
+# build site
+jekyll build
+
+# convert cv to pdf
+pandoc _site/tmp.html -H cv.sty -o tmp.tex
+sed '19,23d' tmp.tex > tmp2.tex
+sed '2d' tmp2.tex > tmp.tex
+pdflatex tmp.tex
+mv tmp.pdf _site/ndg-cv.pdf
+rm tmp*
+rm _site/tmp*
+
+rsync -r -a -v /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu/_site/* /afs/ir.stanford.edu/group/cocolab/WWW/
+
+cd ../WWW
+cp psych204-fall2018.html psych204.html
+cd ../cocolab.stanford.edu/
+

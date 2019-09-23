@@ -62,15 +62,6 @@
 	Year = {2019},
 	Bdsk-Url-1 = {https://www.aclweb.org/anthology/P19-1059}}
 
-@inproceedings{Nie2019DisSentLS,
-	Author = {Allen Nie and Erin D. Bennett and Noah D. Goodman},
-	Booktitle = {ACL},
-	Date-Added = {2019-09-06 15:45:42 +0000},
-	Date-Modified = {2019-09-06 15:47:18 +0000},
-	Title = {DisSent: Learning Sentence Representations from Explicit Discourse Relations},
-	Website = {https://arxiv.org/abs/1710.04334},
-	Year = {2019}}
-
 @inproceedings{CohnGordon2018PragmaticallyII,
 	Author = {Reuben Cohn-Gordon and Noah D. Goodman and Christopher Potts},
 	Booktitle = {NAACL-HLT},
@@ -98,6 +89,38 @@
 	Title = {Cake or broccoli? Recency biases children's verbal responses},
 	Volume = {14},
 	Year = {2019}}
+
+@inproceedings{nie-etal-2019-learning,
+    title = "Learning to Explain: Answering Why-Questions via Rephrasing",
+    author = "Nie, Allen  and
+      Bennett, Erin  and
+      Goodman, Noah",
+    booktitle = "Proceedings of the First Workshop on NLP for Conversational AI",
+    month = aug,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    Website = "https://www.aclweb.org/anthology/W19-4113",
+    doi = "10.18653/v1/W19-4113",
+    pages = "113--120",
+    abstract = "Providing plausible responses to why questions is a challenging but critical goal for language based human-machine interaction. Explanations are challenging in that they require many different forms of abstract knowledge and reasoning. Previous work has either relied on human-curated structured knowledge bases or detailed domain representation to generate satisfactory explanations. They are also often limited to ranking pre-existing explanation choices. In our work, we contribute to the under-explored area of generating natural language explanations for general phenomena. We automatically collect large datasets of explanation-phenomenon pairs which allow us to train sequence-to-sequence models to generate natural language explanations. We compare different training strategies and evaluate their performance using both automatic scores and human ratings. We demonstrate that our strategy is sufficient to generate highly plausible explanations for general open-domain phenomena compared to other models trained on different datasets.",
+}
+
+@inproceedings{nie-etal-2019-dissent,
+    title = "{D}is{S}ent: Learning Sentence Representations from Explicit Discourse Relations",
+    author = "Nie, Allen  and
+      Bennett, Erin  and
+      Goodman, Noah",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    Website = "https://www.aclweb.org/anthology/P19-1442",
+    doi = "10.18653/v1/P19-1442",
+    pages = "4497--4510",
+    abstract = "Learning effective representations of sentences is one of the core missions of natural language understanding. Existing models either train on a vast amount of text, or require costly, manually curated sentence relation datasets. We show that with dependency parsing and rule-based rubrics, we can curate a high quality sentence relation task by leveraging explicit discourse relations. We show that our curated dataset provides an excellent signal for learning vector representations of sentence meaning, representing relations that can only be determined when the meanings of two sentences are combined. We demonstrate that the automatically curated corpus allows a bidirectional LSTM sentence encoder to yield high quality sentence embeddings and can serve as a supervised fine-tuning dataset for larger models such as BERT. Our fixed sentence embeddings achieve high performance on a variety of transfer tasks, including SentEval, and we achieve state-of-the-art results on Penn Discourse Treebank{'}s implicit relation prediction task.",
+}
 
 @article{OngEtAl19,
 	Abstract = {Affective Computing is a rapidly growing field spurred by advancements in artificial intelligence, but often, held back by the inability to translate psychological theories of emotion into tractable computational models. To address this, we propose a probabilistic programming approach to affective computing, which models psychological-grounded theories as generative models of emotion, and implements them as stochastic, executable computer programs. We first review probabilistic approaches that integrate reasoning about emotions with reasoning about other latent mental states (e.g., beliefs, desires) in context. Recently-developed probabilistic programming languages offer several key desidarata over previous approaches, such as: (i) flexibility in representing emotions and emotional processes; (ii) modularity and compositionality; (iii) integration with deep learning libraries that facilitate efficient inference and learning from large, naturalistic data; and (iv) ease of adoption. Furthermore, using a probabilistic programming framework allows a standardized platform for theory-building and experimentation: Competing theories (e.g., of appraisal or other emotional processes) can be easily compared via modular substitution of code followed by model comparison. To jumpstart adoption, we illustrate our points with executable code that researchers can easily modify for their own models. We end with a discussion of applications and future directions of the probabilistic programming approach},
@@ -411,22 +434,6 @@ crowdsourcing.},
 	Title = {Emerging Abstractions: Lexical conventions are shaped by communicative context},
 	Website = {papers/HawkinsEtAl2018-Cogsci.pdf},
 	Year = {2018}}
-
-@article{nie2019learning,
-	Abstract = {Providing plausible responses to why questions is a challenging but critical goal for language based human-machine interaction. Explanations are challenging in that they require many different forms of abstract knowledge and reasoning. Previous work has either relied on human-curated structured knowledge bases or detailed domain representation to generate satisfactory explanations. They are also often limited to ranking pre-existing explanation choices. In our work, we contribute to the under-explored area of generating natural language explanations for general phenomena. We automatically collect large datasets of explanation-phenomenon pairs which allow us to train sequence-to-sequence models to generate natural language explanations. We compare different training strategies and evaluate their performance using both automatic scores and human ratings. We demonstrate that our strategy is sufficient to generate highly plausible explanations for general open-domain phenomena compared to other models trained on different datasets.},
-	Author = {Nie, Allen and Bennett, Erin D and Goodman, Noah D},
-	Journal = {arXiv preprint arXiv:1906.01243},
-	Title = {Learning to Explain: Answering Why-Questions via Rephrasing},
-	Year = {2019}}
-
-@techreport{NieBennettGoodman17,
-	Abstract = {Sentence vectors represent an appealing approach to meaning: learn an embedding that encompasses the meaning of a sentence in a single vector, that can be used for a variety of semantic tasks. Existing models for learning sentence embeddings either require extensive computational resources to train on large corpora, or are trained on costly, manually curated datasets of sentence relations. We observe that humans naturally annotate the relations between their sentences with discourse markers like "but" and "because". These words are deeply linked to the meanings of the sentences they connect. Using this natural signal, we automatically collect a classification dataset from unannotated text. Training a model to predict these discourse markers yields high quality sentence embeddings. Our model captures complementary information to existing models and achieves comparable generalization performance to state of the art models.},
-	Author = {{Nie}, A. and {Bennett}, E.~D. and {Goodman}, N.~D.},
-	Date-Modified = {2019-03-29 15:58:34 +0000},
-	Journal = {arXiv:1710.04334},
-	Title = {DisSent: Sentence Representation Learning from Explicit Discourse Relations},
-	Website = {https://arxiv.org/abs/1710.04334},
-	Year = {2017}}
 
 @article{BennettGoodman2018,
 	Abstract = {We show that the wide range in strengths of intensifying degree adverbs (e.g. very and extremely) can be partly explained by pragmatic inference based on differing cost, rather than differing semantics. The pragmatic theory predicts a linear relationship between the meaning of intensifiers and their length and log-frequency. We first test this prediction in three studies, using two different dependent measures, finding that higher utterance cost (i.e. higher word length or surprisal) does predict stronger meanings. In two additional studies we confirm that the relationship between length and meaning is present even for novel words. We discuss the implications for adverbial meaning and the more general question of how extensive non-arbitrary form-meaning association may be in language.},

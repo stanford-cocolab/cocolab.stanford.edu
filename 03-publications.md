@@ -14,7 +14,8 @@ permalink: publications.html
 {% for year in (2006..{{site.max_year}}) reversed %}
 
 <a class="subtle_link" name="{{year}}"></a>
-## {{year}}
+
+<h2>{{year}}</h2>
 
 {% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year={{year}}] %}
 
