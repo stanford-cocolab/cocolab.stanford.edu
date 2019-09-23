@@ -65,7 +65,10 @@
       webpage: //web.stanford.edu/~mtessler
     - name: Desmond Ong
       was: a graduate student in Psychology
-      now: Research Scientist at Institute of High Performance Computing, Singapore
+      now: >
+        Assistant Professor of Information Systems and Analytics at the National
+        University of Singapore and Research Scientist at the A*STAR Artificial
+        Intelligence Initiative (A*AI)
       webpage: //web.stanford.edu/~dco
     - name: Judith Degen
       was: a post-doc
@@ -74,7 +77,7 @@
     - name: Leon Bergen
       was: a post-doc
       now: Assistant Professor of Linguistics at UCSD
-      webpage: //web.stanford.edu/~lbergen/
+      webpage: //ling.ucsd.edu/people/faculty/profiles/LeonBergen.html
     - name: Greg Scontras
       was: a post-doc
       now: Assistant Professor of Linguistics at UC Irvine
@@ -85,9 +88,10 @@
     - name: Andreas Stuhlm&uuml;ller
       was: a graduate student and post-doc
       webpage: //stuhlmueller.org/
+      now: founder of Ought
     - name: Long Ouyang
       was: a graduate student and post-doc
-      webpage: //www.stanford.edu/~louyang
+      webpage: //zx.gd/academic/
     - name: Daniel Hawthorne
       was: a graduate student in Psychology
       webpage: //www.djthorne.org/
