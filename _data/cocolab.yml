@@ -5,36 +5,16 @@
       webpage: ndg.html
 - role: Post-Doctoral Scholars
   people:
-    - name: Judy Fan
-      img: judy.jpg
-      webpage: http://www.judithfan.net/
-      bio:
-        - >
-          I'm interested in how visual perception, action, and social inference are coordinated to support learning and communication.
-          To get at this, I derive inspiration from how people draw.
-        - >
-          I received my PhD in cognitive psychology from Princeton in 2016, and my AB in neurobiology
-          from Harvard in 2010. 
 
 - role: Graduate Students
   people:
-    - name: Robert X.D. Hawkins
-      img: robert.jpg
-      webpage: //rxdhawkins.wordpress.com/
-      bio:
-        - >
-          I'm interested in the cognitive mechanisms that allow people to
-          flexibly coordinate with one another. In particular, I study the
-          formation of conventions and norms using multi-player experiments and
-          computational models of communication and social reasoning.
-
     - name: Erin Bennett
       img: erin.jpg
       webpage: //web.stanford.edu/~erindb
       bio:
         - >
-          I'm interested in discourse relations, sentence meaning representation,
-          and causal reasoning.
+          I'm interested in vague language, causal reasoning, discourse
+          relations, and sentence meaning representation.
     - name: Ben Peloquin
       img: ben.jpg
       webpage: //benpeloquin7.github.io/
@@ -54,12 +34,31 @@
       img: mikewu.png
       webpage: //mikehwu.com/
       bio:
-        - > 
+        - >
           My current research interests are in bayesian deep learning,
           sampling methods, and inference in generative models.
  
+    - name: Jesse Mu
+      img: https://cs.stanford.edu/~muj/assets/images/bw.jpg
+      webpage: https://cs.stanford.edu/~muj/
+      bio:
+        - >
+          My research interests are in operationalizing language for machine
+          learning. This involves (1) building machines that can learn from
+          (and teach with) language and interactive dialog, and (2) using
+          language as a structured and compositional guide for learning. I am
+          supported by an NSF GRFP.
+
 - role: Alumni
   people:
+    - name: Judy Fan
+      was: a post-doc
+      webpage: http://www.judithfan.net/
+      now: Assistant Professor of Psychology at UC San Diego
+    - name: Robert X.D. Hawkins
+      was: post-doc at the Princeton Neuroscience Institute
+      webpage: //rxdhawkins.wordpress.com/
+      now: post-doc at MIT
     - name: Michael Henry Tessler
       was: a graduate student in Psychology
       now: a post-doc at MIT
