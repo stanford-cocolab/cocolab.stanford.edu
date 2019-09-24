@@ -8,8 +8,7 @@ permalink: index.html
 
 Please use the links at the top to navigate.
 
-
-* 
+ 
 ### News
 
 * Congratulations to Ben Pelloquin for winning the Computational Modeling Prize in Language at CogSci 2019!
