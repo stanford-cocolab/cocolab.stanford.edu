@@ -294,6 +294,13 @@
       </else>
     </choose>
   </macro>
+  <macro name="annote">
+    <choose>
+      <if variable="annote">
+        <text variable="annote"/>
+      </if>
+    </choose>
+  </macro>
   <macro name="issued-year">
     <choose>
       <if variable="issued">
@@ -467,6 +474,7 @@
         <text macro="author"/>
         <text macro="issued-year"/>
         <text macro="container"/>
+        <text macro="annote"/>
       </group>
       <!-- <group suffix=".">
         <group delimiter=". ">

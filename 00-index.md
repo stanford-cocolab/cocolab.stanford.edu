@@ -8,9 +8,16 @@ permalink: index.html
 
 Please use the links at the top to navigate.
 
-
-* 
+ 
 ### News
+
+* Congratulations to Ben Pelloquin for winning the Computational Modeling Prize in Language at CogSci 2019!
+
+* Congratulations to Megumi Sano for winning the Sayan Gul Travel Award at CogSci 2019!
+
+* Congratulations to Robert Hawkins, who recently defended his dissertation and is now at Princeton for a post-doc!
+
+* Congratulations to Mike Wu and Milan Mosse for winning Outstanding Student Paper Award at AAAI-19!
 
 * Congratulations to Judy Fan on accepting a tenure-track position at UC San Diego!
 

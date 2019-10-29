@@ -1,17 +1,21 @@
-- image: lab-retreat-2014.jpg
-  label: "CoCoLab in Sonoma, Lab Retreat 2014"
-- image: juliet.png
-  alt: "But soft, what light though yonder window breaks? It is the east and Juliet is the sun!"
-  label: "How will Juliet infer Romeo's intended meaning?"
-- image: Cabin.jpg
-  label: "Coco and Langcog labs at Yosemite, Lab Retreat 2012"
-- image: stanford1.jpg
-  label: Stanford campus near Jordan Hall
+- image: cocosummer2019.jpg
+  label: CoCoLab Summer 2019
+- image: cocohike2015.jpg
+  label: "CoCoLab hike, 2015"
 - image: cocolab-log.jpg
   label: "CoCoLab camping trip, 2014"
-- image: implicature-xkcd.png
-  label: "How will the listener interpret the speaker’s utterance?"
+- image: lab-retreat-2014.jpg
+  label: "CoCoLab in Sonoma, Lab Retreat 2014"
+- image: Cabin.jpg
+  label: "Coco and Langcog labs at Yosemite, Lab Retreat 2012"
 - image: oval.jpg
   label: Overlooking the campus oval
-- image: bayesbasketruler.png
-  label: Bayes clearing out the pragmatic wastebasket and measuring its contents
+- image: stanford1.jpg
+  label: Stanford campus near Jordan Hall
+#- image: juliet.png
+#  alt: "But soft, what light though yonder window breaks? It is the east and Juliet is the sun!"
+#  label: "How will Juliet infer Romeo's intended meaning?"
+#- image: implicature-xkcd.png
+#  label: "How will the listener interpret the speaker’s utterance?"
+#- image: bayesbasketruler.png
+#  label: Bayes clearing out the pragmatic wastebasket and measuring its contents
