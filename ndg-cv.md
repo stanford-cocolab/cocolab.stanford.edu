@@ -82,6 +82,8 @@ Concepts and intuitive theories.
 
 ## Grants
 
+* *MURI: Visual Commonsense*, 2019-2021 (Sub-award from UCLA).
+
 * *Homo SocioNeticus: Scaling the cognitive foundations of online social behavior*, 2018 - 2021 (Sub-award from Virginia Tech).
 
 * Alfred P. Sloan Research Fellow in Neuroscience, 2016 - 2019.
