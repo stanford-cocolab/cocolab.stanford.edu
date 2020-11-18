@@ -1,17 +1,24 @@
 ---
 layout: default
 title: Join Us
-permalink: join.html
+permalink: join
 ---
 
-<img class="join-img" src="images/stanford-spring.jpg" alt="Where we are!">
+# Are you interested in joining CoCoLab?
 
-Anyone interested in joining CoCoLab should first get to know the research we do, for instance by reading some of our [publications](/publications.html). (You might also want to look at the [resources](/resources.html).)
+<br>
+Anyone interested in joining CoCoLab should first get to know the research we do, for instance by reading some of our [publications](/publications).
 
-If you'd like to receive email announcements from us about lab meetings, talks, and other interesting science updates, please sign up for our mailing list.
+<br>
+**Potential postdocs**: Please contact the PI directly, include a current CV and discussion of research interests.
 
-Potential postdocs: Please contact the PI directly.
+**Potential graduate students**: Please submit an application through the relevant Department: [Psychology](https://psychology.stanford.edu/admissions/phd-admissions),  [Computer Science](https://cs.stanford.edu/admissions/general-information), [Linguistics](https://linguistics.stanford.edu/degree-programs/graduate-programs/doctoral-program), and others. Yes, we are taking new students (no need to email to ask).
 
-Potential graduate students: Please submit an application through the Department of Psychology Graduate Admissions webpage, or through the Departments of Computer Science or Linguistics.
+**Potential research assistants** (Stanford undergraduate or masters): Please send the PI an email with a current CV (including relevant research and programming experience), describe why you want to join the lab and what type of projects you are interested in. Please also indicate whether you are looking for a paid or a volunteer / course credit position.
 
-Potential research assistants (undergraduate or masters): Please send the PI an email with the following details: Name, SUNetID, year of study, major, why you want to join the lab and what type of projects are you interested in. Include any relevant research and programming experience.
+**Potential research assistants** (non-Stanford): Consider the <a href="https://www-csli.stanford.edu/csli-summer-internship-program-2021">Center for the Study of Language and Information (CSLI) Summer Intership</a>. We take very few interns that are not at Stanford (or on Stanford-sponsored programs). You may email the PI, but may not get a reply due to the large volume of requests.
+
+**High-school interns**: We are unable to take high-school students at this time.
+
+<br>
+If you'd like to receive **email announcements** from us about lab meetings, talks, and other interesting science updates, please sign up for our [mailing list](https://mailman.stanford.edu/mailman/listinfo/cocolab-all).

@@ -2,7 +2,7 @@
   people:
     - name: Noah Goodman
       img: noah.jpg
-      webpage: ndg.html
+      webpage: /ndg
 
 - role: Graduate Students
   people:
@@ -13,29 +13,7 @@
         - >
           I'm interested in vague language, causal reasoning, discourse
           relations, and sentence meaning representation.
-    - name: Ben Peloquin
-      img: ben.jpg
-      webpage: //benpeloquin7.github.io/
-      bio:
-        - >
-          What is the impact of language on cognition? What is the impact of
-          cognition on language? While the first question is concerned with
-          *representation* -- how the information encoded in language influences
-          the way we understand and perceive the world, the second is concerned
-          with *design* -- how distributional properties found in natural
-          languages emerge from local interactions between speakers and
-          listeners. I take a computational approach to these questions using
-          tools from Bayesian cognitive modeling, agent-based simulation and
-          machine learning.
 
-    - name: Mike Wu
-      img: mikewu.png
-      webpage: //mikehwu.com/
-      bio:
-        - >
-          My current research interests are in bayesian deep learning,
-          sampling methods, and inference in generative models.
- 
     - name: Jesse Mu
       img: jesse.jpg
       webpage: https://cs.stanford.edu/~muj/
@@ -45,70 +23,132 @@
           learning. This involves (1) building machines that can learn from
           (and teach with) language and interactive dialog, and (2) using
           language as a structured and compositional guide for learning.
+    
+    - name: Gabriel Poesia
+      img: gabrielpoesia.jpg
+      webpage: https://gpoesia.com/#
+      bio:
+        - >
+          My research goal is to advance the way we interact with computers, taking inspiration from how humans communicate and collaborate. In particular, I’m interested in making computers capable of handling ambiguous inputs and specifications by leveraging prior knowledge, context and interaction.
+
+    - name: Alex Tamkin
+      img: alextamkin.jpg
+      webpage: https://www.alextamkin.com/
+      bio:
+        - >
+          My research focuses on unsupervised learning: how can we understand and guide systems that learn general-purpose representations of the world?
+
+    - name: Julia White
+      img: juliawhite.png
+      bio:
+        - >
+          I’m interested in how our understanding of cognitive mechanisms can be used to inform AI systems, specifically language models.
+
+    - name: Mike Wu
+      img: mikewu.png
+      webpage: //mikehwu.com/
+      bio:
+        - >
+          My current research interests are in bayesian deep learning,
+          sampling methods, and inference in generative models.
+  
+- role: Lab affiliates
+  people:
+    - name: Dilip Arumugam
+      img: diliparumugam.jpg
+      bio:
+        - >
+          My research is aimed at understanding the key ingredients of sample-efficient reinforcement learning. Currently, I examine how information theory might be a useful tool for facilitating this understanding, with a focus on abstractions and natural language.
+
+    - name: Shyamal Buch
+      img: shyamalbuch.png
+      bio:
+        - >
+          I'm working on methods to better understand the structure of events in vision and language, with a particular emphasis on video applications and language grounding.
+
+    - name: Lauren Gillespie
+      img: laurengillespie.jpg
+      bio:
+        - >
+          My research aims to apply cutting-edge ML technologies to climate change-related ecological problems in concert with developing better ML methods for working with complex ecological and genomic data.
+
+    - name: Sidd Karamcheti
+      img: siddkaramcheti.jpg
+      webpage: https://www.siddkaramcheti.com/
+      bio:
+        - >
+          I'm interested in natural language processing in application to robotics, specifically looking at methods for adapting to users online, and learning through interaction.
+
+    - name: Elisa Kreiss
+      img: elisakreiss.png
+      webpage: //elisakreiss.com/
+      bio:
+        - >
+          I use probabilistic and neural network models to understand human language production and comprehension. In particular, I concentrate on the role context plays in this process.
 
 - role: Alumni
   people:
     - name: Judy Fan
-      was: a post-doc
+      was: post-doc
       webpage: http://www.judithfan.net/
       now: Assistant Professor of Psychology at UC San Diego
     - name: Robert Hawkins
-      was: a graduate student in Psychology
+      was: graduate student in Psychology
       webpage: //rxdhawkins.com/
-      now: a post-doc at the Princeton Neuroscience Institute
+      now: Post-doc at the Princeton Neuroscience Institute
     - name: Michael Henry Tessler
-      was: a graduate student in Psychology
-      now: a post-doc at MIT
+      was: graduate student in Psychology
+      now: Post-doc at MIT
       webpage: //web.stanford.edu/~mtessler
     - name: Desmond Ong
-      was: a graduate student in Psychology
+      was: graduate student in Psychology
       now: >
         Assistant Professor of Information Systems and Analytics at the National
         University of Singapore and Research Scientist at the A*STAR Artificial
         Intelligence Initiative (A*AI)
       webpage: //web.stanford.edu/~dco
     - name: Judith Degen
-      was: a post-doc
+      was: post-doc
       now: Assistant Professor of Linguistics at Stanford
       webpage: //www.stanford.edu/people/jdegen
     - name: Leon Bergen
-      was: a post-doc
+      was: post-doc
       now: Assistant Professor of Linguistics at UCSD
       webpage: //ling.ucsd.edu/people/faculty/profiles/LeonBergen.html
     - name: Greg Scontras
-      was: a post-doc
+      was: post-doc
       now: Assistant Professor of Linguistics at UC Irvine
       webpage: //socsci.uci.edu/~gscontra/
     - name: Justine Kao
-      was: a graduate student in Psychology
+      was: graduate student in Psychology
       now: Siri Machine Learning Data Scientist at Apple
     - name: Andreas Stuhlm&uuml;ller
-      was: a graduate student and post-doc
+      was: graduate student and post-doc
       webpage: //stuhlmueller.org/
-      now: founder of Ought
+      now: Founder of Ought
     - name: Long Ouyang
-      was: a graduate student and post-doc
+      was: graduate student and post-doc
       webpage: //zx.gd/academic/
     - name: Daniel Hawthorne
-      was: a graduate student in Psychology
+      was: graduate student in Psychology
       webpage: //www.djthorne.org/
       now: Co-founder and CTO at Datawallet
     - name: Daniel Ly
-      was: a post-doc
+      was: post-doc
       now: Senior Algorithms and Machine Learning Engineer at Seismic
     - name: Siddharth Narayanaswamy
-      was: a post-doc
+      was: post-doc
       now: Senior Researcher at Oxford
       webpage: //www.robots.ox.ac.uk/~nsid/
     - name: Daniel Lassiter
-      was: a post-doc
-      now: an Assistant Professor of Linguistics at Stanford
+      was: post-doc
+      now: Assistant Professor of Linguistics at Stanford
       webpage: //www.stanford.edu/~danlass
     - name: Joseph Austerweil
-      was: a post-doc
-      now: an Assistant Professor of Psychology at Wisconsin, Madison
+      was: post-doc
+      now: Assistant Professor of Psychology at Wisconsin, Madison
       webpage: //alab.psych.wisc.edu/
     - name: Thomas Icard
-      was: a graduate student in Philosophy
-      now: an Assistant Professor of Philosophy at Stanford
+      was: graduate student in Philosophy
+      now: Assistant Professor of Philosophy at Stanford
       webpage: //stanford.edu/~icard/

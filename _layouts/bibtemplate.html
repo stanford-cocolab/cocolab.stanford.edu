@@ -2,29 +2,32 @@
 ---
 
 {% if entry.website %}
-	<a href="{{entry.website}}">{{entry.title}}.</a>
+	<a href="{{entry.website}}" style="font-weight: bold;">{{entry.title}}.</a>
 {% else %}
-	{{entry.title}}.
+	<span style="font-weight: bold;">{{entry.title}}</span>.
 {% endif %}
-
-{{reference}} <!-- this is just author information -->
 
 <span class="minilinks">
-{% if entry.abstract %}
-	<a onclick="toggle('{{entry.key}}_abstract')">[Abstract]</a>
-{% endif %}
-
-{% if entry.website %}
-	<a href="{{entry.website}}">[PDF]</a>
-{% endif %}
-
-<a onclick="toggle('{{entry.key}}_bibtex')">[BibTeX]</a>
+	{% if entry.abstract %}
+		<a onclick="toggle('{{entry.key}}_abstract')">[Abstract]</a>
+	{% endif %}
+	
+	{% if entry.website %}
+		<a href="{{entry.website}}" target="_blank">[PDF]</a>
+	{% endif %}
+	
+	<a onclick="toggle('{{entry.key}}_bibtex')">[BibTeX]</a>
 </span>
+<br>
+
+
+{{reference}} <!-- this is just author information -->
 
 {% if entry.abstract %}
 	<p class="abstract" id="{{entry.key}}_abstract"> <b>Abstract:</b> {{ entry.abstract }}</p>
 {% endif %}
 	<p class="bibtex" id="{{entry.key}}_bibtex"> <b>BibTeX:</b> {{ entry.bibtex }}</p>
+
 
 <script>
 function toggle(key) {

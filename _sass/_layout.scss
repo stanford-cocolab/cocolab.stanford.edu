@@ -3,11 +3,11 @@
  */
 .site-header {
     min-height: 56px;
-
     // Positioning context for the mobile navigation icon
     position: relative;
     background-color: $navbar-color;
     box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+    // box-shadow: 0px;
 }
 
 .site-title {
@@ -24,20 +24,22 @@
 }
 
 .header-logo {
-    width: $logo-width;
+    height: $logo-height;
     padding: 5px;
     padding-right: $spacing-unit;
-    display: inline-block;
+    // display: inline-block;
     float: left;
 }
 
 .site-nav {
 
-    line-height: $logo-height;
+    // Need to add 2x padding height
+    line-height: $logo-height + 10px;
+    text-align: center;
 
     .menu-icon {
         display: none;
-        height: $logo-height;
+        height: $logo-height + 10px;
     }
 
     .page-link-wrapper {
@@ -45,14 +47,16 @@
         display: inline-block;
 
         .page-link {
-            color: #ffffff;
+            color: #9b9b9b;
             font-size: $base-font-size*1.1;
-            font-weight: 600;
+            font-weight: normal;
             text-decoration: none;
             line-height: $base-line-height;
 
             &:hover {
-                text-decoration: underline;
+                text-decoration: none;
+                color: #495eb9;
+                // font-weight: bold;
             }
 
             /*// Gaps between nav items, but not on the first one
@@ -68,7 +72,7 @@
     .active {
         background-color: #ffffff;
         .page-link {
-            color: #575757;
+            color: #495eb9;
         }
     }
 
@@ -77,7 +81,7 @@
             top: 9px;
             right: 30px;
             background-color: $background-color;
-            border: 1px solid $grey-color-light;
+            border: 1px solid rgb(196, 196, 196);
             border-radius: 5px;
             text-align: right;
 
@@ -126,7 +130,7 @@
                     position: relative;
                     z-index: 100;
                     padding: 0px;
-                    color: #ffffff;
+                    color: #636363;
                 }
             }
         }
@@ -208,7 +212,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit*2 0;
 }
 
 .page-heading {

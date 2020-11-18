@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Datasets
-permalink: /datasets/
+permalink: datasets
 ---
 
-## Overview
+# Overview
 
-In our reference game tasks, we pair up players across the web in a real-time, multi-player environment where they must communicate to solve a problem. One player is assigned to be the 'speaker' and the other is assigned to be the 'listener'. On each trial, both players are presented with an array of objects, one of which is privately marked for the speaker as the 'target'. The speaker must send messages through the provided chatbox to get the listener to choose the target from the lineup. Both players may use the chatbox at any time.
+In our reference game tasks, we pair up players across the web in a real-time, multi-player environment where they must communicate to solve a problem. One player is assigned to be the *speaker* and the other is assigned to be the *listener*. On each trial, both players are presented with an array of objects, one of which is privately marked for the speaker as the *target*. The speaker must send messages through the provided chatbox to get the listener to choose the target from the lineup. Both players may use the chatbox at any time.
 
 The corpora below contain the messages sent by both players on each trial, along with trial-level metadata about the context. 
+<br>
+<br>
 
 ## [Color Reference]({{site.url}}{{site.baseurl}}/datasets/colors.html)
 

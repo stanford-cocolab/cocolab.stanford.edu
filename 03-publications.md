@@ -1,21 +1,26 @@
 ---
 layout: default
 title: Publications
-permalink: publications.html
+permalink: publications
 ---
-## Submitted & Under review
+## Under review
+<br>
 
 {% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year=Manuscript] %}
 
+<br>
 ## To appear
+<br>
 
 {% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year=To appear] %}
 
-{% for year in (2006..{{site.max_year}}) reversed %}
+{% for year in (2006..2020) reversed %}
 
 <a class="subtle_link" name="{{year}}"></a>
 
+<br>
 <h2>{{year}}</h2>
+<br>
 
 {% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year={{year}}] %}
 

@@ -1,16 +1,38 @@
-$image-width:	200px;
+$image-width: 150px;
+
+.peoplelayout {
+	// padding-right: $spacing-unit;
+	// padding-left: $spacing-unit;
+	margin: auto;
+	max-width: 750px;
+}
+
+.name {
+	color: rgb(99, 112, 184);
+}
 
 .member {
 	width: 100%;
 	padding-bottom: $spacing-unit;
 	display: inline-block;
+	color: grey;
+    padding-left: 20px;
 }
 
 .member img {
 	width: $image-width;
 	@media screen and (min-width: 558px) {
 		float: left;
-		padding-right: $spacing-unit;
+		padding-right: $spacing-unit*2;
 	}
 	padding-bottom: $spacing-unit;
+}
+
+.was {
+	font-size: 15px;
+	padding-bottom: 0;
+}
+
+#Alumni {
+	font-size: 15px;
 }

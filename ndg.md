@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: ndg
 ---
 
 
@@ -30,7 +31,7 @@ Office: 356 Jordan Hall, Stanford.
 
 ## Teaching
 
-### Langauge and Thought (Psych 132)
+### Language and Thought (Psych 132)
 
 [Spring 2019 syllabus](https://docs.google.com/document/d/1FNk6-blLkWNYKntHvQ7s6x6CBTBtGLFowTvk00hMt7E/edit?usp=sharing)
 

@@ -15,7 +15,7 @@ gems: ['jekyll/scholar']
 # Build settings
 markdown: kramdown
 
-max_year: 2019 #the most recent year with papers published
+max_year: 2015 #the most recent year with papers published
 # i should figure out how to automate that...
 
 exclude:

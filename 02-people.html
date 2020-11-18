@@ -1,0 +1,90 @@
+---
+layout: default
+title: People
+permalink: people
+---
+
+<div class="peoplelayout">
+<!-- <br>
+<br> -->
+<!-- <h1>Lab members</h1> -->
+
+{% for role in site.data.cocolab %}
+    {% if role.role == "Alumni" %}
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1>{{role.role}}</h1>
+        <br>
+        {% for person in role.people %}
+        <p class="was">
+            {% if person.webpage %}
+                <a class="subtle_link" id="{{role.role}}" name="{{person.name}}"  href="{{person.webpage}}">{{person.name}}</a>
+            {% else %}
+                <a class="subtle_link" id="{{role.role}}" name="{{person.name}}">{{person.name}}</a>
+            {% endif %} ({{person.was}}){% if person.now %} -- {{person.now}} {% endif %}
+        </p>
+        {% endfor %}
+    {% else %}
+        <h1>{{role.role}}</h1>
+        <br>
+        {% for person in role.people %}
+            <div class="member">
+                {% if person.img %}
+                    <img src="{{site.url}}{{site.baseurl}}/images/members/{{person.img}}" alt="{{person.name}}"></img>
+                {% endif %}
+                <div class="text">
+                    {% if person.webpage %}
+                        <h2><a class="subtle_link" id="{{role.role}}" name="{{person.name}}"  href="{{person.webpage}}">{{person.name}}</a></h2>
+                    {% else %}
+                        <h2><span class="name" id="{{role.role}}" name="{{person.name}}">{{person.name}}</span></h2>
+                    {% endif %}
+                    <!-- <h3>{{role.role}}</h3> -->
+                    {% if person.was %}
+                        <p class="was">({{person.was}})
+                        {% if person.now %} -- {{person.now}} {% endif %}
+                        </p>
+                    {% endif %}
+                    <!-- {% if person.was %}
+                        <p class="was">Formerly {{person.was}}</br>
+                        {% if person.now %} {{person.now}} {% endif %}
+                        </p>
+                    {% endif %} -->
+                    {% for paragraph in person.bio %}
+                        <p>{{paragraph}}</p>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+<!-- {% for role in site.data.cocolab %}
+    <h1>{{role.role}}</h1>
+    {% for person in role.people %}
+        <div class="member">
+            {% if person.img %}
+                <img src="{{site.url}}{{site.baseurl}}/images/members/{{person.img}}" alt="{{person.name}}"></img>
+            {% endif %}
+            <div class="text">
+                <h2><a class="subtle_link" name="{{person.name}}">{{person.name}}</a></h2>
+                {% if person.was %}
+                    <p class="was">Was: {{person.was}}</br>
+                    {% if person.now %} Now: {{person.now}} {% endif %}
+                    </p>
+		{% endif %}
+                {% if person.webpage %}
+                    <p><a href="{{person.webpage}}">Personal webpage</a></p>
+                {% endif %}
+                {% for paragraph in person.bio %}
+                    <p>{{paragraph}}</p>
+                {% endfor %}
+            </div>
+        </div>
+    {% endfor %}
+{% endfor %} -->

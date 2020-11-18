@@ -9,6 +9,8 @@
 
     <div class="page-content">
       <div class="wrapper">
+        <h1 style="text-align: center; font-size: 200%;">Welcome to the Computation & Cognition Lab at Stanford!</h1>
+        <div class="blurb"><p>At CoCoLab, we study the computational basis of natural and artificial intelligence.<br><br>How do words connect to the world? How do humans use language so flexibly and effectively? How do we reason about other minds? How are concepts structured, learned, and used? How is knowledge accumulated through generations?<br><br>We apply the resulting ideas to education, psychology, sustainability, and other fields. Along the way we advance basic machine learning techniques such as probabilistic programming, variational inference, unsupervised representation learning, and Bayesian modeling.</p></div>
 
         <div class="main_carousel">
           {% for image in site.data.carousel %}
@@ -18,9 +20,6 @@
           </div>
           {% endfor %}
         </div>
-
-        <br>
-
         {{ content }}
 
       </div>
@@ -30,9 +29,8 @@
       $(".main_carousel").slick({
         dots: true,
         speed: 1000,
-        autoplay: true,
+        autoplay: false,
         slidesToShow: 1,
-        autoplaySpeed: 5000,
         //fade: true,
         responsive: [
           {

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: datasets/colors.html
+permalink: datasets/colors
 ---
 
 ## Color Reference (English)

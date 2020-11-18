@@ -120,7 +120,8 @@ a {
 
     &:not(.subtle_link) {
         color: $link-color;
-        text-decoration: underline;
+        text-decoration: none;
+        // font-weight: bold;
 
         /*&:visited {
             color: darken($brand-color, 15%);
@@ -190,8 +191,8 @@ pre {
     max-width:         calc(#{$fill-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-right: $spacing-unit*10;
+    padding-left: $spacing-unit*10;
     @extend %clearfix;
 
     @include media-query($on-laptop) {

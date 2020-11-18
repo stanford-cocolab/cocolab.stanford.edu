@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: datasets/tangrams.html
+permalink: datasets/tangrams
 ---
 
 ## Tangrams (Unconstrained)
