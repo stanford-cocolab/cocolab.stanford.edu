@@ -50,6 +50,16 @@ Concepts and intuitive theories.
 
 ## Honors
 
+* Best paper award International Conference on Educational Data Mining, 2020 (EDM 2020).
+
+* 2020 Cognitive Science Society paper prize for computational modeling of language.
+
+* AAAI best student paper award, 2019.
+
+* 2019 Cognitive Science Society paper prize for computational modeling of language.
+
+* Best paper award winner, ICML Workshop on Adaptive & Multitask Learning: Algorithms & Systems, 2019.
+
 * 2016 Alfred P. Sloan Research Fellow in Neuroscience.
 
 * 2015 Cognitive Science Society paper prize for applied computational modeling.
@@ -81,6 +91,12 @@ Concepts and intuitive theories.
 * National Merit Scholarship, 1994-1997.
 
 ## Grants
+
+* *AI Tutors to Help Prepare Students for the 21st Century Workforce*, Stanford HAI Hoffman-Yee Grant, 2020.
+
+* *Toward Grounded, Adaptive Communication Agents*, Stanford HAI Hoffman-Yee Grant, 2020.
+
+* *Expeditions: Collaborative Research: Understanding the World Through Code*, NSF, 2020 - 2025.
 
 * *MURI: Visual Commonsense*, 2019-2021 (Sub-award from UCLA).
 
@@ -194,6 +210,16 @@ A javascript-based probabilistic programming language.
 
 
 ## Invited Presentations
+
+* AAAI Symposium "Conceptual Abstraction and Analogy in Natural and Artificial Intelligence", November 2020.
+
+* MPI Tübingen, November 2020. 
+
+* Brown CLIPS "Social Cognitive Seminar", October 2020.
+
+* "Optimal experiment design" workshop, Mathematical Psychology, July 2020.
+
+* University of Saarbrucken, Germany, February 2020.
 
 * ICLR, New Orleans, LA, May 2019.
 
@@ -465,8 +491,6 @@ A javascript-based probabilistic programming language.
 
 * Co-Organizer and Coordinator of Hiring, Canada/USA Mathcamp 2000, 2001.
 
-<!-- haven't started fixing this up yet -->
-
 ## Outreach
 
 * Guest lecture, Summer School in Cognitive Science, Montreal, Canada, June 2016.
@@ -479,23 +503,13 @@ A javascript-based probabilistic programming language.
 
 ## Teaching
 
-### Summer Schools and Tutorials
-
-* Probabilistic Programming for Advanced Machine Learning (summer school for DARPA program of the same name), Portland, August 2016.
-
-* "Probabilistic programming languages." European Summer School of Logic Language and Information. Tubingen, August 2014.
-
-* "Probability in semantics and pragmatics" (with D. Lassiter). European Summer School of Logic Language and Information. Dusseldorf, August 2013.
-
-* "Stochastic lambda calculus and its applications in cognitive science." (Invited course.) North-American Summer School of Logic, Language, and Information. Austin, TX, June 2012.
-
-* "Computational Cognitive Science: Probability, Programs, and the Mind." European Summer School of Logic Language and Information. Copenhagen, August 2010.
-
-* Tutorial on probabilistic models of cognition (with T. O'Donnell). Cornell University, October 2009.
-
-* IPAM Graduate Summer School: "Probabilistic Models of Cognition: The Mathematics of Mind", Los Angeles CA, July 2007. ( 3 lectures.)
-
 ### University Courses
+
+* "Langauge and Thought" (OSPMADRD 19). Stanford (BOSP Madrid). Winter 2020.
+
+* "Independent Study in Machine Translation" (OSPMADRD 20). Stanford (BOSP Madrid). Winter 2020.
+
+* "Psychometrics and automated experiment design" (PSYCH 241). Stanford. Autumn 2019.
 
 * "Langauge and Thought" (Psych 132). Stanford. Spring 2019.
 
@@ -521,11 +535,28 @@ A javascript-based probabilistic programming language.
 
 * Experience teaching mathematics at all levels, 1997-2005. (Details by request.)
 
+### Summer Schools and Tutorials
+
+* Probabilistic Programming for Advanced Machine Learning (summer school for DARPA program of the same name), Portland, August 2016.
+
+* "Probabilistic programming languages." European Summer School of Logic Language and Information. Tubingen, August 2014.
+
+* "Probability in semantics and pragmatics" (with D. Lassiter). European Summer School of Logic Language and Information. Dusseldorf, August 2013.
+
+* "Stochastic lambda calculus and its applications in cognitive science." (Invited course.) North-American Summer School of Logic, Language, and Information. Austin, TX, June 2012.
+
+* "Computational Cognitive Science: Probability, Programs, and the Mind." European Summer School of Logic Language and Information. Copenhagen, August 2010.
+
+* Tutorial on probabilistic models of cognition (with T. O'Donnell). Cornell University, October 2009.
+
+* IPAM Graduate Summer School: "Probabilistic Models of Cognition: The Mathematics of Mind", Los Angeles CA, July 2007. ( 3 lectures.)
+
+
 ## Advising
 
 ### Post-doctoral students
 
-* Judy Fan, 2017-present
+* Judy Fan, 2017-2019 (Now assistant professor of Psychology, UCSD)
 
 * Daniel Ritchie, 2016-17 (Now assistant professor of CS, Brown)
 
@@ -537,9 +568,9 @@ A javascript-based probabilistic programming language.
 
 * Long Ouyang, 2015-2016
 
-* Gregory Scontras, 2014-2016 (Now assistant professor of Linguistics, UC Irvine)
+* Gregory Scontras, 2014-2016 (Now associate professor of Linguistics, UC Irvine)
 
-* Siddarth Narayanaswami 2013-15 (Now post-doc, Oxford University)
+* Siddarth Narayanaswami 2013-15 (Now lecturer, University of Edinburgh)
 
 * Daniel Ly, 2013-15
 
@@ -550,13 +581,21 @@ A javascript-based probabilistic programming language.
 
 ### Ph.D. students
 
+* Gabriel Poesia (Stanford, Computer Science)
+
+* Julia White (Stanford, Electrical Engineering)
+
+* Alex Tamkin (Stanford, Computer Science)
+
+* Jesse Mu (Stanford, Computer Science)
+
 * Mike Wu (Stanford, Computer Science)
 
-* Ben Peloquin (Stanford, Psychology)
+* Ben Peloquin (Stanford, Psychology), on leave
 
-* Erin Bennett (Stanford, Psychology)
+* Erin Bennett (Stanford, Psychology), completed 2020
 
-* Robert X. D. Hawkins (Stanford, Psychology)
+* Robert X. D. Hawkins (Stanford, Psychology), completed 2019
 
 * Michael Henry Tessler (Stanford, Psychology), completed 2018
 
@@ -575,11 +614,13 @@ A javascript-based probabilistic programming language.
 
 ### Ph.D. Committees
 
-* Natalia Velez (Stanford, Psychology)
+* Shao-Fang (Pam) Wang (Stanford, Psychology)
 
-* Andrew Lampinen (Stanford, Psychology)
+* Natalia Velez (Stanford, Psychology), completed 2019
 
-* Erica Yoon (Stanford, Psychology)
+* Andrew Lampinen (Stanford, Psychology), completed 2019
+
+* Erica Yoon (Stanford, Psychology), completed 2019
 
 * Ziang Xie (Stanford, CS), completed 2018
 
@@ -633,9 +674,13 @@ Aditya Grover, CS quals commitee
 
 ## University Committees
 
+* Psychology Department, Graduate Admissions Committee (*Chair*), 2018-19, 2019-20, 2020-2021.
+
+* CS Department, Pre-Hiring Committee, 2020-21.
+
 * Human-centered AI Initiative Design Committee, 2018-19.
 
-* Psychology Department, Graduate Admissions Committee (*Chair*), 2018-19.
+* CS Department, Curriculum Revision Committee, 2018-19.
 
 * CS Department, Graduate Admissions Committee, 2018-19.
 
