@@ -16,8 +16,6 @@ jekyll build
 
 # convert cv to pdf
 pandoc _site/tmp.html -H cv.sty -o tmp.tex
-sed '19,23d' tmp.tex > tmp2.tex
-sed '2d' tmp2.tex > tmp.tex
 pdflatex tmp.tex
 mv tmp.pdf _site/ndg-cv.pdf
 rm tmp*
