@@ -86,6 +86,13 @@
         - >
           I use probabilistic and neural network models to understand human language production and comprehension. In particular, I concentrate on the role context plays in this process.
 
+    - name: Ben Newman
+      img: bennewman.jpg
+      webpage: //blnewman.com/
+      bio:
+        - >
+          I'm interested in understanding how neural models process language to build more flexible and safe NLP systems.
+
 - role: Alumni
   people:
     - name: Judy Fan
