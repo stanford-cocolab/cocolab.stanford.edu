@@ -60,6 +60,12 @@
         - >
           My research is aimed at understanding the key ingredients of sample-efficient reinforcement learning. Currently, I examine how information theory might be a useful tool for facilitating this understanding, with a focus on abstractions and natural language.
 
+    - name: Jasmine Bayrooti
+      img: jasminebayrooti.png
+      bio:
+        - >
+          I'm interested in understanding structure in images and videos, with a focus on contrastive representation learning, computational algebraic topology, and probabilistic graphical modelling.
+
     - name: Shyamal Buch
       img: shyamalbuch.png
       bio:
@@ -92,6 +98,19 @@
       bio:
         - >
           I'm interested in understanding how neural models process language to build more flexible and safe NLP systems.
+
+    - name: Shashank Rammoorthy
+      img: shashank.jpg
+      bio:
+        - >
+          My research interests are in models that learn across modalities and in the ways to build "ethical" language models.
+
+    - name: Xikun Zhang
+      img: xikun.jpg
+      webpage: https://twitter.com/xikun_zhang_
+      bio:
+        - >
+          I am interested in visually grounded language understanding and generation, NLP probing and analysis, and graph representation learning, among other things.
 
 - role: Alumni
   people:
