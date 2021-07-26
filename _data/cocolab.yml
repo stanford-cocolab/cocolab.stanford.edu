@@ -38,6 +38,13 @@
         - >
           My research focuses on unsupervised learning: how can we understand and guide systems that learn general-purpose representations of the world?
 
+    - name: Rose Wang
+      img: rosewang.png
+      webpage: https://cs.stanford.edu/~rewang
+      bio:
+        - >
+          My research interests are in unsupervised learning and multiagent systems.
+
     - name: Julia White
       img: juliawhite.png
       bio:
