@@ -14,6 +14,14 @@
           I'm interested in vague language, causal reasoning, discourse
           relations, and sentence meaning representation.
 
+    - name: Ali Malik
+      img: ali.jpeg
+      webpage: http://malikaliraza.com
+      bio:
+        - >
+          My research interests are in probabilistic reasoning, algorithms, 
+          and building intelligent systems that help humans learn.
+
     - name: Jesse Mu
       img: jesse.jpg
       webpage: https://cs.stanford.edu/~muj/
@@ -29,14 +37,26 @@
       webpage: https://gpoesia.com/#
       bio:
         - >
-          My research goal is to advance the way we interact with computers, taking inspiration from how humans communicate and collaborate. In particular, I’m interested in making computers capable of handling ambiguous inputs and specifications by leveraging prior knowledge, context and interaction.
+          My research goal is to advance the way we interact with computers, 
+          taking inspiration from how humans communicate and collaborate. In particular, 
+          I’m interested in making computers capable of handling ambiguous inputs and 
+          specifications by leveraging prior knowledge, context and interaction.
+
+    - name: Ben Prystawski
+      img: ben.jpg
+      webpage: https://benprystawski.com/
+      bio:
+        - >
+          I am interested in understanding how language enables humans to work together 
+          effectively. My current research focuses on indirect language use and teaching.
 
     - name: Alex Tamkin
       img: alextamkin.jpg
       webpage: https://www.alextamkin.com/
       bio:
         - >
-          My research focuses on unsupervised learning: how can we understand and guide systems that learn general-purpose representations of the world?
+          My research focuses on unsupervised learning: how can we understand and guide 
+          systems that learn general-purpose representations of the world?
 
     - name: Rose Wang
       img: rosewang.png
@@ -49,15 +69,16 @@
       img: juliawhite.png
       bio:
         - >
-          I’m interested in how our understanding of cognitive mechanisms can be used to inform AI systems, specifically language models.
+          I am interested in the development of pragmatic and adaptive natural language 
+          generation algorithms for interactive dialogue systems.
 
     - name: Mike Wu
       img: mikewu.png
       webpage: //mikehwu.com/
       bio:
         - >
-          My current research interests are in bayesian deep learning,
-          sampling methods, and inference in generative models.
+          My current research interests are in bayesian deep learning, sampling methods, and 
+          inference in generative models.
   
 - role: Lab affiliates
   people:
@@ -65,59 +86,73 @@
       img: diliparumugam.jpg
       bio:
         - >
-          My research is aimed at understanding the key ingredients of sample-efficient reinforcement learning. Currently, I examine how information theory might be a useful tool for facilitating this understanding, with a focus on abstractions and natural language.
+          My research is aimed at understanding the key ingredients of sample-efficient 
+          reinforcement learning. Currently, I examine how information theory might be a useful 
+          tool for facilitating this understanding, with a focus on abstractions and natural 
+          language.
 
     - name: Jasmine Bayrooti
       img: jasminebayrooti.png
       bio:
         - >
-          I'm interested in understanding structure in images and videos, with a focus on contrastive representation learning, computational algebraic topology, and probabilistic graphical modelling.
+          I'm interested in understanding structure in images and videos, with a focus on 
+          contrastive representation learning, computational algebraic topology, and probabilistic 
+          graphical modelling.
 
     - name: Shyamal Buch
       img: shyamalbuch.png
       bio:
         - >
-          I'm working on methods to better understand the structure of events in vision and language, with a particular emphasis on video applications and language grounding.
+          I'm working on methods to better understand the structure of events in vision and 
+          language, with a particular emphasis on video applications and language grounding.
 
     - name: Lauren Gillespie
       img: laurengillespie.jpg
       bio:
         - >
-          My research aims to apply cutting-edge ML technologies to climate change-related ecological problems in concert with developing better ML methods for working with complex ecological and genomic data.
+          My research aims to apply cutting-edge ML technologies to climate change-related 
+          ecological problems in concert with developing better ML methods for working with 
+          complex ecological and genomic data.
 
     - name: Sidd Karamcheti
       img: siddkaramcheti.jpg
       webpage: https://www.siddkaramcheti.com/
       bio:
         - >
-          I'm interested in natural language processing in application to robotics, specifically looking at methods for adapting to users online, and learning through interaction.
+          I'm interested in natural language processing in application to robotics, specifically 
+          looking at methods for adapting to users online, and learning through interaction.
 
     - name: Elisa Kreiss
       img: elisakreiss.png
       webpage: //elisakreiss.com/
       bio:
         - >
-          I use probabilistic and neural network models to understand human language production and comprehension. In particular, I concentrate on the role context plays in this process.
+          I use probabilistic and neural network models to understand human language production 
+          and comprehension. In particular, I concentrate on the role context plays in this 
+          process.
 
     - name: Ben Newman
       img: bennewman.jpg
       webpage: //blnewman.com/
       bio:
         - >
-          I'm interested in understanding how neural models process language to build more flexible and safe NLP systems.
+          I'm interested in understanding how neural models process language to build more 
+          flexible and safe NLP systems.
 
     - name: Shashank Rammoorthy
       img: shashank.jpg
       bio:
         - >
-          My research interests are in models that learn across modalities and in the ways to build "ethical" language models.
+          My research interests are in models that learn across modalities and in the ways to 
+          build "ethical" language models.
 
     - name: Xikun Zhang
       img: xikun.jpg
       webpage: https://twitter.com/xikun_zhang_
       bio:
         - >
-          I am interested in visually grounded language understanding and generation, NLP probing and analysis, and graph representation learning, among other things.
+          I am interested in visually grounded language understanding and generation, NLP 
+          probing and analysis, and graph representation learning, among other things.
 
 - role: Alumni
   people:
