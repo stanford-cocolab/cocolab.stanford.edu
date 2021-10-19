@@ -7,11 +7,75 @@
 %% Saved with string encoding Unicode (UTF-8) 
 
 
-@inproceedings{wu2021generative,
-	author = {Malik, Ali and Wu, Mike and Vasavada, Vrinda and Song, Jingpeng and Mitchell, John and Piech, Chris and Goodman, Noah},
-	booktitle = {Proceedings of The 14th International Conference on Educational Data Mining (EDM 2021)},
-	title = {Generative Grading: Near Human-level Accuracy for Automated Feedback on Richly Structured Problems},
+@inproceedings{wang2021calibrate,
+	abstract = {To be good conversational partners, natural language processing (NLP) systems should be trained to produce contextually useful utterances. Prior work has investigated training NLP systems with communication-based objectives, where a neural listener stands in as a communication partner. However, these systems commonly suffer from semantic drift where the learned language diverges radically from natural language. We propose a method that uses a population of neural listeners to regularize speaker training. We first show that language drift originates from the poor uncertainty calibration of a neural listener, which makes high-certainty predictions on novel sentences. We explore ensemble- and dropout-based populations of listeners and find that the former results in better uncertainty quantification. We evaluate both population-based objectives on reference games, and show that the ensemble method with better calibration enables the speaker to generate pragmatic utterances while scaling to a large vocabulary and generalizing to new games and listeners.},
+	author = {Rose Wang and Julia White and Jesse Mu and Noah Goodman},
+	booktitle = {Findings of the 2021 Conference on Empirical Methods on Natural Language Processing (Findings of EMNLP)},
+	title = {Calibrate your listeners! Robust communication-based training for pragmatic speakers},
+	website = {https://arxiv.org/abs/2110.05422}
 	year = {2021}
+}
+
+@inproceedings{white2021open,
+	abstract = {An overarching goal of natural language processing is to enable machines to communicate seamlessly with humans. However, natural language can be ambiguous or unclear. In cases of uncertainty, humans engage in an interactive process known as repair: asking questions and seeking clarification until their uncertainty is resolved. We propose a framework for building a visually grounded question-asking model capable of producing polar (yes-no) clarification questions to resolve misunderstandings in dialogue. Our model uses an expected information gain objective to derive informative questions from an off-the-shelf image captioner without requiring any supervised question-answer data. We demonstrate our model's ability to pose questions that improve communicative success in a goal-oriented 20 questions game with synthetic and human answerers.},
+	author = {Julia White and Gabriel Poesia and Robert Hawkins and Dorsa Sadigh and Noah Goodman},
+	booktitle = {Proceedings of the 2021 Conference on Empirical Methods on Natural Language Processing (EMNLP)},
+	title = {Open-domain clarification question generation without question examples},
+	year = {2021},
+}
+
+@inproceedings{wu2021improving,
+	abstract = {In traditional software programs, we take for granted how easy it is to debug code by tracing program logic from variables back to input, apply unit tests and assertion statements to block erroneous behavior, and compose programs together. But as the programs we write grow more complex, it becomes hard to apply traditional software to applications like computer vision or natural language. Although deep learning programs have demonstrated strong performance on these applications, they sacrifice many of the functionalities of traditional software programs. In this paper, we work towards bridging the benefits of traditional and deep learning programs by jointly training a generative model to constrain neural network activations to "decode" back to inputs. Doing so enables practitioners to probe and track information encoded in activation(s), apply assertion-like constraints on what information is encoded in an activation, and compose separate neural networks together in a plug-and-play fashion. In our experiments, we demonstrate applications of decodable representations to out-of-distribution detection, adversarial examples, calibration, and fairness -- while matching standard neural networks in accuracy.},
+	author = {Mike Wu and Noah Goodman and Stefano Ermon},
+	booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+	title = {Improving Compositionality of Neural Networks by Decoding Representations to Inputs},
+	website = {https://arxiv.org/abs/2106.00769},
+	year = {2021},
+}
+
+@inproceedings{buch2021transactions,
+  abstract = {We present a new conjunctivist framework, neural event semantics (NES), for compositional grounded language understanding. Our approach treats all words as classifiers that compose to form a sentence meaning by multiplying output scores. These classifiers apply to spatial regions (events) and NES derives its semantic structure from language by routing events to different classifier argument inputs via soft attention. NES is trainable end-to-end by gradient descent with minimal supervision. We evaluate our method on compositional grounded language tasks in controlled synthetic and real-world settings. NES offers stronger generalization capability than standard function-based compositional frameworks, while improving accuracy over state-of-the-art neural methods on real-world language tasks.},
+  title={Neural Event Semantics for Grounded Language Understanding},
+  author={Shyamal Buch and Li Fei-Fei and Noah Goodman},
+  booktitle={Transactions of the Association for Computational Linguistics (TACL)},
+  year={2021},
+  website={https://transacl.org/ojs/index.php/tacl/article/view/3007},
+}
+
+@inproceedings{malik2021generative,
+	abstract = {Access to high-quality education at scale is limited by the difficulty of providing student feedback on open-ended assignments in structured domains like computer programming, graphics, and short response questions. This problem has proven to be exceptionally difficult: for humans, it requires large amounts of manual work, and for computers, until recently, achieving anything near human-level accuracy has been unattainable. In this paper, we present generative grading: a novel computational approach for providing feedback at scale that is capable of accurately grading student work and providing nuanced, interpretable feedback. Our approach uses generative descriptions of student cognition, written as probabilistic programs, to synthesise millions of labelled example solutions to a problem; we then learn to infer feedback for real student solutions based on this cognitive model. We apply our methods to three settings. In block-based coding, we achieve a 50% improvement upon the previous best results for feedback, achieving super-human accuracy. In two other widely different domains -- graphical tasks and short text answers -- we achieve major improvement over the previous state of the art by about 4x and 1.5x respectively, approaching human accuracy. In a real classroom, we ran an experiment where we used our system to augment human graders, yielding doubled grading accuracy while halving grading time.},
+	author = {Ali Malik and Mike Wu and Vrinda Vasavada and Jinpeng Song and Madison Coots and John Mitchell and Noah Goodman and Chris Piech},
+	booktitle = {Proceedings of The 14th International Conference on Educational Data Mining (EDM)},
+	title = {Generative Grading: Near Human-level Accuracy for Automated Feedback on Richly Structured Problems},
+	year = {2021},
+	website = {https://arxiv.org/abs/1905.09916},
+}
+
+@inproceedings{tamkin2021dabs,
+	abstract = {Self-supervised learning algorithms, including BERT and SimCLR, have enabled significant strides in fields like natural language processing, computer vision, and speech processing. However, the domain-specificity of these algorithms means that solutions must be handcrafted for each new setting, including myriad healthcare, scientific, and multimodal domains. To catalyze progress towards more domain6 agnostic methods, we introduce DABS: a Domain-Agnostic Benchmark for Self7 supervised learning. To perform well on DABS, an algorithm must be pretrained on six unlabeled datasets from diverse domains: natural images, text, speech recordings, medical imaging, multichannel sensor data, and paired text and images, and then perform well on a set of labeled tasks in each domain. We also present e-Mix and ShED: two baseline domain-agnostic algorithms; their relatively modest performance demonstrates that significant progress is needed before self-supervised learning is an out-of-the-box solution for arbitrary domains. Code for benchmark datasets and baseline algorithms is available at [redacted].},
+	author = {Alex Tamkin and Vincent Liu and Rongfei Lu and Daniel Fein and Colin Schultz and Noah Goodman},
+	booktitle = {Advances in Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track},
+	title = {DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning},
+	website = {https://openreview.net/pdf?id=Uk2mymgn_LZ},
+	year = {2021},
+}
+
+@inproceedings{poesia2021contrastive,
+	abstract = {Abstract symbolic reasoning, as required in domains such as mathematics and logic, is a key component of human intelligence. Solvers for these domains have important applications, especially to computer-assisted education. But learning to solve symbolic problems is challenging for machine learning algorithms. Existing models either learn from human solutions or use hand-engineered features, making them expensive to apply in new domains. In this paper, we instead consider symbolic domains as simple environments where states and actions are given as unstructured text, and binary rewards indicate whether a problem is solved. This flexible setup makes it easy to specify new domains, but search and planning become challenging. We introduce four environments inspired by the Mathematics Common Core Curriculum, and observe that existing Reinforcement Learning baselines perform poorly. We then present a novel learning algorithm, Contrastive Policy Learning (ConPoLe) that explicitly optimizes the InfoNCE loss, which lower bounds the mutual information between the current state and next states that continue on a path to the solution. ConPoLe successfully solves all four domains. Moreover, problem representations learned by ConPoLe enable accurate prediction of the categories of problems in a real mathematics curriculum. Our results suggest new directions for reinforcement learning in symbolic domains, as well as applications to mathematics education.},
+	author = {Gabriel Poesia and WenXin Dong and Noah Goodman},
+	booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+	title = {Contrastive Reinforcement Learning of Symbolic Reasoning Domains},
+	website = {https://arxiv.org/abs/2106.09146},
+	year = {2021},
+}
+
+@inproceedings{mu2021emergent,
+	abstract = {To build agents that can collaborate effectively with others, recent research has trained artificial agents to communicate with each other in Lewis-style referential games. However, this often leads to successful but uninterpretable communication. We argue that this is due to the game objective: communicating about a single object in a shared visual context is prone to overfitting and does not encourage language useful beyond concrete reference. In contrast, human language conveys a rich variety of abstract ideas. To promote such skills, we propose games that require communicating generalizations over sets of objects representing abstract visual concepts, optionally with separate contexts for each agent. We find that these games greatly improve systematicity and interpretability of the learned languages, according to several metrics in the literature. Finally, we propose a method for identifying logical operations embedded in the emergent languages by learning an approximate compositional reconstruction of the language.},
+	author = {Jesse Mu and Noah Goodman},
+	booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+	title = {Emergent Communication of Generalizations},
+	website = {https://arxiv.org/abs/2106.02668},
+	year = {2021},
 }
 
 @inproceedings{srivastava2021question,
@@ -78,13 +142,15 @@
 	author = {Tamkin, Alex and Singh, Trisha and Giovanardi, Davide and Goodman, Noah},
 	booktitle = {Findings of the 2020 Conference on Empirical Methods on Natural Language Processing},
 	title = {Investigating Transferability in Pretrained Language Models},
-	year = {2020}}
+	year = {2020},
+	website = {https://arxiv.org/abs/2004.14975}}
 
 @inproceedings{tamkin2020language,
 	author = {Tamkin, Alex and Jurafsky, Dan and Goodman, Noah},
 	booktitle = {Advances in Neural Information Processing Systems},
 	title = {Language Through a Prism: A Spectral Approach for Multiscale Language Representations},
-	year = {2020}}
+	year = {2020},
+	website = {https://proceedings.neurips.cc/paper/2020/hash/3acb2a202ae4bea8840224e6fce16fd0-Abstract.html}}
 
 @inproceedings{white2020learning,
 	author = {White, Julia and Mu, Jesse and Goodman, Noah},
@@ -113,6 +179,7 @@
 	pages = {e12845},
 	publisher = {Wiley Online Library},
 	title = {Characterizing the dynamics of learning in repeated reference games},
+	website = {https://arxiv.org/abs/1912.07199},
 	volume = {44},
 	year = {2020}}
 
@@ -123,6 +190,7 @@
 	date-added = {2020-09-05 01:12:17 +0000},
 	date-modified = {2020-09-05 01:12:23 +0000},
 	title = {Generalizing meanings from partners to populations: Hierarchical inference supports convention formation on networks},
+	website = {https://arxiv.org/abs/2002.01510},
 	year = {2020}}
 
 @article{el2019extracting,
@@ -135,6 +203,7 @@
 	publisher = {American Society of Mechanical Engineers Digital Collection},
 	title = {Extracting customer perceptions of product sustainability from online reviews},
 	volume = {141},
+	website = {https://asmedigitalcollection.asme.org/mechanicaldesign/article/141/12/121103/958466/Extracting-Customer-Perceptions-of-Product},
 	year = {2019}}
 
 @article{degen2020redundancy,
@@ -187,6 +256,7 @@ is usefully redundant.},
 	date-modified = {2020-09-05 00:58:02 +0000},
 	pages = {14036--14047},
 	title = {Variational Bayesian optimal experimental design},
+	website = {https://arxiv.org/abs/1903.05480},
 	year = {2019}}
 
 @article{peloquin2020interactions,
@@ -199,7 +269,9 @@ is usefully redundant.},
 	publisher = {Wiley Online Library},
 	title = {The interactions of rational, pragmatic agents lead to efficient language structure and use},
 	volume = {12},
-	year = {2020}}
+	year = {2020},
+	website = {https://cogsci.mindmodeling.org/2019/papers/0171/0171.pdf},
+}
 
 @inproceedings{peloquin2019interactions,
 	annote = {{<b>[Winner of the 2019 Cognitive Science Society computational modeling prize for Language.]</b>}},
@@ -221,6 +293,7 @@ is usefully redundant.},
 	author = {Mu, Jesse and Liang, Percy and Goodman, Noah},
 	booktitle = {NeurIPS Workshop on Visually Grounded Interaction and Language},
 	title = {Shaping Visual Representations with Language for Few-shot Classification},
+	website = {https://arxiv.org/abs/1911.02683},
 	year = {2019}}
 
 @inproceedings{chopra2019first,
@@ -230,6 +303,7 @@ is usefully redundant.},
 	date-modified = {2020-09-05 01:32:38 +0000},
 	pages = {226--232},
 	title = {The first crank of the cultural ratchet: Learning and transmitting concepts through language},
+	website = {https://cogsci.mindmodeling.org/2019/papers/0060/0060.pdf},
 	year = {2019}}
 
 @article{Fan2019,
@@ -292,9 +366,8 @@ is usefully redundant.},
 	pages = {619--628},
 	publisher = {Association for Computational Linguistics},
 	title = {Learning from Omission},
-	url = {https://www.aclweb.org/anthology/P19-1059},
-	year = {2019},
-	Bdsk-Url-1 = {https://www.aclweb.org/anthology/P19-1059}}
+	website = {https://aclanthology.org/P19-1059/},
+	year = {2019}}
 
 @inproceedings{CohnGordon2018PragmaticallyII,
 	author = {Reuben Cohn-Gordon and Noah D. Goodman and Christopher Potts},
@@ -302,6 +375,7 @@ is usefully redundant.},
 	date-added = {2019-09-06 15:42:04 +0000},
 	date-modified = {2019-09-06 15:42:04 +0000},
 	title = {Pragmatically Informative Image Captioning with Character-Level Reference},
+	website = {https://arxiv.org/abs/1804.05417},
 	year = {2018}}
 
 @inproceedings{CohnGordon2019LostIM,
@@ -310,6 +384,7 @@ is usefully redundant.},
 	date-added = {2019-09-06 15:40:52 +0000},
 	date-modified = {2019-09-06 15:40:52 +0000},
 	title = {Lost in Machine Translation: A Method to Reduce Meaning Loss},
+	website = {https://www.semanticscholar.org/paper/Lost-in-Machine-Translation%3A-A-Method-to-Reduce-Cohn-Gordon-Goodman/ed7c3eececad3915c865b7b11d88c338b0e0cbe1},
 	year = {2019}}
 
 @article{sumner2019cake,
@@ -322,6 +397,7 @@ is usefully redundant.},
 	publisher = {Public Library of Science},
 	title = {Cake or broccoli? Recency biases children's verbal responses},
 	volume = {14},
+	website = {https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217207},
 	year = {2019}}
 
 @inproceedings{nie-etal-2019-learning,
@@ -361,12 +437,13 @@ is usefully redundant.},
 	year = {2019}}
 
 @techreport{HawkinsGoodman18_QA,
-	Abstract = {What makes a question useful? What makes an answer helpful? Asking questions is one of our most efficient and reliable means of learning about the world. Yet we do not often pose these questions to an impartial oracle; we ask other agents, in dialogue. In this paper, we reconcile formal models of optimal question-asking with classic psycholinguistic effects of social context by extending recent probabilistic cognitive models of goal-relevant communication to dialogue. Agents hear an utterance, update their beliefs through social reasoning, and select an utterance in response. The utility of producing a question in this framework is the expected reduction in uncertainty about the aspects of the world relevant to the speaker's goal upon hearing an answer from their partner. Critically, this suggests that the question itself can be a signal to the speaker's underlying goals, and that a helpful answerer should be informative with respect to inferred goals, beyond the literal meaning of the question. We compare models of both the questioner and answerer within this framework based on three pieces of evidence: First, we account for classic effects in psycholinguistics showing that the same question can yield different answers depending on the context. Second, we run a real-time, multi-player communication game to jointly test predictions made by the questioner and answerer components of our model. Third, we show that the salience of goals affects both asking and answering questions. We find that sophisticated pragmatic reasoning in dialogue is needed to account for critical aspects of the data.},
+	Abstract = {Asking questions is one of our most efficient and reliable means of learning about the world. Yet we do not often pose these questions to an impartial oracle; we ask cooperative social partners, in dialogue. In this paper, we aim to reconcile formal models of optimal question asking and answering with classic effects of social context. We begin from the observation that question-answer dialogue is motivated by a two-sided asymmetry in beliefs: questioners have a private goal but lack goal-relevant information about the world, and answerers have private information but lack knowledge about the questioner's goal. We formalize this problem in a computational framework and derive pragmatic questioner and answerer behavior from recursive social reasoning. Critically, we predict that pragmatic answerers go beyond the literal meaning of the question to be informative with respect to inferred goals, and that pragmatic questioners may therefore select questions to more unambiguously signal their goals. We evaluate our pragmatic models against asocial models in two ways. First, we present computational simulations accounting for three classic answerer effects in psycholinguistics. We then introduce the Hidden Goal paradigm for experimentally eliciting questioner and answerer behavior in scenarios where there is uncertainty about the questioner's goal. We report data from three experiments in this paradigm and show how our core computational framework can be composed with more sophisticated question semantics, hierarchical goal spaces, and a persistent state over which extended dialogue can unfold. We find that social inference is needed to account for critical aspects of the data.},
 	Author = {{Hawkins}, R.~X.~D. and {Goodman}, N.~D.},
 	Date-Modified = {2019-03-29 15:28:29 +0000},
-	Title = {Questions and answers in dialogue},
+	journal = {Technical report: PsyArXiv:j2cp6},
+	Title = {Why do you ask? The informational dynamics of questions and answers},
 	Website = {https://psyarxiv.com/j2cp6},
-	Year = {Manuscript}}
+	Year = {2017}}
 
 @article{pyro_jmlr,
 	author = {Eli Bingham and Jonathan P. Chen and Martin Jankowiak and Fritz Obermeyer and Neeraj Pradhan and Theofanis Karaletsos and Rohit Singh and Paul Szerlip and Paul Horsfall and Noah D. Goodman},
@@ -396,7 +473,8 @@ is usefully redundant.},
 	Title = {On the grammatical source of adjective ordering preferences},
     Volume = {12},
     Number = {7},
-	Year = {2019}
+	Year = {2019},
+	website = {https://semprag.org/index.php/sp/article/view/sp.12.7}
 }
 
 @article{Degen2019-Pragmatics,
