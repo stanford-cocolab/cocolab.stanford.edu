@@ -3,6 +3,7 @@ layout: default
 title: Publications
 permalink: publications
 ---
+<!--
 ## Under review
 <br>
 
@@ -13,6 +14,7 @@ permalink: publications
 <br>
 
 {% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year=To appear] %}
+-->
 
 {% for year in (2006..2021) reversed %}
 

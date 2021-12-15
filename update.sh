@@ -1,7 +1,7 @@
 #!/bin/bash
 
 WWW_DIR="/afs/ir.stanford.edu/group/cocolab/WWW/"
-HOST="muj@myth.stanford.edu"
+HOST="juliawhi@myth.stanford.edu"
 
 set -e
 

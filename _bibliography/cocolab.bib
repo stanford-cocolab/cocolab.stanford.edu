@@ -1,12 +1,101 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Noah Goodman at 2021-02-25 07:32:34 -0800 
+%% Created for Noah Goodman at 2021-12-14 16:11:28 -0800 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{tobias2021counterfactual,
+	abstract = {How do people make causal judgments about physical events? We introduce the counterfactual simulation model (CSM) which predicts causal judgments in physical settings by comparing what actually happened with what would have happened in relevant counterfactual situations. The CSM postulates different aspects of causation that capture the extent to which a cause made a difference to whether and how the outcome occurred, and whether the cause was sufficient and robust. We test the CSM in several experiments in which participants make causal judgments about dynamic collision events. A preliminary study establishes a very close quantitative mapping between causal and counterfactual judgments. Experiment 1 demonstrates that counterfactuals are necessary for explaining causal judgments. Participants' judgments differed dramatically between pairs of situations in which what actually happened was identical, but where what would have happened differed. Experiment 2 features multiple candidate causes and shows that participants' judgments are sensitive to different aspects of causation. The CSM provides a better fit to participants' judgments than a heuristic model which uses features based on what actually happened. We discuss how the CSM can be used to model the semantics of different causal verbs, how it captures related concepts such as physical support, and how its predictions extend beyond the physical domain.},
+	author = {Gerstenberg, Tobias and Goodman, Noah and Lagnado, David and Tenenbaum, Joshua},
+	journal = {Psychological Review},
+	publisher = {American Psychological Association},
+	title = {A counterfactual simulation model of causal judgments for physical events},
+	website = {https://psycnet.apa.org/record/2021-52648-001},
+	year = {2021}}
+
+@inproceedings{wang2021calibrate,
+	abstract = {To be good conversational partners, natural language processing (NLP) systems should be trained to produce contextually useful utterances. Prior work has investigated training NLP systems with communication-based objectives, where a neural listener stands in as a communication partner. However, these systems commonly suffer from semantic drift where the learned language diverges radically from natural language. We propose a method that uses a population of neural listeners to regularize speaker training. We first show that language drift originates from the poor uncertainty calibration of a neural listener, which makes high-certainty predictions on novel sentences. We explore ensemble- and dropout-based populations of listeners and find that the former results in better uncertainty quantification. We evaluate both population-based objectives on reference games, and show that the ensemble method with better calibration enables the speaker to generate pragmatic utterances while scaling to a large vocabulary and generalizing to new games and listeners.},
+	author = {Rose Wang and Julia White and Jesse Mu and Noah Goodman},
+	booktitle = {Findings of the 2021 Conference on Empirical Methods on Natural Language Processing (Findings of EMNLP)},
+	title = {Calibrate your listeners! Robust communication-based training for pragmatic speakers},
+	website = {https://arxiv.org/abs/2110.05422},
+	year = {2021}}
+
+@inproceedings{white2021open,
+	abstract = {An overarching goal of natural language processing is to enable machines to communicate seamlessly with humans. However, natural language can be ambiguous or unclear. In cases of uncertainty, humans engage in an interactive process known as repair: asking questions and seeking clarification until their uncertainty is resolved. We propose a framework for building a visually grounded question-asking model capable of producing polar (yes-no) clarification questions to resolve misunderstandings in dialogue. Our model uses an expected information gain objective to derive informative questions from an off-the-shelf image captioner without requiring any supervised question-answer data. We demonstrate our model's ability to pose questions that improve communicative success in a goal-oriented 20 questions game with synthetic and human answerers.},
+	author = {Julia White and Gabriel Poesia and Robert Hawkins and Dorsa Sadigh and Noah Goodman},
+	booktitle = {Proceedings of the 2021 Conference on Empirical Methods on Natural Language Processing (EMNLP)},
+	title = {Open-domain clarification question generation without question examples},
+	website = {https://arxiv.org/abs/2110.09779},
+	year = {2021}}
+
+@inproceedings{wu2021improving,
+	abstract = {In traditional software programs, we take for granted how easy it is to debug code by tracing program logic from variables back to input, apply unit tests and assertion statements to block erroneous behavior, and compose programs together. But as the programs we write grow more complex, it becomes hard to apply traditional software to applications like computer vision or natural language. Although deep learning programs have demonstrated strong performance on these applications, they sacrifice many of the functionalities of traditional software programs. In this paper, we work towards bridging the benefits of traditional and deep learning programs by jointly training a generative model to constrain neural network activations to "decode" back to inputs. Doing so enables practitioners to probe and track information encoded in activation(s), apply assertion-like constraints on what information is encoded in an activation, and compose separate neural networks together in a plug-and-play fashion. In our experiments, we demonstrate applications of decodable representations to out-of-distribution detection, adversarial examples, calibration, and fairness -- while matching standard neural networks in accuracy.},
+	author = {Mike Wu and Noah Goodman and Stefano Ermon},
+	booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+	title = {Improving Compositionality of Neural Networks by Decoding Representations to Inputs},
+	website = {https://arxiv.org/abs/2106.00769},
+	year = {2021}}
+
+@article{buch2021transactions,
+	abstract = {We present a new conjunctivist framework, neural event semantics (NES), for compositional grounded language understanding. Our approach treats all words as classifiers that compose to form a sentence meaning by multiplying output scores. These classifiers apply to spatial regions (events) and NES derives its semantic structure from language by routing events to different classifier argument inputs via soft attention. NES is trainable end-to-end by gradient descent with minimal supervision. We evaluate our method on compositional grounded language tasks in controlled synthetic and real-world settings. NES offers stronger generalization capability than standard function-based compositional frameworks, while improving accuracy over state-of-the-art neural methods on real-world language tasks.},
+	author = {Shyamal Buch and Li Fei-Fei and Noah Goodman},
+	date-modified = {2021-12-14 16:11:25 -0800},
+	journal = {Transactions of the Association for Computational Linguistics (TACL)},
+	title = {Neural Event Semantics for Grounded Language Understanding},
+	website = {https://transacl.org/ojs/index.php/tacl/article/view/3007},
+	year = {2021}}
+
+@inproceedings{malik2021generative,
+	abstract = {Access to high-quality education at scale is limited by the difficulty of providing student feedback on open-ended assignments in structured domains like computer programming, graphics, and short response questions. This problem has proven to be exceptionally difficult: for humans, it requires large amounts of manual work, and for computers, until recently, achieving anything near human-level accuracy has been unattainable. In this paper, we present generative grading: a novel computational approach for providing feedback at scale that is capable of accurately grading student work and providing nuanced, interpretable feedback. Our approach uses generative descriptions of student cognition, written as probabilistic programs, to synthesise millions of labelled example solutions to a problem; we then learn to infer feedback for real student solutions based on this cognitive model. We apply our methods to three settings. In block-based coding, we achieve a 50% improvement upon the previous best results for feedback, achieving super-human accuracy. In two other widely different domains -- graphical tasks and short text answers -- we achieve major improvement over the previous state of the art by about 4x and 1.5x respectively, approaching human accuracy. In a real classroom, we ran an experiment where we used our system to augment human graders, yielding doubled grading accuracy while halving grading time.},
+	author = {Ali Malik and Mike Wu and Vrinda Vasavada and Jinpeng Song and Madison Coots and John Mitchell and Noah Goodman and Chris Piech},
+	booktitle = {Proceedings of The 14th International Conference on Educational Data Mining (EDM)},
+	title = {Generative Grading: Near Human-level Accuracy for Automated Feedback on Richly Structured Problems},
+	website = {https://arxiv.org/abs/1905.09916},
+	year = {2021}}
+
+@inproceedings{tamkin2021dabs,
+	abstract = {Self-supervised learning algorithms, including BERT and SimCLR, have enabled significant strides in fields like natural language processing, computer vision, and speech processing. However, the domain-specificity of these algorithms means that solutions must be handcrafted for each new setting, including myriad healthcare, scientific, and multimodal domains. To catalyze progress towards more domain6 agnostic methods, we introduce DABS: a Domain-Agnostic Benchmark for Self7 supervised learning. To perform well on DABS, an algorithm must be pretrained on six unlabeled datasets from diverse domains: natural images, text, speech recordings, medical imaging, multichannel sensor data, and paired text and images, and then perform well on a set of labeled tasks in each domain. We also present e-Mix and ShED: two baseline domain-agnostic algorithms; their relatively modest performance demonstrates that significant progress is needed before self-supervised learning is an out-of-the-box solution for arbitrary domains. Code for benchmark datasets and baseline algorithms is available at [redacted].},
+	author = {Alex Tamkin and Vincent Liu and Rongfei Lu and Daniel Fein and Colin Schultz and Noah Goodman},
+	booktitle = {Advances in Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track},
+	title = {DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning},
+	website = {https://openreview.net/pdf?id=Uk2mymgn_LZ},
+	year = {2021}}
+
+@inproceedings{poesia2021contrastive,
+	abstract = {Abstract symbolic reasoning, as required in domains such as mathematics and logic, is a key component of human intelligence. Solvers for these domains have important applications, especially to computer-assisted education. But learning to solve symbolic problems is challenging for machine learning algorithms. Existing models either learn from human solutions or use hand-engineered features, making them expensive to apply in new domains. In this paper, we instead consider symbolic domains as simple environments where states and actions are given as unstructured text, and binary rewards indicate whether a problem is solved. This flexible setup makes it easy to specify new domains, but search and planning become challenging. We introduce four environments inspired by the Mathematics Common Core Curriculum, and observe that existing Reinforcement Learning baselines perform poorly. We then present a novel learning algorithm, Contrastive Policy Learning (ConPoLe) that explicitly optimizes the InfoNCE loss, which lower bounds the mutual information between the current state and next states that continue on a path to the solution. ConPoLe successfully solves all four domains. Moreover, problem representations learned by ConPoLe enable accurate prediction of the categories of problems in a real mathematics curriculum. Our results suggest new directions for reinforcement learning in symbolic domains, as well as applications to mathematics education.},
+	author = {Gabriel Poesia and WenXin Dong and Noah Goodman},
+	booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+	title = {Contrastive Reinforcement Learning of Symbolic Reasoning Domains},
+	website = {https://arxiv.org/abs/2106.09146},
+	year = {2021}}
+
+@inproceedings{mu2021emergent,
+	abstract = {To build agents that can collaborate effectively with others, recent research has trained artificial agents to communicate with each other in Lewis-style referential games. However, this often leads to successful but uninterpretable communication. We argue that this is due to the game objective: communicating about a single object in a shared visual context is prone to overfitting and does not encourage language useful beyond concrete reference. In contrast, human language conveys a rich variety of abstract ideas. To promote such skills, we propose games that require communicating generalizations over sets of objects representing abstract visual concepts, optionally with separate contexts for each agent. We find that these games greatly improve systematicity and interpretability of the learned languages, according to several metrics in the literature. Finally, we propose a method for identifying logical operations embedded in the emergent languages by learning an approximate compositional reconstruction of the language.},
+	author = {Jesse Mu and Noah Goodman},
+	booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+	title = {Emergent Communication of Generalizations},
+	website = {https://arxiv.org/abs/2106.02668},
+	year = {2021}}
+
+@inproceedings{srivastava2021question,
+	author = {Megha Srivastava and Noah Goodman},
+	booktitle = {Association for Computational Linguistics (ACL)},
+	title = {Question Generation for Adaptive Education},
+	website = {https://arxiv.org/abs/2106.04262},
+	year = {2021}}
+
+@inproceedings{poesia2021pragmatic,
+	author = {Poesia, Gabriel and Goodman, Noah},
+	booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+	title = {Pragmatic Code Autocomplete},
+	volume = {35},
+	website = {https://gpoesia.com/papers/poesia2021pragmatic.pdf},
+	year = {2021}}
 
 @article{dasgupta2020analyzing,
 	author = {Dasgupta, Ishita and Guo, Demi and Gershman, Samuel and Goodman, Noah},
@@ -45,12 +134,14 @@
 	author = {Tamkin, Alex and Singh, Trisha and Giovanardi, Davide and Goodman, Noah},
 	booktitle = {Findings of the 2020 Conference on Empirical Methods on Natural Language Processing},
 	title = {Investigating Transferability in Pretrained Language Models},
+	website = {https://arxiv.org/abs/2004.14975},
 	year = {2020}}
 
 @inproceedings{tamkin2020language,
 	author = {Tamkin, Alex and Jurafsky, Dan and Goodman, Noah},
 	booktitle = {Advances in Neural Information Processing Systems},
 	title = {Language Through a Prism: A Spectral Approach for Multiscale Language Representations},
+	website = {https://proceedings.neurips.cc/paper/2020/hash/3acb2a202ae4bea8840224e6fce16fd0-Abstract.html},
 	year = {2020}}
 
 @inproceedings{white2020learning,
@@ -63,9 +154,12 @@
 @article{hawkins2020division,
 	author = {Hawkins, Robert D and Gweon, Hyowon and Goodman, Noah D},
 	journal = {Cognitive Science},
+	number = {3},
+	pages = {e12926},
 	title = {The division of labor in communication: Speakers help listeners account for asymmetries in visual perspective},
+	volume = {45},
 	website = {https://arxiv.org/abs/1807.09000},
-	year = {To appear}}
+	year = {2021}}
 
 @article{hawkins2020characterizing,
 	author = {Hawkins, Robert D and Frank, Michael C and Goodman, Noah D},
@@ -77,6 +171,7 @@
 	publisher = {Wiley Online Library},
 	title = {Characterizing the dynamics of learning in repeated reference games},
 	volume = {44},
+	website = {https://arxiv.org/abs/1912.07199},
 	year = {2020}}
 
 @inproceedings{hawkins2020generalizing,
@@ -86,6 +181,7 @@
 	date-added = {2020-09-05 01:12:17 +0000},
 	date-modified = {2020-09-05 01:12:23 +0000},
 	title = {Generalizing meanings from partners to populations: Hierarchical inference supports convention formation on networks},
+	website = {https://arxiv.org/abs/2002.01510},
 	year = {2020}}
 
 @article{el2019extracting,
@@ -98,6 +194,7 @@
 	publisher = {American Society of Mechanical Engineers Digital Collection},
 	title = {Extracting customer perceptions of product sustainability from online reviews},
 	volume = {141},
+	website = {https://asmedigitalcollection.asme.org/mechanicaldesign/article/141/12/121103/958466/Extracting-Customer-Perceptions-of-Product},
 	year = {2019}}
 
 @article{degen2020redundancy,
@@ -150,6 +247,7 @@ is usefully redundant.},
 	date-modified = {2020-09-05 00:58:02 +0000},
 	pages = {14036--14047},
 	title = {Variational Bayesian optimal experimental design},
+	website = {https://arxiv.org/abs/1903.05480},
 	year = {2019}}
 
 @article{peloquin2020interactions,
@@ -162,6 +260,7 @@ is usefully redundant.},
 	publisher = {Wiley Online Library},
 	title = {The interactions of rational, pragmatic agents lead to efficient language structure and use},
 	volume = {12},
+	website = {https://cogsci.mindmodeling.org/2019/papers/0171/0171.pdf},
 	year = {2020}}
 
 @inproceedings{peloquin2019interactions,
@@ -184,6 +283,7 @@ is usefully redundant.},
 	author = {Mu, Jesse and Liang, Percy and Goodman, Noah},
 	booktitle = {NeurIPS Workshop on Visually Grounded Interaction and Language},
 	title = {Shaping Visual Representations with Language for Few-shot Classification},
+	website = {https://arxiv.org/abs/1911.02683},
 	year = {2019}}
 
 @inproceedings{chopra2019first,
@@ -193,6 +293,7 @@ is usefully redundant.},
 	date-modified = {2020-09-05 01:32:38 +0000},
 	pages = {226--232},
 	title = {The first crank of the cultural ratchet: Learning and transmitting concepts through language},
+	website = {https://cogsci.mindmodeling.org/2019/papers/0060/0060.pdf},
 	year = {2019}}
 
 @article{Fan2019,
@@ -222,7 +323,7 @@ is usefully redundant.},
 	date-added = {2019-09-06 16:24:18 +0000},
 	date-modified = {2019-09-06 16:28:23 +0000},
 	title = {Continual Adaptation for Efficient Machine Communication},
-	website = {http://iliad.stanford.edu/pdfs/publications/hawkins2019continual.pdf},
+	website = {https://iliad.stanford.edu/pdfs/publications/hawkins2020continual.pdf},
 	year = {2019}}
 
 @inproceedings{Hawkins2019GraphicalCF,
@@ -254,9 +355,8 @@ is usefully redundant.},
 	pages = {619--628},
 	publisher = {Association for Computational Linguistics},
 	title = {Learning from Omission},
-	url = {https://www.aclweb.org/anthology/P19-1059},
-	year = {2019},
-	Bdsk-Url-1 = {https://www.aclweb.org/anthology/P19-1059}}
+	website = {https://aclanthology.org/P19-1059/},
+	year = {2019}}
 
 @inproceedings{CohnGordon2018PragmaticallyII,
 	author = {Reuben Cohn-Gordon and Noah D. Goodman and Christopher Potts},
@@ -264,6 +364,7 @@ is usefully redundant.},
 	date-added = {2019-09-06 15:42:04 +0000},
 	date-modified = {2019-09-06 15:42:04 +0000},
 	title = {Pragmatically Informative Image Captioning with Character-Level Reference},
+	website = {https://arxiv.org/abs/1804.05417},
 	year = {2018}}
 
 @inproceedings{CohnGordon2019LostIM,
@@ -272,6 +373,7 @@ is usefully redundant.},
 	date-added = {2019-09-06 15:40:52 +0000},
 	date-modified = {2019-09-06 15:40:52 +0000},
 	title = {Lost in Machine Translation: A Method to Reduce Meaning Loss},
+	website = {https://www.semanticscholar.org/paper/Lost-in-Machine-Translation%3A-A-Method-to-Reduce-Cohn-Gordon-Goodman/ed7c3eececad3915c865b7b11d88c338b0e0cbe1},
 	year = {2019}}
 
 @article{sumner2019cake,
@@ -284,6 +386,7 @@ is usefully redundant.},
 	publisher = {Public Library of Science},
 	title = {Cake or broccoli? Recency biases children's verbal responses},
 	volume = {14},
+	website = {https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217207},
 	year = {2019}}
 
 @inproceedings{nie-etal-2019-learning,
@@ -296,9 +399,9 @@ is usefully redundant.},
 	pages = {113--120},
 	publisher = {Association for Computational Linguistics},
 	title = {Learning to Explain: Answering Why-Questions via Rephrasing},
-	website = {https://www.aclweb.org/anthology/W19-4113},
+	website = {https://aclanthology.org/W19-4113/},
 	year = {2019},
-	Bdsk-Url-1 = {https://doi.org/10.18653/v1/W19-4113}}
+	Bdsk-Url-1 = {https://aclanthology.org/W19-4113/}}
 
 @inproceedings{nie-etal-2019-dissent,
 	abstract = {Learning effective representations of sentences is one of the core missions of natural language understanding. Existing models either train on a vast amount of text, or require costly, manually curated sentence relation datasets. We show that with dependency parsing and rule-based rubrics, we can curate a high quality sentence relation task by leveraging explicit discourse relations. We show that our curated dataset provides an excellent signal for learning vector representations of sentence meaning, representing relations that can only be determined when the meanings of two sentences are combined. We demonstrate that the automatically curated corpus allows a bidirectional LSTM sentence encoder to yield high quality sentence embeddings and can serve as a supervised fine-tuning dataset for larger models such as BERT. Our fixed sentence embeddings achieve high performance on a variety of transfer tasks, including SentEval, and we achieve state-of-the-art results on Penn Discourse Treebank{'}s implicit relation prediction task.},
@@ -310,9 +413,9 @@ is usefully redundant.},
 	pages = {4497--4510},
 	publisher = {Association for Computational Linguistics},
 	title = {{D}is{S}ent: Learning Sentence Representations from Explicit Discourse Relations},
-	website = {https://www.aclweb.org/anthology/P19-1442},
+	website = {https://aclanthology.org/P19-1442/},
 	year = {2019},
-	Bdsk-Url-1 = {https://doi.org/10.18653/v1/P19-1442}}
+	Bdsk-Url-1 = {https://aclanthology.org/P19-1442/}}
 
 @article{OngEtAl19,
 	abstract = {Affective Computing is a rapidly growing field spurred by advancements in artificial intelligence, but often, held back by the inability to translate psychological theories of emotion into tractable computational models. To address this, we propose a probabilistic programming approach to affective computing, which models psychological-grounded theories as generative models of emotion, and implements them as stochastic, executable computer programs. We first review probabilistic approaches that integrate reasoning about emotions with reasoning about other latent mental states (e.g., beliefs, desires) in context. Recently-developed probabilistic programming languages offer several key desidarata over previous approaches, such as: (i) flexibility in representing emotions and emotional processes; (ii) modularity and compositionality; (iii) integration with deep learning libraries that facilitate efficient inference and learning from large, naturalistic data; and (iv) ease of adoption. Furthermore, using a probabilistic programming framework allows a standardized platform for theory-building and experimentation: Competing theories (e.g., of appraisal or other emotional processes) can be easily compared via modular substitution of code followed by model comparison. To jumpstart adoption, we illustrate our points with executable code that researchers can easily modify for their own models. We end with a discussion of applications and future directions of the probabilistic programming approach},
@@ -323,12 +426,13 @@ is usefully redundant.},
 	year = {2019}}
 
 @techreport{HawkinsGoodman18_QA,
-	abstract = {What makes a question useful? What makes an answer helpful? Asking questions is one of our most efficient and reliable means of learning about the world. Yet we do not often pose these questions to an impartial oracle; we ask other agents, in dialogue. In this paper, we reconcile formal models of optimal question-asking with classic psycholinguistic effects of social context by extending recent probabilistic cognitive models of goal-relevant communication to dialogue. Agents hear an utterance, update their beliefs through social reasoning, and select an utterance in response. The utility of producing a question in this framework is the expected reduction in uncertainty about the aspects of the world relevant to the speaker's goal upon hearing an answer from their partner. Critically, this suggests that the question itself can be a signal to the speaker's underlying goals, and that a helpful answerer should be informative with respect to inferred goals, beyond the literal meaning of the question. We compare models of both the questioner and answerer within this framework based on three pieces of evidence: First, we account for classic effects in psycholinguistics showing that the same question can yield different answers depending on the context. Second, we run a real-time, multi-player communication game to jointly test predictions made by the questioner and answerer components of our model. Third, we show that the salience of goals affects both asking and answering questions. We find that sophisticated pragmatic reasoning in dialogue is needed to account for critical aspects of the data.},
+	abstract = {Asking questions is one of our most efficient and reliable means of learning about the world. Yet we do not often pose these questions to an impartial oracle; we ask cooperative social partners, in dialogue. In this paper, we aim to reconcile formal models of optimal question asking and answering with classic effects of social context. We begin from the observation that question-answer dialogue is motivated by a two-sided asymmetry in beliefs: questioners have a private goal but lack goal-relevant information about the world, and answerers have private information but lack knowledge about the questioner's goal. We formalize this problem in a computational framework and derive pragmatic questioner and answerer behavior from recursive social reasoning. Critically, we predict that pragmatic answerers go beyond the literal meaning of the question to be informative with respect to inferred goals, and that pragmatic questioners may therefore select questions to more unambiguously signal their goals. We evaluate our pragmatic models against asocial models in two ways. First, we present computational simulations accounting for three classic answerer effects in psycholinguistics. We then introduce the Hidden Goal paradigm for experimentally eliciting questioner and answerer behavior in scenarios where there is uncertainty about the questioner's goal. We report data from three experiments in this paradigm and show how our core computational framework can be composed with more sophisticated question semantics, hierarchical goal spaces, and a persistent state over which extended dialogue can unfold. We find that social inference is needed to account for critical aspects of the data.},
 	author = {{Hawkins}, R.~X.~D. and {Goodman}, N.~D.},
 	date-modified = {2019-03-29 15:28:29 +0000},
-	title = {Questions and answers in dialogue},
+	journal = {Technical report: PsyArXiv:j2cp6},
+	title = {Why do you ask? The informational dynamics of questions and answers},
 	website = {https://psyarxiv.com/j2cp6},
-	year = {Manuscript}}
+	year = {2017}}
 
 @article{pyro_jmlr,
 	author = {Eli Bingham and Jonathan P. Chen and Martin Jankowiak and Fritz Obermeyer and Neeraj Pradhan and Theofanis Karaletsos and Rohit Singh and Paul Szerlip and Paul Horsfall and Noah D. Goodman},
@@ -337,7 +441,7 @@ is usefully redundant.},
 	pages = {1-6},
 	title = {Pyro: Deep Universal Probabilistic Programming},
 	volume = {20},
-	website = {http://jmlr.org/papers/v20/18-403.html},
+	website = {https://jmlr.org/papers/v20/18-403.html},
 	year = {2019}}
 
 @article{Hawkins2019-TICS,
@@ -401,7 +505,7 @@ is usefully redundant.},
 	pages = {1--22},
 	publisher = {Springer},
 	title = {A thousand studies for the price of one: Accelerating psychological science with Pushkin},
-	website = {https://www.ncbi.nlm.nih.gov/pubmed/30746644},
+	website = {https://pubmed.ncbi.nlm.nih.gov/30746644/},
 	year = {2019}}
 
 @inproceedings{NIPS2018_7801,
@@ -411,7 +515,7 @@ is usefully redundant.},
 	editor = {S. Bengio and H. Wallach and H. Larochelle and K. Grauman and N. Cesa-Bianchi and R. Garnett},
 	pages = {5576--5586},
 	title = {Multimodal Generative Models for Scalable Weakly-Supervised Learning},
-	website = {http://papers.nips.cc/paper/7801-multimodal-generative-models-for-scalable-weakly-supervised-learning.pdf},
+	website = {https://papers.nips.cc/paper/7801-multimodal-generative-models-for-scalable-weakly-supervised-learning.pdf},
 	year = {2018}}
 
 @inproceedings{NIPS2018_8277,
@@ -421,7 +525,7 @@ is usefully redundant.},
 	editor = {S. Bengio and H. Wallach and H. Larochelle and K. Grauman and N. Cesa-Bianchi and R. Garnett},
 	pages = {10814--10823},
 	title = {Bias and Generalization in Deep Generative Models: An Empirical Study},
-	website = {http://papers.nips.cc/paper/8277-bias-and-generalization-in-deep-generative-models-an-empirical-study.pdf},
+	website = {https://papers.nips.cc/paper/8277-bias-and-generalization-in-deep-generative-models-an-empirical-study.pdf},
 	year = {2018}}
 
 @inproceedings{Cohn-Gordon2018-SCiL,
@@ -566,7 +670,7 @@ crowdsourcing.},
 	date-modified = {2018-11-16 19:22:26 +0000},
 	journal = {Cerebral Cortex},
 	title = {Beyond Reward Prediction Errors: Human Striatum Updates Rule Values During Learning},
-	website = {http://www.biorxiv.org/content/biorxiv/early/2017/03/09/115253.full.pdf},
+	website = {https://www.biorxiv.org/content/biorxiv/early/2017/03/09/115253.full.pdf},
 	year = {2017}}
 
 @inproceedings{SiddharthEtAl2017-NIPS,
@@ -641,7 +745,7 @@ and quantitative evaluation of its discriminative ability on a variety of models
 	author = {Lieder, Falk and Griffiths, Thomas L. and Huys, Quentin J.M. and Goodman, Noah D.},
 	journal = {Psychonomic Bulletin and Review},
 	title = {The anchoring bias reflects rational use of cognitive resources},
-	website = {https://www.researchgate.net/profile/Falk_Lieder/publication/315710809_The_anchoring_bias_reflects_rational_use_of_cognitive_resources/links/58e050d3aca272059aae5810/The-anchoring-bias-reflects-rational-use-of-cognitive-resources.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=n4BQaOsfNNjl9xK1qZe6GpATRRk827oRysXnBOjcZKkc6SVQyDjD3oNRXcFP2ZoHDZYPsDCcMG8WbA8zJ9Z2ho8B1H7zr2_ZQ-FAnwR8VBg.Uu3ROBlmAjQZXJhrwP7Bf-OGSWymAHYbe_blDf8dOb4Mo1p8do93WcMuQlIji5UTqB2G9RDO4_-HVONO5ZstFA.GzLdmpFdSilxKvOXQ_uFjASYpjSrcqz-pseH9CMlpVto2nvFAa0jq6LZo3r3EuiMgj7ObzJYCdvjSPl6FC3hIg.7ccHYHQZjTwAJjnLDdsyoD4xlmdxyf1eBuBH4na0FqvjONixjkdq75FCS6k18TryRTMQbFVNki5jXXfSFAFqoA},
+	website = {https://www.researchgate.net/publication/315710809_The_anchoring_bias_reflects_rational_use_of_cognitive_resources},
 	year = {2017}}
 
 @article{FalkEtAl2017b,
@@ -649,7 +753,7 @@ and quantitative evaluation of its discriminative ability on a variety of models
 	author = {Lieder, Falk and Griffiths, Thomas L. and Huys, Quentin J.M. and Goodman, Noah D.},
 	journal = {Psychonomic Bulletin and Review},
 	title = {Empirical evidence for resource-rational anchoring and adjustment},
-	website = {https://www.researchgate.net/profile/Falk_Lieder/publication/315747243_Empirical_evidence_for_resource-rational_anchoring_and_adjustment/links/58e1a868a6fdcc41bf944fd9/Empirical-evidence-for-resource-rational-anchoring-and-adjustment.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=lvEpliZE4Yf7zTDMwS7FnZFMp0SvVzwKNNOAXo8uvETLDZ-xH7IiTPMZSr2oED1P6hX0EltX7Vgk8FThQQcDBGXwZf0sMbl1g7dn_uDdMzA.QXaXo2LmbGq3qWng1dLbkuuTNzjTZgJRK-U1FGWqZLK3L-WIMX_HTTlvv4DGFTQg3OdrMn7qeuoPxF3FGhwIZA.KOJ2lUuEa7NeJ9HVKgSlXar8xyCQHk8_6Vd-5kBFsNRnTSBpiZfJ8070gaagAqEEh0ytwQhekQSVGE61dSWXGg.yftla7nu0xaL7KggNP62UxR1wB59VLzXrqGFUJV4YPC1fK87-cSvwg7790XYkU6EDdEAHW-z6X3DnJLTI1VEMw},
+	website = {https://www.researchgate.net/publication/315747243_Empirical_evidence_for_resource-rational_anchoring_and_adjustment},
 	year = {2017}}
 
 @article{MonroeHawkinsEtAl2017-TACL,
@@ -662,7 +766,7 @@ and quantitative evaluation of its discriminative ability on a variety of models
 	pages = {325--338},
 	title = {Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding},
 	volume = {5},
-	website = {http://www.aclweb.org/anthology/Q17-1023},
+	website = {https://aclanthology.org/Q17-1023/},
 	year = {2017}}
 
 @techreport{ritchie2016DAIPP,
@@ -691,7 +795,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {395-436},
 	title = {The Language of Generalization},
 	volume = {126},
-	website = {http://arxiv.org/abs/1608.02926},
+	website = {https://arxiv.org/abs/1608.02926},
 	year = {2019}}
 
 @article{tessler_goodman_frank_2017,
@@ -712,7 +816,7 @@ precisely how abstract knowledge is learned from language.},
 	date-modified = {2019-03-29 15:58:39 +0000},
 	journal = {Technical report: arXiv:1608.05046},
 	title = {Practical optimal experiment design with probabilistic programs},
-	website = {http://arxiv.org/abs/1608.05046},
+	website = {https://arxiv.org/abs/1608.05046},
 	year = {2016}}
 
 @inproceedings{hawkins2017cogsci,
@@ -742,7 +846,7 @@ precisely how abstract knowledge is learned from language.},
 	date-added = {2017-02-22 13:01:38 +0000},
 	date-modified = {2017-02-22 13:03:04 +0000},
 	title = {"I won't lie, it wasn't amazing": Modeling polite indirect speech},
-	website = {http://langcog.stanford.edu/papers_new/yoon-2017-underrev.pdf},
+	website = {https://langcog.stanford.edu/papers_new/yoon-2017-cogsci.pdf},
 	year = {2017}}
 
 @inproceedings{tessler2017cogsci,
@@ -752,7 +856,7 @@ precisely how abstract knowledge is learned from language.},
 	date-added = {2017-02-22 13:01:38 +0000},
 	date-modified = {2017-02-22 13:03:04 +0000},
 	title = {Warm (for winter): Comparison class understanding in vague language},
-	website = {http://stanford.edu/~mtessler/papers/Tessler2017-cogsci-submitted.pdf},
+	website = {https://iccm-conference.neocities.org/2017/ICCMprogram_files/paper_13.pdf},
 	year = {2017}}
 
 @inproceedings{evans2016learning,
@@ -776,7 +880,7 @@ precisely how abstract knowledge is learned from language.},
 	date-added = {2015-12-1 12:03:30 +0000},
 	date-modified = {2015-12-21 15:27:03 +0000},
 	title = {Learning the Preferences of Ignorant, Inconsistent Agents},
-	website = {http://stuhlmueller.org/papers/preferences-aaai2016.pdf},
+	website = {https://stuhlmueller.org/papers/preferences-aaai2016.pdf},
 	year = {2016}}
 
 @inproceedings{qing2016cogsci,
@@ -798,7 +902,7 @@ precisely how abstract knowledge is learned from language.},
 	date-added = {2016-04-15 12:58:18 +0000},
 	date-modified = {2016-04-15 13:02:57 +0000},
 	title = {The Pragmatics of Spatial Language},
-	website = {http://www.mit.edu/~tomeru/papers/spatialImplicature.pdf},
+	website = {https://www.mit.edu/%7etomeru/papers/spatialImplicature.pdf},
 	year = {2016}}
 
 @inproceedings{franke2016cogsci,
@@ -807,7 +911,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Michael Franke and Fabian Dablander and Anthea Sch{\"o}ller and Erin Bennett and Judith Degen and Michael Henry Tessler and Justine Kao and Noah D. Goodman},
 	booktitle = {Proceedings of the Thirty-Eighth Annual Conference of the Cognitive Science Society},
 	title = {What does the crowd believe? A hierarchical approach to estimating subjective beliefs from empirical data},
-	website = {http://www.sfs.uni-tuebingen.de/~mfranke/Papers/FrankeDablander_2016_What_does_the_crowd_believe.pdf},
+	website = {https://www.sfs.uni-tuebingen.de/%7emfranke/Papers/FrankeDablander_2016_What_does_the_crowd_believe.pdf},
 	year = {2016}}
 
 @inproceedings{ong2016cogsci,
@@ -849,7 +953,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Yoon, Erica J and Tessler, Michael Henry and Goodman, Noah D and Frank, Michael C},
 	booktitle = {Proceedings of the Thirty-Eighth Annual Conference of the Cognitive Science Society},
 	title = {Talking with tact: Polite language as a balance between kindness and informativity},
-	website = {http://stanford.edu/~mtessler/papers/YoonTessler2016-cogsci.pdf},
+	website = {http://langcog.stanford.edu/papers_new/yoon-2016-cogsci.pdf},
 	year = {2016}}
 
 @inproceedings{tessler2016cogsci,
@@ -858,7 +962,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Tessler, Michael Henry and Goodman, Noah D},
 	booktitle = {Proceedings of the Thirty-Eighth Annual Conference of the Cognitive Science Society},
 	title = {Communicating generalizations about events},
-	website = {http://stanford.edu/~mtessler/papers/Tessler2016-cogsci.pdf},
+	website = {https://cseweb.ucsd.edu//%7egary/cs200/w17/Tessler2016-cogsci.pdf},
 	year = {2016}}
 
 @inproceedings{hawkins2016cogsci,
@@ -883,7 +987,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Monroe, Will and Goodman, Noah D and Potts, Chris},
 	booktitle = {Proceedings of the 2016 Conference on Empirical Methods on Natural Language Processing (EMNLP 2016)},
 	title = {Learning to Generate Compositional Color Descriptions},
-	website = {http://arxiv.org/abs/1606.03821},
+	website = {https://arxiv.org/abs/1606.03821},
 	year = {2016}}
 
 @article{ScontrasEtAl2016-OpenMind,
@@ -892,7 +996,7 @@ precisely how abstract knowledge is learned from language.},
 	date-modified = {2016-09-27 14:43:24 +0000},
 	journal = {Open Mind},
 	title = {Subjectivity predicts adjective ordering preferences},
-	website = {http://www.mitpressjournals.org/doi/pdf/10.1162/OPMI_a_00005},
+	website = {https://alpslab.stanford.edu/papers/2017_ScontrasDegenGoodman.pdf},
 	year = {2017}}
 
 @article{GoodmanFrank2016-TICS,
@@ -932,7 +1036,7 @@ precisely how abstract knowledge is learned from language.},
 	date-added = {2015-07-30 15:58:46 +0000},
 	date-modified = {2015-07-30 16:00:44 +0000},
 	title = {Evaluating Models of Computation and Storage in Human Sentence Processing},
-	website = {http://web.mit.edu/timod/www/papers/reading-time.pdf},
+	website = {http://people.linguistics.mcgill.ca/%7etimothy.odonnell/papers/reading-time.pdf},
 	year = {2015}}
 
 @article{OngEtAl2015-Cognition,
@@ -953,7 +1057,7 @@ precisely how abstract knowledge is learned from language.},
 	journal = {Semantics and Pragmatics},
 	title = {Pragmatic Reasoning through Semantic Inference},
 	volume = {9},
-	website = {http://semprag.org/article/view/sp.9.20/pdf},
+	website = {https://semprag.org/article/view/sp.9.20/pdf},
 	year = {2016}}
 
 @article{UllmanEtAl2018,
@@ -981,7 +1085,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Tomer D. Ullman and Andreas Stuhlm\"{u}ller and Noah D. Goodman and Joshua B. Tenenbaum},
 	booktitle = {Proceedings of the Thirty-Sixth Annual Conference of the {C}ognitive {S}cience {S}ociety},
 	title = {Learning physics from dynamical scenes},
-	website = {http://stuhlmueller.org/papers/physics-cogsci2014.pdf},
+	website = {https://stuhlmueller.org/papers/physics-cogsci2014.pdf},
 	year = {2014}}
 
 @inproceedings{RitchieEtAl2015-SIGGRAPH,
@@ -1137,7 +1241,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {392-424},
 	title = {The logical primitives of thought: Empirical foundations for compositional cognitive models},
 	volume = {123},
-	website = {https://colala.bcs.rochester.edu/papers/piantadosi2016logical.pdf},
+	website = {https://psycnet.apa.org/fulltext/2016-18127-001.pdf},
 	year = {2016}}
 
 @article{BergenGoodman2015-TiCS,
@@ -1247,7 +1351,7 @@ precisely how abstract knowledge is learned from language.},
 	booktitle = {AISTATS 2014},
 	date-modified = {2015-12-22 19:02:19 +0000},
 	title = {Generating Efficient MCMC Kernels from Probabilistic Programs},
-	website = {https://web.stanford.edu/~ngoodman/papers/aistats2014-shred.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/aistats2014-shred.pdf},
 	year = {2014}}
 
 @article{ShaftoEtAl2014,
@@ -1258,7 +1362,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {55--89},
 	title = {A rational account of pedagogical reasoning: Teaching by, and learning from, examples},
 	volume = {71},
-	website = {https://web.stanford.edu/~ngoodman/papers/shaftogg14.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/shaftogg14.pdf},
 	year = {2014}}
 
 @inproceedings{Tessler:2014wu,
@@ -1266,7 +1370,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Tessler, Michael Henry and Goodman, Noah D.},
 	booktitle = {Proceedings of the Thirty-Sixth Annual Conference of the {C}ognitive {S}cience {S}ociety},
 	title = {Some arguments are probably valid: Syllogistic reasoning as communication},
-	website = {https://web.stanford.edu/~ngoodman/papers/cogsci14-syllogisms_tessler.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/cogsci14-syllogisms_tessler.pdf},
 	year = {2014}}
 
 @inproceedings{GerstenbergEtAl2014-Cogsci,
@@ -1284,7 +1388,7 @@ precisely how abstract knowledge is learned from language.},
 	date-added = {2014-04-07 15:38:04 +0000},
 	date-modified = {2014-04-07 15:38:45 +0000},
 	title = {Amortized inference in probabilistic reasoning},
-	website = {https://web.stanford.edu/~ngoodman/papers/amortized_inference.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/amortized_inference.pdf},
 	year = {2014}}
 
 @inproceedings{DegenGoodman2014-Cogsci,
@@ -1303,7 +1407,7 @@ precisely how abstract knowledge is learned from language.},
 	date-added = {2014-04-04 15:59:55 +0000},
 	date-modified = {2014-04-07 15:34:52 +0000},
 	title = {The strategic use of noise in pragmatic reasoning},
-	website = {//web.mit.edu/bergen/www/papers/BergenGoodman2014.pdf},
+	website = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/tops.12144},
 	year = {2014}}
 
 @inproceedings{KaoEtAl2014-Cogsci,
@@ -1339,7 +1443,7 @@ precisely how abstract knowledge is learned from language.},
 	annote = {(Unpublished manuscript.)},
 	author = {Goodman, N. D.},
 	title = {Grounding Lexical Meaning in Core Cognition},
-	website = {https://web.stanford.edu/~ngoodman/papers/LexSemSquibb.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/LexSemSquibb.pdf},
 	year = {2013}}
 
 @article{FrankGoodmanICOM,
@@ -1363,7 +1467,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {599--637},
 	title = {One and Done? Optimal Decisions From Very Few Samples},
 	volume = {38},
-	website = {https://web.stanford.edu/~ngoodman/papers/VulGoodmanGriffithsTenenbaum-COGS-2014.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/VulGoodmanGriffithsTenenbaum-COGS-2014.pdf},
 	year = {2014}}
 
 @inproceedings{stuhlmuller2013learning,
@@ -1371,7 +1475,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Stuhlm{\"u}ller, Andreas and Taylor, Jacob and Goodman, Noah},
 	booktitle = {Advances in Neural Information Processing Systems (NIPS 2013)},
 	title = {Learning Stochastic Inverses},
-	website = {https://web.stanford.edu/~ngoodman/papers/inverses-nips-2013.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/inverses-nips-2013.pdf},
 	year = {2013}}
 
 @inproceedings{smith2013learning,
@@ -1390,7 +1494,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Kao, Justine T and Levy, Roger and Goodman, Noah D},
 	booktitle = {Proceedings of the Thirty-Fifth Annual Conference of the {C}ognitive {S}cience {S}ociety},
 	title = {The Funny Thing About Incongruity: A Computational Model of Humor in Puns},
-	website = {https://web.stanford.edu/~ngoodman/papers/KaoLevyGoodman.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/KaoLevyGoodman.pdf},
 	year = {2013}}
 
 @inproceedings{lieder2013learned,
@@ -1398,7 +1502,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Lieder, Falk and Goodman, Noah D and Huys, Quentin JM},
 	booktitle = {Proceedings of the Thirty-Fifth Annual Conference of the {C}ognitive {S}cience {S}ociety},
 	title = {Learned helplessness and generalization},
-	website = {https://web.stanford.edu/~ngoodman/papers/LiederGoodmanHuys2013.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/LiederGoodmanHuys2013.pdf},
 	year = {2013}}
 
 @misc{goodman2013principles,
@@ -1407,7 +1511,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Goodman, Noah D},
 	booktitle = {POPL 2013},
 	title = {The principles and practice of probabilistic programming},
-	website = {https://web.stanford.edu/~ngoodman/papers/POPL2013-abstract.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/POPL2013-abstract.pdf},
 	year = {2013}}
 
 @article{Goodman2013,
@@ -1417,7 +1521,7 @@ precisely how abstract knowledge is learned from language.},
 	page = {173--184},
 	title = {Knowledge and implicature: Modeling language understanding as social cognition},
 	volume = {5},
-	website = {https://web.stanford.edu/~ngoodman/papers/GS-TopiCS-2013.pdf},
+	website = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/tops.12007},
 	year = {2013}}
 
 @inproceedings{Lassiter2013,
@@ -1428,7 +1532,7 @@ precisely how abstract knowledge is learned from language.},
 	date-modified = {2015-12-21 20:38:44 +0000},
 	pages = {587--610},
 	title = {Context, scale structure, and statistics in the interpretation of positive-form adjectives},
-	website = {http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/2658/2404},
+	website = {https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/2658/2404},
 	year = {2013}}
 
 @article{Stuhlmueller2013,
@@ -1440,7 +1544,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {80--99},
 	title = {Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs},
 	volume = {28},
-	website = {https://web.stanford.edu/~ngoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/StuhlmuellerGoodman-CogSys-2013.pdf},
 	year = {2014}}
 
 @article{Hamlin2013,
@@ -1454,7 +1558,7 @@ precisely how abstract knowledge is learned from language.},
 	publisher = {Wiley Online Library},
 	title = {The mentalistic basis of core social cognition: experiments in preverbal infants and a computational model},
 	volume = {16},
-	website = {https://web.stanford.edu/~ngoodman/papers/HamlinUllmanetalDevSci2013.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/HamlinUllmanetalDevSci2013.pdf},
 	year = {2013}}
 
 @article{seiver2013did,
@@ -1465,7 +1569,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {443--454},
 	title = {Did she jump because she was the big sister or because the trampoline was safe? Causal inference and the development of social attribution},
 	volume = {84},
-	website = {https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2012.01865.x/full},
+	website = {https://onlinelibrary.wiley.com/action/cookieAbsent},
 	year = {2013}}
 
 @inproceedings{lieder2012burn,
@@ -1474,7 +1578,7 @@ precisely how abstract knowledge is learned from language.},
 	booktitle = {Advances in Neural Information Processing Systems},
 	pages = {2699--2707},
 	title = {Burn-in, bias, and the rationality of anchoring},
-	website = {https://web.stanford.edu/~ngoodman/papers/LiederGriffithsGoodman2013NIPS.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/LiederGriffithsGoodman2013NIPS.pdf},
 	year = {2012}}
 
 @article{Ullman2012,
@@ -1486,7 +1590,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {455--480},
 	title = {Theory learning as stochastic search in the language of thought},
 	volume = {27},
-	website = {http://www.mit.edu/~tomeru/papers/tlss-final.pdf},
+	website = {https://www.mit.edu/%7etomeru/papers/tlss-final.pdf},
 	year = {2012}}
 
 @inproceedings{stuhlmuller2012dynamic,
@@ -1504,7 +1608,7 @@ precisely how abstract knowledge is learned from language.},
 	booktitle = {Proceedings of the 25th annual ACM symposium on User interface software and technology},
 	pages = {63--74},
 	title = {Learning design patterns with bayesian grammar induction},
-	website = {https://web.stanford.edu/~ngoodman/papers/Talton12LDPBG.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/Talton12LDPBG.pdf},
 	year = {2012}}
 
 @article{frank2012predicting,
@@ -1516,7 +1620,7 @@ precisely how abstract knowledge is learned from language.},
 	publisher = {American Association for the Advancement of Science},
 	title = {Predicting pragmatic reasoning in language games},
 	volume = {336},
-	website = {https://web.stanford.edu/~ngoodman/papers/FrankGoodman-Science2012.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/FrankGoodman-Science2012.pdf},
 	year = {2012}}
 
 @book{tenenbaumreverseengineering,
@@ -1533,7 +1637,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {56},
 	title = {Synthesizing open worlds with constraints using locally annealed reversible jump MCMC},
 	volume = {31},
-	website = {https://web.stanford.edu/~ngoodman/papers/owl.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/owl.pdf},
 	year = {2012}}
 
 @article{shafto2012learning,
@@ -1545,7 +1649,7 @@ precisely how abstract knowledge is learned from language.},
 	publisher = {Sage Publications},
 	title = {Learning from others: The consequences of psychological reasoning for human learning},
 	volume = {7},
-	website = {https://web.stanford.edu/~ngoodman/papers/shaftoperspectives.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/shaftoperspectives.pdf},
 	year = {2012}}
 
 @inproceedings{Goodman2012knowledge,
@@ -1556,7 +1660,7 @@ precisely how abstract knowledge is learned from language.},
 	date-modified = {2013-07-22 14:48:56 +0000},
 	journal = {Proceedings of the Thirty-Fourth Annual Conference of the {C}ognitive {S}cience {S}ociety.},
 	title = {Knowledge and implicature: Modeling language understanding as social cognition},
-	website = {https://web.stanford.edu/~ngoodman/papers/KnowledgeImplicature-v2.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/KnowledgeImplicature-v2.pdf},
 	year = {2012}}
 
 @inproceedings{bergen2012s,
@@ -1564,7 +1668,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Bergen, Leon and Goodman, Noah D and Levy, Roger},
 	journal = {Proceedings of the thirty-fourth annual conference of the {C}ognitive {S}cience {S}ociety},
 	title = {That's what she (could have) said: How alternative utterances affect language use},
-	website = {https://web.stanford.edu/~ngoodman/papers/BergenEtAl2012.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/BergenEtAl2012.pdf},
 	year = {2012}}
 
 @inproceedings{gerstenberg2012ping,
@@ -1572,7 +1676,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Gerstenberg, Tobias and Goodman, Noah D},
 	journal = {Proceedings of the 34th annual conference of the {C}ognitive {S}cience {S}ociety},
 	title = {Ping pong in Church: Productive use of concepts in human probabilistic inference},
-	website = {https://web.stanford.edu/~ngoodman/papers/GerstenbergGoodman2012.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/GerstenbergGoodman2012.pdf},
 	year = {2012}}
 
 @inproceedings{gerstenberg2012noisy,
@@ -1580,7 +1684,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Gerstenberg, Tobias and Goodman, Noah and Lagnado, David A and Tenenbaum, Joshua B},
 	booktitle = {Proceedings of the Thirty-Fourth Annual Conference of the {C}ognitive {S}cience {S}ociety},
 	title = {Noisy Newtons: Unifying process and dependency accounts of causal attribution},
-	website = {https://web.stanford.edu/~ngoodman/papers/physics_cogsci2nd.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/physics_cogsci2nd.pdf},
 	year = {2012}}
 
 @inproceedings{lassiter2012many,
@@ -1588,7 +1692,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Lassiter, Daniel and Goodman, Noah D},
 	journal = {34th Annual Conference of the {C}ognitive {S}cience {S}ociety},
 	title = {How many kinds of reasoning? Inference, probability, and natural language semantics},
-	website = {https://web.stanford.edu/~ngoodman/papers/LassiterGoodman12.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/LassiterGoodman12.pdf},
 	year = {2012}}
 
 @article{piantadosi2012bootstrapping,
@@ -1599,7 +1703,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {199--217},
 	title = {Bootstrapping in a language of thought: A formal model of numerical concept learning},
 	volume = {123},
-	website = {https://web.stanford.edu/~ngoodman/papers/COGNIT2374.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/COGNIT2374.pdf},
 	year = {2012}}
 
 @article{scontras2012comparing,
@@ -1610,7 +1714,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {190--197},
 	title = {Comparing pluralities},
 	volume = {123},
-	website = {https://web.stanford.edu/~ngoodman/papers/ScontrasGraffGoodman-ComparingPluralities.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/ScontrasGraffGoodman-ComparingPluralities.pdf},
 	year = {2012}}
 
 @inproceedings{ritchie2015c3,
@@ -1620,7 +1724,7 @@ precisely how abstract knowledge is learned from language.},
 	date-modified = {2015-12-22 19:00:18 +0000},
 	journal = {Technical report: arXiv:1509.02151},
 	title = {C3: Lightweight Incrementalized MCMC for Probabilistic Programs using Continuations and Callsite Caching},
-	website = {http://arxiv.org/abs/1509.02151},
+	website = {https://arxiv.org/abs/1509.02151},
 	year = 2016}
 
 @techreport{stuhlmueller2015coarse,
@@ -1629,7 +1733,7 @@ precisely how abstract knowledge is learned from language.},
 	date-modified = {2015-10-21 15:03:41 +0000},
 	journal = {Technical report: arXiv:1509.02962},
 	title = {Coarse-to-Fine Sequential Monte Carlo for Probabilistic Programs},
-	website = {http://arxiv.org/abs/1509.02962},
+	website = {https://arxiv.org/abs/1509.02962},
 	year = 2015}
 
 @techreport{hwang2011inducing,
@@ -1637,7 +1741,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Hwang, Irvin and Stuhlm{\"u}ller, Andreas and Goodman, Noah D},
 	journal = {Technical report: arXiv:1110.5667},
 	title = {Inducing probabilistic programs by Bayesian program merging},
-	website = {http://arxiv.org/abs/1110.5667},
+	website = {https://arxiv.org/abs/1110.5667},
 	year = {2011}}
 
 @article{cook2011science,
@@ -1648,7 +1752,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {341--349},
 	title = {Where science starts: Spontaneous experiments in preschoolers' exploratory play},
 	volume = {120},
-	website = {https://web.stanford.edu/~ngoodman/papers/CookGoodmanSchulz2011.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/CookGoodmanSchulz2011.pdf},
 	year = {2011}}
 
 @article{BonawitzEtAl2011-Cognition,
@@ -1681,7 +1785,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Wingate, David and Goodman, Noah D and Roy, Daniel M and Kaelbling, Leslie P and Tenenbaum, Joshua B},
 	booktitle = {Proceedings of the Twenty-Second international joint conference on Artificial Intelligence (IJCAI 11)},
 	title = {Bayesian policy search with policy priors},
-	website = {https://web.stanford.edu/~ngoodman/papers/WingateEtAl-PolicyPrios.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/WingateEtAl-PolicyPrios.pdf},
 	year = {2011}}
 
 @article{tenenbaum2011grow,
@@ -1692,7 +1796,7 @@ precisely how abstract knowledge is learned from language.},
 	pages = {1279--1285},
 	title = {How to grow a mind: Statistics, structure, and abstraction},
 	volume = {331},
-	website = {https://web.stanford.edu/~ngoodman/papers/tkgg-science11-reprint.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/tkgg-science11-reprint.pdf},
 	year = {2011}}
 
 @inproceedings{wingate2011nonstandard,
@@ -1701,7 +1805,7 @@ precisely how abstract knowledge is learned from language.},
 	booktitle = {Advances in Neural Information Processing Systems (NIPS 2011)},
 	pages = {1152--1160},
 	title = {Nonstandard Interpretations of Probabilistic Programs for Efficient Inference},
-	website = {https://web.stanford.edu/~ngoodman/papers/WGSS-NIPS11.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/WGSS-NIPS11.pdf},
 	year = {2011}}
 
 @inproceedings{stiller2011ad,
@@ -1709,7 +1813,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {Stiller, Alex and Goodman, Noah D and Frank, Michael C},
 	journal = {Proceedings of the 33rd Annual Meeting of the {C}ognitive {S}cience {S}ociety},
 	title = {Ad-hoc scalar implicature in adults and children},
-	website = {https://web.stanford.edu/~ngoodman/papers/SGF-cogsci2011.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/SGF-cogsci2011.pdf},
 	year = {2011}}
 
 @inproceedings{o2011productivity,
@@ -1718,7 +1822,7 @@ precisely how abstract knowledge is learned from language.},
 	author = {O'donnell, Timothy J and Snedeker, Jesse and Tenenbaum, Joshua B and Goodman, Noah D},
 	journal = {Proceedings of the Thirty-Third Annual Conference of the {C}ognitive {S}cience {S}ociety},
 	title = {Productivity and reuse in language},
-	website = {https://web.stanford.edu/~ngoodman/papers/odonnell-cogsci11.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/odonnell-cogsci11.pdf},
 	year = {2011}}
 
 @inproceedings{Wingate2011a,
@@ -1727,7 +1831,7 @@ precisely how abstract knowledge is learned from language.},
 	booktitle = {Proceedings of the 14th international conference on Artificial Intelligence and Statistics},
 	pages = {770--778},
 	title = {Lightweight implementations of probabilistic programming languages via transformational compilation},
-	website = {http://jmlr.csail.mit.edu/proceedings/papers/v15/wingate11a/wingate11a.pdf},
+	website = {http://proceedings.mlr.press/v15/wingate11a/wingate11a.pdf},
 	year = {2011}}
 
 @article{goodman2011learning,
@@ -1739,7 +1843,7 @@ precisely how abstract knowledge is learned from language.},
 	publisher = {American Psychological Association},
 	title = {Learning a theory of causality.},
 	volume = {118},
-	website = {https://web.stanford.edu/~ngoodman/papers/LTBC_psychreview_final.pdf},
+	website = {https://web.stanford.edu/%7engoodman/papers/LTBC_psychreview_final.pdf},
 	year = {2011}}
 
 @article{DesrochersEtAl2010-PNAS,
@@ -1791,7 +1895,7 @@ Our results suggest that speakers' image descriptions conform to optimal pragmat
 	publisher = {Association for Research in Vision and Ophthalmology},
 	title = {Predicting object and scene descriptions with an information-theoretic model of pragmatics},
 	volume = {10},
-	website = {http://jov.arvojournals.org/article.aspx?articleid=2138025},
+	website = {https://jov.arvojournals.org/article.aspx?articleid=2138025},
 	year = {2010}}
 
 @article{HendersonEtAl2010-PhilosSci,
@@ -1843,7 +1947,7 @@ Our results suggest that speakers' image descriptions conform to optimal pragmat
 	author = {T. Ullman and C. L. Baker and O. Macindoe and O. Evans and N. D. Goodman and J. B. Tenenbaum},
 	booktitle = {Advances in Neural Information Processing Systems (NIPS 2010)},
 	title = {Help or hinder: Bayesian models of social goal inference.},
-	website = {http://web.mit.edu/tomeru/www/papers/nips2010.pdf},
+	website = {https://web.mit.edu/tomeru/www/papers/nips2010.pdf},
 	year = {2010}}
 
 @inproceedings{WingateEtAl2009-UncertaintyInArtificialIntelligence,
@@ -1871,7 +1975,7 @@ Our results suggest that speakers' image descriptions conform to optimal pragmat
 	date-added = {2009-11-02 16:37:59 -0500},
 	date-modified = {2009-11-02 16:38:55 -0500},
 	title = {One and done: Globally optimal behavior from locally suboptimal decisions.},
-	website = {//stanford.edu/~ngoodman/papers/VulEtAl2009.pdf},
+	website = {https://stanford.edu/%7engoodman/papers/VulEtAl2009.pdf},
 	year = {2009}}
 
 @article{Frank2009,
@@ -1883,7 +1987,7 @@ Our results suggest that speakers' image descriptions conform to optimal pragmat
 	pages = {578--585},
 	title = {Using speakers' referential intentions to model early cross-situational word learning},
 	volume = {20},
-	website = {http://langcog.stanford.edu/papers/FGT-psychscience2009.pdf},
+	website = {https://langcog.stanford.edu/papers/FGT-psychscience2009.pdf},
 	year = {2009}}
 
 @techreport{ODonnellEtAl2009-CSAIL,
@@ -1951,10 +2055,9 @@ Our results suggest that speakers' image descriptions conform to optimal pragmat
 	timestamp = {2009.01.09},
 	title = {Going beyond the evidence: abstract laws and preschoolers' responses to anomalous data.},
 	volume = {109},
-	website = {http://eccl.mit.edu/papers/SchulzGoodman_etal.pdf},
+	website = {https://pubmed.ncbi.nlm.nih.gov/18930186/},
 	year = {2008},
-	Bdsk-Url-1 = {//dx.doi.org/2008.07.017},
-	Bdsk-Url-2 = {https://doi.org/n.2008.07.017}}
+	Bdsk-Url-1 = {https://doi.org/n.2008.07.017}}
 
 @misc{roy2008stochastic,
 	abstract = {We use Church, a Turing-universal language for stochastic generative processes and the probability distributions they induce, to study and extend several objects in nonparametric Bayesian statistics. We connect exchangeability and de Finetti measures with notions of purity and closures from functional programming. We exploit delayed evaluation to provide finite, machine-executable representations for various nonparametric Bayesian objects. We relate common uses of the Dirichlet process to a stochastic generalization of memoization, and use this abstraction to compactly describe and extend several nonparametric models. Finally, we briefly discuss issues of computability and inference.},
