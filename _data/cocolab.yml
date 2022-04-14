@@ -6,14 +6,7 @@
 
 - role: Graduate Students
   people:
-    - name: Erin Bennett
-      img: erin.jpg
-      webpage: //web.stanford.edu/~erindb
-      bio:
-        - >
-          I'm interested in vague language, causal reasoning, discourse
-          relations, and sentence meaning representation.
-
+    
     - name: Ali Malik
       img: ali.jpeg
       webpage: http://malikaliraza.com
@@ -124,7 +117,6 @@
 
     - name: Elisa Kreiss
       img: elisakreiss.png
-      webpage: //elisakreiss.com/
       bio:
         - >
           I use probabilistic and neural network models to understand human language production 
@@ -133,7 +125,6 @@
 
     - name: Ben Newman
       img: bennewman.jpg
-      webpage: //blnewman.com/
       bio:
         - >
           I'm interested in understanding how neural models process language to build more 
@@ -156,6 +147,8 @@
 
 - role: Alumni
   people:
+    - name: Erin Bennett
+      was: graduate student in Psychology
     - name: Judy Fan
       was: post-doc
       webpage: http://www.judithfan.net/
@@ -167,26 +160,25 @@
     - name: Michael Henry Tessler
       was: graduate student in Psychology
       now: Post-doc at MIT
-      webpage: //web.stanford.edu/~mtessler
     - name: Desmond Ong
       was: graduate student in Psychology
       now: >
         Assistant Professor of Information Systems and Analytics at the National
         University of Singapore and Research Scientist at the A*STAR Artificial
         Intelligence Initiative (A*AI)
-      webpage: //web.stanford.edu/~dco
+      webpage: //web.stanford.edu/~dco/
     - name: Judith Degen
       was: post-doc
       now: Assistant Professor of Linguistics at Stanford
-      webpage: //www.stanford.edu/people/jdegen
+      webpage: //thegricean.github.io/
     - name: Leon Bergen
       was: post-doc
       now: Assistant Professor of Linguistics at UCSD
-      webpage: //ling.ucsd.edu/people/faculty/profiles/LeonBergen.html
+      webpage: //linguistics.ucsd.edu/people/faculty/profiles/leon-bergen.html
     - name: Greg Scontras
       was: post-doc
       now: Assistant Professor of Linguistics at UC Irvine
-      webpage: //socsci.uci.edu/~gscontra/
+      webpage: //www.socsci.uci.edu/~gscontra/
     - name: Justine Kao
       was: graduate student in Psychology
       now: Siri Machine Learning Data Scientist at Apple
@@ -196,7 +188,6 @@
       now: Founder of Ought
     - name: Long Ouyang
       was: graduate student and post-doc
-      webpage: //zx.gd/academic/
     - name: Daniel Hawthorne
       was: graduate student in Psychology
       webpage: //www.djthorne.org/
@@ -211,7 +202,7 @@
     - name: Daniel Lassiter
       was: post-doc
       now: Assistant Professor of Linguistics at Stanford
-      webpage: //www.stanford.edu/~danlass
+      webpage: //web.stanford.edu/~danlass/
     - name: Joseph Austerweil
       was: post-doc
       now: Assistant Professor of Psychology at Wisconsin, Madison
