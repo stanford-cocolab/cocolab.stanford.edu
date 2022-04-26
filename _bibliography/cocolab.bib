@@ -7,6 +7,106 @@
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+@inproceedings{zhengxuan2021causal,
+	abstract = {Distillation efforts have led to language models that are more compact and efficient without serious drops in performance. The standard approach to distillation trains a student model against two objectives: a task-specific objective (e.g., language modeling) and an imitation objective that encourages the hidden states of the student model to be similar to those of the larger teacher model. In this paper, we show that it is beneficial to augment distillation with a third objective that encourages the student to imitate the causal computation process of the teacher through interchange intervention training(IIT). IIT pushes the student model to become a causal abstraction of the teacher model - a simpler model with the same causal structure. IIT is fully differentiable, easily implemented, and combines flexibly with other objectives. Compared with standard distillation of BERT, distillation via IIT results in lower perplexity on Wikipedia (masked language modeling) and marked improvements on the GLUE benchmark (natural language understanding), SQuAD (question answering), and CoNLL-2003 (named entity recognition).},
+	title={Causal Distillation for Language Models}, 
+	author={Wu, Zhengxuan and Geiger, Atticus and Rozner, Josh and Kreiss, Elisa and Lu, Hanson and Icard, Thomas and Potts, Christopher and Goodman, Noah D.},
+	booktitle = {NAACL-HLT},
+	website = {https://arxiv.org/abs/2112.02505},
+	year = {2021}}
+
+@article{bass2022the,
+	abstract = {Teaching is a powerful way to transmit knowledge, but with this power comes a hazard: When teachers fail to select the best set of evidence for the learner, learners can be misled to draw inaccurate inferences. Evaluating others’ failures as teachers, however, is a nontrivial problem; people may fail to be informative for different reasons, and not all failures are equally blameworthy. How do learners evaluate the quality of teachers, and what factors influence such evaluations? Here, we present a Bayesian model of teacher evaluation that considers the utility of a teacher's pedagogical sampling given their prior knowledge. In Experiment 1 (N=1168), we test the model predictions against adults’ evaluations of a teacher who demonstrated all or a subset of the functions on a novel device. Consistent with the model predictions, participants’ ratings integrated information about the number of functions taught, their values, as well as how much the teacher knew. Using a modified paradigm for children, Experiments 2 (N=48) and 3 (N=40) found that preschool-aged children (2a, 3) and adults (2b) make nuanced judgments of teacher quality that are well predicted by the model. However, after an unsuccessful attempt to replicate the results with preschoolers (Experiment 4, N=24), in Experiment 5 (N=24) we further investigate the development of teacher evaluation in a sample of seven- and eight-year-olds. These older children successfully distinguished teachers based on the amount and value of what was demonstrated, and their ability to evaluate omissions relative to the teacher's knowledge state was related to their tendency to spontaneously reference the teacher's knowledge when explaining their evaluations. In sum, our work illustrates how the human ability to learn from others supports not just learning about the world but also learning about the teachers themselves. By reasoning about others’ informativeness, learners can evaluate others’ teaching and make better learning decisions.},
+	author = {Bass, Ilona and Bonawitz, Elizabeth and Hawthorne-Madell, Daniel and Vong, Wai and Goodman, Noah and Gweon, Hyowon},
+	year = {2022},
+	month = {05},
+	pages = {104999},
+	title = {The effects of information utility and teachers’ knowledge on evaluations of under-informative pedagogy across development},
+	volume = {222},
+	journal = {Cognition},
+	website = {https://www.researchgate.net/publication/357787304_The_effects_of_information_utility_and_teachers'_knowledge_on_evaluations_of_under-informative_pedagogy_across_development}}
+
+@inproceedings{tessler2021learning,
+	annote = {<b>[Best paper award winner.]</b>},	
+	abstract = {Knowledge built culturally across generations allows humans to learn far more than an individual could glean from their own experience in a lifetime. Cultural knowledge in turn rests on language: language is the richest record of what previous generations believed, valued, and practiced, and how these evolved over time. The power and mechanisms of language as a means of cultural learning, however, are not well understood, and as a result, current AI systems do not leverage language as a means for cultural knowledge transmission. Here, we take a first step towards reverse-engineering cultural learning through language. We developed a suite of complex tasks in the form of minimalist-style video games, which we deployed in an iterated learning paradigm. Human participants were limited to only two attempts (two lives) to beat each game and were allowed to write a message to a future participant who read the message before playing. Knowledge accumulated gradually across generations, allowing later generations to advance further in the games and perform more efficient actions. Multigenerational learning followed a strikingly similar trajectory to individuals learning alone with an unlimited number of lives. Successive generations of learners were able to succeed by expressing distinct types of knowledge in natural language: the dynamics of the environment, valuable goals, dangerous risks, and strategies for success. The video game paradigm we pioneer here is thus a rich test bed for developing AI systems capable of acquiring and transmitting cultural knowledge.},
+	author = {Tessler, Michael Henry and Madeano, Jason and Tsividis, Pedro A. and Harper, Brin and Goodman, Noah D. and Tenenbaum, Joshua B.},
+	booktitle = {NeurIPS Workshop on Cooperative AI},
+	title = {Learning to solve complex tasks by growing knowledge culturally across generations},
+	website = {https://arxiv.org/abs/2107.13377},
+	year = {2021}}
+
+@article{tessler2022logic,
+	abstract = {Syllogistic reasoning lies at the intriguing intersection of natural and formal reasoning of language and logic. Syllogisms comprise a formal system of reasoning yet make use of natural language quantifiers (e.g., all, some) and invite natural language conclusions. The conclusions people tend to draw from syllogisms, however, deviate substantially from the purely logical system. Are principles of natural language understanding to blame? We introduce a probabilistic pragmatic perspective on syllogistic reasoning: We decompose reasoning with natural language arguments into two subproblems: language comprehension and language production. We formalize models of these processes within the Rational Speech Act framework and explore the pressures that pragmatic reasoning places on the production of conclusions. We test our models on a recent, large data set of syllogistic reasoning and find that the selection process of conclusions from syllogisms are best modeled as a pragmatic speaker who has the goal of aligning the beliefs of a naive listener with those of their own. We compare our model to previously published models that implement two alternative theories—Mental Models and Probability Heuristics—finding that our model quantitatively predicts the full distributions of responses as well as or better than previous accounts, but with far fewer parameters. Our results suggest that human syllogistic reasoning may be best understood not as a poor approximation to ideal logical reasoning, but rather as rational probabilistic inference in support of natural communication.},
+	author = {Tessler, Michael Henry and Tenenbaum, Joshua and Goodman, Noah D.},
+	journal = {Topics in Cognitive Science},
+	publisher = {Wiley Online Library},
+	title = {Logic, Probability, and Pragmatics in Syllogistic Reasoning},
+	website = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/tops.12593},
+	year = {2022}}
+
+@article{tessler2022warm,
+	abstract = {The meanings of natural language utterances depend heavily on context. Yet, what counts as context is often only implicit in conversation. The utteranceit’s warm outsidesignals that the temperature outside is relatively high, but the temperature could be high relative to a number of different comparison classes: other days of the year, other weeks, other seasons, etc. Theories of context-sensitivity in language agree that the comparison classis a crucial variable for understanding meaning, but little is known abouthow a listener decides upon the comparison class. Using the case study ofgradable adjectives (e.g., warm), we extend a Bayesian model of pragmaticinference to reason flexibly about the comparison class and test its qualitative predictions in a large-scale free-production experiment. We find that human listeners infer the comparison class by reasoning about the kinds ofobservations that would be remarkable enough for a speaker to mention, given the speaker and listener’s shared knowledge of the world. Further, we quantitatively synthesize the model and data using Bayesian data analysis, which reveals that usage frequency and a preference for basic-level categories are two main factors in comparison class inference. This work presents new data and reveals the mechanisms by which human listeners recover the rel-evant aspects of context when understanding language.},
+	author = {Tessler, Michael Henry and Goodman, Noah D.},
+	journal = {Cognitive Science},
+	title = {Warm (for Winter): Inferring comparison classes in communication},
+	website = {https://psyarxiv.com/8bfna},
+	year = {2022}}
+
+@article{hawkins2022from,
+	abstract = {Languages are powerful solutions to coordination problems: they provide stable, shared expectations about how the words we say correspond to the beliefs and intentions in our heads. Yet language use in a variable and non-stationary social environment requires linguistic representations to be flexible: old words acquire new ad hoc or partner-specific meanings on the fly. In this paper, we introduce CHAI (Continual Hierarchical Adaptation through Inference), a hierarchical Bayesian theory of coordination and convention formation that aims to reconcile the long-standing tension between these two basic observations. We argue that the central computational problem of communication is not simply transmission, as in classical formulations, but continual learning and adaptation over multiple timescales. Partner-specific common ground quickly emerges from social inferences within dyadic interactions, while community-wide social conventions are stable priors that have been abstracted away from interactions with multiple partners. We present new empirical data alongside simulations showing how our model provides a computational foundation for several phenomena that have posed a challenge for previous accounts: (1) the convergence to more efficient referring expressions across repeated interaction with the same partner, (2) the gradual transfer of partner-specific common ground to strangers, and (3) the influence of communicative context on which conventions eventually form.},
+	author = {Hawkins, Robert D. and Franke, Michael and Frank, Michael C. and Goldberg, Adele E. and Smith, Kenny and Griffiths, Thomas L. and Goodman, Noah D.},
+	journal = {Psychological Review},
+	publisher = {American Psychological Association},
+	title = {From partners to populations: A hierarchical Bayesian account of coordination and convention},
+	website = {https://arxiv.org/abs/2104.05857},
+	year = {2022}}
+
+@inproceedings{mankewitz2021multi,	
+	abstract = {Verbal communication is an ubiquitous aspect of human interaction occurring in many contexts; however, it is primarily studied in the limited context of twopeople communicating information. Understanding communication in complex, multi-party interactions is both a scientific challenge for psycholinguistics and an engineering challenge for creating artificial agents who can participate in these richer contexts.  We adapted the reference game paradigm to an online 3-player game where players refer to objects in order to coordinate selections based on the available utilities.  We ran games with shared or individual payoffs and with or without access to language. Our paradigm can also be used for artificial agents; we trained reinforcement learning-based agents on the same task as a comparison. Our dataset shows the same patterns found in simpler reference games and contains rich language of reference and negotiation.},
+	author = {Mankewitz, Jessica and Boyce, Veronica and Waldon, Brandon and Loukatou, Georgia and Yu, Dhara and Mu, Jesse and Goodman, Noah D and Frank, Michael C},
+	booktitle = {NeurIPS Workshop on Meaning in Context},
+	title = {Multi-party referential communication in complex strategic games},
+	website = {https://psyarxiv.com/tfb3d},
+	year = {2021}}
+
+@inproceedings{zhang2021temperature,
+	abstract = {Contrastive learning has demonstrated great capability to learn representations without annotations, even outperforming supervised baselines. However, it still lacks important properties useful for real-world application, one of which is uncertainty. In this paper, we propose a simple way to generate uncertainty scores for many contrastive methods by re-purposing temperature, a mysterious hyperparameter used for scaling. By observing that temperature controls how sensitive the objective is to specific embedding locations, we aim to learn temperature as an input-dependent variable, treating it as a measure of embedding confidence. We call this approach "Temperature as Uncertainty", or TaU. Through experiments, we demonstrate that TaU is useful for out-of-distribution detection, while remaining competitive with benchmarks on linear evaluation. Moreover, we show that TaU can be learned on top of pretrained models, enabling uncertainty scores to be generated post-hoc with popular off-the-shelf models. In summary, TaU is a simple yet versatile method for generating uncertainties for contrastive learning.},
+	author = {Zhang, Oliver and Wu, Mike and Bayrooti, Jasmine and Goodman, Noah},
+	booktitle = {NeurIPS Workshop on Self-Supervised Learning},
+	title = {Temperature as Uncertainty in Contrastive Learning},
+	website = {https://arxiv.org/abs/2110.04403},
+	year = {2021}}
+
+@inproceedings{wang2022language,
+	abstract = {Modern language models can generate high-quality short texts. However, they often meander or are incoherent when generating longer texts. These issues arise from the next-token-only language modeling objective. To address these issues, we introduce Time Control (TC), a language model that implicitly plans via a latent stochastic process. TC does this by learning a representation which maps the dynamics of how text changes in a document to the dynamics of a stochastic process of interest. Using this representation, the language model can generate text by first implicitly generating a document plan via a stochastic process, and then generating text that is consistent with this latent plan. Compared to domain-specific methods and fine-tuning GPT2 across a variety of text domains, TC improves performance on text infilling and discourse coherence. On long text generation settings, TC preserves the text structure both in terms of ordering (up to +40% better) and text length consistency (up to +17% better). Human evaluators also prefer TC's output 28.6% more than the baselines.},
+	author = {Wang, Rose E and Durmus, Esin and Goodman, Noah and Hashimoto, Tatsunori},
+	booktitle = {International Conference on Learning Representations},
+	title = {Language modeling via stochastic processes},
+	website = {https://arxiv.org/abs/2203.11370},
+	year = {2022}}
+
+@misc{zelikman2022star,
+  abstract = {Generating step-by-step "chain-of-thought" rationales improves language model performance on complex reasoning tasks like mathematics or commonsense question-answering. However, inducing language model rationale generation currently requires either constructing massive rationale datasets or sacrificing accuracy by using only few-shot inference. We propose a technique to iteratively leverage a small number of rationale examples and a large dataset without rationales, to bootstrap the ability to perform successively more complex reasoning. This technique, the "Self-Taught Reasoner" (STaR), relies on a simple loop: generate rationales to answer many questions, prompted with a few rationale examples; if the generated answers are wrong, try again to generate a rationale given the correct answer; fine-tune on all the rationales that ultimately yielded correct answers; repeat. We show that STaR significantly improves performance on multiple datasets compared to a model fine-tuned to directly predict final answers, and performs comparably to fine-tuning a 30× larger state-of-the-art language model on CommensenseQA. Thus, STaR lets a model improve itself by learning from its own generated reasoning.},
+  website = {https://arxiv.org/abs/2203.14465},
+  author = {Zelikman, Eric and Wu, Yuhuai and Goodman, Noah D.},
+  title = {STaR: Bootstrapping Reasoning With Reasoning},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}}
+
+@article{fang2022color,
+	author = {Fang, Fei and Sinha, Kunal and Goodman, Noah D and Potts, Christopher and Kreiss, Elisa},
+	journal = {Cognitive Science},
+	title = {Color Overmodification Emerges from Data-Driven Learning and Pragmatic Reasoning},
+	year = {2022}}
+
+@article{poesia2022left,
+	abstract = {Formal mathematical reasoning is unique in its precision: any valid conclusion can be justified by a sequence of base axioms. But human-written proofs or solutions rarely operate at that level. Instead, obvious steps are skipped to provide a simple, lucid argument. This is especially important in an educational setting, where too many details in an example solution, or too few, can confuse a student. What are the key steps for humans in a given formal solution? We investigate several computational hypotheses in the context of equation solving. Specifically, we take a reinforcement learning agent that solves equations using low-level axioms, and propose a series of methods for abstracting its solutions by selecting key steps. We consider methods based on the semantic distance between subsequent steps, based on the steps with the highest uncertainty for the agent, and based on transitions between latent “high-level skills” learned from a large number of agent-produced solutions. In a human evaluation we find that skill-base simplifications were judged most useful. These results suggest new directions for understanding human mathematical reasoning.},
+	author = {Poesia, Gabriel and Goodman, Noah},
+	journal = {Cognitive Science},
+	title = {Left to the Reader: Abstracting Solutions in Mathematical Reasoning},
+	website = {https://gpoesia.com/papers/poesia2022abstracting.pdf},
+	year = {2022}}
 
 @article{tobias2021counterfactual,
 	abstract = {How do people make causal judgments about physical events? We introduce the counterfactual simulation model (CSM) which predicts causal judgments in physical settings by comparing what actually happened with what would have happened in relevant counterfactual situations. The CSM postulates different aspects of causation that capture the extent to which a cause made a difference to whether and how the outcome occurred, and whether the cause was sufficient and robust. We test the CSM in several experiments in which participants make causal judgments about dynamic collision events. A preliminary study establishes a very close quantitative mapping between causal and counterfactual judgments. Experiment 1 demonstrates that counterfactuals are necessary for explaining causal judgments. Participants' judgments differed dramatically between pairs of situations in which what actually happened was identical, but where what would have happened differed. Experiment 2 features multiple candidate causes and shows that participants' judgments are sensitive to different aspects of causation. The CSM provides a better fit to participants' judgments than a heuristic model which uses features based on what actually happened. We discuss how the CSM can be used to model the semantics of different causal verbs, how it captures related concepts such as physical support, and how its predictions extend beyond the physical domain.},
