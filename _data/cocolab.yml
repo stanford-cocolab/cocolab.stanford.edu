@@ -6,15 +6,6 @@
 
 - role: Graduate Students
   people:
-    
-    - name: Ali Malik
-      img: ali.jpeg
-      webpage: http://malikaliraza.com
-      bio:
-        - >
-          My research interests are in probabilistic reasoning, algorithms, 
-          and building intelligent systems that help humans learn.
-
     - name: Jesse Mu
       img: jesse.jpg
       webpage: https://cs.stanford.edu/~muj/
@@ -64,19 +55,22 @@
         - >
           I am interested in the development of pragmatic and adaptive natural language 
           generation algorithms for interactive dialogue systems.
-
-    - name: Mike Wu
-      img: mikewu.png
-      webpage: //mikehwu.com/
+      
+    - name: Eric Zelikman
+      img: eric.png
+      webpage: https://zelikman.me/
       bio:
         - >
-          My current research interests are in bayesian deep learning, sampling methods, and 
-          inference in generative models.
-  
+          I am excited about how we can build models that are able to reason better by learning 
+          to model the world and leverage structural understanding, such as in multi-step planning, 
+          intermediate rationales, object-centric visual representations, or theory of mind and 
+          social reasoning.
+
 - role: Lab affiliates
   people:
     - name: Dilip Arumugam
       img: diliparumugam.jpg
+      webpage: https://dilipa.github.io/
       bio:
         - >
           My research is aimed at understanding the key ingredients of sample-efficient 
@@ -84,13 +78,12 @@
           tool for facilitating this understanding, with a focus on abstractions and natural 
           language.
 
-    - name: Jasmine Bayrooti
-      img: jasminebayrooti.png
+    - name: Gaurab Banerjee
+      img: gaurab.jpg
+      webpage: https://gaurabbanerjee.wixsite.com/home/home 
       bio:
         - >
-          I'm interested in understanding structure in images and videos, with a focus on 
-          contrastive representation learning, computational algebraic topology, and probabilistic 
-          graphical modelling.
+          I am interested in what and how deep learning algorithms actually "learn".
 
     - name: Shyamal Buch
       img: shyamalbuch.png
@@ -106,6 +99,13 @@
           My research aims to apply cutting-edge ML technologies to climate change-related 
           ecological problems in concert with developing better ML methods for working with 
           complex ecological and genomic data.
+
+    - name: Joy Hsu
+      img: joy.png
+      webpage: https://web.stanford.edu/~joycj/
+      bio:
+        - >
+          I’m interested in visual reasoning, and creating visual understanding models that are generalists.
 
     - name: Sidd Karamcheti
       img: siddkaramcheti.jpg
@@ -123,30 +123,28 @@
           and comprehension. In particular, I concentrate on the role context plays in this 
           process.
 
-    - name: Ben Newman
-      img: bennewman.jpg
+    - name: Ali Malik
+      img: ali.jpeg
+      webpage: http://malikaliraza.com
       bio:
         - >
-          I'm interested in understanding how neural models process language to build more 
-          flexible and safe NLP systems.
+          My research interests are in probabilistic reasoning, algorithms, 
+          and building intelligent systems that help humans learn.
 
-    - name: Shashank Rammoorthy
-      img: shashank.jpg
+    - name: Dhara Yu
+      img: dhara.jpg
+      webpage: https://dharakyu.com/
       bio:
         - >
-          My research interests are in models that learn across modalities and in the ways to 
-          build "ethical" language models.
-
-    - name: Xikun Zhang
-      img: xikun.jpg
-      webpage: https://twitter.com/xikun_zhang_
-      bio:
-        - >
-          I am interested in visually grounded language understanding and generation, NLP 
-          probing and analysis, and graph representation learning, among other things.
+          I’m interested in studying how evolutionary pressures shape the features of language and 
+          how language facilitates knowledge transmission, in both humans and machines.
 
 - role: Alumni
   people:
+    - name: Mike Wu
+      was: graduate student in Computer Science
+      webpage: //mikehwu.com/
+      now: DeFi startup
     - name: Erin Bennett
       was: graduate student in Psychology
     - name: Judy Fan
