@@ -85,14 +85,74 @@
 	website = {https://arxiv.org/abs/2203.11370},
 	year = {2022}}
 
-@misc{zelikman2022star,
-  abstract = {Generating step-by-step "chain-of-thought" rationales improves language model performance on complex reasoning tasks like mathematics or commonsense question-answering. However, inducing language model rationale generation currently requires either constructing massive rationale datasets or sacrificing accuracy by using only few-shot inference. We propose a technique to iteratively leverage a small number of rationale examples and a large dataset without rationales, to bootstrap the ability to perform successively more complex reasoning. This technique, the "Self-Taught Reasoner" (STaR), relies on a simple loop: generate rationales to answer many questions, prompted with a few rationale examples; if the generated answers are wrong, try again to generate a rationale given the correct answer; fine-tune on all the rationales that ultimately yielded correct answers; repeat. We show that STaR significantly improves performance on multiple datasets compared to a model fine-tuned to directly predict final answers, and performs comparably to fine-tuning a 30× larger state-of-the-art language model on CommensenseQA. Thus, STaR lets a model improve itself by learning from its own generated reasoning.},
-  website = {https://arxiv.org/abs/2203.14465},
-  author = {Zelikman, Eric and Wu, Yuhuai and Goodman, Noah D.},
-  title = {STaR: Bootstrapping Reasoning With Reasoning},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}}
+@inproceedings{zelikman2022star,
+title={{ST}aR: Bootstrapping Reasoning With Reasoning},
+author={Eric Zelikman and Yuhuai Wu and Jesse Mu and Noah Goodman},
+booktitle={Advances in Neural Information Processing Systems},
+editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+year={2022},
+website = {https://arxiv.org/abs/2203.14465}
+}
+
+@inproceedings{srivastava2022assistive,
+ title={Assistive Teaching of Motor Control Tasks to Humans},
+ author={Srivastava, Megha and Biyik, Erdem and Mirchandani, Suvir and Goodman, Noah and Sadigh, Dorsa},
+ booktitle={Advances in Neural Information Processing Systems},
+ editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+ year={2022},
+ website = {https://iliad.stanford.edu/pdfs/publications/srivastava2022assistive.pdf}
+}
+
+@inproceedings{mu2022improving,
+  title={Improving intrinsic exploration with language abstractions},
+  author={Mu, Jesse and Zhong, Victor and Raileanu, Roberta and Jiang, Minqi and Goodman, Noah and Rockt{\"a}schel, Tim and Grefenstette, Edward},
+  booktitle={Advances in Neural Information Processing Systems},
+  editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+  year={2022},
+  website = {https://arxiv.org/pdf/2202.08938.pdf}
+}
+@inproceedings{
+tamkin2022dabs,
+title={{DABS} 2.0: Improved Datasets and Algorithms for Universal Self-Supervision},
+author={Alex Tamkin and Gaurab Banerjee and Mohamed Owda and Vincent Liu and Shashank Rammoorthy and Noah Goodman},
+booktitle={Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2022},
+url={https://openreview.net/forum?id=ChWf1E43l4}
+}
+@inproceedings{
+mao2022clevrerhumans,
+title={{CLEVRER}-Humans: Describing Physical and Causal Events the Human Way},
+author={Jiayuan Mao and Xuelin Yang and Xikun Zhang and Noah Goodman and Jiajun Wu},
+booktitle={Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2022},
+url={https://openreview.net/forum?id=sd1fv0g3UO1}
+}
+@inproceedings{
+hsu2022geoclidean,
+title={Geoclidean: Few-Shot Generalization in Euclidean Geometry},
+author={Joy Hsu and Jiajun Wu and Noah Goodman},
+booktitle={Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2022},
+url={https://openreview.net/forum?id=3lk54yE2tYJ}
+}
+@inproceedings{
+wu2022foundation,
+title={Foundation Posteriors for Approximate Probabilistic Inference},
+author={Mike Wu and Noah Goodman},
+booktitle={Advances in Neural Information Processing Systems},
+editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+year={2022},
+url={https://openreview.net/forum?id=DbEVhhuNjr}
+}
+
+@inproceedings{tamkin2022active,
+  title={Active Learning Helps Pretrained Models Learn the Intended Task},
+  author={Tamkin, Alex and Nguyen, Dat and Deshpande, Salil and Mu, Jesse and Goodman, Noah},
+  booktitle={Advances in Neural Information Processing Systems},
+  editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+  year={2022},
+  website = {https://arxiv.org/pdf/2204.08491.pdf}
+}
 
 @article{fang2022color,
 	author = {Fang, Fei and Sinha, Kunal and Goodman, Noah D and Potts, Christopher and Kreiss, Elisa},

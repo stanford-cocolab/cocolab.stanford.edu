@@ -6,14 +6,6 @@
 
 - role: Graduate Students
   people:
-    - name: Kanishk Gandhi
-      img: kanishk.jpeg
-      webpage: https://kanishkgandhi.com 
-      bio:
-        - > 
-          I am broadly interested in social learning. In particular, how can we 
-          build machines that can better learn from and teach humans?
-
     - name: Jesse Mu
       img: jesse.jpg
       webpage: https://cs.stanford.edu/~muj/
@@ -63,7 +55,13 @@
         - >
           I am interested in the development of pragmatic and adaptive natural language 
           generation algorithms for interactive dialogue systems.
-      
+    - name: Kanishk Gandhi
+      img: kanishk.jpeg
+      webpage: https://kanishkgandhi.com 
+      bio:
+        - > 
+          I am interested in social reasoning; how we can build machines that interact with,
+          learn from and communicate with others.
     - name: Eric Zelikman
       img: ericz.png
       webpage: https://zelikman.me/
