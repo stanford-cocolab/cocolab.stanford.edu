@@ -50,6 +50,10 @@ Concepts and intuitive theories.
 
 ## Honors
 
+* Best of IEEE Transactions on Affective Computing 2021 Paper Collection.
+
+* Best paper award, NeurIPS Workshop on Cooperative AI (2021).
+
 * Best paper award International Conference on Educational Data Mining, 2020 (EDM 2020).
 
 * 2020 Cognitive Science Society paper prize for computational modeling of language.
@@ -92,7 +96,9 @@ Concepts and intuitive theories.
 
 ## Grants
 
-* *AI Tutors to Help Prepare Students for the 21st Century Workforce*, Stanford HAI Hoffman-Yee Grant, 2020.
+* *Modeling Human Geometric Reasoning with Neuro-Symbolic Systems*, Stanford HAI Seed Grant, 2023.
+
+* *AI Tutors to Help Prepare Students for the 21st Century Workforce*, Stanford HAI Hoffman-Yee Grant, 2020-2023.
 
 * *Toward Grounded, Adaptive Communication Agents*, Stanford HAI Hoffman-Yee Grant, 2020.
 
@@ -138,17 +144,17 @@ Concepts and intuitive theories.
 
 ## Publications
 
-### Peer-reviewed Journal Articles
+### Peer-reviewed Journal Articles and Conference Proceedings
 
-{% bibliography --query @article %}
+{% bibliography --query @article @inproceedings %}
 
 * Giroux, E. & Goodman, N. D. (2006). On the stable equivalence of open books in three-manifolds. *Geometry & Topology*.
 
 * Goodman, N. D. (2005). Overtwisted open books from sobering arcs. *Algebraic and Geometric Topology*.
 
-### Peer-reviewed Conference Proceedings
+<!-- ### Peer-reviewed Conference Proceedings
 
-{% bibliography --query @inproceedings %}
+{% bibliography --query @inproceedings %} -->
 
 * Goodman, N. D., Griffiths, T. L, Feldman, J., and Tenenbaum, J. B. (2007). A rational analysis of rule-based concept learning. In *Proceedings of the Twenty-Ninth Annual Conference of the Cognitive Science Society*.
 
@@ -210,6 +216,18 @@ A javascript-based probabilistic programming language.
 
 
 ## Invited Presentations
+
+* University of Washington Natural Language Processing seminar, December 2021. 
+
+* Tsinghua Introduction to AI guest lecture, November 2021.
+
+* UIUC Quantitative Psychology Seminar, November 2021.
+
+* ICCV workshop 3D Representations of Scenes, October 2021.
+
+* WPI CS colloquium, October 2021.
+
+* CVPR workshop Language for 3D Scene Understanding, June 2021.
 
 * AAAI Symposium "Conceptual Abstraction and Analogy in Natural and Artificial Intelligence", November 2020.
 
