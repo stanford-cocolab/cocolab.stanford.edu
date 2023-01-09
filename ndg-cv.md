@@ -217,6 +217,22 @@ A javascript-based probabilistic programming language.
 
 ## Invited Presentations
 
+* SIGNLL Conference on Computational Natural Language Learning, keynote, December 2022.
+
+* NeurIPS workhop "Math AI", December 2022
+
+* NeurIPS workshop "Langauge in Reinforcement Learning", December 2022.
+
+* Duolingo Colloquium, October 2022.
+
+* Royal Society Hooke Symposium "Cognitive AI", September 2022.
+
+* International Joint Conferences on Learning and Reasoning, keynote, September 2022.
+
+* University College London workshop "Human Behavioral AI", September 2022.
+
+* University of Chicago Decision Seminar, May 2022.
+
 * University of Washington Natural Language Processing seminar, December 2021. 
 
 * Tsinghua Introduction to AI guest lecture, November 2021.
