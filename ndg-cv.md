@@ -50,6 +50,10 @@ Concepts and intuitive theories.
 
 ## Honors
 
+* Best of IEEE Transactions on Affective Computing 2021 Paper Collection.
+
+* Best paper award, NeurIPS Workshop on Cooperative AI (2021).
+
 * Best paper award International Conference on Educational Data Mining, 2020 (EDM 2020).
 
 * 2020 Cognitive Science Society paper prize for computational modeling of language.
@@ -92,7 +96,9 @@ Concepts and intuitive theories.
 
 ## Grants
 
-* *AI Tutors to Help Prepare Students for the 21st Century Workforce*, Stanford HAI Hoffman-Yee Grant, 2020.
+* *Modeling Human Geometric Reasoning with Neuro-Symbolic Systems*, Stanford HAI Seed Grant, 2023.
+
+* *AI Tutors to Help Prepare Students for the 21st Century Workforce*, Stanford HAI Hoffman-Yee Grant, 2020-2023.
 
 * *Toward Grounded, Adaptive Communication Agents*, Stanford HAI Hoffman-Yee Grant, 2020.
 
@@ -138,17 +144,17 @@ Concepts and intuitive theories.
 
 ## Publications
 
-### Peer-reviewed Journal Articles
+### Peer-reviewed Journal Articles and Conference Proceedings
 
-{% bibliography --query @article %}
+{% bibliography --query @article @inproceedings %}
 
 * Giroux, E. & Goodman, N. D. (2006). On the stable equivalence of open books in three-manifolds. *Geometry & Topology*.
 
 * Goodman, N. D. (2005). Overtwisted open books from sobering arcs. *Algebraic and Geometric Topology*.
 
-### Peer-reviewed Conference Proceedings
+<!-- ### Peer-reviewed Conference Proceedings
 
-{% bibliography --query @inproceedings %}
+{% bibliography --query @inproceedings %} -->
 
 * Goodman, N. D., Griffiths, T. L, Feldman, J., and Tenenbaum, J. B. (2007). A rational analysis of rule-based concept learning. In *Proceedings of the Twenty-Ninth Annual Conference of the Cognitive Science Society*.
 
@@ -210,6 +216,34 @@ A javascript-based probabilistic programming language.
 
 
 ## Invited Presentations
+
+* SIGNLL Conference on Computational Natural Language Learning, keynote, December 2022.
+
+* NeurIPS workhop "Math AI", December 2022
+
+* NeurIPS workshop "Langauge in Reinforcement Learning", December 2022.
+
+* Duolingo Colloquium, October 2022.
+
+* Royal Society Hooke Symposium "Cognitive AI", September 2022.
+
+* International Joint Conferences on Learning and Reasoning, keynote, September 2022.
+
+* University College London workshop "Human Behavioral AI", September 2022.
+
+* University of Chicago Decision Seminar, May 2022.
+
+* University of Washington Natural Language Processing seminar, December 2021. 
+
+* Tsinghua Introduction to AI guest lecture, November 2021.
+
+* UIUC Quantitative Psychology Seminar, November 2021.
+
+* ICCV workshop 3D Representations of Scenes, October 2021.
+
+* WPI CS colloquium, October 2021.
+
+* CVPR workshop Language for 3D Scene Understanding, June 2021.
 
 * AAAI Symposium "Conceptual Abstraction and Analogy in Natural and Artificial Intelligence", November 2020.
 
@@ -451,13 +485,13 @@ A javascript-based probabilistic programming language.
 
 ## Professional Services
 
-* Journal Reviewer: Science. Nature. PNAS. Cognition. Trends in Cognitive Science. Cognitive Science. Cognitive Psychology. Child Development. Memory and Cognition. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex. Decision. Natural Language Semantics.
+* Journal Reviewer (selected): Science. Nature. PNAS. Cognition. Trends in Cognitive Science. Cognitive Science. Cognitive Psychology. Child Development. Memory and Cognition. Journal of Mathematical Psychology. Cognitive Processing. Journal of Experimental Psychology: Learning, Memory, & Cognition. Journal of Experimental Psychology: General. Philosophical Transactions A. American Journal of Psychology. Cerebral Cortex. Decision. Natural Language Semantics.
 
-* Conference Proceedings Reviewer (selected): Cognitive Science. Neural Information Processing Systems. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence.
+* Conference Proceedings Reviewer (selected): Cognitive Science. Neural Information Processing Systems. International Conference on Learning Representations. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence.
 
 * Grant reviewer: NSF (ad-hoc and panelist), ONR.
 
-* Program committee / Senior PC: Cognitive Science Society, 2014, 2015, 2016. AAAI 2016. AIStats 2017.
+* Program committee / Senior PC: Cognitive Science Society, 2014, 2015, 2016. AAAI 2016. AIStats 2017, etc.
 
 * Co-organizer: Cognitive Science Society, symposium “Empirical and Computational Approaches to Metaphor and Figurative Meaning”, Pennsylvania, August 2016.
 
@@ -495,7 +529,7 @@ A javascript-based probabilistic programming language.
 
 * Guest lecture, Summer School in Cognitive Science, Montreal, Canada, June 2016.
 
-* Guest lecturer, [SAILORS](http://ai.stanford.edu/sailors/) program, Stanford, 2015, 2016, 2017.
+* Guest lecturer, [SAILORS](http://ai.stanford.edu/sailors/) program, Stanford, 2015, 2016, 2017, 2021.
 
 * Studium Generale, Groningen, Netherlands, February 2014.
 
@@ -505,6 +539,16 @@ A javascript-based probabilistic programming language.
 
 ### University Courses
 
+* Psychology of the Climate Crisis (PSYCH 278). Spring 2023.
+
+* Probabilistic models of cognition: Reasoning and Learning (PSYCH 220A, CS 428A). Spring 2023.
+
+* Probabilistic Models of Cognition: Language (PSYCH 220B, CS 428B, LINGUIST 238B). Autumn 2021.
+
+* “Mind and Machines” (SymSys 1). Winter 2021, 2022, 2023.
+
+* Levels of Analysis in Cognitive Science (PSYCH 296, PHIL 366). Autumn 2021.
+
 * "Langauge and Thought" (OSPMADRD 19). Stanford (BOSP Madrid). Winter 2020.
 
 * "Independent Study in Machine Translation" (OSPMADRD 20). Stanford (BOSP Madrid). Winter 2020.
@@ -513,7 +557,7 @@ A javascript-based probabilistic programming language.
 
 * "Langauge and Thought" (Psych 132). Stanford. Spring 2019.
 
-* "Computation and Cognition: the Probabilistic Approach" (Psych 204 / CS 428). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015, Autumn 2016, Autumn 2017, Autumn 2018.
+* "Computation and Cognition: the Probabilistic Approach" (Psych 204 / CS 428). Stanford. Winter 2011, Winter 2012, Autumn 2012, Autumn 2013, Spring 2015, Autumn 2016, Autumn 2017, Autumn 2018, Spring 2021.
 
 * "Topics in Natural and Artificial Intelligence". Stanford. Autumn 2018.
 
@@ -581,6 +625,14 @@ A javascript-based probabilistic programming language.
 
 ### Ph.D. students
 
+* Kanishk Gandhi (Stanford, Computer Science)
+
+* Eric Zelikman (Stanford, Computer Science)
+
+* Ben Prystawski (Stanford, Psychology)
+
+* Rose Wang (Stanford, Computer Science)
+
 * Gabriel Poesia (Stanford, Computer Science)
 
 * Julia White (Stanford, Electrical Engineering)
@@ -589,9 +641,7 @@ A javascript-based probabilistic programming language.
 
 * Jesse Mu (Stanford, Computer Science)
 
-* Mike Wu (Stanford, Computer Science)
-
-* Ben Peloquin (Stanford, Psychology), on leave
+* Mike Wu (Stanford, Computer Science), completed 2022
 
 * Erin Bennett (Stanford, Psychology), completed 2020
 
@@ -614,7 +664,13 @@ A javascript-based probabilistic programming language.
 
 ### Ph.D. Committees
 
-* Shao-Fang (Pam) Wang (Stanford, Psychology)
+* Eric Mitchell (Stanford, CS)
+
+* Andrew Nam (Stanford, Psychology)
+
+* Shyamal Buch (Stanford, CS), completed 2022
+
+* Shao-Fang (Pam) Wang (Stanford, Psychology), completed 2021
 
 * Natalia Velez (Stanford, Psychology), completed 2019
 
@@ -674,7 +730,11 @@ Aditya Grover, CS quals commitee
 
 ## University Committees
 
-* Psychology Department, Graduate Admissions Committee (*Chair*), 2018-19, 2019-20, 2020-2021.
+* Psychology Department, Graduate Admissions Committee (*Chair*), 2018-19, 2019-20, 2020-2021, 2021-2022, 2022-2023.
+
+* Committee on Review of Undergraduate Majors, 2021-22, 2022-23.
+
+* Psychology Department, Cognitive and Developmental Search Committee (*Chair*), 2021-22.
 
 * CS Department, Pre-Hiring Committee, 2020-21.
 
