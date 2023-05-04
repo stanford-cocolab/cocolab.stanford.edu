@@ -4,6 +4,16 @@
       img: noah.jpg
       webpage: /ndg
 
+- role: Post Docs
+  people:
+    - name: Jan-Philipp Franken
+      img: philipp.jpg
+      webpage: https://janphilippfranken.github.io/ 
+      bio:
+        - >
+          I currently work on reasoning (e.g., social, causal) in both humans and language models.
+          During my PhD, I've worked on concept learning and social learning in multi-player games.
+    
 - role: Graduate Students
   people:
     - name: Jesse Mu
