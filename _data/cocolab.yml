@@ -16,6 +16,21 @@
     
 - role: Graduate Students
   people:
+    - name: Alex Tamkin
+      img: alextamkin.jpg
+      webpage: https://www.alextamkin.com/
+      bio:
+        - >
+          My research focuses on unsupervised learning: how can we understand and guide 
+          systems that learn general-purpose representations of the world?
+
+    - name: Julia White
+      img: juliawhite.png
+      bio:
+        - >
+          I am interested in the development of pragmatic and adaptive natural language 
+          generation algorithms for interactive dialogue systems.   
+
     - name: Jesse Mu
       img: jesse.jpg
       webpage: https://cs.stanford.edu/~muj/
@@ -25,7 +40,7 @@
           learning. This involves (1) building machines that can learn from
           (and teach with) language and interactive dialog, and (2) using
           language as a structured and compositional guide for learning.
-    
+
     - name: Gabriel Poesia
       img: gabrielpoesia.jpg
       webpage: https://gpoesia.com/#
@@ -36,6 +51,14 @@
           I’m interested in making computers capable of handling ambiguous inputs and 
           specifications by leveraging prior knowledge, context and interaction.
 
+    - name: Rose Wang
+      img: rose.png
+      webpage: https://cs.stanford.edu/~rewang
+      bio:
+        - >
+          My research interests are in unsupervised learning and multiagent systems.
+
+
     - name: Ben Prystawski
       img: ben.jpg
       webpage: https://benprystawski.com/
@@ -44,34 +67,14 @@
           I am interested in understanding how language enables humans to work together 
           effectively. My current research focuses on indirect language use and teaching.
 
-    - name: Alex Tamkin
-      img: alextamkin.jpg
-      webpage: https://www.alextamkin.com/
-      bio:
-        - >
-          My research focuses on unsupervised learning: how can we understand and guide 
-          systems that learn general-purpose representations of the world?
-
-    - name: Rose Wang
-      img: rose.png
-      webpage: https://cs.stanford.edu/~rewang
-      bio:
-        - >
-          My research interests are in unsupervised learning and multiagent systems.
-
-    - name: Julia White
-      img: juliawhite.png
-      bio:
-        - >
-          I am interested in the development of pragmatic and adaptive natural language 
-          generation algorithms for interactive dialogue systems.
     - name: Kanishk Gandhi
       img: kanishk.jpeg
       webpage: https://kanishkgandhi.com 
       bio:
         - > 
-          I am interested in social reasoning: how we can build machines that interact with,
+          I am interested in social cognition; how we can build machines that interact with,
           learn from and communicate with others.
+          
     - name: Eric Zelikman
       img: ericz.png
       webpage: https://zelikman.me/
@@ -93,13 +96,6 @@
           reinforcement learning. Currently, I examine how information theory might be a useful 
           tool for facilitating this understanding, with a focus on abstractions and natural 
           language.
-
-    - name: Gaurab Banerjee
-      img: gaurab.jpg
-      webpage: https://gaurabbanerjee.wixsite.com/home/home 
-      bio:
-        - >
-          I am interested in what and how deep learning algorithms actually "learn".
 
     - name: Shyamal Buch
       img: shyamalbuch.png
