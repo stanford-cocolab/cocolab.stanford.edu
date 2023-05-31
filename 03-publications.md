@@ -8,7 +8,7 @@ permalink: publications
 ## Preprints
 <br>
 
-{% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year=Manuscript] %}
+{% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year=Preprint] %}
 
 <!--
 <br>
