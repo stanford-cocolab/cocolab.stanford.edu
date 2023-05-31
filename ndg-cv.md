@@ -6,22 +6,21 @@ layout: default
 
 # Curriculum Vitae of Noah D. Goodman
 
-Stanford University <br/>
 Department of Psychology <br/>
-Jordan Hall, Building 01-420 <br/>
-450 Serra Mall <br/>
+450 Jane Stanford Way <br/>
+Building 420 <br/>
+Stanford University <br/>
 Stanford, CA 94305
 
-Phone: 650-725-2445 <br/>
-Email: `ngoodman@stanford.edu` <br/>
-Homepage: [`noahgoodman.net`](http://noahgoodman.net)
+`ngoodman@stanford.edu` <br/>
+[`noahgoodman.net`](http://noahgoodman.net)
 
-## Research Interests
+<!-- ## Research Interests
 
 Computational models of cognition.   
 Probabilistic programming languages.  
 Natural language semantics and pragmatics.  
-Concepts and intuitive theories.  
+Concepts and intuitive theories.   -->
 
 ## Professional Positions
 
@@ -168,13 +167,13 @@ Concepts and intuitive theories.
 
 {% bibliography --query @electronic @book %}
 
-### Technical Reports
+<!-- ### Technical Reports
 
 {% bibliography --query @techreport %}
 
 ### Other
 
-{% bibliography --query @unpublished @misc %}
+{% bibliography --query @unpublished @misc %} -->
 
 ## Software
 
@@ -213,6 +212,10 @@ A javascript-based probabilistic programming language.
 * "What people can learn from algorithms — and algorithms can learn from people." Boston Globe, May 27, 2016.
 
 * "AI's Langauge Problem." MIT Technology Review,  August 9, 2016.
+
+* "Some Glimpse AGI in ChatGPT. Others Call It a Mirage." Wired, April 23, 2023.
+
+* Newsday on the BBC World Service. May 1, 2023.
 
 
 ## Invited Presentations
@@ -489,10 +492,10 @@ A javascript-based probabilistic programming language.
 
 * Conference Proceedings Reviewer (selected): Cognitive Science. Neural Information Processing Systems. International Conference on Learning Representations. Society for Philosophy and Psychology. Uncertainty in Artificial Intelligence.
 
-* Grant reviewer: NSF (ad-hoc and panelist), ONR.
+<!-- * Grant reviewer: NSF (ad-hoc and panelist), ONR. -->
 
-* Program committee / Senior PC: Cognitive Science Society, 2014, 2015, 2016. AAAI 2016. AIStats 2017, etc.
-
+<!-- * Program committee / Senior PC: Cognitive Science Society, 2014, 2015, 2016. AAAI 2016. AIStats 2017, etc. -->
+<!-- 
 * Co-organizer: Cognitive Science Society, symposium “Empirical and Computational Approaches to Metaphor and Figurative Meaning”, Pennsylvania, August 2016.
 
 * Co-organizer: Cognitive Science Society, symposium “The Emergence of Conventions”, Pennsylvania, August 2016.
@@ -523,7 +526,7 @@ A javascript-based probabilistic programming language.
 
 * Mentor (1999-2001), Canada/USA Mathcamp.
 
-* Co-Organizer and Coordinator of Hiring, Canada/USA Mathcamp 2000, 2001.
+* Co-Organizer and Coordinator of Hiring, Canada/USA Mathcamp 2000, 2001. -->
 
 ## Outreach
 
@@ -537,7 +540,7 @@ A javascript-based probabilistic programming language.
 
 ## Teaching
 
-### University Courses
+<!-- ### University Courses -->
 
 * Psychology of the Climate Crisis (PSYCH 278). Spring 2023.
 
@@ -579,6 +582,7 @@ A javascript-based probabilistic programming language.
 
 * Experience teaching mathematics at all levels, 1997-2005. (Details by request.)
 
+<!-- 
 ### Summer Schools and Tutorials
 
 * Probabilistic Programming for Advanced Machine Learning (summer school for DARPA program of the same name), Portland, August 2016.
@@ -593,76 +597,107 @@ A javascript-based probabilistic programming language.
 
 * Tutorial on probabilistic models of cognition (with T. O'Donnell). Cornell University, October 2009.
 
-* IPAM Graduate Summer School: "Probabilistic Models of Cognition: The Mathematics of Mind", Los Angeles CA, July 2007. ( 3 lectures.)
+* IPAM Graduate Summer School: "Probabilistic Models of Cognition: The Mathematics of Mind", Los Angeles CA, July 2007. ( 3 lectures.) -->
 
 
 ## Advising
 
-### Post-doctoral students
-
-* Judy Fan, 2017-2019 (Now assistant professor of Psychology, UCSD)
-
-* Daniel Ritchie, 2016-17 (Now assistant professor of CS, Brown)
-
-* Leon Bergen, 2016-2017 (Now assistant professor of Linguistics, UCSD)
-
-* Judith Degen, 2013-2017 (Now assistant professor of Linguistics, Stanford)
-
-* Andreas Stuhmueller, 2015-2017 (Now CEO Ought, Inc.)
-
-* Long Ouyang, 2015-2016
-
-* Gregory Scontras, 2014-2016 (Now associate professor of Linguistics, UC Irvine)
-
-* Siddarth Narayanaswami 2013-15 (Now lecturer, University of Edinburgh)
-
-* Daniel Ly, 2013-15
-
-* Daniel Lassiter, 2011-13 (Now assistant professor of Linguistics, Stanford University)
-
-* Joseph Austerweil, 2013 (Now associate professor of Cognitive Science, University of Wisconsin)
-
-
 ### Ph.D. students
 
-* Kanishk Gandhi (Stanford, Computer Science)
+* Kanishk Gandhi (Stanford, Computer Science), 2021-
+<!-- kanishkg@stanford.edu -->
 
-* Eric Zelikman (Stanford, Computer Science)
+* Eric Zelikman (Stanford, Computer Science), 2021-
+<!-- ezelikman@stanford.edu -->
 
-* Ben Prystawski (Stanford, Psychology)
+* Ben Prystawski (Stanford, Psychology) 2021-
+<!-- benpry@stanford.edu -->
 
-* Rose Wang (Stanford, Computer Science)
+* Rose Wang (Stanford, Computer Science), 2020-
+<!-- rewang@stanford.edu -->
 
-* Gabriel Poesia (Stanford, Computer Science)
+* Gabriel Poesia (Stanford, Computer Science), 2019-
+<!-- poesia@stanford.edu -->
 
-* Julia White (Stanford, Electrical Engineering)
+* Julia White (Stanford, Electrical Engineering), 2018-2023 (anticipated)
+<!-- jiwhite@stanford.edu -->
 
-* Alex Tamkin (Stanford, Computer Science)
+* Alex Tamkin (Stanford, Computer Science), 2018-2023 (anticipated)
+<!-- atamkin@stanford.edu -->
 
-* Jesse Mu (Stanford, Computer Science)
+* Jesse Mu (Stanford, Computer Science), 2018-2023 (anticipated)
+<!-- muj@stanford.edu -->
 
-* Mike Wu (Stanford, Computer Science), completed 2022
+* Mike Wu (Stanford, Computer Science), 2017-2022 (Now Founder at web3analytic)
+<!-- me@mikehwu.com -->
 
-* Erin Bennett (Stanford, Psychology), completed 2020
+* Erin Bennett (Stanford, Psychology), 2015-2020 (Now Computer Science & Mathematics Teacher at Kehillah Jewish High School)
+<!-- academic@erindb.com  -->
 
-* Robert X. D. Hawkins (Stanford, Psychology), completed 2019
+* Robert X. D. Hawkins (Stanford, Psychology), 2014-2019 (Now Assistant Professor at University of Wisconsin)
+<!-- hawkrobe@gmail.com -->
 
-* Michael Henry Tessler (Stanford, Psychology), completed 2018
+* Michael Henry Tessler (Stanford, Psychology), 2013-2018 (Now Research Scientist at DeepMind)
+<!-- tesslerm@google.com  -->
 
-* Desmond Ong (Stanford, Psychology), completed 2017
+* Desmond Ong (Stanford, Psychology), 2012-2017 (Now Assistant Professor of Psychology at UT Austin)
+<!-- desmond.c.ong@gmail.com -->
 
-* Daniel Ritchie (Stanford, Computer Science), completed 2016
+* Daniel Ritchie (Stanford, Computer Science), 2011-2016 (Now Assistant Professor of CS at Brown University)
+<!-- daniel_ritchie@brown.edu -->
 
-* Justine Kao (Stanford, Psychology), completed 2016
+* Justine Kao (Stanford, Psychology), 2011-2016 (Now Data Science Manager at FAIR)
+<!-- justinetk@gmail.com -->
 
-* Long Ouyang (Stanford, Psychology), completed 2015
+* Long Ouyang (Stanford, Psychology), 2010-2015 (Now Research Scientist at OpenAI)
+<!-- longouyang@gmail.com -->
 
-* Daniel Hawthorne (Stanford, Psychology), completed 2015
+* Daniel Hawthorne (Stanford, Psychology), 2010-2015 (Now Research Data Scientist at Meta)
+<!-- daniel.j.hawthorne@gmail.com -->
 
-* Andreas Stuhmueller (MIT, BCS), completed 2015
+* Andreas Stuhmueller (MIT, BCS), completed 2015 (Now CEO Ought, Inc.)
+<!-- andreas@ought.org -->
 
+
+### Post-doctoral students
+
+* Judy Fan, 2017-2019 (Now Assistant Professor of Psychology, UCSD/Stanford)
+<!-- jefan@stanford.edu -->
+
+* Leon Bergen, 2016-2017 (Now Assistant Professor of Linguistics, UCSD)
+<!-- lbergen@ucsd.edu -->
+
+* Judith Degen, 2013-2017 (Now Assistant Professor of Linguistics, Stanford)
+<!-- jdegen@stanford.edu -->
+
+* Gregory Scontras, 2014-2016 (Now Associate Professor of Linguistics, UC Irvine)
+<!-- scontras@uci.edu -->
+
+* Siddarth Narayanaswami 2013-15 (Now Reader, University of Edinburgh)
+<!-- n.siddharth@ed.ac.uk -->
+
+* Daniel Ly, 2013-15 (Now Associate Director at Proof Diagnostics, Inc)
+
+* Daniel Lassiter, 2011-13 (Now Senior Lecturer, University of Edinburgh)
+<!-- dlassite@ed.ac.uk -->
+
+* Joseph Austerweil, 2013 (Now Associate Professor of Cognitive Science, University of Wisconsin)
+<!-- austerweil@wisc.edu -->
+  
 
 ### Ph.D. Committees
+
+* Chenlin Meng (Stanford, CS)
+
+* Veronica Boyce (Stanford, Psychology)
+
+* Sarah Wu (Stanford, Psychology)
+
+* Alex Durango (Stanford, Neuroscience)
+
+* David Rose (Stanford, Psychology)
+
+* Yunsung Kim (Stanford, CS)
 
 * Eric Mitchell (Stanford, CS)
 
@@ -726,13 +761,17 @@ A javascript-based probabilistic programming language.
 <!--
 Quals and such:
 Aditya Grover, CS quals commitee
+Yunsung Kim, CS quals commitee
+Eric Mitchel, CS quals commitee
+Minae Kwon, CS quals commitee
+
 -->
 
 ## University Committees
 
 * Psychology Department, Graduate Admissions Committee (*Chair*), 2018-19, 2019-20, 2020-2021, 2021-2022, 2022-2023.
 
-* Committee on Review of Undergraduate Majors, 2021-22, 2022-23.
+* Committee on Review of Undergraduate Majors, 2021-22, 2022-23. (2023-24, *Chair*.)
 
 * Psychology Department, Cognitive and Developmental Search Committee (*Chair*), 2021-22.
 
