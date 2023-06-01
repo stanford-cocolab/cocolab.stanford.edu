@@ -1,11 +1,11 @@
-- image: camping23.jpg
-  label: CoCoLab Camping Trip 2023
+- image: camping-23.jpg
+  label: "CoCoLab Camping Trip 2023"
 - image: cocodin23.jpg
-  label: CoCoDinner Spring 2023
+  label: "CoCoDinner Spring 2023"
 - image: cocosummer2020.png
-  label: CoCoLab Summer 2020
+  label: "CoCoLab Summer 2020"
 - image: cocosummer2019.jpg
-  label: CoCoLab Summer 2019
+  label: "CoCoLab Summer 2019"
 - image: cocohike2015.jpg
   label: "CoCoLab hike, 2015"
 - image: cocolab-log.jpg
