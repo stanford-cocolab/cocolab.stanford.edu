@@ -1,3 +1,7 @@
+- image: camping23.jpg
+  label: CoCoLab Camping Trip 2023
+- image: cocodin23.jpg
+  label: CoCoDinner Spring 2023
 - image: cocosummer2020.png
   label: CoCoLab Summer 2020
 - image: cocosummer2019.jpg
@@ -10,10 +14,10 @@
   label: "CoCoLab in Sonoma, Lab Retreat 2014"
 - image: Cabin.jpg
   label: "Coco and Langcog labs at Yosemite, Lab Retreat 2012"
-- image: oval.jpg
-  label: Overlooking the campus oval
-- image: stanford1.jpg
-  label: Stanford campus near Jordan Hall
+# - image: oval.jpg
+#   label: Overlooking the campus oval
+# - image: stanford1.jpg
+#   label: Stanford campus near Jordan Hall
 #- image: juliet.png
 #  alt: "But soft, what light though yonder window breaks? It is the east and Juliet is the sun!"
 #  label: "How will Juliet infer Romeo's intended meaning?"
