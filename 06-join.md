@@ -10,9 +10,9 @@ permalink: join
 Anyone interested in joining CoCoLab should first get to know the research we do, for instance by reading some of our [publications](/publications).
 
 <br>
-**Potential postdocs**: Please contact the PI directly, include a current CV and discussion of research interests.
+**Potential postdocs**: *Noah is on sabbatical for 2024-25 and will not be taking post-docs.*
 
-**Potential graduate students**: Please submit an application through the relevant Department: [Psychology](https://psychology.stanford.edu/admissions/phd-admissions),  [Computer Science](https://cs.stanford.edu/admissions/general-information), [Linguistics](https://linguistics.stanford.edu/degree-programs/graduate-programs/doctoral-program), and others. Yes, we are taking new students (no need to email to ask).
+**Potential graduate students**: *Noah is on sabbatical for 2024-25 and will not be accepting graduate students.*
 
 **Potential research assistants** (Stanford undergraduate or masters): Please send the PI an email with a current CV (including relevant research and programming experience), describe why you want to join the lab and what type of projects you are interested in. Please also indicate whether you are looking for a paid or a volunteer / course credit position.
 

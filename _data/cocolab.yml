@@ -16,31 +16,6 @@
     
 - role: Graduate Students
   people:
-    - name: Alex Tamkin
-      img: alextamkin.jpg
-      webpage: https://www.alextamkin.com/
-      bio:
-        - >
-          My research focuses on unsupervised learning: how can we understand and guide 
-          systems that learn general-purpose representations of the world?
-
-    - name: Julia White
-      img: juliawhite.png
-      bio:
-        - >
-          I am interested in the development of pragmatic and adaptive natural language 
-          generation algorithms for interactive dialogue systems.   
-
-    - name: Jesse Mu
-      img: jesse.jpg
-      webpage: https://cs.stanford.edu/~muj/
-      bio:
-        - >
-          My research interests are in operationalizing language for machine
-          learning. This involves (1) building machines that can learn from
-          (and teach with) language and interactive dialog, and (2) using
-          language as a structured and compositional guide for learning.
-
     - name: Gabriel Poesia
       img: gabrielpoesia.jpg
       webpage: https://gpoesia.com/#
@@ -57,7 +32,6 @@
       bio:
         - >
           My research interests are in unsupervised learning and multiagent systems.
-
 
     - name: Ben Prystawski
       img: ben.jpg
@@ -84,9 +58,28 @@
           to model the world and leverage structural understanding, such as in multi-step planning, 
           intermediate rationales, object-centric visual representations, or theory of mind and 
           social reasoning.
+    - name: Michael Li
+      img: michaelli.png
+      webpage: https://michaelyli.github.io/
+      bio:
+        - >
+          I am interested in how we can build machines that can learn to communicate with humans 
+          and other machines in a way that is interpretable and robust to uncertainty.
+    - name: Joy He-Yueya
+      img: joyhe.JPG
+      bio:
+        - >
+          My research interests are in reinforcement learning and optimal experimental design.
 
 - role: Lab affiliates
   people:
+    - name: Megha Srivastave
+      img: megha.JPG
+      bio: 
+        - >
+          I'm interested in developing methods for more reliable forms of human-AI interaction, particularly in domains such
+          as education, as well as exploring how users develop "trust"  in artificial agents over time.
+
     - name: Dilip Arumugam
       img: diliparumugam.jpg
       webpage: https://dilipa.github.io/
@@ -153,6 +146,17 @@
 
 - role: Alumni
   people:
+     - name: Alex Tamkin
+      was: graduate student in Computer Science
+      webpage: https://www.alextamkin.com/
+      now: Assistant Professor in Computer Science at UC San Diego
+    - name: Jesse Mu
+      was: graduate student in Computer Science
+      webpage: https://cs.stanford.edu/~muj/
+      now: Anthropic
+    - name: Julia White
+      was: graduate student in Electrical Engineering
+      now: Samsung Research
     - name: Mike Wu
       was: graduate student in Computer Science
       webpage: //mikehwu.com/
@@ -162,11 +166,11 @@
     - name: Judy Fan
       was: post-doc
       webpage: http://www.judithfan.net/
-      now: Assistant Professor of Psychology at UC San Diego
+      now: Assistant Professor of Psychology at Stanford
     - name: Robert Hawkins
       was: graduate student in Psychology
       webpage: //rxdhawkins.com/
-      now: Post-doc at the Princeton Neuroscience Institute
+      now: Assistant Professor of Psychology at UW-Madison
     - name: Michael Henry Tessler
       was: graduate student in Psychology
       now: Post-doc at MIT
