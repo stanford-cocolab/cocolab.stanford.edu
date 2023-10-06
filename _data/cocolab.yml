@@ -70,6 +70,11 @@
       bio:
         - >
           My research interests are in reinforcement learning and optimal experimental design.
+    - name: Steven Feng
+      img: steven_feng.jpg
+      bio:
+        - >
+          My research aims to enhance machine understanding and generation of human language and vision. This includes exploring methods to improve the controllability and reasoning of language and visual models, and investigating cognitive strategies to align human and machine learning.
 
 - role: Lab affiliates
   people:
