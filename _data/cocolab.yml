@@ -146,7 +146,7 @@
 
 - role: Alumni
   people:
-     - name: Alex Tamkin
+    - name: Alex Tamkin
       was: graduate student in Computer Science
       webpage: https://www.alextamkin.com/
       now: Assistant Professor in Computer Science at UC San Diego
