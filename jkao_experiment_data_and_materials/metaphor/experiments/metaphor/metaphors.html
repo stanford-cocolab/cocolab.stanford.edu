@@ -1,0 +1,298 @@
+<html>
+<head>
+  <title>Metaphors</title>
+<script src="https://www.stanford.edu/~dco/common/jquery.min.js"></script>
+<script src="https://www.stanford.edu/~dco/common/mmturkey.0.5.js?nowarn"></script>
+<link rel="stylesheet" href="style.css" />
+<link type="text/css" rel="stylesheet" href="sliders/jquery-ui.css" /></p>
+<script src="sliders/jquery.min.js"></script> <script src="sliders/jquery-ui.min.js"></script>
+</head>
+<body>
+<script LANGUAGE="JavaScript">
+
+function ValidateForm(form){
+    var valid = 0;
+    for(var i = 0; i < form.elements.length; i++) {
+        if (form.elements[i].checked == true ) { 
+            valid = 1; 
+            return true;
+        } 
+    } 
+    if (valid == 0) {
+        alert ( "Please answer this question." );
+        return false; 
+    }
+}
+
+function ValidateSelect(form) {
+    if (form.ageRange.selectedIndex != 0 && form.ageRange.selectedIndex != 1 && form.ageRange.selectedIndex != 2 && form.ageRange.selectedIndex != 3 && form.ageRange.selectedIndex != 4 && form.ageRange.selectedIndex != 5 && form.ageRange.selectedIndex != 6) {
+        alert ( "Please answer this question." );
+        return false;
+    }
+    return true; 
+}
+
+function ValidateNumber(field)
+{
+    valid = true;
+    if (field.value == "")
+    {
+        alert ("Please answer all the questions.");
+        valid = false;
+    }
+    if (isNaN(field.value)) {
+        alert ("Please answer using only numbers.");
+        valid = false;
+    }
+    return valid;
+
+}
+
+function ValidateNumberLength(field, length)
+{
+    valid = true;
+    if (field.value == "")
+    {
+        alert ("Please answer all the questions.");
+        valid = false;
+    }
+    if (isNaN(field.value)) {
+        alert ("Please answer using only numbers.");
+        valid = false;
+    }
+    if (field.value.length > length) {
+    	alert("You entered too many numbers. Please make sure your numbers make sense.");
+    	valid = false;
+    }
+    return valid;
+
+}
+
+function checkPreview() {
+    if (turk.previewMode) {
+        alert ("Please accept this HIT to see more qeustions.");
+        return false;
+    }
+    return true;
+}
+
+function ValidateText(field)
+{
+    valid = true;
+
+    if (field.value == "" )
+    {
+        alert ("Please answer all the questions.");
+        valid = false;
+    }
+
+    return valid;
+}
+
+
+function pressEnter(e) {
+    if (e.keyCode == 13) {
+    	document.adjective.next.click();
+    	return false;
+    }
+}
+
+function ValidateSliderForm(form){ 
+    for (var i=1 ; i <= NUM_SLIDERS; i++)
+    {
+      var sliderVar = "slider" + i;
+      if (document.getElementById(sliderVar).style.background == "") {
+        alert ( "Please answer all the questions." );
+        return false;
+      }
+    }
+    return true;
+}
+
+</script>
+
+<div class="progress">
+	<div class="bar-wrapper">
+	  <div class="bar"></div>
+	</div>
+	<p><span id="trial-num">{{}}</span><span>/</span><span id="total-num">{{}}</span></p>
+</div>
+
+<div class="slide" id="instructions">
+  <img src="images/stanford.png" alt="Stanford University">
+    <p id='logo-text'>Stanford Computation and Cognition Lab</p>
+  <p class="block-text">
+  Thank you very much for participating in our experiment. In this experiment, we are interested in
+  how people interpret different sentences.
+  </p>
+  <button type="button" onclick="this.blur(); experiment.description()">Start</button>
+<p class="block-text" id="legal">Legal information: By answering the
+    following questions, you are participating in a study being performed by
+    cognitive scientists in the Stanford Department of Psychology. If you have
+    questions about this research, please contact <b>Justine Kao at <a
+    href="mailto://justinek@stanford.edu">justinek@stanford.edu</a></b> or Noah Goodman
+    at ngoodman@stanford.edu. You must be  at least 18 years old to
+    participate. Your participation in this research is voluntary. You may
+    decline to answer any or all of the following questions. You may decline
+    further participation, at any time, without adverse consequences. Your
+    anonymity is assured; the researchers who have requested your
+    participation will not receive any personal information about you.</p>
+</div>
+
+
+
+
+<div class="slide" id="description">
+<p id='logo-text'>Instructions</p>
+<p class="block-text"> You will see <span id="tot-num">{{}}</span> scenarios where someone is describing
+a person to his friend.
+After reading each scenario, please rate how likely it is that the person described has certain attributes.</p>
+</br>
+<div id="form">
+<button type="button" onclick="this.blur(); if (checkPreview()) {experiment.next();}">Next</button>
+</div>
+</div>
+
+
+<div class="slide" id="stage">
+<div id="form">
+<p id="statement"><span id="speaker1">{{}}</span> and his friend are talking about a
+person that <span id="speaker2">{{{}}</span> recently met.</p>
+<p id="statement">The friend asks, "<span id="question">{{}}</span>"</p>
+<p id="statement"><span id="speaker3">{{}}</span> says, "<span id="answer">{{}}</span>"</p>
+<p id="testQuestion">Please rate how likely it is that the person described has the following attributes:   
+
+    <form name= "featureForm">
+    
+    <input type="hidden" name="hSlider1" id="hiddenSliderValue1" />
+    <input type="hidden" name="hSlider2" id="hiddenSliderValue2" />
+    <input type="hidden" name="hSlider3" id="hiddenSliderValue3" />
+    </br>
+    
+    <table width="700" cellspacing="0" cellpadding="0" border="0" align="center"><tbody>
+    <tr><td colspan="6">&nbsp;<br /></td></tr>
+    <tr>
+    	<td width="140"><span class="attributes" id="f1">{{}}</span></td>
+      <td align="center" colspan="5">
+      
+      <div id="slider1"> &nbsp;</div></td>
+    </tr><tr>
+    
+      <td width="140"></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale"> </span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale"> </span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale"> </span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale"> </span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale"> </span></td>
+      
+    </tr>
+    <tr>
+    	<td width="140"><span class="attributes" id="f2">{{}}</span></td>
+      <td align="center" colspan="5">
+      
+      <div id="slider2"> &nbsp;</div></td>
+    </tr><tr>
+      <td width="140"></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale"> </span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale"> </span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale"> </span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale"> </span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale"> </span></td>
+    </tr>
+    <tr>
+    	<td width="140"><span class="attributes" id="f3">{{}}</span></td>
+      <td align="center" colspan="5">
+      
+      <div id="slider3"> &nbsp;</div></td>
+    </tr><tr>
+      <td width="140"></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale">Impossible</span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale">Not very likely</span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale">Neutral</span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale">Very Likely</span></td>
+      <td width="140" valign="top" align="center">|<br />
+      <span id="scale">Absolutely certain</span></td>
+    </tr>    
+    </tbody></table>
+    
+    </form>
+    <button type="button" id="next" onclick="this.blur(); if(ValidateSliderForm(document.featureForm)) {experiment.next();}">Next</button>
+    </div>
+</div>
+
+
+<div class="slide" id="askInfo">
+    
+    <div id="form">
+    <p id="infoQ">Please answer a few questions about yourself. </p>
+    <form name="gender">
+    </br>
+    <span id="infoQ">Gender:</span>&nbsp;&nbsp;
+    <input type="radio" name="genderButton" value="M" /><span id="opt">Male</span>&nbsp;&nbsp;
+    <input type="radio" name="genderButton" value="F" /><span id="opt">Female</span>
+    <input type="radio" name="genderButton" value="O" /><span id="opt">Other</span>
+    </form>
+    
+    <form name="age">
+    <span id="infoQ">Age range:</span>&nbsp;&nbsp;
+    <select name=ageRange>
+    <option value=17><span id="opt">Under 18</span></option>
+    <option value=25><span id="opt">18-25</span></option>
+    <option value=35><span id="opt">26-35</span></option>
+    <option value=45><span id="opt">36-45</span></option>
+    <option value=55><span id="opt">46-55</span></option>
+    <option value=65><span id="opt">56-65</span></option>
+    <option value=66><span id="opt">Above 66</span></option>
+    </select>
+    </form>
+    
+    <form name="income">
+    <span id="infoQ">Yearly income range:</span>&nbsp;&nbsp;
+    <select name=incomeRange>
+    <option value=0><span id="opt">Prefer not to answer</span></option>
+    <option value=4><span id="opt">Under 40,000</span></option>
+    <option value=6><span id="opt">40,000-60,000</span></option>
+    <option value=8><span id="opt">60,000-80,000</span></option>
+    <option value=10><span id="opt">80,000-100,000</span></option>
+    <option value=11><span id="opt">Above 100,000</span></option>
+    </select>
+    </form>
+    
+    <form name="language">
+    <span id="infoQ">What is your native language?</span>&nbsp;&nbsp;
+    <input type="text" name="nativeLanguage" /><br />
+    </form>
+    
+
+    <form name="comments">
+    </br>
+    </br>
+    <span id="infoQ"> Please leave any comments or suggestions regarding this HIT:</span></br>
+    <TEXTAREA name="input" ROWS=10 COLS=50></TEXTAREA>
+    </br>
+    </form>
+    <button type="button" onclick="this.blur(); if (ValidateForm(document.gender) && ValidateSelect(document.age) && ValidateText(document.language.nativeLanguage)) {experiment.end();}">Submit</button>
+    </div>
+</div>
+
+<div class="slide" id="finished">
+  You're finished - thanks for participating! Submitting to Mechanical Turk...
+</div>
+<script src="experiment-within.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,324 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Palatino Linotype, Bookman Antiqua, Palatino, serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.slide {
+  width: 95%;
+  height: 95%;
+  display: none;
+  position: absolute;
+  margin: 0;
+  margin-left: 0.5%;
+  padding: 1% 2% 1% 2%;
+}
+
+input, select, button {font-family: Georgia, serif; font-size: 14px;}
+
+button {
+  background: url(images/button-gradient.png);
+  border: 1px solid #999;
+  border-top: 1px solid #e0e0e0;
+  border-left: 1px solid #e0e0e0;
+  margin: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  height: 29px;
+  min-width: 70px;
+}
+button:active {
+  border-left: 1px solid #c9c9c9;
+  border-top: 1px solid #c9c9c9;
+  background: none;
+  background-color: #c9c9c9;
+}
+
+button[disabled] {
+  background: url(zen-button.png);
+  border: 1px solid #999;
+  border-top: 1px solid #e0e0e0;
+  border-left: 1px solid #e0e0e0;
+  cursor: not-allowed;
+}
+
+#logo-text {
+  font-weight: bold;
+}
+
+
+#odd-key, #even-key, #key {
+  background-color: #e3e3e3;
+  padding: 2px;
+  border: 1px outset #cccccc;
+  font-family: Courier New;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.block-text {
+  width: 500px;
+  text-align: justify;
+  margin: 2 auto;
+  margin-bottom: 1em;
+  line-height:1.2em;
+}
+
+.attributes {
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+}
+
+.attributeSet {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+}
+
+#statement {
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  margin-top: 0em;
+  text-align: center;
+  line-height: 18px;
+}
+
+#testQuestion{
+    margin: 0auto;
+    margin-top: 1em;
+    font-size: 16px;
+    text-align: center;
+}
+
+#legal {
+  margin: 0 auto;
+  margin-top: 1.5em;
+  font-size: 0.8em;
+}
+
+#words {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  margin-top: 2em;
+  text-align: center;
+  line-height: 24px;
+}
+
+#adjectives {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  margin-top: 0em;
+  text-align: center;
+  line-height: 22px;
+}
+
+#emphasis-text{
+    margin: 0auto;
+    margin-top: 2em;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+#type {
+    margin: 0 auto;
+    margin-top: 8em;
+    font-size: 18px;
+    text-align: center;
+}
+
+#testInstructions {
+    font-size: 20px;
+    margin-top: 5em;
+    text-align: center;
+}
+
+#instructions {
+    margin: 0 auto;
+    margin-top: 1em;
+    font-size: 20px;
+    text-align: center;
+}
+
+#description {
+    margin: 0 auto;
+    margin-top: 1em;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+#scale {
+    margin:  auto;
+    margin-top: 0em;
+    margin-bottom: 3em;
+    font-size: 14px;
+    text-align: center;
+    line-height:14px;
+}
+
+#opt1, #opt2, #opt3, #opt {
+    margin: 0 auto;
+    margin-top: 3em;
+    font-size: 18px;
+    text-align: center;
+    line-height: 26px;
+}
+
+#form {
+    text-align: center;
+}
+
+#infoQ, #typeEst {
+    font-size: 16px;
+    margin-top: 1em;
+}
+
+#opt {
+    margin: 0 auto;
+    margin-top: 3em;
+    font-size: 16px;
+    text-align: center;
+    line-height: 26px;
+}
+
+.progress{
+    text-align: center;
+    margin-top:0.5em;
+}
+
+.progress span{
+    position:relative;
+    text-align: center;
+}
+
+.bar-wrapper{
+    height:20px;
+    width:200px;
+    border:1px solid #000000;
+    display:inline-block;
+    text-align: center;
+}
+
+.bar{
+    position:relative;
+    height:100%;
+    width:0px;
+    background-color:DarkRed;
+    text-align: center;
+}
+       
+
+#slider1 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider1 .ui-slider-handle {
+               background: #FAFAFA; }
+               
+#slider2 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider2 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider3 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider3 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider4 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider4 .ui-slider-handle {
+               background: #FAFAFA; }
+#slider5 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider5 .ui-slider-handle {
+               background: #FAFAFA; }
+#slider6 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider6 .ui-slider-handle {
+               background: #FAFAFA; }
+
+
+#slider7 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider7 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider8 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider8 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider9 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider9 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider10 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider10 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider11 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider11 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider12 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider12 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider13 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider13 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider14 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider14 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider15 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider15 .ui-slider-handle {
+               background: #FAFAFA; }
+
+#slider16 { width: 560px;
+               height: 12px;
+               position: relative;
+               margin: 5px; }
+#slider16 .ui-slider-handle {
+               background: #FAFAFA; }
+
+

@@ -1,0 +1,451 @@
+workerID,domain,stateRounded,stateType,affectProb,order
+1,laptop,1000,round,0.65,1
+1,watch,500,sharp,0.95,2
+1,laptop,5000,round,0.25,3
+1,electric kettle,500,sharp,0.775,4
+1,watch,1000,round,0.725,5
+1,watch,10000,sharp,1,6
+1,watch,5000,round,1,7
+1,watch,1000,sharp,0.725,8
+1,electric kettle,5000,round,0.95,9
+1,electric kettle,10000,sharp,1,10
+1,watch,50,sharp,0,11
+1,electric kettle,10000,round,0.925,12
+1,laptop,500,round,0.25,13
+1,electric kettle,50,round,0.25,14
+1,laptop,5000,sharp,0.95,15
+2,electric kettle,1000,round,0.75,1
+2,watch,50,round,0.25,2
+2,electric kettle,5000,sharp,0.975,3
+2,laptop,500,sharp,0.25,4
+2,laptop,5000,round,0.975,5
+2,watch,1000,round,0.775,6
+2,laptop,10000,sharp,0.975,7
+2,electric kettle,500,sharp,0.275,8
+2,watch,10000,round,0.975,9
+2,laptop,10000,round,1,10
+2,laptop,50,round,0,11
+2,electric kettle,5000,round,0.75,12
+2,watch,500,sharp,0.725,13
+2,watch,10000,sharp,1,14
+2,watch,1000,sharp,0.975,15
+3,electric kettle,5000,sharp,1,1
+3,watch,500,sharp,0.625,2
+3,laptop,50,sharp,0,3
+3,laptop,10000,sharp,0.75,4
+3,electric kettle,500,sharp,0.575,5
+3,laptop,5000,sharp,0.525,6
+3,electric kettle,50,sharp,0.15,7
+3,laptop,500,sharp,0.325,8
+3,watch,1000,round,0.6,9
+3,watch,5000,sharp,0.925,10
+3,electric kettle,50,round,0.05,11
+3,electric kettle,10000,sharp,1,12
+3,laptop,10000,round,0.925,13
+3,watch,1000,sharp,0.7,14
+3,electric kettle,10000,round,1,15
+4,watch,500,sharp,0.75,1
+4,electric kettle,1000,round,0.75,2
+4,watch,5000,sharp,0.975,3
+4,electric kettle,1000,sharp,0.75,4
+4,electric kettle,5000,round,1,5
+4,electric kettle,500,round,0.5,6
+4,watch,1000,sharp,0.8,7
+4,watch,500,round,0.75,8
+4,laptop,5000,round,1,9
+4,laptop,5000,sharp,1,10
+4,watch,50,round,0.125,11
+4,electric kettle,50,round,0,12
+4,laptop,50,sharp,0,13
+4,watch,5000,round,1,14
+4,electric kettle,5000,sharp,1,15
+5,electric kettle,1000,sharp,1,1
+5,laptop,1000,round,0.375,2
+5,laptop,10000,sharp,1,3
+5,laptop,500,sharp,0.1,4
+5,laptop,500,round,0.1,5
+5,watch,1000,round,1,6
+5,watch,10000,round,1,7
+5,watch,1000,sharp,1,8
+5,laptop,50,round,0,9
+5,electric kettle,10000,round,1,10
+5,electric kettle,5000,round,1,11
+5,electric kettle,10000,sharp,1,12
+5,laptop,1000,sharp,0.375,13
+5,laptop,5000,round,0.75,14
+5,watch,50,round,0.275,15
+6,electric kettle,50,sharp,0.25,1
+6,laptop,5000,sharp,1,2
+6,electric kettle,1000,round,1,3
+6,electric kettle,5000,sharp,1,4
+6,laptop,10000,round,1,5
+6,watch,500,sharp,0.75,6
+6,watch,1000,sharp,1,7
+6,electric kettle,10000,round,1,8
+6,laptop,500,sharp,0.25,9
+6,watch,5000,round,1,10
+6,watch,50,sharp,0.25,11
+6,electric kettle,10000,sharp,1,12
+6,electric kettle,500,round,0.5,13
+6,watch,5000,sharp,1,14
+6,watch,10000,sharp,1,15
+7,watch,1000,round,1,1
+7,watch,5000,round,1,2
+7,watch,500,sharp,0.625,3
+7,watch,50,round,0.2,4
+7,electric kettle,10000,sharp,0.975,5
+7,electric kettle,1000,round,0.975,6
+7,laptop,50,sharp,0,7
+7,watch,10000,round,1,8
+7,electric kettle,50,round,0.425,9
+7,laptop,10000,round,1,10
+7,laptop,1000,round,0.25,11
+7,laptop,5000,sharp,0.975,12
+7,electric kettle,10000,round,1,13
+7,laptop,5000,round,1,14
+7,watch,1000,sharp,0.65,15
+8,watch,1000,sharp,0.975,1
+8,laptop,500,round,0.75,2
+8,watch,5000,sharp,0.975,3
+8,laptop,50,round,0.25,4
+8,watch,10000,sharp,1,5
+8,laptop,10000,sharp,1,6
+8,watch,5000,round,1,7
+8,laptop,5000,round,1,8
+8,electric kettle,5000,round,0.975,9
+8,watch,50,sharp,0.25,10
+8,electric kettle,10000,sharp,0.975,11
+8,electric kettle,500,round,1,12
+8,electric kettle,5000,sharp,0.975,13
+8,watch,1000,round,0.975,14
+8,electric kettle,1000,round,0.975,15
+9,laptop,1000,sharp,0.975,1
+9,watch,5000,round,1,2
+9,laptop,1000,round,0.8,3
+9,electric kettle,1000,sharp,0.7,4
+9,watch,50,sharp,0.4,5
+9,electric kettle,5000,round,0.925,6
+9,watch,5000,sharp,0.975,7
+9,electric kettle,5000,sharp,1,8
+9,electric kettle,50,round,0.325,9
+9,watch,10000,round,1,10
+9,electric kettle,500,round,0.8,11
+9,laptop,50,sharp,0.225,12
+9,electric kettle,1000,round,0.875,13
+9,laptop,10000,round,0.975,14
+9,laptop,5000,sharp,1,15
+10,laptop,10000,round,1,1
+10,watch,1000,round,0.8,2
+10,electric kettle,10000,round,1,3
+10,laptop,5000,round,0.825,4
+10,watch,5000,sharp,0.975,5
+10,watch,5000,round,1,6
+10,electric kettle,50,sharp,0.375,7
+10,laptop,50,sharp,0,8
+10,watch,500,sharp,0.625,9
+10,electric kettle,500,sharp,1,10
+10,laptop,5000,sharp,0.75,11
+10,electric kettle,5000,round,1,12
+10,watch,10000,round,1,13
+10,electric kettle,1000,round,1,14
+10,watch,50,sharp,0.25,15
+11,electric kettle,1000,sharp,1,1
+11,laptop,1000,round,0.75,2
+11,laptop,10000,round,1,3
+11,laptop,500,round,0.6,4
+11,electric kettle,500,round,0.975,5
+11,watch,50,sharp,0.5,6
+11,electric kettle,50,round,0.6,7
+11,electric kettle,500,sharp,1,8
+11,watch,1000,round,1,9
+11,laptop,1000,sharp,0.75,10
+11,laptop,5000,round,1,11
+11,laptop,10000,sharp,1,12
+11,electric kettle,10000,sharp,1,13
+11,laptop,50,sharp,0.1,14
+11,watch,10000,round,1,15
+12,watch,1000,sharp,1,1
+12,laptop,500,sharp,0.375,2
+12,laptop,10000,round,1,3
+12,electric kettle,10000,round,1,4
+12,electric kettle,1000,round,1,5
+12,watch,5000,sharp,1,6
+12,laptop,5000,round,1,7
+12,laptop,5000,sharp,1,8
+12,electric kettle,50,round,0.25,9
+12,watch,500,sharp,0.6,10
+12,laptop,1000,sharp,0.65,11
+12,laptop,10000,sharp,1,12
+12,watch,10000,sharp,1,13
+12,watch,50,sharp,0.225,14
+12,watch,1000,round,0.925,15
+13,laptop,1000,sharp,1,1
+13,watch,10000,sharp,1,2
+13,laptop,10000,sharp,1,3
+13,watch,1000,round,0.875,4
+13,laptop,1000,round,1,5
+13,laptop,500,round,0.525,6
+13,electric kettle,10000,round,1,7
+13,watch,10000,round,1,8
+13,laptop,10000,round,1,9
+13,electric kettle,500,sharp,1,10
+13,electric kettle,50,sharp,0.125,11
+13,electric kettle,50,round,0.2,12
+13,laptop,5000,sharp,1,13
+13,watch,500,sharp,0.575,14
+13,electric kettle,1000,round,1,15
+14,electric kettle,500,sharp,1,1
+14,watch,5000,sharp,0.9,2
+14,watch,10000,round,1,3
+14,laptop,1000,sharp,0.5,4
+14,watch,500,round,0.65,5
+14,laptop,10000,sharp,0.85,6
+14,electric kettle,10000,sharp,1,7
+14,electric kettle,1000,round,1,8
+14,watch,10000,sharp,0.975,9
+14,electric kettle,500,round,0.85,10
+14,laptop,500,sharp,0.275,11
+14,electric kettle,5000,round,0.975,12
+14,watch,50,round,0.125,13
+14,laptop,5000,sharp,0.75,14
+14,watch,1000,sharp,0.55,15
+15,watch,1000,sharp,0.75,1
+15,electric kettle,1000,sharp,0.95,2
+15,electric kettle,10000,sharp,1,3
+15,laptop,10000,sharp,1,4
+15,laptop,5000,sharp,1,5
+15,laptop,1000,round,0.75,6
+15,electric kettle,5000,sharp,0.925,7
+15,electric kettle,50,sharp,0.1,8
+15,electric kettle,5000,round,0.925,9
+15,watch,5000,round,0.95,10
+15,watch,500,round,0.75,11
+15,laptop,500,sharp,0.5,12
+15,watch,10000,sharp,0.975,13
+15,watch,50,sharp,0.05,14
+15,electric kettle,10000,round,1,15
+16,electric kettle,1000,round,1,1
+16,laptop,500,sharp,0.4,2
+16,laptop,500,round,0.45,3
+16,laptop,1000,sharp,0.75,4
+16,electric kettle,10000,round,1,5
+16,watch,1000,sharp,0.75,6
+16,watch,5000,sharp,1,7
+16,watch,5000,round,1,8
+16,laptop,50,sharp,0.075,9
+16,electric kettle,500,round,1,10
+16,watch,10000,sharp,1,11
+16,laptop,10000,round,1,12
+16,electric kettle,5000,round,1,13
+16,watch,500,round,0.65,14
+16,electric kettle,50,sharp,0.65,15
+17,watch,5000,sharp,1,1
+17,laptop,10000,round,1,2
+17,laptop,1000,round,0.65,3
+17,electric kettle,50,sharp,0.275,4
+17,electric kettle,5000,sharp,1,5
+17,electric kettle,1000,sharp,1,6
+17,watch,10000,sharp,1,7
+17,laptop,5000,sharp,1,8
+17,electric kettle,10000,sharp,1,9
+17,electric kettle,500,sharp,0.95,10
+17,electric kettle,500,round,1,11
+17,watch,10000,round,1,12
+17,laptop,50,sharp,0,13
+17,electric kettle,1000,round,1,14
+17,watch,1000,sharp,1,15
+18,electric kettle,5000,round,1,1
+18,electric kettle,1000,round,1,2
+18,watch,50,round,0.25,3
+18,laptop,50,sharp,0,4
+18,electric kettle,50,round,0.5,5
+18,watch,500,round,0.75,6
+18,laptop,5000,round,0.975,7
+18,watch,1000,round,1,8
+18,watch,50,sharp,0.25,9
+18,electric kettle,500,sharp,0.75,10
+18,laptop,500,round,0.5,11
+18,laptop,10000,sharp,0.975,12
+18,electric kettle,1000,sharp,1,13
+18,electric kettle,10000,round,0.975,14
+18,laptop,1000,round,0.5,15
+19,watch,50,round,0.25,1
+19,laptop,500,sharp,0.75,2
+19,watch,5000,round,1,3
+19,laptop,5000,sharp,0.975,4
+19,electric kettle,500,round,0.975,5
+19,electric kettle,10000,sharp,1,6
+19,laptop,50,round,0,7
+19,laptop,50,sharp,0.025,8
+19,electric kettle,1000,sharp,1,9
+19,watch,1000,round,0.75,10
+19,laptop,10000,sharp,0.975,11
+19,watch,500,sharp,0.75,12
+19,electric kettle,50,sharp,0.275,13
+19,laptop,500,round,0.5,14
+19,electric kettle,5000,round,0.975,15
+20,watch,5000,sharp,1,1
+20,electric kettle,10000,sharp,1,2
+20,electric kettle,500,sharp,0.75,3
+20,laptop,10000,round,1,4
+20,watch,500,round,0.5,5
+20,watch,50,round,0.25,6
+20,laptop,1000,sharp,0.75,7
+20,watch,5000,round,0.8,8
+20,electric kettle,5000,round,0.975,9
+20,watch,1000,sharp,0.75,10
+20,laptop,5000,round,1,11
+20,laptop,500,round,0.5,12
+20,laptop,5000,sharp,1,13
+20,laptop,10000,sharp,0.975,14
+20,watch,50,sharp,0.25,15
+21,watch,50,round,0.25,1
+21,electric kettle,10000,round,1,2
+21,watch,1000,sharp,1,3
+21,laptop,1000,sharp,0.75,4
+21,electric kettle,1000,round,0.975,5
+21,electric kettle,50,sharp,0.5,6
+21,electric kettle,5000,sharp,1,7
+21,watch,10000,sharp,0.975,8
+21,laptop,5000,round,1,9
+21,watch,10000,round,1,10
+21,laptop,10000,sharp,1,11
+21,laptop,500,sharp,0.225,12
+21,watch,50,sharp,0.25,13
+21,electric kettle,10000,sharp,1,14
+21,laptop,5000,sharp,1,15
+22,watch,5000,round,0.85,1
+22,electric kettle,10000,round,0.975,2
+22,electric kettle,1000,round,0.75,3
+22,laptop,5000,sharp,0.675,4
+22,watch,500,sharp,0.525,5
+22,electric kettle,1000,sharp,0.775,6
+22,electric kettle,50,sharp,0.2,7
+22,laptop,500,sharp,0.3,8
+22,electric kettle,10000,sharp,0.9,9
+22,laptop,5000,round,0.75,10
+22,laptop,10000,sharp,0.9,11
+22,laptop,50,round,0.05,12
+22,laptop,1000,sharp,0.6,13
+22,electric kettle,5000,round,0.85,14
+22,watch,5000,sharp,0.75,15
+23,electric kettle,1000,sharp,0.9,1
+23,laptop,10000,round,0.975,2
+23,watch,10000,sharp,1,3
+23,laptop,50,round,0.05,4
+23,watch,10000,round,1,5
+23,electric kettle,5000,sharp,0.975,6
+23,watch,5000,round,0.9,7
+23,watch,500,round,0.85,8
+23,watch,500,sharp,0.85,9
+23,electric kettle,5000,round,0.95,10
+23,watch,5000,sharp,0.8,11
+23,laptop,1000,sharp,0.35,12
+23,watch,50,sharp,0.1,13
+23,electric kettle,10000,round,0.975,14
+23,electric kettle,50,sharp,0.25,15
+24,watch,50,sharp,0.25,1
+24,watch,500,round,0.825,2
+24,laptop,5000,sharp,1,3
+24,electric kettle,50,sharp,0.4,4
+24,watch,50,round,0.3,5
+24,electric kettle,1000,sharp,0.9,6
+24,laptop,500,round,0.275,7
+24,electric kettle,50,round,0.225,8
+24,electric kettle,5000,sharp,1,9
+24,watch,10000,sharp,0.95,10
+24,laptop,500,sharp,0.25,11
+24,watch,500,sharp,0.65,12
+24,laptop,5000,round,0.925,13
+24,watch,5000,round,0.925,14
+24,electric kettle,1000,round,0.7,15
+25,electric kettle,5000,sharp,0.75,1
+25,watch,1000,sharp,0.65,2
+25,laptop,1000,sharp,0.325,3
+25,electric kettle,50,sharp,0.125,4
+25,electric kettle,500,round,0.5,5
+25,electric kettle,500,sharp,0.45,6
+25,laptop,50,sharp,0,7
+25,watch,5000,sharp,0.9,8
+25,laptop,1000,round,0.425,9
+25,electric kettle,1000,sharp,0.5,10
+25,watch,1000,round,0.7,11
+25,electric kettle,5000,round,0.75,12
+25,laptop,5000,round,0.775,13
+25,electric kettle,10000,sharp,0.9,14
+25,watch,10000,sharp,1,15
+26,electric kettle,500,round,0.85,1
+26,electric kettle,50,round,0.65,2
+26,watch,1000,sharp,1,3
+26,laptop,50,sharp,0,4
+26,watch,500,round,0.6,5
+26,watch,1000,round,0.8,6
+26,electric kettle,5000,round,0.95,7
+26,electric kettle,500,sharp,0.6,8
+26,watch,500,sharp,0.675,9
+26,electric kettle,1000,sharp,0.825,10
+26,laptop,500,round,0.5,11
+26,electric kettle,50,sharp,0.6,12
+26,watch,10000,sharp,1,13
+26,electric kettle,10000,sharp,1,14
+26,laptop,5000,sharp,0.875,15
+27,laptop,50,sharp,0,1
+27,laptop,5000,round,1,2
+27,watch,10000,sharp,1,3
+27,watch,5000,sharp,1,4
+27,electric kettle,500,sharp,1,5
+27,watch,1000,round,0.75,6
+27,electric kettle,10000,sharp,1,7
+27,watch,50,round,0.25,8
+27,watch,10000,round,1,9
+27,laptop,500,round,0.15,10
+27,electric kettle,5000,sharp,1,11
+27,electric kettle,50,round,0.5,12
+27,electric kettle,500,round,1,13
+27,watch,500,round,0.5,14
+27,watch,50,sharp,0.1,15
+28,watch,500,round,0.75,1
+28,watch,10000,round,1,2
+28,laptop,500,sharp,0.275,3
+28,laptop,10000,sharp,0.75,4
+28,watch,10000,sharp,1,5
+28,laptop,5000,sharp,0.75,6
+28,laptop,5000,round,0.75,7
+28,watch,5000,sharp,0.75,8
+28,watch,5000,round,0.75,9
+28,electric kettle,5000,sharp,0.975,10
+28,watch,50,round,0.25,11
+28,electric kettle,500,round,0.75,12
+28,laptop,50,round,0,13
+28,electric kettle,1000,round,0.75,14
+28,electric kettle,500,sharp,0.775,15
+29,watch,50,round,0.275,1
+29,laptop,5000,sharp,0.975,2
+29,laptop,10000,round,0.975,3
+29,electric kettle,10000,sharp,0.975,4
+29,laptop,1000,sharp,0.575,5
+29,laptop,5000,round,0.825,6
+29,laptop,1000,round,0.575,7
+29,electric kettle,500,round,0.575,8
+29,watch,1000,round,0.65,9
+29,watch,10000,round,0.875,10
+29,watch,1000,sharp,0.7,11
+29,laptop,500,sharp,0.45,12
+29,laptop,50,round,0.05,13
+29,watch,5000,sharp,0.85,14
+29,electric kettle,10000,round,0.975,15
+30,laptop,5000,round,0.975,1
+30,laptop,500,round,0.25,2
+30,electric kettle,500,round,1,3
+30,laptop,1000,sharp,0.275,4
+30,electric kettle,1000,round,0.975,5
+30,electric kettle,50,sharp,0.5,6
+30,watch,5000,sharp,0.975,7
+30,laptop,500,sharp,0,8
+30,watch,10000,sharp,0.975,9
+30,watch,1000,round,0.975,10
+30,laptop,5000,sharp,1,11
+30,watch,5000,round,1,12
+30,laptop,1000,round,0.25,13
+30,laptop,50,round,0,14
+30,watch,50,sharp,0.75,15
