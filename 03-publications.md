@@ -18,7 +18,7 @@ permalink: publications
 {% bibliography --template bibtemplate --style _bibliography/cocolab.csl --query @*[year=To appear] %}
 -->
 
-{% for year in (2006..2023) reversed %}
+{% for year in (2006..2024) reversed %}
 
 <a class="subtle_link" name="{{year}}"></a>
 
