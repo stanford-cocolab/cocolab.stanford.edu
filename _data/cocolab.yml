@@ -4,15 +4,15 @@
       img: noah.jpg
       webpage: /ndg
 
-- role: Post Docs
-  people:
-    - name: Jan-Philipp Franken
-      img: philipp.jpg
-      webpage: https://janphilippfranken.github.io/ 
-      bio:
-        - >
-          I currently work on reasoning (e.g., social, causal) in both humans and language models.
-          During my PhD, I've worked on concept learning and social learning in multi-player games.
+# - role: Post Docs
+#   people:
+#     - name: Jan-Philipp Franken
+#       img: philipp.jpg
+#       webpage: https://janphilippfranken.github.io/ 
+#       bio:
+#         - >
+#           I currently work on reasoning (e.g., social, causal) in both humans and language models.
+#           During my PhD, I've worked on concept learning and social learning in multi-player games.
     
 - role: Graduate Students
   people:
@@ -150,10 +150,14 @@
 
 - role: Alumni
   people:
+    - name: Jan-Philipp Franken
+      was: post-doc
+      now: Google Deepmind
+      webpage: https://janphilippfranken.github.io/
     - name: Alex Tamkin
       was: graduate student in Computer Science
       webpage: https://www.alextamkin.com/
-      now: Assistant Professor in Computer Science at UC San Diego
+      now: Anthropic
     - name: Jesse Mu
       was: graduate student in Computer Science
       webpage: https://cs.stanford.edu/~muj/
