@@ -4,16 +4,6 @@
       img: noah.jpg
       webpage: /ndg
 
-# - role: Post Docs
-#   people:
-#     - name: Jan-Philipp Franken
-#       img: philipp.jpg
-#       webpage: https://janphilippfranken.github.io/ 
-#       bio:
-#         - >
-#           I currently work on reasoning (e.g., social, causal) in both humans and language models.
-#           During my PhD, I've worked on concept learning and social learning in multi-player games.
-    
 - role: Graduate Students
   people:
     - name: Gabriel Poesia
@@ -84,23 +74,6 @@
           I'm interested in developing methods for more reliable forms of human-AI interaction, particularly in domains such
           as education, as well as exploring how users develop "trust"  in artificial agents over time.
 
-    - name: Dilip Arumugam
-      img: diliparumugam.jpg
-      webpage: https://dilipa.github.io/
-      bio:
-        - >
-          My research is aimed at understanding the key ingredients of sample-efficient 
-          reinforcement learning. Currently, I examine how information theory might be a useful 
-          tool for facilitating this understanding, with a focus on abstractions and natural 
-          language.
-
-    - name: Shyamal Buch
-      img: shyamalbuch.png
-      bio:
-        - >
-          I'm working on methods to better understand the structure of events in vision and 
-          language, with a particular emphasis on video applications and language grounding.
-
     - name: Lauren Gillespie
       img: laurengillespie.jpg
       bio:
@@ -124,14 +97,6 @@
           I'm interested in natural language processing in application to robotics, specifically 
           looking at methods for adapting to users online, and learning through interaction.
 
-    - name: Elisa Kreiss
-      img: elisakreiss.png
-      bio:
-        - >
-          I use probabilistic and neural network models to understand human language production 
-          and comprehension. In particular, I concentrate on the role context plays in this 
-          process.
-
     - name: Ali Malik
       img: ali.jpeg
       webpage: http://malikaliraza.com
@@ -140,13 +105,6 @@
           My research interests are in probabilistic reasoning, algorithms, 
           and building intelligent systems that help humans learn.
 
-    - name: Dhara Yu
-      img: dhara.jpg
-      webpage: https://dharakyu.com/
-      bio:
-        - >
-          I’m interested in studying how evolutionary pressures shape the features of language and 
-          how language facilitates knowledge transmission, in both humans and machines.
 
 - role: Alumni
   people:
@@ -178,16 +136,13 @@
     - name: Robert Hawkins
       was: graduate student in Psychology
       webpage: //rxdhawkins.com/
-      now: Assistant Professor of Psychology at UW-Madison
+      now: Assistant Professor of Linguistics at Stanford
     - name: Michael Henry Tessler
       was: graduate student in Psychology
-      now: Post-doc at MIT
+      now: Google Deepmind
     - name: Desmond Ong
       was: graduate student in Psychology
-      now: >
-        Assistant Professor of Information Systems and Analytics at the National
-        University of Singapore and Research Scientist at the A*STAR Artificial
-        Intelligence Initiative (A*AI)
+      now: Assistant Professor of Psychology at UT Austin
       webpage: //web.stanford.edu/~dco/
     - name: Judith Degen
       was: post-doc
@@ -210,6 +165,7 @@
       now: Founder of Ought
     - name: Long Ouyang
       was: graduate student and post-doc
+      now: OpenAI
     - name: Daniel Hawthorne
       was: graduate student in Psychology
       webpage: //www.djthorne.org/
