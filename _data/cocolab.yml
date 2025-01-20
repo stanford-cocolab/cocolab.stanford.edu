@@ -16,13 +16,6 @@
           I’m interested in making computers capable of handling ambiguous inputs and 
           specifications by leveraging prior knowledge, context and interaction.
 
-    - name: Rose Wang
-      img: rose.png
-      webpage: https://cs.stanford.edu/~rewang
-      bio:
-        - >
-          My research interests are in unsupervised learning and multiagent systems.
-
     - name: Ben Prystawski
       img: ben.jpg
       webpage: https://benprystawski.com/
