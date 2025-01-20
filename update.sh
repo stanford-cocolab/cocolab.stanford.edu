@@ -9,7 +9,7 @@ pushd _site
 rm -f site.zip
 
 zip -r site.zip *
-cp -f site.zip $WWW_DIR
+cp site.zip $WWW_DIR
 
 cd $WWW_DIR && unzip -fo site.zip && rm -rf site.zip
 
