@@ -51,6 +51,11 @@
       bio:
         - >
           My research interests are in reinforcement learning and optimal experimental design.
+    - name: Daniel Wurgaft
+      img: daniel.png
+      bio:
+        - >
+          I am primarily interested in understanding meta-learning and in-context learning in humans and language models. In language models, I work on developing a theoretical understanding of training dynamics and generalization. In humans, I aim to use insights gained from studying language models, as well as behavioral experiments, to inform theories of learning throughout development, domain generality, and reasoning.
     - name: Steven Feng
       img: steven_feng.jpg
       bio:
