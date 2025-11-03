@@ -6,16 +6,6 @@
 
 - role: Graduate Students
   people:
-    - name: Gabriel Poesia
-      img: gabrielpoesia.jpg
-      webpage: https://gpoesia.com/#
-      bio:
-        - >
-          My research goal is to advance the way we interact with computers, 
-          taking inspiration from how humans communicate and collaborate. In particular, 
-          I’m interested in making computers capable of handling ambiguous inputs and 
-          specifications by leveraging prior knowledge, context and interaction.
-
     - name: Ben Prystawski
       img: ben.jpg
       webpage: https://benprystawski.com/
@@ -31,15 +21,6 @@
         - > 
           I am interested in building machines that understand people. I explore topics in reasoning, discovery and interaction.
           
-    - name: Eric Zelikman
-      img: ericz.png
-      webpage: https://zelikman.me/
-      bio:
-        - >
-          I am excited about how we can build models that are able to reason better by learning 
-          to model the world and leverage structural understanding, such as in multi-step planning, 
-          intermediate rationales, object-centric visual representations, or theory of mind and 
-          social reasoning.
     - name: Michael Li
       img: michaelli.png
       webpage: https://michaelyli.github.io/
@@ -56,6 +37,11 @@
       bio:
         - >
           I am primarily interested in understanding meta-learning and in-context learning in humans and language models. In language models, I work on developing a theoretical understanding of training dynamics and generalization. In humans, I aim to use insights gained from studying language models, as well as behavioral experiments, to inform theories of learning throughout development, domain generality, and reasoning.
+    - name: Jason Goldberg
+      img: jason-headshot.jpg
+      bio:
+        - >
+          I work on the alignment problem, and reasoning, in artificial intelligence.  Prior to reading for my PhD in computer science, I had a nearly 20-year prior career as a lawyer.  My work sometimes explores methodologies for alignment inspired by legal mechanisms, and the capacity for models to engage in law-like case-based reasoning.
     - name: Steven Feng
       img: steven_feng.jpg
       bio:
@@ -105,6 +91,14 @@
 
 - role: Alumni
   people:
+    - name: Gabriel Poesia
+      was: graduate student in Computer Science
+      webpage: https://gpoesia.com/
+      now: Assistant Professor of Computer Science at University of Michigan
+    - name: Eric Zelikman
+      was: graduate student in Computer Science
+      webpage: https://zelikman.me/
+      now: Founder, Humans&
     - name: Jan-Philipp Franken
       was: post-doc
       now: Google Deepmind
