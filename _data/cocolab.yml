@@ -38,7 +38,7 @@
         - >
           I am primarily interested in understanding meta-learning and in-context learning in humans and language models. In language models, I work on developing a theoretical understanding of training dynamics and generalization. In humans, I aim to use insights gained from studying language models, as well as behavioral experiments, to inform theories of learning throughout development, domain generality, and reasoning.
     - name: Jason Goldberg
-      img: jason-headshot.jpg
+      img: jason.jpg
       bio:
         - >
           I work on the alignment problem, and reasoning, in artificial intelligence.  Prior to reading for my PhD in computer science, I had a nearly 20-year prior career as a lawyer.  My work sometimes explores methodologies for alignment inspired by legal mechanisms, and the capacity for models to engage in law-like case-based reasoning.
