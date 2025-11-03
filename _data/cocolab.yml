@@ -57,28 +57,12 @@
           I'm interested in developing methods for more reliable forms of human-AI interaction, particularly in domains such
           as education, as well as exploring how users develop "trust"  in artificial agents over time.
 
-    - name: Lauren Gillespie
-      img: laurengillespie.jpg
-      bio:
-        - >
-          My research aims to apply cutting-edge ML technologies to climate change-related 
-          ecological problems in concert with developing better ML methods for working with 
-          complex ecological and genomic data.
-
     - name: Joy Hsu
       img: joy.png
       webpage: https://web.stanford.edu/~joycj/
       bio:
         - >
           I’m interested in visual reasoning, and creating visual understanding models that are generalists.
-
-    - name: Sidd Karamcheti
-      img: siddkaramcheti.jpg
-      webpage: https://www.siddkaramcheti.com/
-      bio:
-        - >
-          I'm interested in natural language processing in application to robotics, specifically 
-          looking at methods for adapting to users online, and learning through interaction.
 
     - name: Ali Malik
       img: ali.jpeg
