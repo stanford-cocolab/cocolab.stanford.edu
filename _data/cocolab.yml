@@ -4,23 +4,17 @@
       img: noah.jpg
       webpage: /ndg
 
-- role: Graduate Students
+- role: Post Docs
   people:
-    - name: Ben Prystawski
-      img: ben.jpg
-      webpage: https://benprystawski.com/
+    - name: Ashish Mehta
+      img: ashish_mehta.jpg
+      webpage: https://ashish.mehta.fyi/
       bio:
         - >
-          I am interested in understanding how language enables humans to work together 
-          effectively. My current research focuses on indirect language use and teaching.
+          I am interested in evaluating and building AI that supports people's values, goals, and long-term well-being.
 
-    - name: Kanishk Gandhi
-      img: kanishk.jpeg
-      webpage: https://kanishkgandhi.com 
-      bio:
-        - > 
-          I am interested in building machines that understand people. I explore topics in reasoning, discovery and interaction.
-          
+- role: Graduate Students
+  people:
     - name: Michael Li
       img: michaelli.png
       webpage: https://michaelyli.github.io/
@@ -47,6 +41,12 @@
       bio:
         - >
           My research aims to enhance machine understanding and generation of human language and vision. This includes exploring methods to improve the controllability and reasoning of language and visual models, and investigating cognitive strategies to align human and machine learning.
+    - name: Omri Uzan
+      img: omri_uzan.png
+      webpage: https://omriuz.github.io/
+      bio:
+        - >
+          I am interested in better understanding intelligence. I explore topics in memory, reasoning and lifelong learning.
 
 - role: Lab affiliates
   people:
@@ -75,6 +75,14 @@
 
 - role: Alumni
   people:
+    - name: Ben Prystawski
+      was: graduate student
+      webpage: https://benprystawski.com/
+      now: Postdoc at Princeton with Tom Griffiths
+    - name: Kanishk Gandhi
+      was: graduate student
+      webpage: https://kanishkgandhi.com
+      now: Founder, Otherwise
     - name: Gabriel Poesia
       was: graduate student in Computer Science
       webpage: https://gpoesia.com/
